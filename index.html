@@ -202,6 +202,7 @@
       grid-template-columns: 58px 1fr;
       gap: 0;
       border-top: 1px solid var(--row-line);
+      cursor: pointer;
     }
 
     .verse-row:first-child {
@@ -219,32 +220,8 @@
       font-weight: 700;
     }
 
-    .verse-copy-btn {
-      position: absolute;
-      top: 8px;
-      right: 8px;
-      width: 28px;
-      height: 28px;
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      background: var(--surface-solid);
-      color: var(--text);
-      font-size: 0.95rem;
-      font-weight: 700;
-      padding: 0;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .verse-copy-btn:hover {
-      border-color: var(--accent);
-    }
-
     .verse-content {
-      position: relative;
-      padding: 10px 40px 10px 12px;
+      padding: 10px 12px;
       display: grid;
       gap: 8px;
     }
@@ -308,6 +285,29 @@
       font-weight: 600;
     }
 
+    .toast {
+      position: fixed;
+      left: 50%;
+      bottom: 20px;
+      transform: translateX(-50%) translateY(8px);
+      background: var(--surface-solid);
+      color: var(--text);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 160ms ease, transform 160ms ease;
+      z-index: 30;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
     @media (max-width: 760px) {
       .controls {
         grid-template-columns: 1fr;
@@ -360,6 +360,8 @@
       for my loving wife ❤️ Acts 17:11 
     </div>
   </div>
+
+  <div id="copyToast" class="toast" role="status" aria-live="polite">Copied 📋</div>
 
   <script>
     (function () {
@@ -458,6 +460,8 @@
       const themeToggleBtn = document.getElementById('themeToggle');
       const chapterTitleEl = document.getElementById('chapterTitle');
       const versesEl = document.getElementById('verses');
+      const copyToastEl = document.getElementById('copyToast');
+      let copyToastTimer = null;
 
       function openTitleModal() {
         titleModalBackdropEl.classList.add('open');
@@ -1006,13 +1010,22 @@
         }
       }
 
-      async function handleCopyVerse(row, buttonEl) {
-        const originalLabel = buttonEl.innerHTML;
-        const ok = await copyText(formatVerseForCopy(row));
-        buttonEl.textContent = ok ? '✓' : '!';
-        setTimeout(() => {
-          buttonEl.innerHTML = originalLabel;
+      function showCopyToast() {
+        if (copyToastTimer !== null) {
+          clearTimeout(copyToastTimer);
+        }
+        copyToastEl.classList.add('show');
+        copyToastTimer = setTimeout(() => {
+          copyToastEl.classList.remove('show');
+          copyToastTimer = null;
         }, 900);
+      }
+
+      async function handleCopyVerse(row) {
+        const ok = await copyText(formatVerseForCopy(row));
+        if (ok) {
+          showCopyToast();
+        }
       }
 
       function renderRows(rows) {
@@ -1045,22 +1058,16 @@
           const verseRow = document.createElement('article');
           verseRow.className = 'verse-row';
           verseRow.dataset.verseNumber = String(row.verseNumber);
+          verseRow.addEventListener('click', async () => {
+            await handleCopyVerse(row);
+          });
 
           const verseNo = document.createElement('div');
           verseNo.className = 'verse-no';
           verseNo.textContent = String(row.verseNumber);
-          const copyBtn = document.createElement('button');
-          copyBtn.type = 'button';
-          copyBtn.className = 'verse-copy-btn';
-          copyBtn.innerHTML = '&#128203;';
-          copyBtn.setAttribute('aria-label', `Copy verse ${row.verseNumber}`);
-          copyBtn.addEventListener('click', async () => {
-            await handleCopyVerse(row, copyBtn);
-          });
 
           const content = document.createElement('div');
           content.className = 'verse-content';
-          content.appendChild(copyBtn);
           content.appendChild(createTranslationBlock('nasb', 'NASB', row.nasbText));
           content.appendChild(createTranslationBlock('cunp', 'CUNP', row.cunpText));
 
