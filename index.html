@@ -13,9 +13,41 @@
       --line: #c6dff3;
       --accent: #1b5fa8;
       --accent-2: #0c8aa8;
+      --bg-glow-1: #cde7ff;
+      --bg-glow-2: #dff1ff;
+      --surface-solid: #ffffff;
+      --chapter-title-color: #164b82;
+      --row-line: #d8e8f7;
+      --verse-no-color: #35536f;
+      --verse-no-bg-top: #edf7ff;
+      --verse-no-bg-bottom: #e2f1ff;
+      --entity-color: #1b5fa8;
+      --missing-color: #5e7991;
+      --modal-overlay: rgba(10, 28, 46, 0.38);
       --error: #8d1d1d;
       --ok: #1f6a2f;
       --verse-font-size: 0.97rem;
+    }
+
+    [data-theme="dark"] {
+      --bg: #0c1724;
+      --panel: #132437;
+      --text: #e3edf8;
+      --muted: #9eb2c8;
+      --line: #2b4460;
+      --accent: #79b6ff;
+      --accent-2: #53d0e4;
+      --bg-glow-1: #10253a;
+      --bg-glow-2: #0f2234;
+      --surface-solid: #0f2032;
+      --chapter-title-color: #9cc9ff;
+      --row-line: #28405a;
+      --verse-no-color: #bad5f1;
+      --verse-no-bg-top: #173049;
+      --verse-no-bg-bottom: #12283d;
+      --entity-color: #8ec4ff;
+      --missing-color: #8ea7c1;
+      --modal-overlay: rgba(3, 10, 18, 0.65);
     }
 
     * {
@@ -27,8 +59,8 @@
       font-family: "Avenir Next", "PingFang TC", "Noto Sans CJK TC", "Segoe UI", sans-serif;
       color: var(--text);
       background:
-        radial-gradient(1200px 800px at 95% -10%, #cde7ff 0%, transparent 60%),
-        radial-gradient(900px 600px at -5% 5%, #dff1ff 0%, transparent 50%),
+        radial-gradient(1200px 800px at 95% -10%, var(--bg-glow-1) 0%, transparent 60%),
+        radial-gradient(900px 600px at -5% 5%, var(--bg-glow-2) 0%, transparent 50%),
         var(--bg);
       min-height: 100vh;
     }
@@ -79,7 +111,7 @@
       padding: 10px 12px;
       font-size: 0.95rem;
       font-family: inherit;
-      background: #fff;
+      background: var(--surface-solid);
       color: var(--text);
     }
 
@@ -103,7 +135,7 @@
     .font-btn {
       border: 1px solid var(--line);
       border-radius: 10px;
-      background: #fff;
+      background: var(--surface-solid);
       color: var(--text);
       padding: 8px 10px;
       font-size: 0.9rem;
@@ -131,7 +163,7 @@
     .chapter-title {
       margin: 16px 0 8px;
       font-size: 1.05rem;
-      color: #164b82;
+      color: var(--chapter-title-color);
       font-weight: 700;
     }
 
@@ -147,7 +179,7 @@
       display: grid;
       grid-template-columns: 58px 1fr;
       gap: 0;
-      border-top: 1px solid #d8e8f7;
+      border-top: 1px solid var(--row-line);
     }
 
     .verse-row:first-child {
@@ -158,9 +190,9 @@
       padding: 10px 8px;
       text-align: center;
       font-size: 0.85rem;
-      color: #35536f;
-      border-right: 1px solid #d8e8f7;
-      background: linear-gradient(180deg, #edf7ff 0%, #e2f1ff 100%);
+      color: var(--verse-no-color);
+      border-right: 1px solid var(--row-line);
+      background: linear-gradient(180deg, var(--verse-no-bg-top) 0%, var(--verse-no-bg-bottom) 100%);
       font-variant-numeric: tabular-nums;
       font-weight: 700;
     }
@@ -193,12 +225,12 @@
     }
 
     .verse-text .entity {
-      color: #1b5fa8;
+      color: var(--entity-color);
       font-weight: 700;
     }
 
     .missing {
-      color: #5e7991;
+      color: var(--missing-color);
       font-style: italic;
     }
 
@@ -208,7 +240,7 @@
       display: none;
       align-items: center;
       justify-content: center;
-      background: rgba(10, 28, 46, 0.38);
+      background: var(--modal-overlay);
       z-index: 20;
       padding: 16px;
     }
@@ -219,7 +251,7 @@
 
     .modal {
       width: min(460px, 100%);
-      background: #f8fcff;
+      background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 14px;
       padding: 22px 18px;
@@ -269,6 +301,7 @@
       <div class="font-controls" aria-label="Font size controls">
         <button id="fontDown" class="font-btn" type="button" aria-label="Decrease font size">A-</button>
         <button id="fontUp" class="font-btn" type="button" aria-label="Increase font size">A+</button>
+        <button id="themeToggle" class="font-btn" type="button" aria-label="Toggle dark mode">Dark</button>
       </div>
     </section>
 
@@ -361,6 +394,7 @@
       };
       const FONT_STORAGE_KEY = 'interlaced_font_size_rem';
       const LOCATION_STORAGE_KEY = 'interlaced_reading_location';
+      const THEME_STORAGE_KEY = 'interlaced_theme';
       const FONT_MIN = 0.85;
       const FONT_STEP = 0.05;
       const FONT_DEFAULT = 0.97;
@@ -373,6 +407,7 @@
       const chapterNextBtn = document.getElementById('chapterNext');
       const fontDownBtn = document.getElementById('fontDown');
       const fontUpBtn = document.getElementById('fontUp');
+      const themeToggleBtn = document.getElementById('themeToggle');
       const chapterTitleEl = document.getElementById('chapterTitle');
       const versesEl = document.getElementById('verses');
 
@@ -384,6 +419,44 @@
       function closeTitleModal() {
         titleModalBackdropEl.classList.remove('open');
         titleModalBackdropEl.setAttribute('aria-hidden', 'true');
+      }
+
+      function getSystemTheme() {
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      function updateThemeToggleLabel(theme) {
+        themeToggleBtn.textContent = theme === 'dark' ? 'Light' : 'Dark';
+      }
+
+      function applyTheme(theme) {
+        const resolvedTheme = theme === 'dark' ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', resolvedTheme);
+        updateThemeToggleLabel(resolvedTheme);
+      }
+
+      function loadInitialTheme() {
+        let theme = null;
+        try {
+          theme = localStorage.getItem(THEME_STORAGE_KEY);
+        } catch {
+          // ignore storage failures
+        }
+        if (theme !== 'light' && theme !== 'dark') {
+          theme = getSystemTheme();
+        }
+        applyTheme(theme);
+      }
+
+      function toggleTheme() {
+        const current = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+        const next = current === 'dark' ? 'light' : 'dark';
+        applyTheme(next);
+        try {
+          localStorage.setItem(THEME_STORAGE_KEY, next);
+        } catch {
+          // ignore storage failures
+        }
       }
 
       function clampFontSize(value) {
@@ -965,6 +1038,10 @@
         adjustFontSize(FONT_STEP);
       });
 
+      themeToggleBtn.addEventListener('click', () => {
+        toggleTheme();
+      });
+
       appTitleEl.addEventListener('click', () => {
         (async function () {
           await jumpToBookChapter(44, 17);
@@ -987,6 +1064,7 @@
       });
 
       clearVerses();
+      loadInitialTheme();
       loadInitialFontSize();
 
       (async function init() {
