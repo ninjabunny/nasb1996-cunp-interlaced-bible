@@ -4,6 +4,28 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Interlaced Bible App</title>
+  <script>
+    (function () {
+      // Replace with your GA4 Measurement ID, e.g. "G-ABC123XYZ9".
+      const MEASUREMENT_ID = 'G-R4QL988F3S';
+      if (!/^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID)) {
+        return;
+      }
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        window.dataLayer.push(arguments);
+      }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', MEASUREMENT_ID);
+
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(MEASUREMENT_ID)}`;
+      document.head.appendChild(script);
+    })();
+  </script>
   <style>
     :root {
       --bg: #eaf5ff;
