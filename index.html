@@ -219,8 +219,32 @@
       font-weight: 700;
     }
 
+    .verse-copy-btn {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface-solid);
+      color: var(--text);
+      font-size: 0.95rem;
+      font-weight: 700;
+      padding: 0;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .verse-copy-btn:hover {
+      border-color: var(--accent);
+    }
+
     .verse-content {
-      padding: 10px 12px;
+      position: relative;
+      padding: 10px 40px 10px 12px;
       display: grid;
       gap: 8px;
     }
@@ -323,7 +347,7 @@
       <div class="font-controls" aria-label="Font size controls">
         <button id="fontDown" class="font-btn" type="button" aria-label="Decrease font size">A-</button>
         <button id="fontUp" class="font-btn" type="button" aria-label="Increase font size">A+</button>
-        <button id="themeToggle" class="font-btn" type="button" aria-label="Toggle dark mode">Dark</button>
+        <button id="themeToggle" class="font-btn" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">&#127769;</button>
       </div>
     </section>
 
@@ -412,7 +436,9 @@
         assetBasePath: null,
         nasbIndex: null,
         cunpIndex: null,
-        loadedScriptKeys: new Set()
+        loadedScriptKeys: new Set(),
+        currentBookNumber: null,
+        currentChapterNumber: null
       };
       const FONT_STORAGE_KEY = 'interlaced_font_size_rem';
       const LOCATION_STORAGE_KEY = 'interlaced_reading_location';
@@ -448,7 +474,15 @@
       }
 
       function updateThemeToggleLabel(theme) {
-        themeToggleBtn.textContent = theme === 'dark' ? 'Light' : 'Dark';
+        if (theme === 'dark') {
+          themeToggleBtn.innerHTML = '&#9728;';
+          themeToggleBtn.setAttribute('aria-label', 'Switch to light mode');
+          themeToggleBtn.setAttribute('title', 'Switch to light mode');
+        } else {
+          themeToggleBtn.innerHTML = '&#127769;';
+          themeToggleBtn.setAttribute('aria-label', 'Switch to dark mode');
+          themeToggleBtn.setAttribute('title', 'Switch to dark mode');
+        }
       }
 
       function applyTheme(theme) {
@@ -939,6 +973,48 @@
         return wrapper;
       }
 
+      function formatVerseForCopy(row) {
+        const reference = `${getBookLabel(state.currentBookNumber)} ${state.currentChapterNumber}:${row.verseNumber}`;
+        const nasbLine = `NASB: ${row.nasbText === null || row.nasbText === '' ? '(missing)' : row.nasbText}`;
+        const cunpLine = `CUNP: ${row.cunpText === null || row.cunpText === '' ? '(missing)' : row.cunpText}`;
+        return `${reference}\n${nasbLine}\n${cunpLine}`;
+      }
+
+      async function copyText(text) {
+        try {
+          if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
+            await navigator.clipboard.writeText(text);
+            return true;
+          }
+        } catch {
+          // fall back to legacy copy path
+        }
+
+        try {
+          const textarea = document.createElement('textarea');
+          textarea.value = text;
+          textarea.setAttribute('readonly', '');
+          textarea.style.position = 'fixed';
+          textarea.style.left = '-9999px';
+          document.body.appendChild(textarea);
+          textarea.select();
+          const ok = document.execCommand('copy');
+          document.body.removeChild(textarea);
+          return ok;
+        } catch {
+          return false;
+        }
+      }
+
+      async function handleCopyVerse(row, buttonEl) {
+        const originalLabel = buttonEl.innerHTML;
+        const ok = await copyText(formatVerseForCopy(row));
+        buttonEl.textContent = ok ? '✓' : '!';
+        setTimeout(() => {
+          buttonEl.innerHTML = originalLabel;
+        }, 900);
+      }
+
       function renderRows(rows) {
         versesEl.innerHTML = '';
 
@@ -973,9 +1049,18 @@
           const verseNo = document.createElement('div');
           verseNo.className = 'verse-no';
           verseNo.textContent = String(row.verseNumber);
+          const copyBtn = document.createElement('button');
+          copyBtn.type = 'button';
+          copyBtn.className = 'verse-copy-btn';
+          copyBtn.innerHTML = '&#128203;';
+          copyBtn.setAttribute('aria-label', `Copy verse ${row.verseNumber}`);
+          copyBtn.addEventListener('click', async () => {
+            await handleCopyVerse(row, copyBtn);
+          });
 
           const content = document.createElement('div');
           content.className = 'verse-content';
+          content.appendChild(copyBtn);
           content.appendChild(createTranslationBlock('nasb', 'NASB', row.nasbText));
           content.appendChild(createTranslationBlock('cunp', 'CUNP', row.cunpText));
 
@@ -1003,6 +1088,8 @@
         const nasbBook = getBookEntry(state.nasbIndex, bookId);
         const chapterNumber = Number.parseInt(chapterId, 10);
         const bookNumber = nasbBook ? nasbBook.book : Number.parseInt(bookId, 10);
+        state.currentBookNumber = bookNumber;
+        state.currentChapterNumber = chapterNumber;
 
         chapterTitleEl.textContent = `${getBookLabel(bookNumber)} - Chapter ${chapterNumber}`;
 
