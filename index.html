@@ -166,6 +166,11 @@
       word-break: break-word;
     }
 
+    .verse-text .entity {
+      color: #7b3f00;
+      font-weight: 700;
+    }
+
     .missing {
       color: #8b7d67;
       font-style: italic;
@@ -492,6 +497,27 @@
           }));
       }
 
+      function escapeHtml(text) {
+        return String(text)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function renderVerseTextHtml(value) {
+        const escaped = escapeHtml(value);
+        return escaped
+          .replace(/&lt;br\s*\/?&gt;/gi, '<br>')
+          .replace(/&lt;i&gt;/gi, '<i>')
+          .replace(/&lt;\/i&gt;/gi, '</i>')
+          .replace(/&lt;sup&gt;/gi, '<sup>')
+          .replace(/&lt;\/sup&gt;/gi, '</sup>')
+          .replace(/&lt;e&gt;/gi, '<span class="entity">')
+          .replace(/&lt;\/e&gt;/gi, '</span>');
+      }
+
       function createTranslationBlock(tagClass, tagText, value) {
         const wrapper = document.createElement('div');
         wrapper.className = 'translation';
@@ -506,7 +532,7 @@
           body.classList.add('missing');
           body.textContent = '(missing)';
         } else {
-          body.textContent = value;
+          body.innerHTML = renderVerseTextHtml(value);
         }
 
         wrapper.appendChild(tag);
