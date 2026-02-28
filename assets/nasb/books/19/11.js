@@ -1,0 +1,59 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/11"] = [
+  {
+    "pk": 845688,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 1,
+    "text": "For the choir director. [A Psalm] of David. In the LORD I take refuge; How can you say to my soul, 'Flee [as] a bird to your mountain;"
+  },
+  {
+    "pk": 845689,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 2,
+    "text": "For, behold, the wicked bend the bow, They make ready their arrow upon the string To shoot in darkness at the upright in heart."
+  },
+  {
+    "pk": 845690,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 3,
+    "text": "If the foundations are destroyed, What can the righteous do?'"
+  },
+  {
+    "pk": 845691,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 4,
+    "text": "The LORD is in His holy temple; the LORD'S throne is in heaven; His eyes behold, His eyelids test the sons of men."
+  },
+  {
+    "pk": 845692,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 5,
+    "text": "The LORD tests the righteous and the wicked, And the one who loves violence His soul hates."
+  },
+  {
+    "pk": 845693,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 6,
+    "text": "Upon the wicked He will rain snares; Fire and brimstone and burning wind will be the portion of their cup."
+  },
+  {
+    "pk": 845694,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 11,
+    "verse": 7,
+    "text": "For the LORD is righteous, He loves righteousness; The upright will behold His face."
+  }
+];

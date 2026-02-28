@@ -1,0 +1,387 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/42/19"] = [
+  {
+    "pk": 857360,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 1,
+    "text": "He entered Jericho and was passing through."
+  },
+  {
+    "pk": 857361,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 2,
+    "text": "And there was a man called by the name of Zaccheus; he was a chief tax collector and he was rich."
+  },
+  {
+    "pk": 857362,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 3,
+    "text": "Zaccheus was trying to see who Jesus was, and was unable because of the crowd, for he was small in stature."
+  },
+  {
+    "pk": 857363,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 4,
+    "text": "So he ran on ahead and climbed up into a sycamore tree in order to see Him, for He was about to pass through that way."
+  },
+  {
+    "pk": 857364,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 5,
+    "text": "When Jesus came to the place, He looked up and said to him, 'Zaccheus, hurry and come down, for today I must stay at your house.'"
+  },
+  {
+    "pk": 857365,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 6,
+    "text": "And he hurried and came down and received Him gladly."
+  },
+  {
+    "pk": 857366,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 7,
+    "text": "When they saw it, they all [began] to grumble, saying, 'He has gone to be the guest of a man who is a sinner.'"
+  },
+  {
+    "pk": 857367,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 8,
+    "text": "Zaccheus stopped and said to the Lord, 'Behold, Lord, half of my possessions I will give to the poor, and if I have defrauded anyone of anything, I will give back four times as much.'"
+  },
+  {
+    "pk": 857368,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 9,
+    "text": "And Jesus said to him, 'Today salvation has come to this house, because he, too, is a son of Abraham."
+  },
+  {
+    "pk": 857369,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 10,
+    "text": "'For the Son of Man has come to seek and to save that which was lost.'"
+  },
+  {
+    "pk": 857370,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 11,
+    "text": "While they were listening to these things, Jesus went on to tell a parable, because He was near Jerusalem, and they supposed that the kingdom of God was going to appear immediately."
+  },
+  {
+    "pk": 857371,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 12,
+    "text": "So He said, 'A nobleman went to a distant country to receive a kingdom for himself, and [then] return."
+  },
+  {
+    "pk": 857372,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 13,
+    "text": "'And he called ten of his slaves, and gave them ten minas and said to them, 'Do business [with this] until I come [back].'"
+  },
+  {
+    "pk": 857373,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 14,
+    "text": "'But his citizens hated him and sent a delegation after him, saying, 'We do not want this man to reign over us.'"
+  },
+  {
+    "pk": 857374,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 15,
+    "text": "'When he returned, after receiving the kingdom, he ordered that these slaves, to whom he had given the money, be called to him so that he might know what business they had done."
+  },
+  {
+    "pk": 857375,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 16,
+    "text": "'The first appeared, saying, 'Master, your mina has made ten minas more.'"
+  },
+  {
+    "pk": 857376,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 17,
+    "text": "'And he said to him, 'Well done, good slave, because you have been faithful in a very little thing, you are to be in authority over ten cities.'"
+  },
+  {
+    "pk": 857377,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 18,
+    "text": "'The second came, saying, 'Your mina, master, has made five minas.'"
+  },
+  {
+    "pk": 857378,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 19,
+    "text": "'And he said to him also, 'And you are to be over five cities.'"
+  },
+  {
+    "pk": 857379,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 20,
+    "text": "'Another came, saying, 'Master, here is your mina, which I kept put away in a handkerchief;"
+  },
+  {
+    "pk": 857380,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 21,
+    "text": "for I was afraid of you, because you are an exacting man; you take up what you did not lay down and reap what you did not sow.'"
+  },
+  {
+    "pk": 857381,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 22,
+    "text": "'He said to him, 'By your own words I will judge you, you worthless slave. Did you know that I am an exacting man, taking up what I did not lay down and reaping what I did not sow?"
+  },
+  {
+    "pk": 857382,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 23,
+    "text": "'Then why did you not put my money in the bank, and having come, I would have collected it with interest?'"
+  },
+  {
+    "pk": 857383,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 24,
+    "text": "'Then he said to the bystanders, 'Take the mina away from him and give it to the one who has the ten minas.'"
+  },
+  {
+    "pk": 857384,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 25,
+    "text": "'And they said to him, 'Master, he has ten minas [already].'"
+  },
+  {
+    "pk": 857385,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 26,
+    "text": "'I tell you that to everyone who has, more shall be given, but from the one who does not have, even what he does have shall be taken away."
+  },
+  {
+    "pk": 857386,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 27,
+    "text": "'But these enemies of mine, who did not want me to reign over them, bring them here and slay them in my presence.'"
+  },
+  {
+    "pk": 857387,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 28,
+    "text": "After He had said these things, He was going on ahead, going up to Jerusalem."
+  },
+  {
+    "pk": 857388,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 29,
+    "text": "When He approached Bethphage and Bethany, near the mount that is called Olivet, He sent two of the disciples,"
+  },
+  {
+    "pk": 857389,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 30,
+    "text": "saying, 'Go into the village ahead of [you]; there, as you enter, you will find a colt tied on which no one yet has ever sat; untie it and bring it [here]."
+  },
+  {
+    "pk": 857390,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 31,
+    "text": "'If anyone asks you, 'Why are you untying it?' you shall say, 'The Lord has need of it.''"
+  },
+  {
+    "pk": 857391,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 32,
+    "text": "So those who were sent went away and found it just as He had told them."
+  },
+  {
+    "pk": 857392,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 33,
+    "text": "As they were untying the colt, its owners said to them, 'Why are you untying the colt?'"
+  },
+  {
+    "pk": 857393,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 34,
+    "text": "They said, 'The Lord has need of it.'"
+  },
+  {
+    "pk": 857394,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 35,
+    "text": "They brought it to Jesus, and they threw their coats on the colt and put Jesus [on it]."
+  },
+  {
+    "pk": 857395,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 36,
+    "text": "As He was going, they were spreading their coats on the road."
+  },
+  {
+    "pk": 857396,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 37,
+    "text": "As soon as He was approaching, near the descent of the Mount of Olives, the whole crowd of the disciples began to praise God joyfully with a loud voice for all the miracles which they had seen,"
+  },
+  {
+    "pk": 857397,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 38,
+    "text": "shouting: 'BLESSED IS THE KING WHO COMES IN THE NAME OF THE LORD; Peace in heaven and glory in the highest!'"
+  },
+  {
+    "pk": 857398,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 39,
+    "text": "Some of the Pharisees in the crowd said to Him, 'Teacher, rebuke Your disciples.'"
+  },
+  {
+    "pk": 857399,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 40,
+    "text": "But Jesus answered, 'I tell you, if these become silent, the stones will cry out!'"
+  },
+  {
+    "pk": 857400,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 41,
+    "text": "When He approached [Jerusalem], He saw the city and wept over it,"
+  },
+  {
+    "pk": 857401,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 42,
+    "text": "saying, 'If you had known in this day, even you, the things which make for peace! But now they have been hidden from your eyes."
+  },
+  {
+    "pk": 857402,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 43,
+    "text": "'For the days will come upon you when your enemies will throw up a barricade against you, and surround you and hem you in on every side,"
+  },
+  {
+    "pk": 857403,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 44,
+    "text": "and they will level you to the ground and your children within you, and they will not leave in you one stone upon another, because you did not recognize the time of your visitation.'"
+  },
+  {
+    "pk": 857404,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 45,
+    "text": "Jesus entered the temple and began to drive out those who were selling,"
+  },
+  {
+    "pk": 857405,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 46,
+    "text": "saying to them, 'It is written, 'AND MY HOUSE SHALL BE A HOUSE OF PRAYER,' but you have made it a ROBBERS' DEN.'"
+  },
+  {
+    "pk": 857406,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 47,
+    "text": "And He was teaching daily in the temple; but the chief priests and the scribes and the leading men among the people were trying to destroy Him,"
+  },
+  {
+    "pk": 857407,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 19,
+    "verse": 48,
+    "text": "and they could not find anything that they might do, for all the people were hanging on to every word He said."
+  }
+];

@@ -1,0 +1,195 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/71"] = [
+  {
+    "pk": 846605,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 1,
+    "text": "In You, O LORD, I have taken refuge; Let me never be ashamed."
+  },
+  {
+    "pk": 846606,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 2,
+    "text": "In Your righteousness deliver me and rescue me; Incline Your ear to me and save me."
+  },
+  {
+    "pk": 846607,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 3,
+    "text": "Be to me a rock of habitation to which I may continually come; You have given commandment to save me, For You are my rock and my fortress."
+  },
+  {
+    "pk": 846608,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 4,
+    "text": "Rescue me, O my God, out of the hand of the wicked, Out of the grasp of the wrongdoer and ruthless man,"
+  },
+  {
+    "pk": 846609,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 5,
+    "text": "For You are my hope; O Lord GOD, [You are] my confidence from my youth."
+  },
+  {
+    "pk": 846610,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 6,
+    "text": "By You I have been sustained from [my] birth; You are He who took me from my mother's womb; My praise is continually of You."
+  },
+  {
+    "pk": 846611,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 7,
+    "text": "I have become a marvel to many, For You are my strong refuge."
+  },
+  {
+    "pk": 846612,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 8,
+    "text": "My mouth is filled with Your praise And with Your glory all day long."
+  },
+  {
+    "pk": 846613,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 9,
+    "text": "Do not cast me off in the time of old age; Do not forsake me when my strength fails."
+  },
+  {
+    "pk": 846614,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 10,
+    "text": "For my enemies have spoken against me; And those who watch for my life have consulted together,"
+  },
+  {
+    "pk": 846615,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 11,
+    "text": "Saying, 'God has forsaken him; Pursue and seize him, for there is no one to deliver.'"
+  },
+  {
+    "pk": 846616,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 12,
+    "text": "O God, do not be far from me; O my God, hasten to my help!"
+  },
+  {
+    "pk": 846617,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 13,
+    "text": "Let those who are adversaries of my soul be ashamed [and] consumed; Let them be covered with reproach and dishonor, who seek to injure me."
+  },
+  {
+    "pk": 846618,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 14,
+    "text": "But as for me, I will hope continually, And will praise You yet more and more."
+  },
+  {
+    "pk": 846619,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 15,
+    "text": "My mouth shall tell of Your righteousness [And] of Your salvation all day long; For I do not know the sum [of them]."
+  },
+  {
+    "pk": 846620,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 16,
+    "text": "I will come with the mighty deeds of the Lord GOD; I will make mention of Your righteousness, Yours alone."
+  },
+  {
+    "pk": 846621,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 17,
+    "text": "O God, You have taught me from my youth, And I still declare Your wondrous deeds."
+  },
+  {
+    "pk": 846622,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 18,
+    "text": "And even when [I am] old and gray, O God, do not forsake me, Until I declare Your strength to [this] generation, Your power to all who are to come."
+  },
+  {
+    "pk": 846623,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 19,
+    "text": "For Your righteousness, O God, [reaches] to the heavens, You who have done great things; O God, who is like You?"
+  },
+  {
+    "pk": 846624,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 20,
+    "text": "You who have shown me many troubles and distresses Will revive me again, And will bring me up again from the depths of the earth."
+  },
+  {
+    "pk": 846625,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 21,
+    "text": "May You increase my greatness And turn [to] comfort me."
+  },
+  {
+    "pk": 846626,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 22,
+    "text": "I will also praise You with a harp, [Even] Your truth, O my God; To You I will sing praises with the lyre, O Holy One of Israel."
+  },
+  {
+    "pk": 846627,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 23,
+    "text": "My lips will shout for joy when I sing praises to You; And my soul, which You have redeemed."
+  },
+  {
+    "pk": 846628,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 71,
+    "verse": 24,
+    "text": "My tongue also will utter Your righteousness all day long; For they are ashamed, for they are humiliated who seek my hurt."
+  }
+];

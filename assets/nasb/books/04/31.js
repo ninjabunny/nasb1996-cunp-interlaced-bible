@@ -1,0 +1,435 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/04/31"] = [
+  {
+    "pk": 836293,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 1,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 836294,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 2,
+    "text": "'Take full vengeance for the sons of Israel on the Midianites; afterward you will be gathered to your people.'"
+  },
+  {
+    "pk": 836295,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 3,
+    "text": "Moses spoke to the people, saying, 'Arm men from among you for the war, that they may go against Midian to execute the LORD'S vengeance on Midian."
+  },
+  {
+    "pk": 836296,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 4,
+    "text": "'A thousand from each tribe of all the tribes of Israel you shall send to the war.'"
+  },
+  {
+    "pk": 836297,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 5,
+    "text": "So there were furnished from the thousands of Israel, a thousand from each tribe, twelve thousand armed for war."
+  },
+  {
+    "pk": 836298,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 6,
+    "text": "Moses sent them, a thousand from each tribe, to the war, and Phinehas the son of Eleazar the priest, to the war with them, and the holy vessels and the trumpets for the alarm in his hand."
+  },
+  {
+    "pk": 836299,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 7,
+    "text": "So they made war against Midian, just as the LORD had commanded Moses, and they killed every male."
+  },
+  {
+    "pk": 836300,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 8,
+    "text": "They killed the kings of Midian along with the [rest of] their slain: Evi and Rekem and Zur and Hur and Reba, the five kings of Midian; they also killed Balaam the son of Beor with the sword."
+  },
+  {
+    "pk": 836301,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 9,
+    "text": "The sons of Israel captured the women of Midian and their little ones; and all their cattle and all their flocks and all their goods they plundered."
+  },
+  {
+    "pk": 836302,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 10,
+    "text": "Then they burned all their cities where they lived and all their camps with fire."
+  },
+  {
+    "pk": 836303,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 11,
+    "text": "They took all the spoil and all the prey, both of man and of beast."
+  },
+  {
+    "pk": 836304,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 12,
+    "text": "They brought the captives and the prey and the spoil to Moses, and to Eleazar the priest and to the congregation of the sons of Israel, to the camp at the plains of Moab, which are by the Jordan [opposite] Jericho."
+  },
+  {
+    "pk": 836305,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 13,
+    "text": "Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp."
+  },
+  {
+    "pk": 836306,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 14,
+    "text": "Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who had come from service in the war."
+  },
+  {
+    "pk": 836307,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 15,
+    "text": "And Moses said to them, 'Have you spared all the women?"
+  },
+  {
+    "pk": 836308,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 16,
+    "text": "'Behold, these caused the sons of Israel, through the counsel of Balaam, to trespass against the LORD in the matter of Peor, so the plague was among the congregation of the LORD."
+  },
+  {
+    "pk": 836309,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 17,
+    "text": "'Now therefore, kill every male among the little ones, and kill every woman who has known man intimately."
+  },
+  {
+    "pk": 836310,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 18,
+    "text": "'But all the girls who have not known man intimately, spare for yourselves."
+  },
+  {
+    "pk": 836311,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 19,
+    "text": "'And you, camp outside the camp seven days; whoever has killed any person and whoever has touched any slain, purify yourselves, you and your captives, on the third day and on the seventh day."
+  },
+  {
+    "pk": 836312,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 20,
+    "text": "'You shall purify for yourselves every garment and every article of leather and all the work of goats' [hair], and all articles of wood.'"
+  },
+  {
+    "pk": 836313,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 21,
+    "text": "Then Eleazar the priest said to the men of war who had gone to battle, 'This is the statute of the law which the LORD has commanded Moses:"
+  },
+  {
+    "pk": 836314,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 22,
+    "text": "only the gold and the silver, the bronze, the iron, the tin and the lead,"
+  },
+  {
+    "pk": 836315,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 23,
+    "text": "everything that can stand the fire, you shall pass through the fire, and it shall be clean, but it shall be purified with water for impurity. But whatever cannot stand the fire you shall pass through the water."
+  },
+  {
+    "pk": 836316,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 24,
+    "text": "'And you shall wash your clothes on the seventh day and be clean, and afterward you may enter the camp.'"
+  },
+  {
+    "pk": 836317,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 25,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 836318,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 26,
+    "text": "'You and Eleazar the priest and the heads of the fathers' [households] of the congregation take a count of the booty that was captured, both of man and of animal;"
+  },
+  {
+    "pk": 836319,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 27,
+    "text": "and divide the booty between the warriors who went out to battle and all the congregation."
+  },
+  {
+    "pk": 836320,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 28,
+    "text": "'Levy a tax for the LORD from the men of war who went out to battle, one in five hundred of the persons and of the cattle and of the donkeys and of the sheep;"
+  },
+  {
+    "pk": 836321,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 29,
+    "text": "take it from their half and give it to Eleazar the priest, as an offering to the LORD."
+  },
+  {
+    "pk": 836322,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 30,
+    "text": "'From the sons of Israel's half, you shall take one drawn out of every fifty of the persons, of the cattle, of the donkeys and of the sheep, from all the animals, and give them to the Levites who keep charge of the tabernacle of the LORD.'"
+  },
+  {
+    "pk": 836323,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 31,
+    "text": "Moses and Eleazar the priest did just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 836324,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 32,
+    "text": "Now the booty that remained from the spoil which the men of war had plundered was 675,000 sheep,"
+  },
+  {
+    "pk": 836325,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 33,
+    "text": "and 72,000 cattle,"
+  },
+  {
+    "pk": 836326,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 34,
+    "text": "and 61,000 donkeys,"
+  },
+  {
+    "pk": 836327,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 35,
+    "text": "and of human beings, of the women who had not known man intimately, all the persons were 32,000."
+  },
+  {
+    "pk": 836328,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 36,
+    "text": "The half, the portion of those who went out to war, was [as follows]: the number of sheep was 337,500,"
+  },
+  {
+    "pk": 836329,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 37,
+    "text": "and the LORD'S levy of the sheep was 675;"
+  },
+  {
+    "pk": 836330,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 38,
+    "text": "and the cattle were 36,000, from which the LORD'S levy was 72;"
+  },
+  {
+    "pk": 836331,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 39,
+    "text": "and the donkeys were 30,500, from which the LORD'S levy was 61;"
+  },
+  {
+    "pk": 836332,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 40,
+    "text": "and the human beings were 16,000, from whom the LORD'S levy was 32 persons."
+  },
+  {
+    "pk": 836333,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 41,
+    "text": "Moses gave the levy [which was] the LORD'S offering to Eleazar the priest, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 836334,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 42,
+    "text": "As for the sons of Israel's half, which Moses separated from the men who had gone to war--"
+  },
+  {
+    "pk": 836335,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 43,
+    "text": "now the congregation's half was 337,500 sheep,"
+  },
+  {
+    "pk": 836336,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 44,
+    "text": "and 36,000 cattle,"
+  },
+  {
+    "pk": 836337,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 45,
+    "text": "and 30,500 donkeys,"
+  },
+  {
+    "pk": 836338,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 46,
+    "text": "and the human beings were 16,000--"
+  },
+  {
+    "pk": 836339,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 47,
+    "text": "and from the sons of Israel's half, Moses took one drawn out of every fifty, both of man and of animals, and gave them to the Levites, who kept charge of the tabernacle of the LORD, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 836340,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 48,
+    "text": "Then the officers who were over the thousands of the army, the captains of thousands and the captains of hundreds, approached Moses,"
+  },
+  {
+    "pk": 836341,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 49,
+    "text": "and they said to Moses, 'Your servants have taken a census of men of war who are in our charge, and no man of us is missing."
+  },
+  {
+    "pk": 836342,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 50,
+    "text": "'So we have brought as an offering to the LORD what each man found, articles of gold, armlets and bracelets, signet rings, earrings and necklaces, to make atonement for ourselves before the LORD.'"
+  },
+  {
+    "pk": 836343,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 51,
+    "text": "Moses and Eleazar the priest took the gold from them, all kinds of wrought articles."
+  },
+  {
+    "pk": 836344,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 52,
+    "text": "All the gold of the offering which they offered up to the LORD, from the captains of thousands and the captains of hundreds, was 16,750 shekels."
+  },
+  {
+    "pk": 836345,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 53,
+    "text": "The men of war had taken booty, every man for himself."
+  },
+  {
+    "pk": 836346,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 31,
+    "verse": 54,
+    "text": "So Moses and Eleazar the priest took the gold from the captains of thousands and of hundreds, and brought it to the tent of meeting as a memorial for the sons of Israel before the LORD."
+  }
+];

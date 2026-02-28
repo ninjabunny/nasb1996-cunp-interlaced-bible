@@ -1,0 +1,307 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/02/40"] = [
+  {
+    "pk": 834336,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 1,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 834337,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 2,
+    "text": "'On the first day of the first month you shall set up the tabernacle of the tent of meeting."
+  },
+  {
+    "pk": 834338,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 3,
+    "text": "'You shall place the ark of the testimony there, and you shall screen the ark with the veil."
+  },
+  {
+    "pk": 834339,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 4,
+    "text": "'You shall bring in the table and arrange what belongs on it; and you shall bring in the lampstand and mount its lamps."
+  },
+  {
+    "pk": 834340,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 5,
+    "text": "'Moreover, you shall set the gold altar of incense before the ark of the testimony, and set up the veil for the doorway to the tabernacle."
+  },
+  {
+    "pk": 834341,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 6,
+    "text": "'You shall set the altar of burnt offering in front of the doorway of the tabernacle of the tent of meeting."
+  },
+  {
+    "pk": 834342,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 7,
+    "text": "'You shall set the laver between the tent of meeting and the altar and put water in it."
+  },
+  {
+    "pk": 834343,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 8,
+    "text": "'You shall set up the court all around and hang up the veil for the gateway of the court."
+  },
+  {
+    "pk": 834344,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 9,
+    "text": "'Then you shall take the anointing oil and anoint the tabernacle and all that is in it, and shall consecrate it and all its furnishings; and it shall be holy."
+  },
+  {
+    "pk": 834345,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 10,
+    "text": "'You shall anoint the altar of burnt offering and all its utensils, and consecrate the altar, and the altar shall be most holy."
+  },
+  {
+    "pk": 834346,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 11,
+    "text": "'You shall anoint the laver and its stand, and consecrate it."
+  },
+  {
+    "pk": 834347,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 12,
+    "text": "'Then you shall bring Aaron and his sons to the doorway of the tent of meeting and wash them with water."
+  },
+  {
+    "pk": 834348,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 13,
+    "text": "'You shall put the holy garments on Aaron and anoint him and consecrate him, that he may minister as a priest to Me."
+  },
+  {
+    "pk": 834349,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 14,
+    "text": "'You shall bring his sons and put tunics on them;"
+  },
+  {
+    "pk": 834350,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 15,
+    "text": "and you shall anoint them even as you have anointed their father, that they may minister as priests to Me; and their anointing will qualify them for a perpetual priesthood throughout their generations.'"
+  },
+  {
+    "pk": 834351,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 16,
+    "text": "Thus Moses did; according to all that the LORD had commanded him, so he did."
+  },
+  {
+    "pk": 834352,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 17,
+    "text": "Now in the first month of the second year, on the first [day] of the month, the tabernacle was erected."
+  },
+  {
+    "pk": 834353,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 18,
+    "text": "Moses erected the tabernacle and laid its sockets, and set up its boards, and inserted its bars and erected its pillars."
+  },
+  {
+    "pk": 834354,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 19,
+    "text": "He spread the tent over the tabernacle and put the covering of the tent on top of it, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834355,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 20,
+    "text": "Then he took the testimony and put [it] into the ark, and attached the poles to the ark, and put the mercy seat on top of the ark."
+  },
+  {
+    "pk": 834356,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 21,
+    "text": "He brought the ark into the tabernacle, and set up a veil for the screen, and screened off the ark of the testimony, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834357,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 22,
+    "text": "Then he put the table in the tent of meeting on the north side of the tabernacle, outside the veil."
+  },
+  {
+    "pk": 834358,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 23,
+    "text": "He set the arrangement of bread in order on it before the LORD, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834359,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 24,
+    "text": "Then he placed the lampstand in the tent of meeting, opposite the table, on the south side of the tabernacle."
+  },
+  {
+    "pk": 834360,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 25,
+    "text": "He lighted the lamps before the LORD, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834361,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 26,
+    "text": "Then he placed the gold altar in the tent of meeting in front of the veil;"
+  },
+  {
+    "pk": 834362,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 27,
+    "text": "and he burned fragrant incense on it, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834363,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 28,
+    "text": "Then he set up the veil for the doorway of the tabernacle."
+  },
+  {
+    "pk": 834364,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 29,
+    "text": "He set the altar of burnt offering [before] the doorway of the tabernacle of the tent of meeting, and offered on it the burnt offering and the meal offering, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834365,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 30,
+    "text": "He placed the laver between the tent of meeting and the altar and put water in it for washing."
+  },
+  {
+    "pk": 834366,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 31,
+    "text": "From it Moses and Aaron and his sons washed their hands and their feet."
+  },
+  {
+    "pk": 834367,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 32,
+    "text": "When they entered the tent of meeting, and when they approached the altar, they washed, just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834368,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 33,
+    "text": "He erected the court all around the tabernacle and the altar, and hung up the veil for the gateway of the court. Thus Moses finished the work."
+  },
+  {
+    "pk": 834369,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 34,
+    "text": "Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle."
+  },
+  {
+    "pk": 834370,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 35,
+    "text": "Moses was not able to enter the tent of meeting because the cloud had settled on it, and the glory of the LORD filled the tabernacle."
+  },
+  {
+    "pk": 834371,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 36,
+    "text": "Throughout all their journeys whenever the cloud was taken up from over the tabernacle, the sons of Israel would set out;"
+  },
+  {
+    "pk": 834372,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 37,
+    "text": "but if the cloud was not taken up, then they did not set out until the day when it was taken up."
+  },
+  {
+    "pk": 834373,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 40,
+    "verse": 38,
+    "text": "For throughout all their journeys, the cloud of the LORD was on the tabernacle by day, and there was fire in it by night, in the sight of all the house of Israel."
+  }
+];

@@ -1,0 +1,211 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/12/21"] = [
+  {
+    "pk": 841748,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 1,
+    "text": "Manasseh was twelve years old when he became king, and he reigned fifty-five years in Jerusalem; and his mother's name was Hephzibah."
+  },
+  {
+    "pk": 841749,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 2,
+    "text": "He did evil in the sight of the LORD, according to the abominations of the nations whom the LORD dispossessed before the sons of Israel."
+  },
+  {
+    "pk": 841750,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 3,
+    "text": "For he rebuilt the high places which Hezekiah his father had destroyed; and he erected altars for Baal and made an Asherah, as Ahab king of Israel had done, and worshiped all the host of heaven and served them."
+  },
+  {
+    "pk": 841751,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 4,
+    "text": "He built altars in the house of the LORD, of which the LORD had said, 'In Jerusalem I will put My name.'"
+  },
+  {
+    "pk": 841752,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 5,
+    "text": "For he built altars for all the host of heaven in the two courts of the house of the LORD."
+  },
+  {
+    "pk": 841753,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 6,
+    "text": "He made his son pass through the fire, practiced witchcraft and used divination, and dealt with mediums and spiritists. He did much evil in the sight of the LORD provoking [Him to anger]."
+  },
+  {
+    "pk": 841754,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 7,
+    "text": "Then he set the carved image of Asherah that he had made, in the house of which the LORD said to David and to his son Solomon, 'In this house and in Jerusalem, which I have chosen from all the tribes of Israel, I will put My name forever."
+  },
+  {
+    "pk": 841755,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 8,
+    "text": "'And I will not make the feet of Israel wander anymore from the land which I gave their fathers, if only they will observe to do according to all that I have commanded them, and according to all the law that My servant Moses commanded them.'"
+  },
+  {
+    "pk": 841756,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 9,
+    "text": "But they did not listen, and Manasseh seduced them to do evil more than the nations whom the LORD destroyed before the sons of Israel."
+  },
+  {
+    "pk": 841757,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 10,
+    "text": "Now the LORD spoke through His servants the prophets, saying,"
+  },
+  {
+    "pk": 841758,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 11,
+    "text": "'Because Manasseh king of Judah has done these abominations, having done wickedly more than all the Amorites did who [were] before him, and has also made Judah sin with his idols;"
+  },
+  {
+    "pk": 841759,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 12,
+    "text": "therefore thus says the LORD, the God of Israel, 'Behold, I am bringing [such] calamity on Jerusalem and Judah, that whoever hears of it, both his ears will tingle."
+  },
+  {
+    "pk": 841760,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 13,
+    "text": "'I will stretch over Jerusalem the line of Samaria and the plummet of the house of Ahab, and I will wipe Jerusalem as one wipes a dish, wiping it and turning it upside down."
+  },
+  {
+    "pk": 841761,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 14,
+    "text": "'I will abandon the remnant of My inheritance and deliver them into the hand of their enemies, and they will become as plunder and spoil to all their enemies;"
+  },
+  {
+    "pk": 841762,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 15,
+    "text": "because they have done evil in My sight, and have been provoking Me to anger since the day their fathers came from Egypt, even to this day.''"
+  },
+  {
+    "pk": 841763,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 16,
+    "text": "Moreover, Manasseh shed very much innocent blood until he had filled Jerusalem from one end to another; besides his sin with which he made Judah sin, in doing evil in the sight of the LORD."
+  },
+  {
+    "pk": 841764,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 17,
+    "text": "Now the rest of the acts of Manasseh and all that he did and his sin which he committed, are they not written in the Book of the Chronicles of the Kings of Judah?"
+  },
+  {
+    "pk": 841765,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 18,
+    "text": "And Manasseh slept with his fathers and was buried in the garden of his own house, in the garden of Uzza, and Amon his son became king in his place."
+  },
+  {
+    "pk": 841766,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 19,
+    "text": "Amon was twenty-two years old when he became king, and he reigned two years in Jerusalem; and his mother's name [was] Meshullemeth the daughter of Haruz of Jotbah."
+  },
+  {
+    "pk": 841767,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 20,
+    "text": "He did evil in the sight of the LORD, as Manasseh his father had done."
+  },
+  {
+    "pk": 841768,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 21,
+    "text": "For he walked in all the way that his father had walked, and served the idols that his father had served and worshiped them."
+  },
+  {
+    "pk": 841769,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 22,
+    "text": "So he forsook the LORD, the God of his fathers, and did not walk in the way of the LORD."
+  },
+  {
+    "pk": 841770,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 23,
+    "text": "The servants of Amon conspired against him and killed the king in his own house."
+  },
+  {
+    "pk": 841771,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 24,
+    "text": "Then the people of the land killed all those who had conspired against King Amon, and the people of the land made Josiah his son king in his place."
+  },
+  {
+    "pk": 841772,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 25,
+    "text": "Now the rest of the acts of Amon which he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+  },
+  {
+    "pk": 841773,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 21,
+    "verse": 26,
+    "text": "He was buried in his grave in the garden of Uzza, and Josiah his son became king in his place."
+  }
+];

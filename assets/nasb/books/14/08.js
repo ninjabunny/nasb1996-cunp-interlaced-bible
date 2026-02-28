@@ -1,0 +1,147 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/14/08"] = [
+  {
+    "pk": 842975,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 1,
+    "text": "Now it came about at the end of the twenty years in which Solomon had built the house of the LORD and his own house"
+  },
+  {
+    "pk": 842976,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 2,
+    "text": "that he built the cities which Huram had given to him, and settled the sons of Israel there."
+  },
+  {
+    "pk": 842977,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 3,
+    "text": "Then Solomon went to Hamath-zobah and captured it."
+  },
+  {
+    "pk": 842978,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 4,
+    "text": "He built Tadmor in the wilderness and all the storage cities which he had built in Hamath."
+  },
+  {
+    "pk": 842979,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 5,
+    "text": "He also built upper Beth-horon and lower Beth-horon, fortified cities [with] walls, gates and bars;"
+  },
+  {
+    "pk": 842980,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 6,
+    "text": "and Baalath and all the storage cities that Solomon had, and all the cities for his chariots and cities for his horsemen, and all that it pleased Solomon to build in Jerusalem, in Lebanon, and in all the land under his rule."
+  },
+  {
+    "pk": 842981,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 7,
+    "text": "All of the people who were left of the Hittites, the Amorites, the Perizzites, the Hivites and the Jebusites, who were not of Israel,"
+  },
+  {
+    "pk": 842982,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 8,
+    "text": "[namely], from their descendants who were left after them in the land whom the sons of Israel had not destroyed, them Solomon raised as forced laborers to this day."
+  },
+  {
+    "pk": 842983,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 9,
+    "text": "But Solomon did not make slaves for his work from the sons of Israel; they were men of war, his chief captains and commanders of his chariots and his horsemen."
+  },
+  {
+    "pk": 842984,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 10,
+    "text": "These were the chief officers of King Solomon, two hundred and fifty who ruled over the people."
+  },
+  {
+    "pk": 842985,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 11,
+    "text": "Then Solomon brought Pharaoh's daughter up from the city of David to the house which he had built for her, for he said, 'My wife shall not dwell in the house of David king of Israel, because the places are holy where the ark of the LORD has entered.'"
+  },
+  {
+    "pk": 842986,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 12,
+    "text": "Then Solomon offered burnt offerings to the LORD on the altar of the LORD which he had built before the porch;"
+  },
+  {
+    "pk": 842987,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 13,
+    "text": "and [did so] according to the daily rule, offering [them] up according to the commandment of Moses, for the sabbaths, the new moons and the three annual feasts-- the Feast of Unleavened Bread, the Feast of Weeks and the Feast of Booths."
+  },
+  {
+    "pk": 842988,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 14,
+    "text": "Now according to the ordinance of his father David, he appointed the divisions of the priests for their service, and the Levites for their duties of praise and ministering before the priests according to the daily rule, and the gatekeepers by their divisions at every gate; for David the man of God had so commanded."
+  },
+  {
+    "pk": 842989,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 15,
+    "text": "And they did not depart from the commandment of the king to the priests and Levites in any manner or concerning the storehouses."
+  },
+  {
+    "pk": 842990,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 16,
+    "text": "Thus all the work of Solomon was carried out from the day of the foundation of the house of the LORD, and until it was finished. So the house of the LORD was completed."
+  },
+  {
+    "pk": 842991,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 17,
+    "text": "Then Solomon went to Ezion-geber and to Eloth on the seashore in the land of Edom."
+  },
+  {
+    "pk": 842992,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 8,
+    "verse": 18,
+    "text": "And Huram by his servants sent him ships and servants who knew the sea; and they went with Solomon's servants to Ophir, and took from there four hundred and fifty talents of gold and brought them to King Solomon."
+  }
+];

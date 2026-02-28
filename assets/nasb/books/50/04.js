@@ -1,0 +1,187 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/50/04"] = [
+  {
+    "pk": 861071,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 1,
+    "text": "Therefore, my beloved brethren whom I long [to see], my joy and crown, in this way stand firm in the Lord, my beloved."
+  },
+  {
+    "pk": 861072,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 2,
+    "text": "I urge Euodia and I urge Syntyche to live in harmony in the Lord."
+  },
+  {
+    "pk": 861073,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 3,
+    "text": "Indeed, true companion, I ask you also to help these women who have shared my struggle in [the cause of] the gospel, together with Clement also and the rest of my fellow workers, whose names are in the book of life."
+  },
+  {
+    "pk": 861074,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 4,
+    "text": "Rejoice in the Lord always; again I will say, rejoice!"
+  },
+  {
+    "pk": 861075,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 5,
+    "text": "Let your gentle [spirit] be known to all men. The Lord is near."
+  },
+  {
+    "pk": 861076,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 6,
+    "text": "Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God."
+  },
+  {
+    "pk": 861077,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 7,
+    "text": "And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus."
+  },
+  {
+    "pk": 861078,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 8,
+    "text": "Finally, brethren, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is of good repute, if there is any excellence and if anything worthy of praise, dwell on these things."
+  },
+  {
+    "pk": 861079,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 9,
+    "text": "The things you have learned and received and heard and seen in me, practice these things, and the God of peace will be with you."
+  },
+  {
+    "pk": 861080,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 10,
+    "text": "But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned [before], but you lacked opportunity."
+  },
+  {
+    "pk": 861081,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 11,
+    "text": "Not that I speak from want, for I have learned to be content in whatever circumstances I am."
+  },
+  {
+    "pk": 861082,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 12,
+    "text": "I know how to get along with humble means, and I also know how to live in prosperity; in any and every circumstance I have learned the secret of being filled and going hungry, both of having abundance and suffering need."
+  },
+  {
+    "pk": 861083,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 13,
+    "text": "I can do all things through Him who strengthens me."
+  },
+  {
+    "pk": 861084,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 14,
+    "text": "Nevertheless, you have done well to share [with me] in my affliction."
+  },
+  {
+    "pk": 861085,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 15,
+    "text": "You yourselves also know, Philippians, that at the first preaching of the gospel, after I left Macedonia, no church shared with me in the matter of giving and receiving but you alone;"
+  },
+  {
+    "pk": 861086,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 16,
+    "text": "for even in Thessalonica you sent [a gift] more than once for my needs."
+  },
+  {
+    "pk": 861087,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 17,
+    "text": "Not that I seek the gift itself, but I seek for the profit which increases to your account."
+  },
+  {
+    "pk": 861088,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 18,
+    "text": "But I have received everything in full and have an abundance; I am amply supplied, having received from Epaphroditus what you have sent, a fragrant aroma, an acceptable sacrifice, well-pleasing to God."
+  },
+  {
+    "pk": 861089,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 19,
+    "text": "And my God will supply all your needs according to His riches in glory in Christ Jesus."
+  },
+  {
+    "pk": 861090,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 20,
+    "text": "Now to our God and Father [be] the glory forever and ever. Amen."
+  },
+  {
+    "pk": 861091,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 21,
+    "text": "Greet every saint in Christ Jesus. The brethren who are with me greet you."
+  },
+  {
+    "pk": 861092,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 22,
+    "text": "All the saints greet you, especially those of Caesar's household."
+  },
+  {
+    "pk": 861093,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 4,
+    "verse": 23,
+    "text": "The grace of the Lord Jesus Christ be with your spirit."
+  }
+];

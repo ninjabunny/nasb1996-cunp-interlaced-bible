@@ -1,0 +1,179 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/08"] = [
+  {
+    "pk": 844658,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 1,
+    "text": "Then Bildad the Shuhite answered,"
+  },
+  {
+    "pk": 844659,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 2,
+    "text": "'How long will you say these things, And the words of your mouth be a mighty wind?"
+  },
+  {
+    "pk": 844660,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 3,
+    "text": "'Does God pervert justice? Or does the Almighty pervert what is right?"
+  },
+  {
+    "pk": 844661,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 4,
+    "text": "'If your sons sinned against Him, Then He delivered them into the power of their transgression."
+  },
+  {
+    "pk": 844662,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 5,
+    "text": "'If you would seek God And implore the compassion of the Almighty,"
+  },
+  {
+    "pk": 844663,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 6,
+    "text": "If you are pure and upright, Surely now He would rouse Himself for you And restore your righteous estate."
+  },
+  {
+    "pk": 844664,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 7,
+    "text": "'Though your beginning was insignificant, Yet your end will increase greatly."
+  },
+  {
+    "pk": 844665,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 8,
+    "text": "'Please inquire of past generations, And consider the things searched out by their fathers."
+  },
+  {
+    "pk": 844666,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 9,
+    "text": "'For we are [only] of yesterday and know nothing, Because our days on earth are as a shadow."
+  },
+  {
+    "pk": 844667,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 10,
+    "text": "'Will they not teach you [and] tell you, And bring forth words from their minds?"
+  },
+  {
+    "pk": 844668,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 11,
+    "text": "'Can the papyrus grow up without a marsh? Can the rushes grow without water?"
+  },
+  {
+    "pk": 844669,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 12,
+    "text": "'While it is still green [and] not cut down, Yet it withers before any [other] plant."
+  },
+  {
+    "pk": 844670,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 13,
+    "text": "'So are the paths of all who forget God; And the hope of the godless will perish,"
+  },
+  {
+    "pk": 844671,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 14,
+    "text": "Whose confidence is fragile, And whose trust a spider's web."
+  },
+  {
+    "pk": 844672,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 15,
+    "text": "'He trusts in his house, but it does not stand; He holds fast to it, but it does not endure."
+  },
+  {
+    "pk": 844673,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 16,
+    "text": "'He thrives before the sun, And his shoots spread out over his garden."
+  },
+  {
+    "pk": 844674,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 17,
+    "text": "'His roots wrap around a rock pile, He grasps a house of stones."
+  },
+  {
+    "pk": 844675,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 18,
+    "text": "'If he is removed from his place, Then it will deny him, [saying], 'I never saw you.'"
+  },
+  {
+    "pk": 844676,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 19,
+    "text": "'Behold, this is the joy of His way; And out of the dust others will spring."
+  },
+  {
+    "pk": 844677,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 20,
+    "text": "'Lo, God will not reject [a man of] integrity, Nor will He support the evildoers."
+  },
+  {
+    "pk": 844678,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 21,
+    "text": "'He will yet fill your mouth with laughter And your lips with shouting."
+  },
+  {
+    "pk": 844679,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 8,
+    "verse": 22,
+    "text": "'Those who hate you will be clothed with shame, And the tent of the wicked will be no longer.'"
+  }
+];

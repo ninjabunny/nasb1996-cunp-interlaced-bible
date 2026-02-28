@@ -1,0 +1,299 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/44/04"] = [
+  {
+    "pk": 858651,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 1,
+    "text": "As they were speaking to the people, the priests and the captain of the temple [guard] and the Sadducees came up to them,"
+  },
+  {
+    "pk": 858652,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 2,
+    "text": "being greatly disturbed because they were teaching the people and proclaiming in Jesus the resurrection from the dead."
+  },
+  {
+    "pk": 858653,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 3,
+    "text": "And they laid hands on them and put them in jail until the next day, for it was already evening."
+  },
+  {
+    "pk": 858654,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 4,
+    "text": "But many of those who had heard the message believed; and the number of the men came to be about five thousand."
+  },
+  {
+    "pk": 858655,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 5,
+    "text": "On the next day, their rulers and elders and scribes were gathered together in Jerusalem;"
+  },
+  {
+    "pk": 858656,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 6,
+    "text": "and Annas the high priest [was there], and Caiaphas and John and Alexander, and all who were of high-priestly descent."
+  },
+  {
+    "pk": 858657,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 7,
+    "text": "When they had placed them in the center, they [began to] inquire, 'By what power, or in what name, have you done this?'"
+  },
+  {
+    "pk": 858658,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 8,
+    "text": "Then Peter, filled with the Holy Spirit, said to them, 'Rulers and elders of the people,"
+  },
+  {
+    "pk": 858659,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 9,
+    "text": "if we are on trial today for a benefit done to a sick man, as to how this man has been made well,"
+  },
+  {
+    "pk": 858660,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 10,
+    "text": "let it be known to all of you and to all the people of Israel, that by the name of Jesus Christ the Nazarene, whom you crucified, whom God raised from the dead-- by this [name] this man stands here before you in good health."
+  },
+  {
+    "pk": 858661,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 11,
+    "text": "'He is the STONE WHICH WAS REJECTED by you, THE BUILDERS, [but] WHICH BECAME THE CHIEF CORNER [stone]."
+  },
+  {
+    "pk": 858662,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 12,
+    "text": "'And there is salvation in no one else; for there is no other name under heaven that has been given among men by which we must be saved.'"
+  },
+  {
+    "pk": 858663,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 13,
+    "text": "Now as they observed the confidence of Peter and John and understood that they were uneducated and untrained men, they were amazed, and [began] to recognize them as having been with Jesus."
+  },
+  {
+    "pk": 858664,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 14,
+    "text": "And seeing the man who had been healed standing with them, they had nothing to say in reply."
+  },
+  {
+    "pk": 858665,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 15,
+    "text": "But when they had ordered them to leave the Council, they [began] to confer with one another,"
+  },
+  {
+    "pk": 858666,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 16,
+    "text": "saying, 'What shall we do with these men? For the fact that a noteworthy miracle has taken place through them is apparent to all who live in Jerusalem, and we cannot deny it."
+  },
+  {
+    "pk": 858667,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 17,
+    "text": "'But so that it will not spread any further among the people, let us warn them to speak no longer to any man in this name.'"
+  },
+  {
+    "pk": 858668,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 18,
+    "text": "And when they had summoned them, they commanded them not to speak or teach at all in the name of Jesus."
+  },
+  {
+    "pk": 858669,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 19,
+    "text": "But Peter and John answered and said to them, 'Whether it is right in the sight of God to give heed to you rather than to God, you be the judge;"
+  },
+  {
+    "pk": 858670,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 20,
+    "text": "for we cannot stop speaking about what we have seen and heard.'"
+  },
+  {
+    "pk": 858671,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 21,
+    "text": "When they had threatened them further, they let them go (finding no basis on which to punish them) on account of the people, because they were all glorifying God for what had happened;"
+  },
+  {
+    "pk": 858672,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 22,
+    "text": "for the man was more than forty years old on whom this miracle of healing had been performed."
+  },
+  {
+    "pk": 858673,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 23,
+    "text": "When they had been released, they went to their own [companions] and reported all that the chief priests and the elders had said to them."
+  },
+  {
+    "pk": 858674,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 24,
+    "text": "And when they heard [this], they lifted their voices to God with one accord and said, 'O Lord, it is You who MADE THE HEAVEN AND THE EARTH AND THE SEA, AND ALL THAT IS IN THEM,"
+  },
+  {
+    "pk": 858675,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 25,
+    "text": "who by the Holy Spirit, [through] the mouth of our father David Your servant, said, 'WHY DID THE GENTILES RAGE, AND THE PEOPLES DEVISE FUTILE THINGS?"
+  },
+  {
+    "pk": 858676,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 26,
+    "text": "'THE KINGS OF THE EARTH TOOK THEIR STAND, AND THE RULERS WERE GATHERED TOGETHER AGAINST THE LORD AND AGAINST HIS CHRIST.'"
+  },
+  {
+    "pk": 858677,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 27,
+    "text": "'For truly in this city there were gathered together against Your holy servant Jesus, whom You anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel,"
+  },
+  {
+    "pk": 858678,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 28,
+    "text": "to do whatever Your hand and Your purpose predestined to occur."
+  },
+  {
+    "pk": 858679,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 29,
+    "text": "'And now, Lord, take note of their threats, and grant that Your bond-servants may speak Your word with all confidence,"
+  },
+  {
+    "pk": 858680,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 30,
+    "text": "while You extend Your hand to heal, and signs and wonders take place through the name of Your holy servant Jesus.'"
+  },
+  {
+    "pk": 858681,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 31,
+    "text": "And when they had prayed, the place where they had gathered together was shaken, and they were all filled with the Holy Spirit and [began] to speak the word of God with boldness."
+  },
+  {
+    "pk": 858682,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 32,
+    "text": "And the congregation of those who believed were of one heart and soul; and not one [of them] claimed that anything belonging to him was his own, but all things were common property to them."
+  },
+  {
+    "pk": 858683,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 33,
+    "text": "And with great power the apostles were giving testimony to the resurrection of the Lord Jesus, and abundant grace was upon them all."
+  },
+  {
+    "pk": 858684,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 34,
+    "text": "For there was not a needy person among them, for all who were owners of land or houses would sell them and bring the proceeds of the sales"
+  },
+  {
+    "pk": 858685,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 35,
+    "text": "and lay them at the apostles' feet, and they would be distributed to each as any had need."
+  },
+  {
+    "pk": 858686,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 36,
+    "text": "Now Joseph, a Levite of Cyprian birth, who was also called Barnabas by the apostles (which translated means Son of Encouragement),"
+  },
+  {
+    "pk": 858687,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 4,
+    "verse": 37,
+    "text": "and who owned a tract of land, sold it and brought the money and laid it at the apostles' feet."
+  }
+];

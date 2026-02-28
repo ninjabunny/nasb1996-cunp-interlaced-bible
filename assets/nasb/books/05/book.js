@@ -1,0 +1,7849 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/05/book"] = {
+  "translation": "NASB",
+  "book": 5,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 836521,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 1,
+          "text": "These are the words which Moses spoke to all Israel across the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel and Laban and Hazeroth and Dizahab."
+        },
+        {
+          "pk": 836522,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 2,
+          "text": "It is eleven days' [journey] from Horeb by the way of Mount Seir to Kadesh-barnea."
+        },
+        {
+          "pk": 836523,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 3,
+          "text": "In the fortieth year, on the first [day] of the eleventh month, Moses spoke to the children of Israel, according to all that the LORD had commanded him [to give] to them,"
+        },
+        {
+          "pk": 836524,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 4,
+          "text": "after he had defeated Sihon the king of the Amorites, who lived in Heshbon, and Og the king of Bashan, who lived in Ashtaroth and Edrei."
+        },
+        {
+          "pk": 836525,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 5,
+          "text": "Across the Jordan in the land of Moab, Moses undertook to expound this law, saying,"
+        },
+        {
+          "pk": 836526,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 6,
+          "text": "'The LORD our God spoke to us at Horeb, saying, 'You have stayed long enough at this mountain."
+        },
+        {
+          "pk": 836527,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 7,
+          "text": "'Turn and set your journey, and go to the hill country of the Amorites, and to all their neighbors in the Arabah, in the hill country and in the lowland and in the Negev and by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates."
+        },
+        {
+          "pk": 836528,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 8,
+          "text": "'See, I have placed the land before you; go in and possess the land which the LORD swore to give to your fathers, to Abraham, to Isaac, and to Jacob, to them and their descendants after them.'"
+        },
+        {
+          "pk": 836529,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 9,
+          "text": "'I spoke to you at that time, saying, 'I am not able to bear [the burden] of you alone."
+        },
+        {
+          "pk": 836530,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 10,
+          "text": "'The LORD your God has multiplied you, and behold, you are this day like the stars of heaven in number."
+        },
+        {
+          "pk": 836531,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 11,
+          "text": "'May the LORD, the God of your fathers, increase you a thousand-fold more than you are and bless you, just as He has promised you!"
+        },
+        {
+          "pk": 836532,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 12,
+          "text": "'How can I alone bear the load and burden of you and your strife?"
+        },
+        {
+          "pk": 836533,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 13,
+          "text": "'Choose wise and discerning and experienced men from your tribes, and I will appoint them as your heads.'"
+        },
+        {
+          "pk": 836534,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 14,
+          "text": "'You answered me and said, 'The thing which you have said to do is good.'"
+        },
+        {
+          "pk": 836535,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 15,
+          "text": "'So I took the heads of your tribes, wise and experienced men, and appointed them heads over you, leaders of thousands and of hundreds, of fifties and of tens, and officers for your tribes."
+        },
+        {
+          "pk": 836536,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 16,
+          "text": "'Then I charged your judges at that time, saying, 'Hear [the cases] between your fellow countrymen, and judge righteously between a man and his fellow countryman, or the alien who is with him."
+        },
+        {
+          "pk": 836537,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 17,
+          "text": "'You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not fear man, for the judgment is God's. The case that is too hard for you, you shall bring to me, and I will hear it.'"
+        },
+        {
+          "pk": 836538,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 18,
+          "text": "'I commanded you at that time all the things that you should do."
+        },
+        {
+          "pk": 836539,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 19,
+          "text": "'Then we set out from Horeb, and went through all that great and terrible wilderness which you saw on the way to the hill country of the Amorites, just as the LORD our God had commanded us; and we came to Kadesh-barnea."
+        },
+        {
+          "pk": 836540,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 20,
+          "text": "'I said to you, 'You have come to the hill country of the Amorites which the LORD our God is about to give us."
+        },
+        {
+          "pk": 836541,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 21,
+          "text": "'See, the LORD your God has placed the land before you; go up, take possession, as the LORD, the God of your fathers, has spoken to you. Do not fear or be dismayed.'"
+        },
+        {
+          "pk": 836542,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 22,
+          "text": "'Then all of you approached me and said, 'Let us send men before us, that they may search out the land for us, and bring back to us word of the way by which we should go up and the cities which we shall enter.'"
+        },
+        {
+          "pk": 836543,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 23,
+          "text": "'The thing pleased me and I took twelve of your men, one man for each tribe."
+        },
+        {
+          "pk": 836544,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 24,
+          "text": "'They turned and went up into the hill country, and came to the valley of Eshcol and spied it out."
+        },
+        {
+          "pk": 836545,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 25,
+          "text": "'Then they took [some] of the fruit of the land in their hands and brought it down to us; and they brought us back a report and said, 'It is a good land which the LORD our God is about to give us.'"
+        },
+        {
+          "pk": 836546,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 26,
+          "text": "'Yet you were not willing to go up, but rebelled against the command of the LORD your God;"
+        },
+        {
+          "pk": 836547,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 27,
+          "text": "and you grumbled in your tents and said, 'Because the LORD hates us, He has brought us out of the land of Egypt to deliver us into the hand of the Amorites to destroy us."
+        },
+        {
+          "pk": 836548,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 28,
+          "text": "'Where can we go up? Our brethren have made our hearts melt, saying, 'The people are bigger and taller than we; the cities are large and fortified to heaven. And besides, we saw the sons of the Anakim there.''"
+        },
+        {
+          "pk": 836549,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 29,
+          "text": "'Then I said to you, 'Do not be shocked, nor fear them."
+        },
+        {
+          "pk": 836550,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 30,
+          "text": "'The LORD your God who goes before you will Himself fight on your behalf, just as He did for you in Egypt before your eyes,"
+        },
+        {
+          "pk": 836551,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 31,
+          "text": "and in the wilderness where you saw how the LORD your God carried you, just as a man carries his son, in all the way which you have walked until you came to this place.'"
+        },
+        {
+          "pk": 836552,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 32,
+          "text": "'But for all this, you did not trust the LORD your God,"
+        },
+        {
+          "pk": 836553,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 33,
+          "text": "who goes before you on [your] way, to seek out a place for you to encamp, in fire by night and cloud by day, to show you the way in which you should go."
+        },
+        {
+          "pk": 836554,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 34,
+          "text": "'Then the LORD heard the sound of your words, and He was angry and took an oath, saying,"
+        },
+        {
+          "pk": 836555,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 35,
+          "text": "'Not one of these men, this evil generation, shall see the good land which I swore to give your fathers,"
+        },
+        {
+          "pk": 836556,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 36,
+          "text": "except Caleb the son of Jephunneh; he shall see it, and to him and to his sons I will give the land on which he has set foot, because he has followed the LORD fully.'"
+        },
+        {
+          "pk": 836557,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 37,
+          "text": "'The LORD was angry with me also on your account, saying, 'Not even you shall enter there."
+        },
+        {
+          "pk": 836558,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 38,
+          "text": "'Joshua the son of Nun, who stands before you, he shall enter there; encourage him, for he will cause Israel to inherit it."
+        },
+        {
+          "pk": 836559,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 39,
+          "text": "'Moreover, your little ones who you said would become a prey, and your sons, who this day have no knowledge of good or evil, shall enter there, and I will give it to them and they shall possess it."
+        },
+        {
+          "pk": 836560,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 40,
+          "text": "'But as for you, turn around and set out for the wilderness by the way to the Red Sea.'"
+        },
+        {
+          "pk": 836561,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 41,
+          "text": "'Then you said to me, 'We have sinned against the LORD; we will indeed go up and fight, just as the LORD our God commanded us.' And every man of you girded on his weapons of war, and regarded it as easy to go up into the hill country."
+        },
+        {
+          "pk": 836562,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 42,
+          "text": "'And the LORD said to me, 'Say to them, 'Do not go up nor fight, for I am not among you; otherwise you will be defeated before your enemies.''"
+        },
+        {
+          "pk": 836563,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 43,
+          "text": "'So I spoke to you, but you would not listen. Instead you rebelled against the command of the LORD, and acted presumptuously and went up into the hill country."
+        },
+        {
+          "pk": 836564,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 44,
+          "text": "'The Amorites who lived in that hill country came out against you and chased you as bees do, and crushed you from Seir to Hormah."
+        },
+        {
+          "pk": 836565,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 45,
+          "text": "'Then you returned and wept before the LORD; but the LORD did not listen to your voice nor give ear to you."
+        },
+        {
+          "pk": 836566,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 1,
+          "verse": 46,
+          "text": "'So you remained in Kadesh many days, the days that you spent [there]."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 836567,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 1,
+          "text": "'Then we turned and set out for the wilderness by the way to the Red Sea, as the LORD spoke to me, and circled Mount Seir for many days."
+        },
+        {
+          "pk": 836568,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 2,
+          "text": "'And the LORD spoke to me, saying,"
+        },
+        {
+          "pk": 836569,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 3,
+          "text": "'You have circled this mountain long enough. [Now] turn north,"
+        },
+        {
+          "pk": 836570,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 4,
+          "text": "and command the people, saying, 'You will pass through the territory of your brothers the sons of Esau who live in Seir; and they will be afraid of you. So be very careful;"
+        },
+        {
+          "pk": 836571,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 5,
+          "text": "do not provoke them, for I will not give you any of their land, even [as little as] a footstep because I have given Mount Seir to Esau as a possession."
+        },
+        {
+          "pk": 836572,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 6,
+          "text": "'You shall buy food from them with money so that you may eat, and you shall also purchase water from them with money so that you may drink."
+        },
+        {
+          "pk": 836573,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 7,
+          "text": "'For the LORD your God has blessed you in all that you have done; He has known your wanderings through this great wilderness. These forty years the LORD your God has been with you; you have not lacked a thing.''"
+        },
+        {
+          "pk": 836574,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 8,
+          "text": "'So we passed beyond our brothers the sons of Esau, who live in Seir, away from the Arabah road, away from Elath and from Ezion-geber. And we turned and passed through by the way of the wilderness of Moab."
+        },
+        {
+          "pk": 836575,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 9,
+          "text": "'Then the LORD said to me, 'Do not harass Moab, nor provoke them to war, for I will not give you any of their land as a possession, because I have given Ar to the sons of Lot as a possession."
+        },
+        {
+          "pk": 836576,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 10,
+          "text": "(The Emim lived there formerly, a people as great, numerous, and tall as the Anakim."
+        },
+        {
+          "pk": 836577,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 11,
+          "text": "Like the Anakim, they are also regarded as Rephaim, but the Moabites call them Emim."
+        },
+        {
+          "pk": 836578,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 12,
+          "text": "The Horites formerly lived in Seir, but the sons of Esau dispossessed them and destroyed them from before them and settled in their place, just as Israel did to the land of their possession which the LORD gave to them.)"
+        },
+        {
+          "pk": 836579,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 13,
+          "text": "'Now arise and cross over the brook Zered yourselves.' So we crossed over the brook Zered."
+        },
+        {
+          "pk": 836580,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 14,
+          "text": "'Now the time that it took for us to come from Kadesh-barnea until we crossed over the brook Zered was thirty-eight years, until all the generation of the men of war perished from within the camp, as the LORD had sworn to them."
+        },
+        {
+          "pk": 836581,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 15,
+          "text": "'Moreover the hand of the LORD was against them, to destroy them from within the camp until they all perished."
+        },
+        {
+          "pk": 836582,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 16,
+          "text": "'So it came about when all the men of war had finally perished from among the people,"
+        },
+        {
+          "pk": 836583,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 17,
+          "text": "that the LORD spoke to me, saying,"
+        },
+        {
+          "pk": 836584,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 18,
+          "text": "'Today you shall cross over Ar, the border of Moab."
+        },
+        {
+          "pk": 836585,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 19,
+          "text": "'When you come opposite the sons of Ammon, do not harass them nor provoke them, for I will not give you any of the land of the sons of Ammon as a possession, because I have given it to the sons of Lot as a possession.'"
+        },
+        {
+          "pk": 836586,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 20,
+          "text": "(It is also regarded as the land of the Rephaim, [for] Rephaim formerly lived in it, but the Ammonites call them Zamzummin,"
+        },
+        {
+          "pk": 836587,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 21,
+          "text": "a people as great, numerous, and tall as the Anakim, but the LORD destroyed them before them. And they dispossessed them and settled in their place,"
+        },
+        {
+          "pk": 836588,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 22,
+          "text": "just as He did for the sons of Esau, who live in Seir, when He destroyed the Horites from before them; they dispossessed them and settled in their place even to this day."
+        },
+        {
+          "pk": 836589,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 23,
+          "text": "And the Avvim, who lived in villages as far as Gaza, the Caphtorim who came from Caphtor, destroyed them and lived in their place.)"
+        },
+        {
+          "pk": 836590,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 24,
+          "text": "'Arise, set out, and pass through the valley of Arnon. Look! I have given Sihon the Amorite, king of Heshbon, and his land into your hand; begin to take possession and contend with him in battle."
+        },
+        {
+          "pk": 836591,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 25,
+          "text": "'This day I will begin to put the dread and fear of you upon the peoples everywhere under the heavens, who, when they hear the report of you, will tremble and be in anguish because of you.'"
+        },
+        {
+          "pk": 836592,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 26,
+          "text": "'So I sent messengers from the wilderness of Kedemoth to Sihon king of Heshbon with words of peace, saying,"
+        },
+        {
+          "pk": 836593,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 27,
+          "text": "'Let me pass through your land, I will travel only on the highway; I will not turn aside to the right or to the left."
+        },
+        {
+          "pk": 836594,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 28,
+          "text": "'You will sell me food for money so that I may eat, and give me water for money so that I may drink, only let me pass through on foot,"
+        },
+        {
+          "pk": 836595,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 29,
+          "text": "just as the sons of Esau who live in Seir and the Moabites who live in Ar did for me, until I cross over the Jordan into the land which the LORD our God is giving to us.'"
+        },
+        {
+          "pk": 836596,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 30,
+          "text": "'But Sihon king of Heshbon was not willing for us to pass through his land; for the LORD your God hardened his spirit and made his heart obstinate, in order to deliver him into your hand, as [he is] today."
+        },
+        {
+          "pk": 836597,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 31,
+          "text": "'The LORD said to me, 'See, I have begun to deliver Sihon and his land over to you. Begin to occupy, that you may possess his land.'"
+        },
+        {
+          "pk": 836598,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 32,
+          "text": "'Then Sihon with all his people came out to meet us in battle at Jahaz."
+        },
+        {
+          "pk": 836599,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 33,
+          "text": "'The LORD our God delivered him over to us, and we defeated him with his sons and all his people."
+        },
+        {
+          "pk": 836600,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 34,
+          "text": "'So we captured all his cities at that time and utterly destroyed the men, women and children of every city. We left no survivor."
+        },
+        {
+          "pk": 836601,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 35,
+          "text": "'We took only the animals as our booty and the spoil of the cities which we had captured."
+        },
+        {
+          "pk": 836602,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 36,
+          "text": "'From Aroer which is on the edge of the valley of Arnon and [from] the city which is in the valley, even to Gilead, there was no city that was too high for us; the LORD our God delivered all over to us."
+        },
+        {
+          "pk": 836603,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 2,
+          "verse": 37,
+          "text": "'Only you did not go near to the land of the sons of Ammon, all along the river Jabbok and the cities of the hill country, and wherever the LORD our God had commanded us."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 836604,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 1,
+          "text": "'Then we turned and went up the road to Bashan, and Og, king of Bashan, with all his people came out to meet us in battle at Edrei."
+        },
+        {
+          "pk": 836605,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 2,
+          "text": "'But the LORD said to me, 'Do not fear him, for I have delivered him and all his people and his land into your hand; and you shall do to him just as you did to Sihon king of the Amorites, who lived at Heshbon.'"
+        },
+        {
+          "pk": 836606,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 3,
+          "text": "'So the LORD our God delivered Og also, king of Bashan, with all his people into our hand, and we smote them until no survivor was left."
+        },
+        {
+          "pk": 836607,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 4,
+          "text": "'We captured all his cities at that time; there was not a city which we did not take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan."
+        },
+        {
+          "pk": 836608,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 5,
+          "text": "'All these were cities fortified with high walls, gates and bars, besides a great many unwalled towns."
+        },
+        {
+          "pk": 836609,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 6,
+          "text": "'We utterly destroyed them, as we did to Sihon king of Heshbon, utterly destroying the men, women and children of every city."
+        },
+        {
+          "pk": 836610,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 7,
+          "text": "'But all the animals and the spoil of the cities we took as our booty."
+        },
+        {
+          "pk": 836611,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 8,
+          "text": "'Thus we took the land at that time from the hand of the two kings of the Amorites who were beyond the Jordan, from the valley of Arnon to Mount Hermon"
+        },
+        {
+          "pk": 836612,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 9,
+          "text": "(Sidonians call Hermon Sirion, and the Amorites call it Senir):"
+        },
+        {
+          "pk": 836613,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 10,
+          "text": "all the cities of the plateau and all Gilead and all Bashan, as far as Salecah and Edrei, cities of the kingdom of Og in Bashan."
+        },
+        {
+          "pk": 836614,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 11,
+          "text": "(For only Og king of Bashan was left of the remnant of the Rephaim. Behold, his bedstead was an iron bedstead; it is in Rabbah of the sons of Ammon. Its length was nine cubits and its width four cubits by ordinary cubit.)"
+        },
+        {
+          "pk": 836615,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 12,
+          "text": "'So we took possession of this land at that time. From Aroer, which is by the valley of Arnon, and half the hill country of Gilead and its cities I gave to the Reubenites and to the Gadites."
+        },
+        {
+          "pk": 836616,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 13,
+          "text": "'The rest of Gilead and all Bashan, the kingdom of Og, I gave to the half-tribe of Manasseh, all the region of Argob (concerning all Bashan, it is called the land of Rephaim."
+        },
+        {
+          "pk": 836617,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 14,
+          "text": "Jair the son of Manasseh took all the region of Argob as far as the border of the Geshurites and the Maacathites, and called it, [that is], Bashan, after his own name, Havvoth-jair, [as it is] to this day.)"
+        },
+        {
+          "pk": 836618,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 15,
+          "text": "'To Machir I gave Gilead."
+        },
+        {
+          "pk": 836619,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 16,
+          "text": "'To the Reubenites and to the Gadites I gave from Gilead even as far as the valley of Arnon, the middle of the valley as a border and as far as the river Jabbok, the border of the sons of Ammon;"
+        },
+        {
+          "pk": 836620,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 17,
+          "text": "the Arabah also, with the Jordan as [a] border, from Chinnereth even as far as the sea of the Arabah, the Salt Sea, at the foot of the slopes of Pisgah on the east."
+        },
+        {
+          "pk": 836621,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 18,
+          "text": "'Then I commanded you at that time, saying, 'The LORD your God has given you this land to possess it; all you valiant men shall cross over armed before your brothers, the sons of Israel."
+        },
+        {
+          "pk": 836622,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 19,
+          "text": "'But your wives and your little ones and your livestock (I know that you have much livestock) shall remain in your cities which I have given you,"
+        },
+        {
+          "pk": 836623,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 20,
+          "text": "until the LORD gives rest to your fellow countrymen as to you, and they also possess the land which the LORD your God will give them beyond the Jordan. Then you may return every man to his possession which I have given you.'"
+        },
+        {
+          "pk": 836624,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 21,
+          "text": "'I commanded Joshua at that time, saying, 'Your eyes have seen all that the LORD your God has done to these two kings; so the LORD shall do to all the kingdoms into which you are about to cross."
+        },
+        {
+          "pk": 836625,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 22,
+          "text": "'Do not fear them, for the LORD your God is the one fighting for you.'"
+        },
+        {
+          "pk": 836626,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 23,
+          "text": "'I also pleaded with the LORD at that time, saying,"
+        },
+        {
+          "pk": 836627,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 24,
+          "text": "'O Lord GOD, You have begun to show Your servant Your greatness and Your strong hand; for what god is there in heaven or on earth who can do such works and mighty acts as Yours?"
+        },
+        {
+          "pk": 836628,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 25,
+          "text": "'Let me, I pray, cross over and see the fair land that is beyond the Jordan, that good hill country and Lebanon.'"
+        },
+        {
+          "pk": 836629,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 26,
+          "text": "'But the LORD was angry with me on your account, and would not listen to me; and the LORD said to me, 'Enough! Speak to Me no more of this matter."
+        },
+        {
+          "pk": 836630,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 27,
+          "text": "'Go up to the top of Pisgah and lift up your eyes to the west and north and south and east, and see [it] with your eyes, for you shall not cross over this Jordan."
+        },
+        {
+          "pk": 836631,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 28,
+          "text": "'But charge Joshua and encourage him and strengthen him, for he shall go across at the head of this people, and he will give them as an inheritance the land which you will see.'"
+        },
+        {
+          "pk": 836632,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 3,
+          "verse": 29,
+          "text": "'So we remained in the valley opposite Beth-peor."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 836633,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 1,
+          "text": "'Now, O Israel, listen to the statutes and the judgments which I am teaching you to perform, so that you may live and go in and take possession of the land which the LORD, the God of your fathers, is giving you."
+        },
+        {
+          "pk": 836634,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 2,
+          "text": "'You shall not add to the word which I am commanding you, nor take away from it, that you may keep the commandments of the LORD your God which I command you."
+        },
+        {
+          "pk": 836635,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 3,
+          "text": "'Your eyes have seen what the LORD has done in the case of Baal-peor, for all the men who followed Baal-peor, the LORD your God has destroyed them from among you."
+        },
+        {
+          "pk": 836636,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 4,
+          "text": "'But you who held fast to the LORD your God are alive today, every one of you."
+        },
+        {
+          "pk": 836637,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 5,
+          "text": "'See, I have taught you statutes and judgments just as the LORD my God commanded me, that you should do thus in the land where you are entering to possess it."
+        },
+        {
+          "pk": 836638,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 6,
+          "text": "'So keep and do [them], for that is your wisdom and your understanding in the sight of the peoples who will hear all these statutes and say, 'Surely this great nation is a wise and understanding people.'"
+        },
+        {
+          "pk": 836639,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 7,
+          "text": "'For what great nation is there that has a god so near to it as is the LORD our God whenever we call on Him?"
+        },
+        {
+          "pk": 836640,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 8,
+          "text": "'Or what great nation is there that has statutes and judgments as righteous as this whole law which I am setting before you today?"
+        },
+        {
+          "pk": 836641,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 9,
+          "text": "'Only give heed to yourself and keep your soul diligently, so that you do not forget the things which your eyes have seen and they do not depart from your heart all the days of your life; but make them known to your sons and your grandsons."
+        },
+        {
+          "pk": 836642,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 10,
+          "text": "'[Remember] the day you stood before the LORD your God at Horeb, when the LORD said to me, 'Assemble the people to Me, that I may let them hear My words so they may learn to fear Me all the days they live on the earth, and that they may teach their children.'"
+        },
+        {
+          "pk": 836643,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 11,
+          "text": "'You came near and stood at the foot of the mountain, and the mountain burned with fire to the [very] heart of the heavens: darkness, cloud and thick gloom."
+        },
+        {
+          "pk": 836644,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 12,
+          "text": "'Then the LORD spoke to you from the midst of the fire; you heard the sound of words, but you saw no form-- only a voice."
+        },
+        {
+          "pk": 836645,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 13,
+          "text": "'So He declared to you His covenant which He commanded you to perform, [that is], the Ten Commandments; and He wrote them on two tablets of stone."
+        },
+        {
+          "pk": 836646,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 14,
+          "text": "'The LORD commanded me at that time to teach you statutes and judgments, that you might perform them in the land where you are going over to possess it."
+        },
+        {
+          "pk": 836647,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 15,
+          "text": "'So watch yourselves carefully, since you did not see any form on the day the LORD spoke to you at Horeb from the midst of the fire,"
+        },
+        {
+          "pk": 836648,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 16,
+          "text": "so that you do not act corruptly and make a graven image for yourselves in the form of any figure, the likeness of male or female,"
+        },
+        {
+          "pk": 836649,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 17,
+          "text": "the likeness of any animal that is on the earth, the likeness of any winged bird that flies in the sky,"
+        },
+        {
+          "pk": 836650,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 18,
+          "text": "the likeness of anything that creeps on the ground, the likeness of any fish that is in the water below the earth."
+        },
+        {
+          "pk": 836651,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 19,
+          "text": "'And [beware] not to lift up your eyes to heaven and see the sun and the moon and the stars, all the host of heaven, and be drawn away and worship them and serve them, those which the LORD your God has allotted to all the peoples under the whole heaven."
+        },
+        {
+          "pk": 836652,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 20,
+          "text": "'But the LORD has taken you and brought you out of the iron furnace, from Egypt, to be a people for His own possession, as today."
+        },
+        {
+          "pk": 836653,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 21,
+          "text": "'Now the LORD was angry with me on your account, and swore that I would not cross the Jordan, and that I would not enter the good land which the LORD your God is giving you as an inheritance."
+        },
+        {
+          "pk": 836654,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 22,
+          "text": "'For I will die in this land, I shall not cross the Jordan, but you shall cross and take possession of this good land."
+        },
+        {
+          "pk": 836655,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 23,
+          "text": "'So watch yourselves, that you do not forget the covenant of the LORD your God which He made with you, and make for yourselves a graven image in the form of anything [against] which the LORD your God has commanded you."
+        },
+        {
+          "pk": 836656,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 24,
+          "text": "'For the LORD your God is a consuming fire, a jealous God."
+        },
+        {
+          "pk": 836657,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 25,
+          "text": "'When you become the father of children and children's children and have remained long in the land, and act corruptly, and make an idol in the form of anything, and do that which is evil in the sight of the LORD your God [so as] to provoke Him to anger,"
+        },
+        {
+          "pk": 836658,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 26,
+          "text": "I call heaven and earth to witness against you today, that you will surely perish quickly from the land where you are going over the Jordan to possess it. You shall not live long on it, but will be utterly destroyed."
+        },
+        {
+          "pk": 836659,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 27,
+          "text": "'The LORD will scatter you among the peoples, and you will be left few in number among the nations where the LORD drives you."
+        },
+        {
+          "pk": 836660,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 28,
+          "text": "'There you will serve gods, the work of man's hands, wood and stone, which neither see nor hear nor eat nor smell."
+        },
+        {
+          "pk": 836661,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 29,
+          "text": "'But from there you will seek the LORD your God, and you will find [Him] if you search for Him with all your heart and all your soul."
+        },
+        {
+          "pk": 836662,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 30,
+          "text": "'When you are in distress and all these things have come upon you, in the latter days you will return to the LORD your God and listen to His voice."
+        },
+        {
+          "pk": 836663,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 31,
+          "text": "'For the LORD your God is a compassionate God; He will not fail you nor destroy you nor forget the covenant with your fathers which He swore to them."
+        },
+        {
+          "pk": 836664,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 32,
+          "text": "'Indeed, ask now concerning the former days which were before you, since the day that God created man on the earth, and [inquire] from one end of the heavens to the other. Has [anything] been done like this great thing, or has [anything] been heard like it?"
+        },
+        {
+          "pk": 836665,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 33,
+          "text": "'Has [any] people heard the voice of God speaking from the midst of the fire, as you have heard [it], and survived?"
+        },
+        {
+          "pk": 836666,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 34,
+          "text": "'Or has a god tried to go to take for himself a nation from within [another] nation by trials, by signs and wonders and by war and by a mighty hand and by an outstretched arm and by great terrors, as the LORD your God did for you in Egypt before your eyes?"
+        },
+        {
+          "pk": 836667,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 35,
+          "text": "'To you it was shown that you might know that the LORD, He is God; there is no other besides Him."
+        },
+        {
+          "pk": 836668,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 36,
+          "text": "'Out of the heavens He let you hear His voice to discipline you; and on earth He let you see His great fire, and you heard His words from the midst of the fire."
+        },
+        {
+          "pk": 836669,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 37,
+          "text": "'Because He loved your fathers, therefore He chose their descendants after them. And He personally brought you from Egypt by His great power,"
+        },
+        {
+          "pk": 836670,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 38,
+          "text": "driving out from before you nations greater and mightier than you, to bring you in [and] to give you their land for an inheritance, as it is today."
+        },
+        {
+          "pk": 836671,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 39,
+          "text": "'Know therefore today, and take it to your heart, that the LORD, He is God in heaven above and on the earth below; there is no other."
+        },
+        {
+          "pk": 836672,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 40,
+          "text": "'So you shall keep His statutes and His commandments which I am giving you today, that it may go well with you and with your children after you, and that you may live long on the land which the LORD your God is giving you for all time.'"
+        },
+        {
+          "pk": 836673,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 41,
+          "text": "Then Moses set apart three cities across the Jordan to the east,"
+        },
+        {
+          "pk": 836674,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 42,
+          "text": "that a manslayer might flee there, who unintentionally slew his neighbor without having enmity toward him in time past; and by fleeing to one of these cities he might live:"
+        },
+        {
+          "pk": 836675,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 43,
+          "text": "Bezer in the wilderness on the plateau for the Reubenites, and Ramoth in Gilead for the Gadites, and Golan in Bashan for the Manassites."
+        },
+        {
+          "pk": 836676,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 44,
+          "text": "Now this is the law which Moses set before the sons of Israel;"
+        },
+        {
+          "pk": 836677,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 45,
+          "text": "these are the testimonies and the statutes and the ordinances which Moses spoke to the sons of Israel, when they came out from Egypt,"
+        },
+        {
+          "pk": 836678,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 46,
+          "text": "across the Jordan, in the valley opposite Beth-peor, in the land of Sihon king of the Amorites who lived at Heshbon, whom Moses and the sons of Israel defeated when they came out from Egypt."
+        },
+        {
+          "pk": 836679,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 47,
+          "text": "They took possession of his land and the land of Og king of Bashan, the two kings of the Amorites, [who were] across the Jordan to the east,"
+        },
+        {
+          "pk": 836680,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 48,
+          "text": "from Aroer, which is on the edge of the valley of Arnon, even as far as Mount Sion (that is, Hermon),"
+        },
+        {
+          "pk": 836681,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 4,
+          "verse": 49,
+          "text": "with all the Arabah across the Jordan to the east, even as far as the sea of the Arabah, at the foot of the slopes of Pisgah."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 836682,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Then Moses summoned all Israel and said to them: 'Hear, O Israel, the statutes and the ordinances which I am speaking today in your hearing, that you may learn them and observe them carefully."
+        },
+        {
+          "pk": 836683,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 2,
+          "text": "'The LORD our God made a covenant with us at Horeb."
+        },
+        {
+          "pk": 836684,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 3,
+          "text": "'The LORD did not make this covenant with our fathers, but with us, [with] all those of us alive here today."
+        },
+        {
+          "pk": 836685,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 4,
+          "text": "'The LORD spoke to you face to face at the mountain from the midst of the fire,"
+        },
+        {
+          "pk": 836686,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 5,
+          "text": "[while] I was standing between the LORD and you at that time, to declare to you the word of the LORD; for you were afraid because of the fire and did not go up the mountain. He said,"
+        },
+        {
+          "pk": 836687,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 6,
+          "text": "'I am the LORD your God who brought you out of the land of Egypt, out of the house of slavery."
+        },
+        {
+          "pk": 836688,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 7,
+          "text": "'You shall have no other gods before Me."
+        },
+        {
+          "pk": 836689,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 8,
+          "text": "'You shall not make for yourself an idol, [or] any likeness [of] what is in heaven above or on the earth beneath or in the water under the earth."
+        },
+        {
+          "pk": 836690,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 9,
+          "text": "'You shall not worship them or serve them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on the children, and on the third and the fourth [generations] of those who hate Me,"
+        },
+        {
+          "pk": 836691,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 10,
+          "text": "but showing lovingkindness to thousands, to those who love Me and keep My commandments."
+        },
+        {
+          "pk": 836692,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 11,
+          "text": "'You shall not take the name of the LORD your God in vain, for the LORD will not leave him unpunished who takes His name in vain."
+        },
+        {
+          "pk": 836693,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 12,
+          "text": "'Observe the sabbath day to keep it holy, as the LORD your God commanded you."
+        },
+        {
+          "pk": 836694,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 13,
+          "text": "'Six days you shall labor and do all your work,"
+        },
+        {
+          "pk": 836695,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 14,
+          "text": "but the seventh day is a sabbath of the LORD your God; [in it] you shall not do any work, you or your son or your daughter or your male servant or your female servant or your ox or your donkey or any of your cattle or your sojourner who stays with you, so that your male servant and your female servant may rest as well as you."
+        },
+        {
+          "pk": 836696,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 15,
+          "text": "'You shall remember that you were a slave in the land of Egypt, and the LORD your God brought you out of there by a mighty hand and by an outstretched arm; therefore the LORD your God commanded you to observe the sabbath day."
+        },
+        {
+          "pk": 836697,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 16,
+          "text": "'Honor your father and your mother, as the LORD your God has commanded you, that your days may be prolonged and that it may go well with you on the land which the LORD your God gives you."
+        },
+        {
+          "pk": 836698,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 17,
+          "text": "'You shall not murder."
+        },
+        {
+          "pk": 836699,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 18,
+          "text": "'You shall not commit adultery."
+        },
+        {
+          "pk": 836700,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 19,
+          "text": "'You shall not steal."
+        },
+        {
+          "pk": 836701,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 20,
+          "text": "'You shall not bear false witness against your neighbor."
+        },
+        {
+          "pk": 836702,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 21,
+          "text": "'You shall not covet your neighbor's wife, and you shall not desire your neighbor's house, his field or his male servant or his female servant, his ox or his donkey or anything that belongs to your neighbor.'"
+        },
+        {
+          "pk": 836703,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 22,
+          "text": "'These words the LORD spoke to all your assembly at the mountain from the midst of the fire, [of] the cloud and [of] the thick gloom, with a great voice, and He added no more. He wrote them on two tablets of stone and gave them to me."
+        },
+        {
+          "pk": 836704,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 23,
+          "text": "'And when you heard the voice from the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes and your elders."
+        },
+        {
+          "pk": 836705,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 24,
+          "text": "'You said, 'Behold, the LORD our God has shown us His glory and His greatness, and we have heard His voice from the midst of the fire; we have seen today that God speaks with man, yet he lives."
+        },
+        {
+          "pk": 836706,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 25,
+          "text": "'Now then why should we die? For this great fire will consume us; if we hear the voice of the LORD our God any longer, then we will die."
+        },
+        {
+          "pk": 836707,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 26,
+          "text": "'For who is there of all flesh who has heard the voice of the living God speaking from the midst of the fire, as we [have], and lived?"
+        },
+        {
+          "pk": 836708,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 27,
+          "text": "'Go near and hear all that the LORD our God says; then speak to us all that the LORD our God speaks to you, and we will hear and do [it].'"
+        },
+        {
+          "pk": 836709,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 28,
+          "text": "'The LORD heard the voice of your words when you spoke to me, and the LORD said to me, 'I have heard the voice of the words of this people which they have spoken to you. They have done well in all that they have spoken."
+        },
+        {
+          "pk": 836710,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 29,
+          "text": "'Oh that they had such a heart in them, that they would fear Me and keep all My commandments always, that it may be well with them and with their sons forever!"
+        },
+        {
+          "pk": 836711,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 30,
+          "text": "'Go, say to them, 'Return to your tents.'"
+        },
+        {
+          "pk": 836712,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 31,
+          "text": "'But as for you, stand here by Me, that I may speak to you all the commandments and the statutes and the judgments which you shall teach them, that they may observe [them] in the land which I give them to possess.'"
+        },
+        {
+          "pk": 836713,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 32,
+          "text": "'So you shall observe to do just as the LORD your God has commanded you; you shall not turn aside to the right or to the left."
+        },
+        {
+          "pk": 836714,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 5,
+          "verse": 33,
+          "text": "'You shall walk in all the way which the LORD your God has commanded you, that you may live and that it may be well with you, and that you may prolong [your] days in the land which you will possess."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 836715,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 1,
+          "text": "'Now this is the commandment, the statutes and the judgments which the LORD your God has commanded [me] to teach you, that you might do [them] in the land where you are going over to possess it,"
+        },
+        {
+          "pk": 836716,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 2,
+          "text": "so that you and your son and your grandson might fear the LORD your God, to keep all His statutes and His commandments which I command you, all the days of your life, and that your days may be prolonged."
+        },
+        {
+          "pk": 836717,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 3,
+          "text": "'O Israel, you should listen and be careful to do [it], that it may be well with you and that you may multiply greatly, just as the LORD, the God of your fathers, has promised you, [in] a land flowing with milk and honey."
+        },
+        {
+          "pk": 836718,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 4,
+          "text": "'Hear, O Israel! The LORD is our God, the LORD is one!"
+        },
+        {
+          "pk": 836719,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 5,
+          "text": "'You shall love the LORD your God with all your heart and with all your soul and with all your might."
+        },
+        {
+          "pk": 836720,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 6,
+          "text": "'These words, which I am commanding you today, shall be on your heart."
+        },
+        {
+          "pk": 836721,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 7,
+          "text": "You shall teach them diligently to your sons and shall talk of them when you sit in your house and when you walk by the way and when you lie down and when you rise up."
+        },
+        {
+          "pk": 836722,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 8,
+          "text": "'You shall bind them as a sign on your hand and they shall be as frontals on your forehead."
+        },
+        {
+          "pk": 836723,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 9,
+          "text": "'You shall write them on the doorposts of your house and on your gates."
+        },
+        {
+          "pk": 836724,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 10,
+          "text": "'Then it shall come about when the LORD your God brings you into the land which He swore to your fathers, Abraham, Isaac and Jacob, to give you, great and splendid cities which you did not build,"
+        },
+        {
+          "pk": 836725,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 11,
+          "text": "and houses full of all good things which you did not fill, and hewn cisterns which you did not dig, vineyards and olive trees which you did not plant, and you eat and are satisfied,"
+        },
+        {
+          "pk": 836726,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 12,
+          "text": "then watch yourself, that you do not forget the LORD who brought you from the land of Egypt, out of the house of slavery."
+        },
+        {
+          "pk": 836727,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 13,
+          "text": "'You shall fear [only] the LORD your God; and you shall worship Him and swear by His name."
+        },
+        {
+          "pk": 836728,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 14,
+          "text": "'You shall not follow other gods, any of the gods of the peoples who surround you,"
+        },
+        {
+          "pk": 836729,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 15,
+          "text": "for the LORD your God in the midst of you is a jealous God; otherwise the anger of the LORD your God will be kindled against you, and He will wipe you off the face of the earth."
+        },
+        {
+          "pk": 836730,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 16,
+          "text": "'You shall not put the LORD your God to the test, as you tested [Him] at Massah."
+        },
+        {
+          "pk": 836731,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 17,
+          "text": "'You should diligently keep the commandments of the LORD your God, and His testimonies and His statutes which He has commanded you."
+        },
+        {
+          "pk": 836732,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 18,
+          "text": "'You shall do what is right and good in the sight of the LORD, that it may be well with you and that you may go in and possess the good land which the LORD swore to [give] your fathers,"
+        },
+        {
+          "pk": 836733,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 19,
+          "text": "by driving out all your enemies from before you, as the LORD has spoken."
+        },
+        {
+          "pk": 836734,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 20,
+          "text": "'When your son asks you in time to come, saying, 'What [do] the testimonies and the statutes and the judgments [mean] which the LORD our God commanded you?'"
+        },
+        {
+          "pk": 836735,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 21,
+          "text": "then you shall say to your son, 'We were slaves to Pharaoh in Egypt, and the LORD brought us from Egypt with a mighty hand."
+        },
+        {
+          "pk": 836736,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 22,
+          "text": "'Moreover, the LORD showed great and distressing signs and wonders before our eyes against Egypt, Pharaoh and all his household;"
+        },
+        {
+          "pk": 836737,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 23,
+          "text": "He brought us out from there in order to bring us in, to give us the land which He had sworn to our fathers.'"
+        },
+        {
+          "pk": 836738,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 24,
+          "text": "'So the LORD commanded us to observe all these statutes, to fear the LORD our God for our good always and for our survival, as [it is] today."
+        },
+        {
+          "pk": 836739,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 6,
+          "verse": 25,
+          "text": "'It will be righteousness for us if we are careful to observe all this commandment before the LORD our God, just as He commanded us."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 836740,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 1,
+          "text": "'When the LORD your God brings you into the land where you are entering to possess it, and clears away many nations before you, the Hittites and the Girgashites and the Amorites and the Canaanites and the Perizzites and the Hivites and the Jebusites, seven nations greater and stronger than you,"
+        },
+        {
+          "pk": 836741,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 2,
+          "text": "and when the LORD your God delivers them before you and you defeat them, then you shall utterly destroy them. You shall make no covenant with them and show no favor to them."
+        },
+        {
+          "pk": 836742,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 3,
+          "text": "'Furthermore, you shall not intermarry with them; you shall not give your daughters to their sons, nor shall you take their daughters for your sons."
+        },
+        {
+          "pk": 836743,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 4,
+          "text": "'For they will turn your sons away from following Me to serve other gods; then the anger of the LORD will be kindled against you and He will quickly destroy you."
+        },
+        {
+          "pk": 836744,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 5,
+          "text": "'But thus you shall do to them: you shall tear down their altars, and smash their [sacred] pillars, and hew down their Asherim, and burn their graven images with fire."
+        },
+        {
+          "pk": 836745,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 6,
+          "text": "'For you are a holy people to the LORD your God; the LORD your God has chosen you to be a people for His own possession out of all the peoples who are on the face of the earth."
+        },
+        {
+          "pk": 836746,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 7,
+          "text": "'The LORD did not set His love on you nor choose you because you were more in number than any of the peoples, for you were the fewest of all peoples,"
+        },
+        {
+          "pk": 836747,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 8,
+          "text": "but because the LORD loved you and kept the oath which He swore to your forefathers, the LORD brought you out by a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt."
+        },
+        {
+          "pk": 836748,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 9,
+          "text": "'Know therefore that the LORD your God, He is God, the faithful God, who keeps His covenant and His lovingkindness to a thousandth generation with those who love Him and keep His commandments;"
+        },
+        {
+          "pk": 836749,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 10,
+          "text": "but repays those who hate Him to their faces, to destroy them; He will not delay with him who hates Him, He will repay him to his face."
+        },
+        {
+          "pk": 836750,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 11,
+          "text": "'Therefore, you shall keep the commandment and the statutes and the judgments which I am commanding you today, to do them."
+        },
+        {
+          "pk": 836751,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 12,
+          "text": "'Then it shall come about, because you listen to these judgments and keep and do them, that the LORD your God will keep with you His covenant and His lovingkindness which He swore to your forefathers."
+        },
+        {
+          "pk": 836752,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 13,
+          "text": "'He will love you and bless you and multiply you; He will also bless the fruit of your womb and the fruit of your ground, your grain and your new wine and your oil, the increase of your herd and the young of your flock, in the land which He swore to your forefathers to give you."
+        },
+        {
+          "pk": 836753,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 14,
+          "text": "'You shall be blessed above all peoples; there will be no male or female barren among you or among your cattle."
+        },
+        {
+          "pk": 836754,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 15,
+          "text": "'The LORD will remove from you all sickness; and He will not put on you any of the harmful diseases of Egypt which you have known, but He will lay them on all who hate you."
+        },
+        {
+          "pk": 836755,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 16,
+          "text": "'You shall consume all the peoples whom the LORD your God will deliver to you; your eye shall not pity them, nor shall you serve their gods, for that [would be] a snare to you."
+        },
+        {
+          "pk": 836756,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 17,
+          "text": "'If you should say in your heart, 'These nations are greater than I; how can I dispossess them?'"
+        },
+        {
+          "pk": 836757,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 18,
+          "text": "you shall not be afraid of them; you shall well remember what the LORD your God did to Pharaoh and to all Egypt:"
+        },
+        {
+          "pk": 836758,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 19,
+          "text": "the great trials which your eyes saw and the signs and the wonders and the mighty hand and the outstretched arm by which the LORD your God brought you out. So shall the LORD your God do to all the peoples of whom you are afraid."
+        },
+        {
+          "pk": 836759,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 20,
+          "text": "'Moreover, the LORD your God will send the hornet against them, until those who are left and hide themselves from you perish."
+        },
+        {
+          "pk": 836760,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 21,
+          "text": "'You shall not dread them, for the LORD your God is in your midst, a great and awesome God."
+        },
+        {
+          "pk": 836761,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 22,
+          "text": "'The LORD your God will clear away these nations before you little by little; you will not be able to put an end to them quickly, for the wild beasts would grow too numerous for you."
+        },
+        {
+          "pk": 836762,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 23,
+          "text": "'But the LORD your God will deliver them before you, and will throw them into great confusion until they are destroyed."
+        },
+        {
+          "pk": 836763,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 24,
+          "text": "'He will deliver their kings into your hand so that you will make their name perish from under heaven; no man will be able to stand before you until you have destroyed them."
+        },
+        {
+          "pk": 836764,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 25,
+          "text": "'The graven images of their gods you are to burn with fire; you shall not covet the silver or the gold that is on them, nor take it for yourselves, or you will be snared by it, for it is an abomination to the LORD your God."
+        },
+        {
+          "pk": 836765,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 7,
+          "verse": 26,
+          "text": "'You shall not bring an abomination into your house, and like it come under the ban; you shall utterly detest it and you shall utterly abhor it, for it is something banned."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 836766,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 1,
+          "text": "'All the commandments that I am commanding you today you shall be careful to do, that you may live and multiply, and go in and possess the land which the LORD swore [to give] to your forefathers."
+        },
+        {
+          "pk": 836767,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 2,
+          "text": "'You shall remember all the way which the LORD your God has led you in the wilderness these forty years, that He might humble you, testing you, to know what was in your heart, whether you would keep His commandments or not."
+        },
+        {
+          "pk": 836768,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 3,
+          "text": "'He humbled you and let you be hungry, and fed you with manna which you did not know, nor did your fathers know, that He might make you understand that man does not live by bread alone, but man lives by everything that proceeds out of the mouth of the LORD."
+        },
+        {
+          "pk": 836769,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 4,
+          "text": "'Your clothing did not wear out on you, nor did your foot swell these forty years."
+        },
+        {
+          "pk": 836770,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 5,
+          "text": "'Thus you are to know in your heart that the LORD your God was disciplining you just as a man disciplines his son."
+        },
+        {
+          "pk": 836771,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 6,
+          "text": "'Therefore, you shall keep the commandments of the LORD your God, to walk in His ways and to fear Him."
+        },
+        {
+          "pk": 836772,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 7,
+          "text": "'For the LORD your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing forth in valleys and hills;"
+        },
+        {
+          "pk": 836773,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 8,
+          "text": "a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive oil and honey;"
+        },
+        {
+          "pk": 836774,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 9,
+          "text": "a land where you will eat food without scarcity, in which you will not lack anything; a land whose stones are iron, and out of whose hills you can dig copper."
+        },
+        {
+          "pk": 836775,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 10,
+          "text": "'When you have eaten and are satisfied, you shall bless the LORD your God for the good land which He has given you."
+        },
+        {
+          "pk": 836776,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 11,
+          "text": "'Beware that you do not forget the LORD your God by not keeping His commandments and His ordinances and His statutes which I am commanding you today;"
+        },
+        {
+          "pk": 836777,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 12,
+          "text": "otherwise, when you have eaten and are satisfied, and have built good houses and lived [in them],"
+        },
+        {
+          "pk": 836778,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 13,
+          "text": "and when your herds and your flocks multiply, and your silver and gold multiply, and all that you have multiplies,"
+        },
+        {
+          "pk": 836779,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 14,
+          "text": "then your heart will become proud and you will forget the LORD your God who brought you out from the land of Egypt, out of the house of slavery."
+        },
+        {
+          "pk": 836780,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 15,
+          "text": "'He led you through the great and terrible wilderness, [with its] fiery serpents and scorpions and thirsty ground where there was no water; He brought water for you out of the rock of flint."
+        },
+        {
+          "pk": 836781,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 16,
+          "text": "'In the wilderness He fed you manna which your fathers did not know, that He might humble you and that He might test you, to do good for you in the end."
+        },
+        {
+          "pk": 836782,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 17,
+          "text": "'Otherwise, you may say in your heart, 'My power and the strength of my hand made me this wealth.'"
+        },
+        {
+          "pk": 836783,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 18,
+          "text": "'But you shall remember the LORD your God, for it is He who is giving you power to make wealth, that He may confirm His covenant which He swore to your fathers, as [it is] this day."
+        },
+        {
+          "pk": 836784,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 19,
+          "text": "'It shall come about if you ever forget the LORD your God and go after other gods and serve them and worship them, I testify against you today that you will surely perish."
+        },
+        {
+          "pk": 836785,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 8,
+          "verse": 20,
+          "text": "'Like the nations that the LORD makes to perish before you, so you shall perish; because you would not listen to the voice of the LORD your God."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 836786,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 1,
+          "text": "'Hear, O Israel! You are crossing over the Jordan today to go in to dispossess nations greater and mightier than you, great cities fortified to heaven,"
+        },
+        {
+          "pk": 836787,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 2,
+          "text": "a people great and tall, the sons of the Anakim, whom you know and of whom you have heard [it said], 'Who can stand before the sons of Anak?'"
+        },
+        {
+          "pk": 836788,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 3,
+          "text": "'Know therefore today that it is the LORD your God who is crossing over before you as a consuming fire. He will destroy them and He will subdue them before you, so that you may drive them out and destroy them quickly, just as the LORD has spoken to you."
+        },
+        {
+          "pk": 836789,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 4,
+          "text": "'Do not say in your heart when the LORD your God has driven them out before you, 'Because of my righteousness the LORD has brought me in to possess this land,' but [it is] because of the wickedness of these nations [that] the LORD is dispossessing them before you."
+        },
+        {
+          "pk": 836790,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 5,
+          "text": "'It is not for your righteousness or for the uprightness of your heart that you are going to possess their land, but [it is] because of the wickedness of these nations [that] the LORD your God is driving them out before you, in order to confirm the oath which the LORD swore to your fathers, to Abraham, Isaac and Jacob."
+        },
+        {
+          "pk": 836791,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 6,
+          "text": "'Know, then, [it is] not because of your righteousness [that] the LORD your God is giving you this good land to possess, for you are a stubborn people."
+        },
+        {
+          "pk": 836792,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 7,
+          "text": "'Remember, do not forget how you provoked the LORD your God to wrath in the wilderness; from the day that you left the land of Egypt until you arrived at this place, you have been rebellious against the LORD."
+        },
+        {
+          "pk": 836793,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 8,
+          "text": "'Even at Horeb you provoked the LORD to wrath, and the LORD was so angry with you that He would have destroyed you."
+        },
+        {
+          "pk": 836794,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 9,
+          "text": "'When I went up to the mountain to receive the tablets of stone, the tablets of the covenant which the LORD had made with you, then I remained on the mountain forty days and nights; I neither ate bread nor drank water."
+        },
+        {
+          "pk": 836795,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 10,
+          "text": "'The LORD gave me the two tablets of stone written by the finger of God; and on them [were] all the words which the LORD had spoken with you at the mountain from the midst of the fire on the day of the assembly."
+        },
+        {
+          "pk": 836796,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 11,
+          "text": "'It came about at the end of forty days and nights that the LORD gave me the two tablets of stone, the tablets of the covenant."
+        },
+        {
+          "pk": 836797,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 12,
+          "text": "'Then the LORD said to me, 'Arise, go down from here quickly, for your people whom you brought out of Egypt have acted corruptly. They have quickly turned aside from the way which I commanded them; they have made a molten image for themselves.'"
+        },
+        {
+          "pk": 836798,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 13,
+          "text": "'The LORD spoke further to me, saying, 'I have seen this people, and indeed, it is a stubborn people."
+        },
+        {
+          "pk": 836799,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 14,
+          "text": "'Let Me alone, that I may destroy them and blot out their name from under heaven; and I will make of you a nation mightier and greater than they.'"
+        },
+        {
+          "pk": 836800,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 15,
+          "text": "'So I turned and came down from the mountain while the mountain was burning with fire, and the two tablets of the covenant were in my two hands."
+        },
+        {
+          "pk": 836801,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 16,
+          "text": "'And I saw that you had indeed sinned against the LORD your God. You had made for yourselves a molten calf; you had turned aside quickly from the way which the LORD had commanded you."
+        },
+        {
+          "pk": 836802,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 17,
+          "text": "'I took hold of the two tablets and threw them from my hands and smashed them before your eyes."
+        },
+        {
+          "pk": 836803,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 18,
+          "text": "'I fell down before the LORD, as at the first, forty days and nights; I neither ate bread nor drank water, because of all your sin which you had committed in doing what was evil in the sight of the LORD to provoke Him to anger."
+        },
+        {
+          "pk": 836804,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 19,
+          "text": "'For I was afraid of the anger and hot displeasure with which the LORD was wrathful against you in order to destroy you, but the LORD listened to me that time also."
+        },
+        {
+          "pk": 836805,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 20,
+          "text": "'The LORD was angry enough with Aaron to destroy him; so I also prayed for Aaron at the same time."
+        },
+        {
+          "pk": 836806,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 21,
+          "text": "'I took your sinful [thing], the calf which you had made, and burned it with fire and crushed it, grinding it very small until it was as fine as dust; and I threw its dust into the brook that came down from the mountain."
+        },
+        {
+          "pk": 836807,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 22,
+          "text": "'Again at Taberah and at Massah and at Kibroth-hattaavah you provoked the LORD to wrath."
+        },
+        {
+          "pk": 836808,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 23,
+          "text": "'When the LORD sent you from Kadesh-barnea, saying, 'Go up and possess the land which I have given you,' then you rebelled against the command of the LORD your God; you neither believed Him nor listened to His voice."
+        },
+        {
+          "pk": 836809,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 24,
+          "text": "'You have been rebellious against the LORD from the day I knew you."
+        },
+        {
+          "pk": 836810,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 25,
+          "text": "'So I fell down before the LORD the forty days and nights, which I did because the LORD had said He would destroy you."
+        },
+        {
+          "pk": 836811,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 26,
+          "text": "'I prayed to the LORD and said, 'O Lord GOD, do not destroy Your people, even Your inheritance, whom You have redeemed through Your greatness, whom You have brought out of Egypt with a mighty hand."
+        },
+        {
+          "pk": 836812,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 27,
+          "text": "'Remember Your servants, Abraham, Isaac, and Jacob; do not look at the stubbornness of this people or at their wickedness or their sin."
+        },
+        {
+          "pk": 836813,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 28,
+          "text": "'Otherwise the land from which You brought us may say, 'Because the LORD was not able to bring them into the land which He had promised them and because He hated them He has brought them out to slay them in the wilderness.'"
+        },
+        {
+          "pk": 836814,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 9,
+          "verse": 29,
+          "text": "'Yet they are Your people, even Your inheritance, whom You have brought out by Your great power and Your outstretched arm.'"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 836815,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 1,
+          "text": "'At that time the LORD said to me, 'Cut out for yourself two tablets of stone like the former ones, and come up to Me on the mountain, and make an ark of wood for yourself."
+        },
+        {
+          "pk": 836816,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 2,
+          "text": "'I will write on the tablets the words that were on the former tablets which you shattered, and you shall put them in the ark.'"
+        },
+        {
+          "pk": 836817,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 3,
+          "text": "'So I made an ark of acacia wood and cut out two tablets of stone like the former ones, and went up on the mountain with the two tablets in my hand."
+        },
+        {
+          "pk": 836818,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 4,
+          "text": "'He wrote on the tablets, like the former writing, the Ten Commandments which the LORD had spoken to you on the mountain from the midst of the fire on the day of the assembly; and the LORD gave them to me."
+        },
+        {
+          "pk": 836819,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 5,
+          "text": "'Then I turned and came down from the mountain and put the tablets in the ark which I had made; and there they are, as the LORD commanded me.'"
+        },
+        {
+          "pk": 836820,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 6,
+          "text": "(Now the sons of Israel set out from Beeroth Bene-jaakan to Moserah. There Aaron died and there he was buried and Eleazar his son ministered as priest in his place."
+        },
+        {
+          "pk": 836821,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 7,
+          "text": "From there they set out to Gudgodah, and from Gudgodah to Jotbathah, a land of brooks of water."
+        },
+        {
+          "pk": 836822,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 8,
+          "text": "At that time the LORD set apart the tribe of Levi to carry the ark of the covenant of the LORD, to stand before the LORD to serve Him and to bless in His name until this day."
+        },
+        {
+          "pk": 836823,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 9,
+          "text": "Therefore, Levi does not have a portion or inheritance with his brothers; the LORD is his inheritance, just as the LORD your God spoke to him.)"
+        },
+        {
+          "pk": 836824,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 10,
+          "text": "'I, moreover, stayed on the mountain forty days and forty nights like the first time, and the LORD listened to me that time also; the LORD was not willing to destroy you."
+        },
+        {
+          "pk": 836825,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 11,
+          "text": "'Then the LORD said to me, 'Arise, proceed on your journey ahead of the people, that they may go in and possess the land which I swore to their fathers to give them.'"
+        },
+        {
+          "pk": 836826,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 12,
+          "text": "'Now, Israel, what does the LORD your God require from you, but to fear the LORD your God, to walk in all His ways and love Him, and to serve the LORD your God with all your heart and with all your soul,"
+        },
+        {
+          "pk": 836827,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 13,
+          "text": "[and] to keep the LORD'S commandments and His statutes which I am commanding you today for your good?"
+        },
+        {
+          "pk": 836828,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 14,
+          "text": "'Behold, to the LORD your God belong heaven and the highest heavens, the earth and all that is in it."
+        },
+        {
+          "pk": 836829,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 15,
+          "text": "'Yet on your fathers did the LORD set His affection to love them, and He chose their descendants after them, [even] you above all peoples, as [it is] this day."
+        },
+        {
+          "pk": 836830,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 16,
+          "text": "'So circumcise your heart, and stiffen your neck no longer."
+        },
+        {
+          "pk": 836831,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 17,
+          "text": "'For the LORD your God is the God of gods and the Lord of lords, the great, the mighty, and the awesome God who does not show partiality nor take a bribe."
+        },
+        {
+          "pk": 836832,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 18,
+          "text": "'He executes justice for the orphan and the widow, and shows His love for the alien by giving him food and clothing."
+        },
+        {
+          "pk": 836833,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 19,
+          "text": "'So show your love for the alien, for you were aliens in the land of Egypt."
+        },
+        {
+          "pk": 836834,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 20,
+          "text": "'You shall fear the LORD your God; you shall serve Him and cling to Him, and you shall swear by His name."
+        },
+        {
+          "pk": 836835,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 21,
+          "text": "'He is your praise and He is your God, who has done these great and awesome things for you which your eyes have seen."
+        },
+        {
+          "pk": 836836,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 10,
+          "verse": 22,
+          "text": "'Your fathers went down to Egypt seventy persons [in all], and now the LORD your God has made you as numerous as the stars of heaven."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 836837,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 1,
+          "text": "'You shall therefore love the LORD your God, and always keep His charge, His statutes, His ordinances, and His commandments."
+        },
+        {
+          "pk": 836838,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 2,
+          "text": "'Know this day that I [am] not [speaking] with your sons who have not known and who have not seen the discipline of the LORD your God-- His greatness, His mighty hand and His outstretched arm,"
+        },
+        {
+          "pk": 836839,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 3,
+          "text": "and His signs and His works which He did in the midst of Egypt to Pharaoh the king of Egypt and to all his land;"
+        },
+        {
+          "pk": 836840,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 4,
+          "text": "and what He did to Egypt's army, to its horses and its chariots, when He made the water of the Red Sea to engulf them while they were pursuing you, and the LORD completely destroyed them;"
+        },
+        {
+          "pk": 836841,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 5,
+          "text": "and what He did to you in the wilderness until you came to this place;"
+        },
+        {
+          "pk": 836842,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 6,
+          "text": "and what He did to Dathan and Abiram, the sons of Eliab, the son of Reuben, when the earth opened its mouth and swallowed them, their households, their tents, and every living thing that followed them, among all Israel--"
+        },
+        {
+          "pk": 836843,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 7,
+          "text": "but your own eyes have seen all the great work of the LORD which He did."
+        },
+        {
+          "pk": 836844,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 8,
+          "text": "'You shall therefore keep every commandment which I am commanding you today, so that you may be strong and go in and possess the land into which you are about to cross to possess it;"
+        },
+        {
+          "pk": 836845,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 9,
+          "text": "so that you may prolong [your] days on the land which the LORD swore to your fathers to give to them and to their descendants, a land flowing with milk and honey."
+        },
+        {
+          "pk": 836846,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 10,
+          "text": "'For the land, into which you are entering to possess it, is not like the land of Egypt from which you came, where you used to sow your seed and water it with your foot like a vegetable garden."
+        },
+        {
+          "pk": 836847,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 11,
+          "text": "'But the land into which you are about to cross to possess it, a land of hills and valleys, drinks water from the rain of heaven,"
+        },
+        {
+          "pk": 836848,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 12,
+          "text": "a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning even to the end of the year."
+        },
+        {
+          "pk": 836849,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 13,
+          "text": "'It shall come about, if you listen obediently to my commandments which I am commanding you today, to love the LORD your God and to serve Him with all your heart and all your soul,"
+        },
+        {
+          "pk": 836850,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 14,
+          "text": "that He will give the rain for your land in its season, the early and late rain, that you may gather in your grain and your new wine and your oil."
+        },
+        {
+          "pk": 836851,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 15,
+          "text": "'He will give grass in your fields for your cattle, and you will eat and be satisfied."
+        },
+        {
+          "pk": 836852,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 16,
+          "text": "'Beware that your hearts are not deceived, and that you do not turn away and serve other gods and worship them."
+        },
+        {
+          "pk": 836853,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 17,
+          "text": "'Or the anger of the LORD will be kindled against you, and He will shut up the heavens so that there will be no rain and the ground will not yield its fruit; and you will perish quickly from the good land which the LORD is giving you."
+        },
+        {
+          "pk": 836854,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 18,
+          "text": "'You shall therefore impress these words of mine on your heart and on your soul; and you shall bind them as a sign on your hand, and they shall be as frontals on your forehead."
+        },
+        {
+          "pk": 836855,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 19,
+          "text": "'You shall teach them to your sons, talking of them when you sit in your house and when you walk along the road and when you lie down and when you rise up."
+        },
+        {
+          "pk": 836856,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 20,
+          "text": "'You shall write them on the doorposts of your house and on your gates,"
+        },
+        {
+          "pk": 836857,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 21,
+          "text": "so that your days and the days of your sons may be multiplied on the land which the LORD swore to your fathers to give them, as long as the heavens [remain] above the earth."
+        },
+        {
+          "pk": 836858,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 22,
+          "text": "'For if you are careful to keep all this commandment which I am commanding you to do, to love the LORD your God, to walk in all His ways and hold fast to Him,"
+        },
+        {
+          "pk": 836859,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 23,
+          "text": "then the LORD will drive out all these nations from before you, and you will dispossess nations greater and mightier than you."
+        },
+        {
+          "pk": 836860,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 24,
+          "text": "'Every place on which the sole of your foot treads shall be yours; your border will be from the wilderness to Lebanon, [and] from the river, the river Euphrates, as far as the western sea."
+        },
+        {
+          "pk": 836861,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 25,
+          "text": "'No man will be able to stand before you; the LORD your God will lay the dread of you and the fear of you on all the land on which you set foot, as He has spoken to you."
+        },
+        {
+          "pk": 836862,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 26,
+          "text": "'See, I am setting before you today a blessing and a curse:"
+        },
+        {
+          "pk": 836863,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 27,
+          "text": "the blessing, if you listen to the commandments of the LORD your God, which I am commanding you today;"
+        },
+        {
+          "pk": 836864,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 28,
+          "text": "and the curse, if you do not listen to the commandments of the LORD your God, but turn aside from the way which I am commanding you today, by following other gods which you have not known."
+        },
+        {
+          "pk": 836865,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 29,
+          "text": "'It shall come about, when the LORD your God brings you into the land where you are entering to possess it, that you shall place the blessing on Mount Gerizim and the curse on Mount Ebal."
+        },
+        {
+          "pk": 836866,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 30,
+          "text": "'Are they not across the Jordan, west of the way toward the sunset, in the land of the Canaanites who live in the Arabah, opposite Gilgal, beside the oaks of Moreh?"
+        },
+        {
+          "pk": 836867,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 31,
+          "text": "'For you are about to cross the Jordan to go in to possess the land which the LORD your God is giving you, and you shall possess it and live in it,"
+        },
+        {
+          "pk": 836868,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 11,
+          "verse": 32,
+          "text": "and you shall be careful to do all the statutes and the judgments which I am setting before you today."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 836869,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 1,
+          "text": "'These are the statutes and the judgments which you shall carefully observe in the land which the LORD, the God of your fathers, has given you to possess as long as you live on the earth."
+        },
+        {
+          "pk": 836870,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 2,
+          "text": "'You shall utterly destroy all the places where the nations whom you shall dispossess serve their gods, on the high mountains and on the hills and under every green tree."
+        },
+        {
+          "pk": 836871,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 3,
+          "text": "'You shall tear down their altars and smash their [sacred] pillars and burn their Asherim with fire, and you shall cut down the engraved images of their gods and obliterate their name from that place."
+        },
+        {
+          "pk": 836872,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 4,
+          "text": "'You shall not act like this toward the LORD your God."
+        },
+        {
+          "pk": 836873,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 5,
+          "text": "'But you shall seek [the LORD] at the place which the LORD your God will choose from all your tribes, to establish His name there for His dwelling, and there you shall come."
+        },
+        {
+          "pk": 836874,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 6,
+          "text": "'There you shall bring your burnt offerings, your sacrifices, your tithes, the contribution of your hand, your votive offerings, your freewill offerings, and the firstborn of your herd and of your flock."
+        },
+        {
+          "pk": 836875,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 7,
+          "text": "'There also you and your households shall eat before the LORD your God, and rejoice in all your undertakings in which the LORD your God has blessed you."
+        },
+        {
+          "pk": 836876,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 8,
+          "text": "'You shall not do at all what we are doing here today, every man [doing] whatever is right in his own eyes;"
+        },
+        {
+          "pk": 836877,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 9,
+          "text": "for you have not as yet come to the resting place and the inheritance which the LORD your God is giving you."
+        },
+        {
+          "pk": 836878,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 10,
+          "text": "'When you cross the Jordan and live in the land which the LORD your God is giving you to inherit, and He gives you rest from all your enemies around [you] so that you live in security,"
+        },
+        {
+          "pk": 836879,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 11,
+          "text": "then it shall come about that the place in which the LORD your God will choose for His name to dwell, there you shall bring all that I command you: your burnt offerings and your sacrifices, your tithes and the contribution of your hand, and all your choice votive offerings which you will vow to the LORD."
+        },
+        {
+          "pk": 836880,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 12,
+          "text": "'And you shall rejoice before the LORD your God, you and your sons and daughters, your male and female servants, and the Levite who is within your gates, since he has no portion or inheritance with you."
+        },
+        {
+          "pk": 836881,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 13,
+          "text": "'Be careful that you do not offer your burnt offerings in every [cultic] place you see,"
+        },
+        {
+          "pk": 836882,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 14,
+          "text": "but in the place which the LORD chooses in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you."
+        },
+        {
+          "pk": 836883,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 15,
+          "text": "'However, you may slaughter and eat meat within any of your gates, whatever you desire, according to the blessing of the LORD your God which He has given you; the unclean and the clean may eat of it, as of the gazelle and the deer."
+        },
+        {
+          "pk": 836884,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 16,
+          "text": "'Only you shall not eat the blood; you are to pour it out on the ground like water."
+        },
+        {
+          "pk": 836885,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 17,
+          "text": "'You are not allowed to eat within your gates the tithe of your grain or new wine or oil, or the firstborn of your herd or flock, or any of your votive offerings which you vow, or your freewill offerings, or the contribution of your hand."
+        },
+        {
+          "pk": 836886,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 18,
+          "text": "'But you shall eat them before the LORD your God in the place which the LORD your God will choose, you and your son and daughter, and your male and female servants, and the Levite who is within your gates; and you shall rejoice before the LORD your God in all your undertakings."
+        },
+        {
+          "pk": 836887,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 19,
+          "text": "'Be careful that you do not forsake the Levite as long as you live in your land."
+        },
+        {
+          "pk": 836888,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 20,
+          "text": "'When the LORD your God extends your border as He has promised you, and you say, 'I will eat meat,' because you desire to eat meat, [then] you may eat meat, whatever you desire."
+        },
+        {
+          "pk": 836889,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 21,
+          "text": "'If the place which the LORD your God chooses to put His name is too far from you, then you may slaughter of your herd and flock which the LORD has given you, as I have commanded you; and you may eat within your gates whatever you desire."
+        },
+        {
+          "pk": 836890,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 22,
+          "text": "'Just as a gazelle or a deer is eaten, so you will eat it; the unclean and the clean alike may eat of it."
+        },
+        {
+          "pk": 836891,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 23,
+          "text": "'Only be sure not to eat the blood, for the blood is the life, and you shall not eat the life with the flesh."
+        },
+        {
+          "pk": 836892,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 24,
+          "text": "'You shall not eat it; you shall pour it out on the ground like water."
+        },
+        {
+          "pk": 836893,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 25,
+          "text": "'You shall not eat it, so that it may be well with you and your sons after you, for you will be doing what is right in the sight of the LORD."
+        },
+        {
+          "pk": 836894,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 26,
+          "text": "'Only your holy things which you may have and your votive offerings, you shall take and go to the place which the LORD chooses."
+        },
+        {
+          "pk": 836895,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 27,
+          "text": "'And you shall offer your burnt offerings, the flesh and the blood, on the altar of the LORD your God; and the blood of your sacrifices shall be poured out on the altar of the LORD your God, and you shall eat the flesh."
+        },
+        {
+          "pk": 836896,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 28,
+          "text": "'Be careful to listen to all these words which I command you, so that it may be well with you and your sons after you forever, for you will be doing what is good and right in the sight of the LORD your God."
+        },
+        {
+          "pk": 836897,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 29,
+          "text": "'When the LORD your God cuts off before you the nations which you are going in to dispossess, and you dispossess them and dwell in their land,"
+        },
+        {
+          "pk": 836898,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 30,
+          "text": "beware that you are not ensnared to follow them, after they are destroyed before you, and that you do not inquire after their gods, saying, 'How do these nations serve their gods, that I also may do likewise?'"
+        },
+        {
+          "pk": 836899,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 31,
+          "text": "'You shall not behave thus toward the LORD your God, for every abominable act which the LORD hates they have done for their gods; for they even burn their sons and daughters in the fire to their gods."
+        },
+        {
+          "pk": 836900,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 12,
+          "verse": 32,
+          "text": "'Whatever I command you, you shall be careful to do; you shall not add to nor take away from it."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 836901,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 1,
+          "text": "'If a prophet or a dreamer of dreams arises among you and gives you a sign or a wonder,"
+        },
+        {
+          "pk": 836902,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 2,
+          "text": "and the sign or the wonder comes true, concerning which he spoke to you, saying, 'Let us go after other gods (whom you have not known) and let us serve them,'"
+        },
+        {
+          "pk": 836903,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 3,
+          "text": "you shall not listen to the words of that prophet or that dreamer of dreams; for the LORD your God is testing you to find out if you love the LORD your God with all your heart and with all your soul."
+        },
+        {
+          "pk": 836904,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 4,
+          "text": "'You shall follow the LORD your God and fear Him; and you shall keep His commandments, listen to His voice, serve Him, and cling to Him."
+        },
+        {
+          "pk": 836905,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 5,
+          "text": "'But that prophet or that dreamer of dreams shall be put to death, because he has counseled rebellion against the LORD your God who brought you from the land of Egypt and redeemed you from the house of slavery, to seduce you from the way in which the LORD your God commanded you to walk. So you shall purge the evil from among you."
+        },
+        {
+          "pk": 836906,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 6,
+          "text": "'If your brother, your mother's son, or your son or daughter, or the wife you cherish, or your friend who is as your own soul, entice you secretly, saying, 'Let us go and serve other gods ' (whom neither you nor your fathers have known,"
+        },
+        {
+          "pk": 836907,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 7,
+          "text": "of the gods of the peoples who are around you, near you or far from you, from one end of the earth to the other end),"
+        },
+        {
+          "pk": 836908,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 8,
+          "text": "you shall not yield to him or listen to him; and your eye shall not pity him, nor shall you spare or conceal him."
+        },
+        {
+          "pk": 836909,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 9,
+          "text": "'But you shall surely kill him; your hand shall be first against him to put him to death, and afterwards the hand of all the people."
+        },
+        {
+          "pk": 836910,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 10,
+          "text": "'So you shall stone him to death because he has sought to seduce you from the LORD your God who brought you out from the land of Egypt, out of the house of slavery."
+        },
+        {
+          "pk": 836911,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 11,
+          "text": "'Then all Israel will hear and be afraid, and will never again do such a wicked thing among you."
+        },
+        {
+          "pk": 836912,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 12,
+          "text": "'If you hear in one of your cities, which the LORD your God is giving you to live in, [anyone] saying [that]"
+        },
+        {
+          "pk": 836913,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 13,
+          "text": "some worthless men have gone out from among you and have seduced the inhabitants of their city, saying, 'Let us go and serve other gods ' (whom you have not known),"
+        },
+        {
+          "pk": 836914,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 14,
+          "text": "then you shall investigate and search out and inquire thoroughly. If it is true [and] the matter established that this abomination has been done among you,"
+        },
+        {
+          "pk": 836915,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 15,
+          "text": "you shall surely strike the inhabitants of that city with the edge of the sword, utterly destroying it and all that is in it and its cattle with the edge of the sword."
+        },
+        {
+          "pk": 836916,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 16,
+          "text": "'Then you shall gather all its booty into the middle of its open square and burn the city and all its booty with fire as a whole burnt offering to the LORD your God; and it shall be a ruin forever. It shall never be rebuilt."
+        },
+        {
+          "pk": 836917,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 17,
+          "text": "'Nothing from that which is put under the ban shall cling to your hand, in order that the LORD may turn from His burning anger and show mercy to you, and have compassion on you and make you increase, just as He has sworn to your fathers,"
+        },
+        {
+          "pk": 836918,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 13,
+          "verse": 18,
+          "text": "if you will listen to the voice of the LORD your God, keeping all His commandments which I am commanding you today, and doing what is right in the sight of the LORD your God."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "pk": 836919,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 1,
+          "text": "'You are the sons of the LORD your God; you shall not cut yourselves nor shave your forehead for the sake of the dead."
+        },
+        {
+          "pk": 836920,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 2,
+          "text": "'For you are a holy people to the LORD your God, and the LORD has chosen you to be a people for His own possession out of all the peoples who are on the face of the earth."
+        },
+        {
+          "pk": 836921,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 3,
+          "text": "'You shall not eat any detestable thing."
+        },
+        {
+          "pk": 836922,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 4,
+          "text": "'These are the animals which you may eat: the ox, the sheep, the goat,"
+        },
+        {
+          "pk": 836923,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 5,
+          "text": "the deer, the gazelle, the roebuck, the wild goat, the ibex, the antelope and the mountain sheep."
+        },
+        {
+          "pk": 836924,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 6,
+          "text": "'Any animal that divides the hoof and has the hoof split in two [and] chews the cud, among the animals, that you may eat."
+        },
+        {
+          "pk": 836925,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 7,
+          "text": "'Nevertheless, you are not to eat of these among those which chew the cud, or among those that divide the hoof in two: the camel and the rabbit and the shaphan, for though they chew the cud, they do not divide the hoof; they are unclean for you."
+        },
+        {
+          "pk": 836926,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 8,
+          "text": "'The pig, because it divides the hoof but [does] not [chew] the cud, it is unclean for you. You shall not eat any of their flesh nor touch their carcasses."
+        },
+        {
+          "pk": 836927,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 9,
+          "text": "'These you may eat of all that are in water: anything that has fins and scales you may eat,"
+        },
+        {
+          "pk": 836928,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 10,
+          "text": "but anything that does not have fins and scales you shall not eat; it is unclean for you."
+        },
+        {
+          "pk": 836929,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 11,
+          "text": "'You may eat any clean bird."
+        },
+        {
+          "pk": 836930,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 12,
+          "text": "'But these are the ones which you shall not eat: the eagle and the vulture and the buzzard,"
+        },
+        {
+          "pk": 836931,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 13,
+          "text": "and the red kite, the falcon, and the kite in their kinds,"
+        },
+        {
+          "pk": 836932,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 14,
+          "text": "and every raven in its kind,"
+        },
+        {
+          "pk": 836933,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 15,
+          "text": "and the ostrich, the owl, the sea gull, and the hawk in their kinds,"
+        },
+        {
+          "pk": 836934,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 16,
+          "text": "the little owl, the great owl, the white owl,"
+        },
+        {
+          "pk": 836935,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 17,
+          "text": "the pelican, the carrion vulture, the cormorant,"
+        },
+        {
+          "pk": 836936,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 18,
+          "text": "the stork, and the heron in their kinds, and the hoopoe and the bat."
+        },
+        {
+          "pk": 836937,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 19,
+          "text": "'And all the teeming life with wings are unclean to you; they shall not be eaten."
+        },
+        {
+          "pk": 836938,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 20,
+          "text": "'You may eat any clean bird."
+        },
+        {
+          "pk": 836939,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 21,
+          "text": "'You shall not eat anything which dies [of itself]. You may give it to the alien who is in your town, so that he may eat it, or you may sell it to a foreigner, for you are a holy people to the LORD your God. You shall not boil a young goat in its mother's milk."
+        },
+        {
+          "pk": 836940,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 22,
+          "text": "'You shall surely tithe all the produce from what you sow, which comes out of the field every year."
+        },
+        {
+          "pk": 836941,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 23,
+          "text": "'You shall eat in the presence of the LORD your God, at the place where He chooses to establish His name, the tithe of your grain, your new wine, your oil, and the firstborn of your herd and your flock, so that you may learn to fear the LORD your God always."
+        },
+        {
+          "pk": 836942,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 24,
+          "text": "'If the distance is so great for you that you are not able to bring [the tithe], since the place where the LORD your God chooses to set His name is too far away from you when the LORD your God blesses you,"
+        },
+        {
+          "pk": 836943,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 25,
+          "text": "then you shall exchange [it] for money, and bind the money in your hand and go to the place which the LORD your God chooses."
+        },
+        {
+          "pk": 836944,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 26,
+          "text": "'You may spend the money for whatever your heart desires: for oxen, or sheep, or wine, or strong drink, or whatever your heart desires; and there you shall eat in the presence of the LORD your God and rejoice, you and your household."
+        },
+        {
+          "pk": 836945,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 27,
+          "text": "'Also you shall not neglect the Levite who is in your town, for he has no portion or inheritance among you."
+        },
+        {
+          "pk": 836946,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 28,
+          "text": "'At the end of every third year you shall bring out all the tithe of your produce in that year, and shall deposit [it] in your town."
+        },
+        {
+          "pk": 836947,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 14,
+          "verse": 29,
+          "text": "'The Levite, because he has no portion or inheritance among you, and the alien, the orphan and the widow who are in your town, shall come and eat and be satisfied, in order that the LORD your God may bless you in all the work of your hand which you do."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "pk": 836948,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 1,
+          "text": "'At the end of [every] seven years you shall grant a remission [of debts]."
+        },
+        {
+          "pk": 836949,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 2,
+          "text": "'This is the manner of remission: every creditor shall release what he has loaned to his neighbor; he shall not exact it of his neighbor and his brother, because the LORD'S remission has been proclaimed."
+        },
+        {
+          "pk": 836950,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 3,
+          "text": "'From a foreigner you may exact [it], but your hand shall release whatever of yours is with your brother."
+        },
+        {
+          "pk": 836951,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 4,
+          "text": "'However, there will be no poor among you, since the LORD will surely bless you in the land which the LORD your God is giving you as an inheritance to possess,"
+        },
+        {
+          "pk": 836952,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 5,
+          "text": "if only you listen obediently to the voice of the LORD your God, to observe carefully all this commandment which I am commanding you today."
+        },
+        {
+          "pk": 836953,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 6,
+          "text": "'For the LORD your God will bless you as He has promised you, and you will lend to many nations, but you will not borrow; and you will rule over many nations, but they will not rule over you."
+        },
+        {
+          "pk": 836954,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 7,
+          "text": "'If there is a poor man with you, one of your brothers, in any of your towns in your land which the LORD your God is giving you, you shall not harden your heart, nor close your hand from your poor brother;"
+        },
+        {
+          "pk": 836955,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 8,
+          "text": "but you shall freely open your hand to him, and shall generously lend him sufficient for his need [in] whatever he lacks."
+        },
+        {
+          "pk": 836956,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 9,
+          "text": "'Beware that there is no base thought in your heart, saying, 'The seventh year, the year of remission, is near,' and your eye is hostile toward your poor brother, and you give him nothing; then he may cry to the LORD against you, and it will be a sin in you."
+        },
+        {
+          "pk": 836957,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 10,
+          "text": "'You shall generously give to him, and your heart shall not be grieved when you give to him, because for this thing the LORD your God will bless you in all your work and in all your undertakings."
+        },
+        {
+          "pk": 836958,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 11,
+          "text": "'For the poor will never cease [to be] in the land; therefore I command you, saying, 'You shall freely open your hand to your brother, to your needy and poor in your land.'"
+        },
+        {
+          "pk": 836959,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 12,
+          "text": "'If your kinsman, a Hebrew man or woman, is sold to you, then he shall serve you six years, but in the seventh year you shall set him free."
+        },
+        {
+          "pk": 836960,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 13,
+          "text": "'When you set him free, you shall not send him away empty-handed."
+        },
+        {
+          "pk": 836961,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 14,
+          "text": "'You shall furnish him liberally from your flock and from your threshing floor and from your wine vat; you shall give to him as the LORD your God has blessed you."
+        },
+        {
+          "pk": 836962,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 15,
+          "text": "'You shall remember that you were a slave in the land of Egypt, and the LORD your God redeemed you; therefore I command you this today."
+        },
+        {
+          "pk": 836963,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 16,
+          "text": "'It shall come about if he says to you, 'I will not go out from you,' because he loves you and your household, since he fares well with you;"
+        },
+        {
+          "pk": 836964,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 17,
+          "text": "then you shall take an awl and pierce it through his ear into the door, and he shall be your servant forever. Also you shall do likewise to your maidservant."
+        },
+        {
+          "pk": 836965,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 18,
+          "text": "'It shall not seem hard to you when you set him free, for he has given you six years [with] double the service of a hired man; so the LORD your God will bless you in whatever you do."
+        },
+        {
+          "pk": 836966,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 19,
+          "text": "'You shall consecrate to the LORD your God all the firstborn males that are born of your herd and of your flock; you shall not work with the firstborn of your herd, nor shear the firstborn of your flock."
+        },
+        {
+          "pk": 836967,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 20,
+          "text": "'You and your household shall eat it every year before the LORD your God in the place which the LORD chooses."
+        },
+        {
+          "pk": 836968,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 21,
+          "text": "'But if it has any defect, [such as] lameness or blindness, [or] any serious defect, you shall not sacrifice it to the LORD your God."
+        },
+        {
+          "pk": 836969,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 22,
+          "text": "'You shall eat it within your gates; the unclean and the clean alike [may eat it], as a gazelle or a deer."
+        },
+        {
+          "pk": 836970,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 15,
+          "verse": 23,
+          "text": "'Only you shall not eat its blood; you are to pour it out on the ground like water."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "pk": 836971,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 1,
+          "text": "'Observe the month of Abib and celebrate the Passover to the LORD your God, for in the month of Abib the LORD your God brought you out of Egypt by night."
+        },
+        {
+          "pk": 836972,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 2,
+          "text": "'You shall sacrifice the Passover to the LORD your God from the flock and the herd, in the place where the LORD chooses to establish His name."
+        },
+        {
+          "pk": 836973,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 3,
+          "text": "'You shall not eat leavened bread with it; seven days you shall eat with it unleavened bread, the bread of affliction (for you came out of the land of Egypt in haste), so that you may remember all the days of your life the day when you came out of the land of Egypt."
+        },
+        {
+          "pk": 836974,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 4,
+          "text": "'For seven days no leaven shall be seen with you in all your territory, and none of the flesh which you sacrifice on the evening of the first day shall remain overnight until morning."
+        },
+        {
+          "pk": 836975,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 5,
+          "text": "'You are not allowed to sacrifice the Passover in any of your towns which the LORD your God is giving you;"
+        },
+        {
+          "pk": 836976,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 6,
+          "text": "but at the place where the LORD your God chooses to establish His name, you shall sacrifice the Passover in the evening at sunset, at the time that you came out of Egypt."
+        },
+        {
+          "pk": 836977,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 7,
+          "text": "'You shall cook and eat [it] in the place which the LORD your God chooses. In the morning you are to return to your tents."
+        },
+        {
+          "pk": 836978,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 8,
+          "text": "'Six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly to the LORD your God; you shall do no work [on it]."
+        },
+        {
+          "pk": 836979,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 9,
+          "text": "'You shall count seven weeks for yourself; you shall begin to count seven weeks from the time you begin to put the sickle to the standing grain."
+        },
+        {
+          "pk": 836980,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 10,
+          "text": "'Then you shall celebrate the Feast of Weeks to the LORD your God with a tribute of a freewill offering of your hand, which you shall give just as the LORD your God blesses you;"
+        },
+        {
+          "pk": 836981,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 11,
+          "text": "and you shall rejoice before the LORD your God, you and your son and your daughter and your male and female servants and the Levite who is in your town, and the stranger and the orphan and the widow who are in your midst, in the place where the LORD your God chooses to establish His name."
+        },
+        {
+          "pk": 836982,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 12,
+          "text": "'You shall remember that you were a slave in Egypt, and you shall be careful to observe these statutes."
+        },
+        {
+          "pk": 836983,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 13,
+          "text": "'You shall celebrate the Feast of Booths seven days after you have gathered in from your threshing floor and your wine vat;"
+        },
+        {
+          "pk": 836984,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 14,
+          "text": "and you shall rejoice in your feast, you and your son and your daughter and your male and female servants and the Levite and the stranger and the orphan and the widow who are in your towns."
+        },
+        {
+          "pk": 836985,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 15,
+          "text": "'Seven days you shall celebrate a feast to the LORD your God in the place which the LORD chooses, because the LORD your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful."
+        },
+        {
+          "pk": 836986,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 16,
+          "text": "'Three times in a year all your males shall appear before the LORD your God in the place which He chooses, at the Feast of Unleavened Bread and at the Feast of Weeks and at the Feast of Booths, and they shall not appear before the LORD empty-handed."
+        },
+        {
+          "pk": 836987,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 17,
+          "text": "'Every man shall give as he is able, according to the blessing of the LORD your God which He has given you."
+        },
+        {
+          "pk": 836988,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 18,
+          "text": "'You shall appoint for yourself judges and officers in all your towns which the LORD your God is giving you, according to your tribes, and they shall judge the people with righteous judgment."
+        },
+        {
+          "pk": 836989,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 19,
+          "text": "'You shall not distort justice; you shall not be partial, and you shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous."
+        },
+        {
+          "pk": 836990,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 20,
+          "text": "'Justice, [and only] justice, you shall pursue, that you may live and possess the land which the LORD your God is giving you."
+        },
+        {
+          "pk": 836991,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 21,
+          "text": "'You shall not plant for yourself an Asherah of any kind of tree beside the altar of the LORD your God, which you shall make for yourself."
+        },
+        {
+          "pk": 836992,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 16,
+          "verse": 22,
+          "text": "'You shall not set up for yourself a [sacred] pillar which the LORD your God hates."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "pk": 836993,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 1,
+          "text": "'You shall not sacrifice to the LORD your God an ox or a sheep which has a blemish [or] any defect, for that is a detestable thing to the LORD your God."
+        },
+        {
+          "pk": 836994,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 2,
+          "text": "'If there is found in your midst, in any of your towns, which the LORD your God is giving you, a man or a woman who does what is evil in the sight of the LORD your God, by transgressing His covenant,"
+        },
+        {
+          "pk": 836995,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 3,
+          "text": "and has gone and served other gods and worshiped them, or the sun or the moon or any of the heavenly host, which I have not commanded,"
+        },
+        {
+          "pk": 836996,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 4,
+          "text": "and if it is told you and you have heard of it, then you shall inquire thoroughly. Behold, if it is true and the thing certain that this detestable thing has been done in Israel,"
+        },
+        {
+          "pk": 836997,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 5,
+          "text": "then you shall bring out that man or that woman who has done this evil deed to your gates, [that is], the man or the woman, and you shall stone them to death."
+        },
+        {
+          "pk": 836998,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 6,
+          "text": "'On the evidence of two witnesses or three witnesses, he who is to die shall be put to death; he shall not be put to death on the evidence of one witness."
+        },
+        {
+          "pk": 836999,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 7,
+          "text": "'The hand of the witnesses shall be first against him to put him to death, and afterward the hand of all the people. So you shall purge the evil from your midst."
+        },
+        {
+          "pk": 837000,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 8,
+          "text": "'If any case is too difficult for you to decide, between one kind of homicide or another, between one kind of lawsuit or another, and between one kind of assault or another, being cases of dispute in your courts, then you shall arise and go up to the place which the LORD your God chooses."
+        },
+        {
+          "pk": 837001,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 9,
+          "text": "'So you shall come to the Levitical priest or the judge who is [in office] in those days, and you shall inquire [of them] and they will declare to you the verdict in the case."
+        },
+        {
+          "pk": 837002,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 10,
+          "text": "'You shall do according to the terms of the verdict which they declare to you from that place which the LORD chooses; and you shall be careful to observe according to all that they teach you."
+        },
+        {
+          "pk": 837003,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 11,
+          "text": "'According to the terms of the law which they teach you, and according to the verdict which they tell you, you shall do; you shall not turn aside from the word which they declare to you, to the right or the left."
+        },
+        {
+          "pk": 837004,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 12,
+          "text": "'The man who acts presumptuously by not listening to the priest who stands there to serve the LORD your God, nor to the judge, that man shall die; thus you shall purge the evil from Israel."
+        },
+        {
+          "pk": 837005,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 13,
+          "text": "'Then all the people will hear and be afraid, and will not act presumptuously again."
+        },
+        {
+          "pk": 837006,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 14,
+          "text": "'When you enter the land which the LORD your God gives you, and you possess it and live in it, and you say, 'I will set a king over me like all the nations who are around me,'"
+        },
+        {
+          "pk": 837007,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 15,
+          "text": "you shall surely set a king over you whom the LORD your God chooses, [one] from among your countrymen you shall set as king over yourselves; you may not put a foreigner over yourselves who is not your countryman."
+        },
+        {
+          "pk": 837008,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 16,
+          "text": "'Moreover, he shall not multiply horses for himself, nor shall he cause the people to return to Egypt to multiply horses, since the LORD has said to you, 'You shall never again return that way.'"
+        },
+        {
+          "pk": 837009,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 17,
+          "text": "'He shall not multiply wives for himself, or else his heart will turn away; nor shall he greatly increase silver and gold for himself."
+        },
+        {
+          "pk": 837010,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 18,
+          "text": "'Now it shall come about when he sits on the throne of his kingdom, he shall write for himself a copy of this law on a scroll in the presence of the Levitical priests."
+        },
+        {
+          "pk": 837011,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 19,
+          "text": "'It shall be with him and he shall read it all the days of his life, that he may learn to fear the LORD his God, by carefully observing all the words of this law and these statutes,"
+        },
+        {
+          "pk": 837012,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 17,
+          "verse": 20,
+          "text": "that his heart may not be lifted up above his countrymen and that he may not turn aside from the commandment, to the right or the left, so that he and his sons may continue long in his kingdom in the midst of Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "pk": 837013,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 1,
+          "text": "'The Levitical priests, the whole tribe of Levi, shall have no portion or inheritance with Israel; they shall eat the LORD'S offerings by fire and His portion."
+        },
+        {
+          "pk": 837014,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 2,
+          "text": "'They shall have no inheritance among their countrymen; the LORD is their inheritance, as He promised them."
+        },
+        {
+          "pk": 837015,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 3,
+          "text": "'Now this shall be the priests' due from the people, from those who offer a sacrifice, either an ox or a sheep, of which they shall give to the priest the shoulder and the two cheeks and the stomach."
+        },
+        {
+          "pk": 837016,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 4,
+          "text": "'You shall give him the first fruits of your grain, your new wine, and your oil, and the first shearing of your sheep."
+        },
+        {
+          "pk": 837017,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 5,
+          "text": "'For the LORD your God has chosen him and his sons from all your tribes, to stand and serve in the name of the LORD forever."
+        },
+        {
+          "pk": 837018,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 6,
+          "text": "'Now if a Levite comes from any of your towns throughout Israel where he resides, and comes whenever he desires to the place which the LORD chooses,"
+        },
+        {
+          "pk": 837019,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 7,
+          "text": "then he shall serve in the name of the LORD his God, like all his fellow Levites who stand there before the LORD."
+        },
+        {
+          "pk": 837020,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 8,
+          "text": "'They shall eat equal portions, except [what they receive] from the sale of their fathers' [estates]."
+        },
+        {
+          "pk": 837021,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 9,
+          "text": "'When you enter the land which the LORD your God gives you, you shall not learn to imitate the detestable things of those nations."
+        },
+        {
+          "pk": 837022,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 10,
+          "text": "'There shall not be found among you anyone who makes his son or his daughter pass through the fire, one who uses divination, one who practices witchcraft, or one who interprets omens, or a sorcerer,"
+        },
+        {
+          "pk": 837023,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 11,
+          "text": "or one who casts a spell, or a medium, or a spiritist, or one who calls up the dead."
+        },
+        {
+          "pk": 837024,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 12,
+          "text": "'For whoever does these things is detestable to the LORD; and because of these detestable things the LORD your God will drive them out before you."
+        },
+        {
+          "pk": 837025,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 13,
+          "text": "'You shall be blameless before the LORD your God."
+        },
+        {
+          "pk": 837026,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 14,
+          "text": "'For those nations, which you shall dispossess, listen to those who practice witchcraft and to diviners, but as for you, the LORD your God has not allowed you [to do] so."
+        },
+        {
+          "pk": 837027,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 15,
+          "text": "'The LORD your God will raise up for you a prophet like me from among you, from your countrymen, you shall listen to him."
+        },
+        {
+          "pk": 837028,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 16,
+          "text": "'This is according to all that you asked of the LORD your God in Horeb on the day of the assembly, saying, 'Let me not hear again the voice of the LORD my God, let me not see this great fire anymore, or I will die.'"
+        },
+        {
+          "pk": 837029,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 17,
+          "text": "'The LORD said to me, 'They have spoken well."
+        },
+        {
+          "pk": 837030,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 18,
+          "text": "'I will raise up a prophet from among their countrymen like you, and I will put My words in his mouth, and he shall speak to them all that I command him."
+        },
+        {
+          "pk": 837031,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 19,
+          "text": "'It shall come about that whoever will not listen to My words which he shall speak in My name, I Myself will require [it] of him."
+        },
+        {
+          "pk": 837032,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 20,
+          "text": "'But the prophet who speaks a word presumptuously in My name which I have not commanded him to speak, or which he speaks in the name of other gods, that prophet shall die.'"
+        },
+        {
+          "pk": 837033,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 21,
+          "text": "'You may say in your heart, 'How will we know the word which the LORD has not spoken?'"
+        },
+        {
+          "pk": 837034,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 18,
+          "verse": 22,
+          "text": "'When a prophet speaks in the name of the LORD, if the thing does not come about or come true, that is the thing which the LORD has not spoken. The prophet has spoken it presumptuously; you shall not be afraid of him."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "pk": 837035,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 1,
+          "text": "'When the LORD your God cuts off the nations, whose land the LORD your God gives you, and you dispossess them and settle in their cities and in their houses,"
+        },
+        {
+          "pk": 837036,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 2,
+          "text": "you shall set aside three cities for yourself in the midst of your land, which the LORD your God gives you to possess."
+        },
+        {
+          "pk": 837037,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 3,
+          "text": "'You shall prepare the roads for yourself, and divide into three parts the territory of your land which the LORD your God will give you as a possession, so that any manslayer may flee there."
+        },
+        {
+          "pk": 837038,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 4,
+          "text": "'Now this is the case of the manslayer who may flee there and live: when he kills his friend unintentionally, not hating him previously--"
+        },
+        {
+          "pk": 837039,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 5,
+          "text": "as when [a man] goes into the forest with his friend to cut wood, and his hand swings the axe to cut down the tree, and the iron [head] slips off the handle and strikes his friend so that he dies-- he may flee to one of these cities and live;"
+        },
+        {
+          "pk": 837040,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 6,
+          "text": "otherwise the avenger of blood might pursue the manslayer in the heat of his anger, and overtake him, because the way is long, and take his life, though he was not deserving of death, since he had not hated him previously."
+        },
+        {
+          "pk": 837041,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 7,
+          "text": "'Therefore, I command you, saying, 'You shall set aside three cities for yourself.'"
+        },
+        {
+          "pk": 837042,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 8,
+          "text": "'If the LORD your God enlarges your territory, just as He has sworn to your fathers, and gives you all the land which He promised to give your fathers--"
+        },
+        {
+          "pk": 837043,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 9,
+          "text": "if you carefully observe all this commandment which I command you today, to love the LORD your God, and to walk in His ways always-- then you shall add three more cities for yourself, besides these three."
+        },
+        {
+          "pk": 837044,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 10,
+          "text": "'So innocent blood will not be shed in the midst of your land which the LORD your God gives you as an inheritance, and bloodguiltiness be on you."
+        },
+        {
+          "pk": 837045,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 11,
+          "text": "'But if there is a man who hates his neighbor and lies in wait for him and rises up against him and strikes him so that he dies, and he flees to one of these cities,"
+        },
+        {
+          "pk": 837046,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 12,
+          "text": "then the elders of his city shall send and take him from there and deliver him into the hand of the avenger of blood, that he may die."
+        },
+        {
+          "pk": 837047,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 13,
+          "text": "'You shall not pity him, but you shall purge the blood of the innocent from Israel, that it may go well with you."
+        },
+        {
+          "pk": 837048,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 14,
+          "text": "'You shall not move your neighbor's boundary mark, which the ancestors have set, in your inheritance which you will inherit in the land that the LORD your God gives you to possess."
+        },
+        {
+          "pk": 837049,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 15,
+          "text": "'A single witness shall not rise up against a man on account of any iniquity or any sin which he has committed; on the evidence of two or three witnesses a matter shall be confirmed."
+        },
+        {
+          "pk": 837050,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 16,
+          "text": "'If a malicious witness rises up against a man to accuse him of wrongdoing,"
+        },
+        {
+          "pk": 837051,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 17,
+          "text": "then both the men who have the dispute shall stand before the LORD, before the priests and the judges who will be [in office] in those days."
+        },
+        {
+          "pk": 837052,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 18,
+          "text": "'The judges shall investigate thoroughly, and if the witness is a false witness [and] he has accused his brother falsely,"
+        },
+        {
+          "pk": 837053,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 19,
+          "text": "then you shall do to him just as he had intended to do to his brother. Thus you shall purge the evil from among you."
+        },
+        {
+          "pk": 837054,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 20,
+          "text": "'The rest will hear and be afraid, and will never again do such an evil thing among you."
+        },
+        {
+          "pk": 837055,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 19,
+          "verse": 21,
+          "text": "'Thus you shall not show pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "pk": 837056,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 1,
+          "text": "'When you go out to battle against your enemies and see horses and chariots [and] people more numerous than you, do not be afraid of them; for the LORD your God, who brought you up from the land of Egypt, is with you."
+        },
+        {
+          "pk": 837057,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 2,
+          "text": "'When you are approaching the battle, the priest shall come near and speak to the people."
+        },
+        {
+          "pk": 837058,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 3,
+          "text": "'He shall say to them, 'Hear, O Israel, you are approaching the battle against your enemies today. Do not be fainthearted. Do not be afraid, or panic, or tremble before them,"
+        },
+        {
+          "pk": 837059,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 4,
+          "text": "for the LORD your God is the one who goes with you, to fight for you against your enemies, to save you.'"
+        },
+        {
+          "pk": 837060,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 5,
+          "text": "'The officers also shall speak to the people, saying, 'Who is the man that has built a new house and has not dedicated it? Let him depart and return to his house, otherwise he might die in the battle and another man would dedicate it."
+        },
+        {
+          "pk": 837061,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 6,
+          "text": "'Who is the man that has planted a vineyard and has not begun to use its fruit? Let him depart and return to his house, otherwise he might die in the battle and another man would begin to use its fruit."
+        },
+        {
+          "pk": 837062,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 7,
+          "text": "'And who is the man that is engaged to a woman and has not married her? Let him depart and return to his house, otherwise he might die in the battle and another man would marry her.'"
+        },
+        {
+          "pk": 837063,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 8,
+          "text": "'Then the officers shall speak further to the people and say, 'Who is the man that is afraid and fainthearted? Let him depart and return to his house, so that he might not make his brothers' hearts melt like his heart.'"
+        },
+        {
+          "pk": 837064,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 9,
+          "text": "'When the officers have finished speaking to the people, they shall appoint commanders of armies at the head of the people."
+        },
+        {
+          "pk": 837065,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 10,
+          "text": "'When you approach a city to fight against it, you shall offer it terms of peace."
+        },
+        {
+          "pk": 837066,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 11,
+          "text": "'If it agrees to make peace with you and opens to you, then all the people who are found in it shall become your forced labor and shall serve you."
+        },
+        {
+          "pk": 837067,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 12,
+          "text": "'However, if it does not make peace with you, but makes war against you, then you shall besiege it."
+        },
+        {
+          "pk": 837068,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 13,
+          "text": "'When the LORD your God gives it into your hand, you shall strike all the men in it with the edge of the sword."
+        },
+        {
+          "pk": 837069,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 14,
+          "text": "'Only the women and the children and the animals and all that is in the city, all its spoil, you shall take as booty for yourself; and you shall use the spoil of your enemies which the LORD your God has given you."
+        },
+        {
+          "pk": 837070,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 15,
+          "text": "'Thus you shall do to all the cities that are very far from you, which are not of the cities of these nations nearby."
+        },
+        {
+          "pk": 837071,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 16,
+          "text": "'Only in the cities of these peoples that the LORD your God is giving you as an inheritance, you shall not leave alive anything that breathes."
+        },
+        {
+          "pk": 837072,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 17,
+          "text": "'But you shall utterly destroy them, the Hittite and the Amorite, the Canaanite and the Perizzite, the Hivite and the Jebusite, as the LORD your God has commanded you,"
+        },
+        {
+          "pk": 837073,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 18,
+          "text": "so that they may not teach you to do according to all their detestable things which they have done for their gods, so that you would sin against the LORD your God."
+        },
+        {
+          "pk": 837074,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 19,
+          "text": "'When you besiege a city a long time, to make war against it in order to capture it, you shall not destroy its trees by swinging an axe against them; for you may eat from them, and you shall not cut them down. For is the tree of the field a man, that it should be besieged by you?"
+        },
+        {
+          "pk": 837075,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 20,
+          "verse": 20,
+          "text": "'Only the trees which you know are not fruit trees you shall destroy and cut down, that you may construct siegeworks against the city that is making war with you until it falls."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "pk": 837076,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 1,
+          "text": "'If a slain person is found lying in the open country in the land which the LORD your God gives you to possess, [and] it is not known who has struck him,"
+        },
+        {
+          "pk": 837077,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 2,
+          "text": "then your elders and your judges shall go out and measure [the distance] to the cities which are around the slain one."
+        },
+        {
+          "pk": 837078,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 3,
+          "text": "'It shall be that the city which is nearest to the slain man, that is, the elders of that city, shall take a heifer of the herd, which has not been worked and which has not pulled in a yoke;"
+        },
+        {
+          "pk": 837079,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 4,
+          "text": "and the elders of that city shall bring the heifer down to a valley with running water, which has not been plowed or sown, and shall break the heifer's neck there in the valley."
+        },
+        {
+          "pk": 837080,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 5,
+          "text": "'Then the priests, the sons of Levi, shall come near, for the LORD your God has chosen them to serve Him and to bless in the name of the LORD; and every dispute and every assault shall be settled by them."
+        },
+        {
+          "pk": 837081,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 6,
+          "text": "'All the elders of that city which is nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley;"
+        },
+        {
+          "pk": 837082,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 7,
+          "text": "and they shall answer and say, 'Our hands did not shed this blood, nor did our eyes see [it]."
+        },
+        {
+          "pk": 837083,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 8,
+          "text": "'Forgive Your people Israel whom You have redeemed, O LORD, and do not place the guilt of innocent blood in the midst of Your people Israel.' And the bloodguiltiness shall be forgiven them."
+        },
+        {
+          "pk": 837084,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 9,
+          "text": "'So you shall remove the guilt of innocent blood from your midst, when you do what is right in the eyes of the LORD."
+        },
+        {
+          "pk": 837085,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 10,
+          "text": "'When you go out to battle against your enemies, and the LORD your God delivers them into your hands and you take them away captive,"
+        },
+        {
+          "pk": 837086,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 11,
+          "text": "and see among the captives a beautiful woman, and have a desire for her and would take her as a wife for yourself,"
+        },
+        {
+          "pk": 837087,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 12,
+          "text": "then you shall bring her home to your house, and she shall shave her head and trim her nails."
+        },
+        {
+          "pk": 837088,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 13,
+          "text": "'She shall also remove the clothes of her captivity and shall remain in your house, and mourn her father and mother a full month; and after that you may go in to her and be her husband and she shall be your wife."
+        },
+        {
+          "pk": 837089,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 14,
+          "text": "'It shall be, if you are not pleased with her, then you shall let her go wherever she wishes; but you shall certainly not sell her for money, you shall not mistreat her, because you have humbled her."
+        },
+        {
+          "pk": 837090,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 15,
+          "text": "'If a man has two wives, the one loved and the other unloved, and [both] the loved and the unloved have borne him sons, if the firstborn son belongs to the unloved,"
+        },
+        {
+          "pk": 837091,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 16,
+          "text": "then it shall be in the day he wills what he has to his sons, he cannot make the son of the loved the firstborn before the son of the unloved, who is the firstborn."
+        },
+        {
+          "pk": 837092,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 17,
+          "text": "'But he shall acknowledge the firstborn, the son of the unloved, by giving him a double portion of all that he has, for he is the beginning of his strength; to him belongs the right of the firstborn."
+        },
+        {
+          "pk": 837093,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 18,
+          "text": "'If any man has a stubborn and rebellious son who will not obey his father or his mother, and when they chastise him, he will not even listen to them,"
+        },
+        {
+          "pk": 837094,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 19,
+          "text": "then his father and mother shall seize him, and bring him out to the elders of his city at the gateway of his hometown."
+        },
+        {
+          "pk": 837095,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 20,
+          "text": "'They shall say to the elders of his city, 'This son of ours is stubborn and rebellious, he will not obey us, he is a glutton and a drunkard.'"
+        },
+        {
+          "pk": 837096,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 21,
+          "text": "'Then all the men of his city shall stone him to death; so you shall remove the evil from your midst, and all Israel will hear [of it] and fear."
+        },
+        {
+          "pk": 837097,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 22,
+          "text": "'If a man has committed a sin worthy of death and he is put to death, and you hang him on a tree,"
+        },
+        {
+          "pk": 837098,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 21,
+          "verse": 23,
+          "text": "his corpse shall not hang all night on the tree, but you shall surely bury him on the same day (for he who is hanged is accursed of God), so that you do not defile your land which the LORD your God gives you as an inheritance."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "pk": 837099,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 1,
+          "text": "'You shall not see your countryman's ox or his sheep straying away, and pay no attention to them; you shall certainly bring them back to your countryman."
+        },
+        {
+          "pk": 837100,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 2,
+          "text": "'If your countryman is not near you, or if you do not know him, then you shall bring it home to your house, and it shall remain with you until your countryman looks for it; then you shall restore it to him."
+        },
+        {
+          "pk": 837101,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 3,
+          "text": "'Thus you shall do with his donkey, and you shall do the same with his garment, and you shall do likewise with anything lost by your countryman, which he has lost and you have found. You are not allowed to neglect [them]."
+        },
+        {
+          "pk": 837102,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 4,
+          "text": "'You shall not see your countryman's donkey or his ox fallen down on the way, and pay no attention to them; you shall certainly help him to raise [them] up."
+        },
+        {
+          "pk": 837103,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 5,
+          "text": "'A woman shall not wear man's clothing, nor shall a man put on a woman's clothing; for whoever does these things is an abomination to the LORD your God."
+        },
+        {
+          "pk": 837104,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 6,
+          "text": "'If you happen to come upon a bird's nest along the way, in any tree or on the ground, with young ones or eggs, and the mother sitting on the young or on the eggs, you shall not take the mother with the young;"
+        },
+        {
+          "pk": 837105,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 7,
+          "text": "you shall certainly let the mother go, but the young you may take for yourself, in order that it may be well with you and that you may prolong your days."
+        },
+        {
+          "pk": 837106,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 8,
+          "text": "'When you build a new house, you shall make a parapet for your roof, so that you will not bring bloodguilt on your house if anyone falls from it."
+        },
+        {
+          "pk": 837107,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 9,
+          "text": "'You shall not sow your vineyard with two kinds of seed, or all the produce of the seed which you have sown and the increase of the vineyard will become defiled."
+        },
+        {
+          "pk": 837108,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 10,
+          "text": "'You shall not plow with an ox and a donkey together."
+        },
+        {
+          "pk": 837109,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 11,
+          "text": "'You shall not wear a material mixed of wool and linen together."
+        },
+        {
+          "pk": 837110,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 12,
+          "text": "'You shall make yourself tassels on the four corners of your garment with which you cover yourself."
+        },
+        {
+          "pk": 837111,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 13,
+          "text": "'If any man takes a wife and goes in to her and [then] turns against her,"
+        },
+        {
+          "pk": 837112,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 14,
+          "text": "and charges her with shameful deeds and publicly defames her, and says, 'I took this woman, [but] when I came near her, I did not find her a virgin,'"
+        },
+        {
+          "pk": 837113,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 15,
+          "text": "then the girl's father and her mother shall take and bring out the [evidence] of the girl's virginity to the elders of the city at the gate."
+        },
+        {
+          "pk": 837114,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 16,
+          "text": "'The girl's father shall say to the elders, 'I gave my daughter to this man for a wife, but he turned against her;"
+        },
+        {
+          "pk": 837115,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 17,
+          "text": "and behold, he has charged her with shameful deeds, saying, 'I did not find your daughter a virgin.' But this is the evidence of my daughter's virginity.' And they shall spread the garment before the elders of the city."
+        },
+        {
+          "pk": 837116,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 18,
+          "text": "'So the elders of that city shall take the man and chastise him,"
+        },
+        {
+          "pk": 837117,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 19,
+          "text": "and they shall fine him a hundred [shekels] of silver and give it to the girl's father, because he publicly defamed a virgin of Israel. And she shall remain his wife; he cannot divorce her all his days."
+        },
+        {
+          "pk": 837118,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 20,
+          "text": "'But if this charge is true, that the girl was not found a virgin,"
+        },
+        {
+          "pk": 837119,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 21,
+          "text": "then they shall bring out the girl to the doorway of her father's house, and the men of her city shall stone her to death because she has committed an act of folly in Israel by playing the harlot in her father's house; thus you shall purge the evil from among you."
+        },
+        {
+          "pk": 837120,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 22,
+          "text": "'If a man is found lying with a married woman, then both of them shall die, the man who lay with the woman, and the woman; thus you shall purge the evil from Israel."
+        },
+        {
+          "pk": 837121,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 23,
+          "text": "'If there is a girl who is a virgin engaged to a man, and [another] man finds her in the city and lies with her,"
+        },
+        {
+          "pk": 837122,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 24,
+          "text": "then you shall bring them both out to the gate of that city and you shall stone them to death; the girl, because she did not cry out in the city, and the man, because he has violated his neighbor's wife. Thus you shall purge the evil from among you."
+        },
+        {
+          "pk": 837123,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 25,
+          "text": "'But if in the field the man finds the girl who is engaged, and the man forces her and lies with her, then only the man who lies with her shall die."
+        },
+        {
+          "pk": 837124,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 26,
+          "text": "'But you shall do nothing to the girl; there is no sin in the girl worthy of death, for just as a man rises against his neighbor and murders him, so is this case."
+        },
+        {
+          "pk": 837125,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 27,
+          "text": "'When he found her in the field, the engaged girl cried out, but there was no one to save her."
+        },
+        {
+          "pk": 837126,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 28,
+          "text": "'If a man finds a girl who is a virgin, who is not engaged, and seizes her and lies with her and they are discovered,"
+        },
+        {
+          "pk": 837127,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 29,
+          "text": "then the man who lay with her shall give to the girl's father fifty [shekels] of silver, and she shall become his wife because he has violated her; he cannot divorce her all his days."
+        },
+        {
+          "pk": 837128,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 22,
+          "verse": 30,
+          "text": "'A man shall not take his father's wife so that he will not uncover his father's skirt."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "pk": 837129,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 1,
+          "text": "'No one who is emasculated or has his male organ cut off shall enter the assembly of the LORD."
+        },
+        {
+          "pk": 837130,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 2,
+          "text": "'No one of illegitimate birth shall enter the assembly of the LORD; none of his [descendants], even to the tenth generation, shall enter the assembly of the LORD."
+        },
+        {
+          "pk": 837131,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 3,
+          "text": "'No Ammonite or Moabite shall enter the assembly of the LORD; none of their [descendants], even to the tenth generation, shall ever enter the assembly of the LORD,"
+        },
+        {
+          "pk": 837132,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 4,
+          "text": "because they did not meet you with food and water on the way when you came out of Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you."
+        },
+        {
+          "pk": 837133,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 5,
+          "text": "'Nevertheless, the LORD your God was not willing to listen to Balaam, but the LORD your God turned the curse into a blessing for you because the LORD your God loves you."
+        },
+        {
+          "pk": 837134,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 6,
+          "text": "'You shall never seek their peace or their prosperity all your days."
+        },
+        {
+          "pk": 837135,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 7,
+          "text": "'You shall not detest an Edomite, for he is your brother; you shall not detest an Egyptian, because you were an alien in his land."
+        },
+        {
+          "pk": 837136,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 8,
+          "text": "'The sons of the third generation who are born to them may enter the assembly of the LORD."
+        },
+        {
+          "pk": 837137,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 9,
+          "text": "'When you go out as an army against your enemies, you shall keep yourself from every evil thing."
+        },
+        {
+          "pk": 837138,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 10,
+          "text": "'If there is among you any man who is unclean because of a nocturnal emission, then he must go outside the camp; he may not reenter the camp."
+        },
+        {
+          "pk": 837139,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 11,
+          "text": "'But it shall be when evening approaches, he shall bathe himself with water, and at sundown he may reenter the camp."
+        },
+        {
+          "pk": 837140,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 12,
+          "text": "'You shall also have a place outside the camp and go out there,"
+        },
+        {
+          "pk": 837141,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 13,
+          "text": "and you shall have a spade among your tools, and it shall be when you sit down outside, you shall dig with it and shall turn to cover up your excrement."
+        },
+        {
+          "pk": 837142,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 14,
+          "text": "'Since the LORD your God walks in the midst of your camp to deliver you and to defeat your enemies before you, therefore your camp must be holy; and He must not see anything indecent among you or He will turn away from you."
+        },
+        {
+          "pk": 837143,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 15,
+          "text": "'You shall not hand over to his master a slave who has escaped from his master to you."
+        },
+        {
+          "pk": 837144,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 16,
+          "text": "'He shall live with you in your midst, in the place which he shall choose in one of your towns where it pleases him; you shall not mistreat him."
+        },
+        {
+          "pk": 837145,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 17,
+          "text": "'None of the daughters of Israel shall be a cult prostitute, nor shall any of the sons of Israel be a cult prostitute."
+        },
+        {
+          "pk": 837146,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 18,
+          "text": "'You shall not bring the hire of a harlot or the wages of a dog into the house of the LORD your God for any votive offering, for both of these are an abomination to the LORD your God."
+        },
+        {
+          "pk": 837147,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 19,
+          "text": "'You shall not charge interest to your countrymen: interest on money, food, [or] anything that may be loaned at interest."
+        },
+        {
+          "pk": 837148,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 20,
+          "text": "'You may charge interest to a foreigner, but to your countrymen you shall not charge interest, so that the LORD your God may bless you in all that you undertake in the land which you are about to enter to possess."
+        },
+        {
+          "pk": 837149,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 21,
+          "text": "'When you make a vow to the LORD your God, you shall not delay to pay it, for it would be sin in you, and the LORD your God will surely require it of you."
+        },
+        {
+          "pk": 837150,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 22,
+          "text": "'However, if you refrain from vowing, it would not be sin in you."
+        },
+        {
+          "pk": 837151,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 23,
+          "text": "'You shall be careful to perform what goes out from your lips, just as you have voluntarily vowed to the LORD your God, what you have promised."
+        },
+        {
+          "pk": 837152,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 24,
+          "text": "'When you enter your neighbor's vineyard, then you may eat grapes until you are fully satisfied, but you shall not put any in your basket."
+        },
+        {
+          "pk": 837153,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 23,
+          "verse": 25,
+          "text": "'When you enter your neighbor's standing grain, then you may pluck the heads with your hand, but you shall not wield a sickle in your neighbor's standing grain."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "pk": 837154,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 1,
+          "text": "'When a man takes a wife and marries her, and it happens that she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts [it] in her hand and sends her out from his house,"
+        },
+        {
+          "pk": 837155,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 2,
+          "text": "and she leaves his house and goes and becomes another man's [wife],"
+        },
+        {
+          "pk": 837156,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 3,
+          "text": "and if the latter husband turns against her and writes her a certificate of divorce and puts [it] in her hand and sends her out of his house, or if the latter husband dies who took her to be his wife,"
+        },
+        {
+          "pk": 837157,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 4,
+          "text": "[then] her former husband who sent her away is not allowed to take her again to be his wife, since she has been defiled; for that is an abomination before the LORD, and you shall not bring sin on the land which the LORD your God gives you as an inheritance."
+        },
+        {
+          "pk": 837158,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 5,
+          "text": "'When a man takes a new wife, he shall not go out with the army nor be charged with any duty; he shall be free at home one year and shall give happiness to his wife whom he has taken."
+        },
+        {
+          "pk": 837159,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 6,
+          "text": "'No one shall take a handmill or an upper millstone in pledge, for he would be taking a life in pledge."
+        },
+        {
+          "pk": 837160,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 7,
+          "text": "'If a man is caught kidnapping any of his countrymen of the sons of Israel, and he deals with him violently or sells him, then that thief shall die; so you shall purge the evil from among you."
+        },
+        {
+          "pk": 837161,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 8,
+          "text": "'Be careful against an infection of leprosy, that you diligently observe and do according to all that the Levitical priests teach you; as I have commanded them, so you shall be careful to do."
+        },
+        {
+          "pk": 837162,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 9,
+          "text": "'Remember what the LORD your God did to Miriam on the way as you came out of Egypt."
+        },
+        {
+          "pk": 837163,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 10,
+          "text": "'When you make your neighbor a loan of any sort, you shall not enter his house to take his pledge."
+        },
+        {
+          "pk": 837164,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 11,
+          "text": "'You shall remain outside, and the man to whom you make the loan shall bring the pledge out to you."
+        },
+        {
+          "pk": 837165,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 12,
+          "text": "'If he is a poor man, you shall not sleep with his pledge."
+        },
+        {
+          "pk": 837166,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 13,
+          "text": "'When the sun goes down you shall surely return the pledge to him, that he may sleep in his cloak and bless you; and it will be righteousness for you before the LORD your God."
+        },
+        {
+          "pk": 837167,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 14,
+          "text": "'You shall not oppress a hired servant [who is] poor and needy, whether [he is] one of your countrymen or one of your aliens who is in your land in your towns."
+        },
+        {
+          "pk": 837168,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 15,
+          "text": "'You shall give him his wages on his day before the sun sets, for he is poor and sets his heart on it; so that he will not cry against you to the LORD and it become sin in you."
+        },
+        {
+          "pk": 837169,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 16,
+          "text": "'Fathers shall not be put to death for [their] sons, nor shall sons be put to death for [their] fathers; everyone shall be put to death for his own sin."
+        },
+        {
+          "pk": 837170,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 17,
+          "text": "'You shall not pervert the justice due an alien [or] an orphan, nor take a widow's garment in pledge."
+        },
+        {
+          "pk": 837171,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 18,
+          "text": "'But you shall remember that you were a slave in Egypt, and that the LORD your God redeemed you from there; therefore I am commanding you to do this thing."
+        },
+        {
+          "pk": 837172,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 19,
+          "text": "'When you reap your harvest in your field and have forgotten a sheaf in the field, you shall not go back to get it; it shall be for the alien, for the orphan, and for the widow, in order that the LORD your God may bless you in all the work of your hands."
+        },
+        {
+          "pk": 837173,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 20,
+          "text": "'When you beat your olive tree, you shall not go over the boughs again; it shall be for the alien, for the orphan, and for the widow."
+        },
+        {
+          "pk": 837174,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 21,
+          "text": "'When you gather the grapes of your vineyard, you shall not go over it again; it shall be for the alien, for the orphan, and for the widow."
+        },
+        {
+          "pk": 837175,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 24,
+          "verse": 22,
+          "text": "'You shall remember that you were a slave in the land of Egypt; therefore I am commanding you to do this thing."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "pk": 837176,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 1,
+          "text": "'If there is a dispute between men and they go to court, and the judges decide their case, and they justify the righteous and condemn the wicked,"
+        },
+        {
+          "pk": 837177,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 2,
+          "text": "then it shall be if the wicked man deserves to be beaten, the judge shall then make him lie down and be beaten in his presence with the number of stripes according to his guilt."
+        },
+        {
+          "pk": 837178,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 3,
+          "text": "'He may beat him forty times [but] no more, so that he does not beat him with many more stripes than these and your brother is not degraded in your eyes."
+        },
+        {
+          "pk": 837179,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 4,
+          "text": "'You shall not muzzle the ox while he is threshing."
+        },
+        {
+          "pk": 837180,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 5,
+          "text": "'When brothers live together and one of them dies and has no son, the wife of the deceased shall not be [married] outside [the family] to a strange man. Her husband's brother shall go in to her and take her to himself as wife and perform the duty of a husband's brother to her."
+        },
+        {
+          "pk": 837181,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 6,
+          "text": "'It shall be that the firstborn whom she bears shall assume the name of his dead brother, so that his name will not be blotted out from Israel."
+        },
+        {
+          "pk": 837182,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 7,
+          "text": "'But if the man does not desire to take his brother's wife, then his brother's wife shall go up to the gate to the elders and say, 'My husband's brother refuses to establish a name for his brother in Israel; he is not willing to perform the duty of a husband's brother to me.'"
+        },
+        {
+          "pk": 837183,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 8,
+          "text": "'Then the elders of his city shall summon him and speak to him. And [if] he persists and says, 'I do not desire to take her,'"
+        },
+        {
+          "pk": 837184,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 9,
+          "text": "then his brother's wife shall come to him in the sight of the elders, and pull his sandal off his foot and spit in his face; and she shall declare, 'Thus it is done to the man who does not build up his brother's house.'"
+        },
+        {
+          "pk": 837185,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 10,
+          "text": "'In Israel his name shall be called, 'The house of him whose sandal is removed.'"
+        },
+        {
+          "pk": 837186,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 11,
+          "text": "'If [two] men, a man and his countryman, are struggling together, and the wife of one comes near to deliver her husband from the hand of the one who is striking him, and puts out her hand and seizes his genitals,"
+        },
+        {
+          "pk": 837187,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 12,
+          "text": "then you shall cut off her hand; you shall not show pity."
+        },
+        {
+          "pk": 837188,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 13,
+          "text": "'You shall not have in your bag differing weights, a large and a small."
+        },
+        {
+          "pk": 837189,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 14,
+          "text": "'You shall not have in your house differing measures, a large and a small."
+        },
+        {
+          "pk": 837190,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 15,
+          "text": "'You shall have a full and just weight; you shall have a full and just measure, that your days may be prolonged in the land which the LORD your God gives you."
+        },
+        {
+          "pk": 837191,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 16,
+          "text": "'For everyone who does these things, everyone who acts unjustly is an abomination to the LORD your God."
+        },
+        {
+          "pk": 837192,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 17,
+          "text": "'Remember what Amalek did to you along the way when you came out from Egypt,"
+        },
+        {
+          "pk": 837193,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 18,
+          "text": "how he met you along the way and attacked among you all the stragglers at your rear when you were faint and weary; and he did not fear God."
+        },
+        {
+          "pk": 837194,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 25,
+          "verse": 19,
+          "text": "'Therefore it shall come about when the LORD your God has given you rest from all your surrounding enemies, in the land which the LORD your God gives you as an inheritance to possess, you shall blot out the memory of Amalek from under heaven; you must not forget."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "pk": 837195,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 1,
+          "text": "'Then it shall be, when you enter the land which the LORD your God gives you as an inheritance, and you possess it and live in it,"
+        },
+        {
+          "pk": 837196,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 2,
+          "text": "that you shall take some of the first of all the produce of the ground which you bring in from your land that the LORD your God gives you, and you shall put [it] in a basket and go to the place where the LORD your God chooses to establish His name."
+        },
+        {
+          "pk": 837197,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 3,
+          "text": "'You shall go to the priest who is in office at that time and say to him, 'I declare this day to the LORD my God that I have entered the land which the LORD swore to our fathers to give us.'"
+        },
+        {
+          "pk": 837198,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 4,
+          "text": "'Then the priest shall take the basket from your hand and set it down before the altar of the LORD your God."
+        },
+        {
+          "pk": 837199,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 5,
+          "text": "'You shall answer and say before the LORD your God, 'My father was a wandering Aramean, and he went down to Egypt and sojourned there, few in number; but there he became a great, mighty and populous nation."
+        },
+        {
+          "pk": 837200,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 6,
+          "text": "'And the Egyptians treated us harshly and afflicted us, and imposed hard labor on us."
+        },
+        {
+          "pk": 837201,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 7,
+          "text": "'Then we cried to the LORD, the God of our fathers, and the LORD heard our voice and saw our affliction and our toil and our oppression;"
+        },
+        {
+          "pk": 837202,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 8,
+          "text": "and the LORD brought us out of Egypt with a mighty hand and an outstretched arm and with great terror and with signs and wonders;"
+        },
+        {
+          "pk": 837203,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 9,
+          "text": "and He has brought us to this place and has given us this land, a land flowing with milk and honey."
+        },
+        {
+          "pk": 837204,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 10,
+          "text": "'Now behold, I have brought the first of the produce of the ground which You, O LORD have given me.' And you shall set it down before the LORD your God, and worship before the LORD your God;"
+        },
+        {
+          "pk": 837205,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 11,
+          "text": "and you and the Levite and the alien who is among you shall rejoice in all the good which the LORD your God has given you and your household."
+        },
+        {
+          "pk": 837206,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 12,
+          "text": "'When you have finished paying all the tithe of your increase in the third year, the year of tithing, then you shall give it to the Levite, to the stranger, to the orphan and to the widow, that they may eat in your towns and be satisfied."
+        },
+        {
+          "pk": 837207,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 13,
+          "text": "'You shall say before the LORD your God, 'I have removed the sacred [portion] from [my] house, and also have given it to the Levite and the alien, the orphan and the widow, according to all Your commandments which You have commanded me; I have not transgressed or forgotten any of Your commandments."
+        },
+        {
+          "pk": 837208,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 14,
+          "text": "'I have not eaten of it while mourning, nor have I removed any of it while I was unclean, nor offered any of it to the dead. I have listened to the voice of the LORD my God; I have done according to all that You have commanded me."
+        },
+        {
+          "pk": 837209,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 15,
+          "text": "'Look down from Your holy habitation, from heaven, and bless Your people Israel, and the ground which You have given us, a land flowing with milk and honey, as You swore to our fathers.'"
+        },
+        {
+          "pk": 837210,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 16,
+          "text": "'This day the LORD your God commands you to do these statutes and ordinances. You shall therefore be careful to do them with all your heart and with all your soul."
+        },
+        {
+          "pk": 837211,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 17,
+          "text": "'You have today declared the LORD to be your God, and that you would walk in His ways and keep His statutes, His commandments and His ordinances, and listen to His voice."
+        },
+        {
+          "pk": 837212,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 18,
+          "text": "'The LORD has today declared you to be His people, a treasured possession, as He promised you, and that you should keep all His commandments;"
+        },
+        {
+          "pk": 837213,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 26,
+          "verse": 19,
+          "text": "and that He will set you high above all nations which He has made, for praise, fame, and honor; and that you shall be a consecrated people to the LORD your God, as He has spoken.'"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "pk": 837214,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 1,
+          "text": "Then Moses and the elders of Israel charged the people, saying, 'Keep all the commandments which I command you today."
+        },
+        {
+          "pk": 837215,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 2,
+          "text": "'So it shall be on the day when you cross the Jordan to the land which the LORD your God gives you, that you shall set up for yourself large stones and coat them with lime"
+        },
+        {
+          "pk": 837216,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 3,
+          "text": "and write on them all the words of this law, when you cross over, so that you may enter the land which the LORD your God gives you, a land flowing with milk and honey, as the LORD, the God of your fathers, promised you."
+        },
+        {
+          "pk": 837217,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 4,
+          "text": "'So it shall be when you cross the Jordan, you shall set up on Mount Ebal, these stones, as I am commanding you today, and you shall coat them with lime."
+        },
+        {
+          "pk": 837218,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 5,
+          "text": "'Moreover, you shall build there an altar to the LORD your God, an altar of stones; you shall not wield an iron [tool] on them."
+        },
+        {
+          "pk": 837219,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 6,
+          "text": "'You shall build the altar of the LORD your God of uncut stones, and you shall offer on it burnt offerings to the LORD your God;"
+        },
+        {
+          "pk": 837220,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 7,
+          "text": "and you shall sacrifice peace offerings and eat there, and rejoice before the LORD your God."
+        },
+        {
+          "pk": 837221,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 8,
+          "text": "'You shall write on the stones all the words of this law very distinctly.'"
+        },
+        {
+          "pk": 837222,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 9,
+          "text": "Then Moses and the Levitical priests spoke to all Israel, saying, 'Be silent and listen, O Israel! This day you have become a people for the LORD your God."
+        },
+        {
+          "pk": 837223,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 10,
+          "text": "'You shall therefore obey the LORD your God, and do His commandments and His statutes which I command you today.'"
+        },
+        {
+          "pk": 837224,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 11,
+          "text": "Moses also charged the people on that day, saying,"
+        },
+        {
+          "pk": 837225,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 12,
+          "text": "'When you cross the Jordan, these shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin."
+        },
+        {
+          "pk": 837226,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 13,
+          "text": "'For the curse, these shall stand on Mount Ebal: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali."
+        },
+        {
+          "pk": 837227,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 14,
+          "text": "'The Levites shall then answer and say to all the men of Israel with a loud voice,"
+        },
+        {
+          "pk": 837228,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 15,
+          "text": "'Cursed is the man who makes an idol or a molten image, an abomination to the LORD, the work of the hands of the craftsman, and sets [it] up in secret.' And all the people shall answer and say, 'Amen.'"
+        },
+        {
+          "pk": 837229,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 16,
+          "text": "'Cursed is he who dishonors his father or mother.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837230,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 17,
+          "text": "'Cursed is he who moves his neighbor's boundary mark.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837231,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 18,
+          "text": "'Cursed is he who misleads a blind [person] on the road.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837232,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 19,
+          "text": "'Cursed is he who distorts the justice due an alien, orphan, and widow.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837233,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 20,
+          "text": "'Cursed is he who lies with his father's wife, because he has uncovered his father's skirt.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837234,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 21,
+          "text": "'Cursed is he who lies with any animal.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837235,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 22,
+          "text": "'Cursed is he who lies with his sister, the daughter of his father or of his mother.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837236,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 23,
+          "text": "'Cursed is he who lies with his mother-in-law.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837237,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 24,
+          "text": "'Cursed is he who strikes his neighbor in secret.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837238,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 25,
+          "text": "'Cursed is he who accepts a bribe to strike down an innocent person.' And all the people shall say, 'Amen.'"
+        },
+        {
+          "pk": 837239,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 27,
+          "verse": 26,
+          "text": "'Cursed is he who does not confirm the words of this law by doing them.' And all the people shall say, 'Amen.'"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "pk": 837240,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 1,
+          "text": "'Now it shall be, if you diligently obey the LORD your God, being careful to do all His commandments which I command you today, the LORD your God will set you high above all the nations of the earth."
+        },
+        {
+          "pk": 837241,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 2,
+          "text": "'All these blessings will come upon you and overtake you if you obey the LORD your God:"
+        },
+        {
+          "pk": 837242,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 3,
+          "text": "'Blessed [shall] you [be] in the city, and blessed [shall] you [be] in the country."
+        },
+        {
+          "pk": 837243,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 4,
+          "text": "'Blessed [shall be] the offspring of your body and the produce of your ground and the offspring of your beasts, the increase of your herd and the young of your flock."
+        },
+        {
+          "pk": 837244,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 5,
+          "text": "'Blessed [shall be] your basket and your kneading bowl."
+        },
+        {
+          "pk": 837245,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 6,
+          "text": "'Blessed [shall] you [be] when you come in, and blessed [shall] you [be] when you go out."
+        },
+        {
+          "pk": 837246,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 7,
+          "text": "'The LORD shall cause your enemies who rise up against you to be defeated before you; they will come out against you one way and will flee before you seven ways."
+        },
+        {
+          "pk": 837247,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 8,
+          "text": "'The LORD will command the blessing upon you in your barns and in all that you put your hand to, and He will bless you in the land which the LORD your God gives you."
+        },
+        {
+          "pk": 837248,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 9,
+          "text": "'The LORD will establish you as a holy people to Himself, as He swore to you, if you keep the commandments of the LORD your God and walk in His ways."
+        },
+        {
+          "pk": 837249,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 10,
+          "text": "'So all the peoples of the earth will see that you are called by the name of the LORD, and they will be afraid of you."
+        },
+        {
+          "pk": 837250,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 11,
+          "text": "'The LORD will make you abound in prosperity, in the offspring of your body and in the offspring of your beast and in the produce of your ground, in the land which the LORD swore to your fathers to give you."
+        },
+        {
+          "pk": 837251,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 12,
+          "text": "'The LORD will open for you His good storehouse, the heavens, to give rain to your land in its season and to bless all the work of your hand; and you shall lend to many nations, but you shall not borrow."
+        },
+        {
+          "pk": 837252,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 13,
+          "text": "'The LORD will make you the head and not the tail, and you only will be above, and you will not be underneath, if you listen to the commandments of the LORD your God, which I charge you today, to observe [them] carefully,"
+        },
+        {
+          "pk": 837253,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 14,
+          "text": "and do not turn aside from any of the words which I command you today, to the right or to the left, to go after other gods to serve them."
+        },
+        {
+          "pk": 837254,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 15,
+          "text": "'But it shall come about, if you do not obey the LORD your God, to observe to do all His commandments and His statutes with which I charge you today, that all these curses will come upon you and overtake you:"
+        },
+        {
+          "pk": 837255,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 16,
+          "text": "'Cursed [shall] you [be] in the city, and cursed [shall] you [be] in the country."
+        },
+        {
+          "pk": 837256,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 17,
+          "text": "'Cursed [shall be] your basket and your kneading bowl."
+        },
+        {
+          "pk": 837257,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 18,
+          "text": "'Cursed [shall be] the offspring of your body and the produce of your ground, the increase of your herd and the young of your flock."
+        },
+        {
+          "pk": 837258,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 19,
+          "text": "'Cursed [shall] you [be] when you come in, and cursed [shall] you [be] when you go out."
+        },
+        {
+          "pk": 837259,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 20,
+          "text": "'The LORD will send upon you curses, confusion, and rebuke, in all you undertake to do, until you are destroyed and until you perish quickly, on account of the evil of your deeds, because you have forsaken Me."
+        },
+        {
+          "pk": 837260,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 21,
+          "text": "'The LORD will make the pestilence cling to you until He has consumed you from the land where you are entering to possess it."
+        },
+        {
+          "pk": 837261,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 22,
+          "text": "'The LORD will smite you with consumption and with fever and with inflammation and with fiery heat and with the sword and with blight and with mildew, and they will pursue you until you perish."
+        },
+        {
+          "pk": 837262,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 23,
+          "text": "'The heaven which is over your head shall be bronze, and the earth which is under you, iron."
+        },
+        {
+          "pk": 837263,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 24,
+          "text": "'The LORD will make the rain of your land powder and dust; from heaven it shall come down on you until you are destroyed."
+        },
+        {
+          "pk": 837264,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 25,
+          "text": "'The LORD shall cause you to be defeated before your enemies; you will go out one way against them, but you will flee seven ways before them, and you will be [an example of] terror to all the kingdoms of the earth."
+        },
+        {
+          "pk": 837265,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 26,
+          "text": "'Your carcasses will be food to all birds of the sky and to the beasts of the earth, and there will be no one to frighten [them] away."
+        },
+        {
+          "pk": 837266,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 27,
+          "text": "'The LORD will smite you with the boils of Egypt and with tumors and with the scab and with the itch, from which you cannot be healed."
+        },
+        {
+          "pk": 837267,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 28,
+          "text": "'The LORD will smite you with madness and with blindness and with bewilderment of heart;"
+        },
+        {
+          "pk": 837268,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 29,
+          "text": "and you will grope at noon, as the blind man gropes in darkness, and you will not prosper in your ways; but you shall only be oppressed and robbed continually, with none to save you."
+        },
+        {
+          "pk": 837269,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 30,
+          "text": "'You shall betroth a wife, but another man will violate her; you shall build a house, but you will not live in it; you shall plant a vineyard, but you will not use its fruit."
+        },
+        {
+          "pk": 837270,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 31,
+          "text": "'Your ox shall be slaughtered before your eyes, but you will not eat of it; your donkey shall be torn away from you, and will not be restored to you; your sheep shall be given to your enemies, and you will have none to save you."
+        },
+        {
+          "pk": 837271,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 32,
+          "text": "'Your sons and your daughters shall be given to another people, while your eyes look on and yearn for them continually; but there will be nothing you can do."
+        },
+        {
+          "pk": 837272,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 33,
+          "text": "'A people whom you do not know shall eat up the produce of your ground and all your labors, and you will never be anything but oppressed and crushed continually."
+        },
+        {
+          "pk": 837273,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 34,
+          "text": "'You shall be driven mad by the sight of what you see."
+        },
+        {
+          "pk": 837274,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 35,
+          "text": "'The LORD will strike you on the knees and legs with sore boils, from which you cannot be healed, from the sole of your foot to the crown of your head."
+        },
+        {
+          "pk": 837275,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 36,
+          "text": "'The LORD will bring you and your king, whom you set over you, to a nation which neither you nor your fathers have known, and there you shall serve other gods, wood and stone."
+        },
+        {
+          "pk": 837276,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 37,
+          "text": "'You shall become a horror, a proverb, and a taunt among all the people where the LORD drives you."
+        },
+        {
+          "pk": 837277,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 38,
+          "text": "'You shall bring out much seed to the field but you will gather in little, for the locust will consume it."
+        },
+        {
+          "pk": 837278,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 39,
+          "text": "'You shall plant and cultivate vineyards, but you will neither drink of the wine nor gather [the grapes], for the worm will devour them."
+        },
+        {
+          "pk": 837279,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 40,
+          "text": "'You shall have olive trees throughout your territory but you will not anoint yourself with the oil, for your olives will drop off."
+        },
+        {
+          "pk": 837280,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 41,
+          "text": "'You shall have sons and daughters but they will not be yours, for they will go into captivity."
+        },
+        {
+          "pk": 837281,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 42,
+          "text": "'The cricket shall possess all your trees and the produce of your ground."
+        },
+        {
+          "pk": 837282,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 43,
+          "text": "'The alien who is among you shall rise above you higher and higher, but you will go down lower and lower."
+        },
+        {
+          "pk": 837283,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 44,
+          "text": "'He shall lend to you, but you will not lend to him; he shall be the head, and you will be the tail."
+        },
+        {
+          "pk": 837284,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 45,
+          "text": "'So all these curses shall come on you and pursue you and overtake you until you are destroyed, because you would not obey the LORD your God by keeping His commandments and His statutes which He commanded you."
+        },
+        {
+          "pk": 837285,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 46,
+          "text": "'They shall become a sign and a wonder on you and your descendants forever."
+        },
+        {
+          "pk": 837286,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 47,
+          "text": "'Because you did not serve the LORD your God with joy and a glad heart, for the abundance of all things;"
+        },
+        {
+          "pk": 837287,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 48,
+          "text": "therefore you shall serve your enemies whom the LORD will send against you, in hunger, in thirst, in nakedness, and in the lack of all things; and He will put an iron yoke on your neck until He has destroyed you."
+        },
+        {
+          "pk": 837288,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 49,
+          "text": "'The LORD will bring a nation against you from afar, from the end of the earth, as the eagle swoops down, a nation whose language you shall not understand,"
+        },
+        {
+          "pk": 837289,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 50,
+          "text": "a nation of fierce countenance who will have no respect for the old, nor show favor to the young."
+        },
+        {
+          "pk": 837290,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 51,
+          "text": "'Moreover, it shall eat the offspring of your herd and the produce of your ground until you are destroyed, who also leaves you no grain, new wine, or oil, nor the increase of your herd or the young of your flock until they have caused you to perish."
+        },
+        {
+          "pk": 837291,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 52,
+          "text": "'It shall besiege you in all your towns until your high and fortified walls in which you trusted come down throughout your land, and it shall besiege you in all your towns throughout your land which the LORD your God has given you."
+        },
+        {
+          "pk": 837292,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 53,
+          "text": "'Then you shall eat the offspring of your own body, the flesh of your sons and of your daughters whom the LORD your God has given you, during the siege and the distress by which your enemy will oppress you."
+        },
+        {
+          "pk": 837293,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 54,
+          "text": "'The man who is refined and very delicate among you shall be hostile toward his brother and toward the wife he cherishes and toward the rest of his children who remain,"
+        },
+        {
+          "pk": 837294,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 55,
+          "text": "so that he will not give [even] one of them any of the flesh of his children which he will eat, since he has nothing [else] left, during the siege and the distress by which your enemy will oppress you in all your towns."
+        },
+        {
+          "pk": 837295,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 56,
+          "text": "'The refined and delicate woman among you, who would not venture to set the sole of her foot on the ground for delicateness and refinement, shall be hostile toward the husband she cherishes and toward her son and daughter,"
+        },
+        {
+          "pk": 837296,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 57,
+          "text": "and toward her afterbirth which issues from between her legs and toward her children whom she bears; for she will eat them secretly for lack of anything [else], during the siege and the distress by which your enemy will oppress you in your towns."
+        },
+        {
+          "pk": 837297,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 58,
+          "text": "'If you are not careful to observe all the words of this law which are written in this book, to fear this honored and awesome name, the LORD your God,"
+        },
+        {
+          "pk": 837298,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 59,
+          "text": "then the LORD will bring extraordinary plagues on you and your descendants, even severe and lasting plagues, and miserable and chronic sicknesses."
+        },
+        {
+          "pk": 837299,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 60,
+          "text": "'He will bring back on you all the diseases of Egypt of which you were afraid, and they will cling to you."
+        },
+        {
+          "pk": 837300,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 61,
+          "text": "'Also every sickness and every plague which, not written in the book of this law, the LORD will bring on you until you are destroyed."
+        },
+        {
+          "pk": 837301,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 62,
+          "text": "'Then you shall be left few in number, whereas you were as numerous as the stars of heaven, because you did not obey the LORD your God."
+        },
+        {
+          "pk": 837302,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 63,
+          "text": "'It shall come about that as the LORD delighted over you to prosper you, and multiply you, so the LORD will delight over you to make you perish and destroy you; and you will be torn from the land where you are entering to possess it."
+        },
+        {
+          "pk": 837303,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 64,
+          "text": "'Moreover, the LORD will scatter you among all peoples, from one end of the earth to the other end of the earth; and there you shall serve other gods, wood and stone, which you or your fathers have not known."
+        },
+        {
+          "pk": 837304,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 65,
+          "text": "'Among those nations you shall find no rest, and there will be no resting place for the sole of your foot; but there the LORD will give you a trembling heart, failing of eyes, and despair of soul."
+        },
+        {
+          "pk": 837305,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 66,
+          "text": "'So your life shall hang in doubt before you; and you will be in dread night and day, and shall have no assurance of your life."
+        },
+        {
+          "pk": 837306,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 67,
+          "text": "'In the morning you shall say, 'Would that it were evening!' And at evening you shall say, 'Would that it were morning!' because of the dread of your heart which you dread, and for the sight of your eyes which you will see."
+        },
+        {
+          "pk": 837307,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 28,
+          "verse": 68,
+          "text": "'The LORD will bring you back to Egypt in ships, by the way about which I spoke to you, 'You will never see it again!' And there you will offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer.'"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "pk": 837308,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 1,
+          "text": "These are the words of the covenant which the LORD commanded Moses to make with the sons of Israel in the land of Moab, besides the covenant which He had made with them at Horeb."
+        },
+        {
+          "pk": 837309,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 2,
+          "text": "And Moses summoned all Israel and said to them, 'You have seen all that the LORD did before your eyes in the land of Egypt to Pharaoh and all his servants and all his land;"
+        },
+        {
+          "pk": 837310,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 3,
+          "text": "the great trials which your eyes have seen, those great signs and wonders."
+        },
+        {
+          "pk": 837311,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 4,
+          "text": "'Yet to this day the LORD has not given you a heart to know, nor eyes to see, nor ears to hear."
+        },
+        {
+          "pk": 837312,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 5,
+          "text": "'I have led you forty years in the wilderness; your clothes have not worn out on you, and your sandal has not worn out on your foot."
+        },
+        {
+          "pk": 837313,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 6,
+          "text": "'You have not eaten bread, nor have you drunk wine or strong drink, in order that you might know that I am the LORD your God."
+        },
+        {
+          "pk": 837314,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 7,
+          "text": "'When you reached this place, Sihon the king of Heshbon and Og the king of Bashan came out to meet us for battle, but we defeated them;"
+        },
+        {
+          "pk": 837315,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 8,
+          "text": "and we took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of the Manassites."
+        },
+        {
+          "pk": 837316,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 9,
+          "text": "'So keep the words of this covenant to do them, that you may prosper in all that you do."
+        },
+        {
+          "pk": 837317,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 10,
+          "text": "'You stand today, all of you, before the LORD your God: your chiefs, your tribes, your elders and your officers, [even] all the men of Israel,"
+        },
+        {
+          "pk": 837318,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 11,
+          "text": "your little ones, your wives, and the alien who is within your camps, from the one who chops your wood to the one who draws your water,"
+        },
+        {
+          "pk": 837319,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 12,
+          "text": "that you may enter into the covenant with the LORD your God, and into His oath which the LORD your God is making with you today,"
+        },
+        {
+          "pk": 837320,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 13,
+          "text": "in order that He may establish you today as His people and that He may be your God, just as He spoke to you and as He swore to your fathers, to Abraham, Isaac, and Jacob."
+        },
+        {
+          "pk": 837321,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 14,
+          "text": "'Now not with you alone am I making this covenant and this oath,"
+        },
+        {
+          "pk": 837322,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 15,
+          "text": "but both with those who stand here with us today in the presence of the LORD our God and with those who are not with us here today"
+        },
+        {
+          "pk": 837323,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 16,
+          "text": "(for you know how we lived in the land of Egypt, and how we came through the midst of the nations through which you passed;"
+        },
+        {
+          "pk": 837324,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 17,
+          "text": "moreover, you have seen their abominations and their idols [of] wood, stone, silver, and gold, which [they had] with them);"
+        },
+        {
+          "pk": 837325,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 18,
+          "text": "so that there will not be among you a man or woman, or family or tribe, whose heart turns away today from the LORD our God, to go and serve the gods of those nations; that there will not be among you a root bearing poisonous fruit and wormwood."
+        },
+        {
+          "pk": 837326,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 19,
+          "text": "'It shall be when he hears the words of this curse, that he will boast, saying, 'I have peace though I walk in the stubbornness of my heart in order to destroy the watered [land] with the dry.'"
+        },
+        {
+          "pk": 837327,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 20,
+          "text": "'The LORD shall never be willing to forgive him, but rather the anger of the LORD and His jealousy will burn against that man, and every curse which is written in this book will rest on him, and the LORD will blot out his name from under heaven."
+        },
+        {
+          "pk": 837328,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 21,
+          "text": "'Then the LORD will single him out for adversity from all the tribes of Israel, according to all the curses of the covenant which are written in this book of the law."
+        },
+        {
+          "pk": 837329,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 22,
+          "text": "'Now the generation to come, your sons who rise up after you and the foreigner who comes from a distant land, when they see the plagues of the land and the diseases with which the LORD has afflicted it, will say,"
+        },
+        {
+          "pk": 837330,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 23,
+          "text": "'All its land is brimstone and salt, a burning waste, unsown and unproductive, and no grass grows in it, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His anger and in His wrath.'"
+        },
+        {
+          "pk": 837331,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 24,
+          "text": "'All the nations will say, 'Why has the LORD done thus to this land? Why this great outburst of anger?'"
+        },
+        {
+          "pk": 837332,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 25,
+          "text": "'Then [men] will say, 'Because they forsook the covenant of the LORD, the God of their fathers, which He made with them when He brought them out of the land of Egypt."
+        },
+        {
+          "pk": 837333,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 26,
+          "text": "'They went and served other gods and worshiped them, gods whom they have not known and whom He had not allotted to them."
+        },
+        {
+          "pk": 837334,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 27,
+          "text": "'Therefore, the anger of the LORD burned against that land, to bring upon it every curse which is written in this book;"
+        },
+        {
+          "pk": 837335,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 28,
+          "text": "and the LORD uprooted them from their land in anger and in fury and in great wrath, and cast them into another land, as [it is] this day.'"
+        },
+        {
+          "pk": 837336,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 29,
+          "verse": 29,
+          "text": "'The secret things belong to the LORD our God, but the things revealed belong to us and to our sons forever, that we may observe all the words of this law."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "pk": 837337,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 1,
+          "text": "'So it shall be when all of these things have come upon you, the blessing and the curse which I have set before you, and you call [them] to mind in all nations where the LORD your God has banished you,"
+        },
+        {
+          "pk": 837338,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 2,
+          "text": "and you return to the LORD your God and obey Him with all your heart and soul according to all that I command you today, you and your sons,"
+        },
+        {
+          "pk": 837339,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 3,
+          "text": "then the LORD your God will restore you from captivity, and have compassion on you, and will gather you again from all the peoples where the LORD your God has scattered you."
+        },
+        {
+          "pk": 837340,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 4,
+          "text": "'If your outcasts are at the ends of the earth, from there the LORD your God will gather you, and from there He will bring you back."
+        },
+        {
+          "pk": 837341,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 5,
+          "text": "'The LORD your God will bring you into the land which your fathers possessed, and you shall possess it; and He will prosper you and multiply you more than your fathers."
+        },
+        {
+          "pk": 837342,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 6,
+          "text": "'Moreover the LORD your God will circumcise your heart and the heart of your descendants, to love the LORD your God with all your heart and with all your soul, so that you may live."
+        },
+        {
+          "pk": 837343,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 7,
+          "text": "'The LORD your God will inflict all these curses on your enemies and on those who hate you, who persecuted you."
+        },
+        {
+          "pk": 837344,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 8,
+          "text": "'And you shall again obey the LORD, and observe all His commandments which I command you today."
+        },
+        {
+          "pk": 837345,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 9,
+          "text": "'Then the LORD your God will prosper you abundantly in all the work of your hand, in the offspring of your body and in the offspring of your cattle and in the produce of your ground, for the LORD will again rejoice over you for good, just as He rejoiced over your fathers;"
+        },
+        {
+          "pk": 837346,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 10,
+          "text": "if you obey the LORD your God to keep His commandments and His statutes which are written in this book of the law, if you turn to the LORD your God with all your heart and soul."
+        },
+        {
+          "pk": 837347,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 11,
+          "text": "'For this commandment which I command you today is not too difficult for you, nor is it out of reach."
+        },
+        {
+          "pk": 837348,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 12,
+          "text": "'It is not in heaven, that you should say, 'Who will go up to heaven for us to get it for us and make us hear it, that we may observe it?'"
+        },
+        {
+          "pk": 837349,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 13,
+          "text": "'Nor is it beyond the sea, that you should say, 'Who will cross the sea for us to get it for us and make us hear it, that we may observe it?'"
+        },
+        {
+          "pk": 837350,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 14,
+          "text": "'But the word is very near you, in your mouth and in your heart, that you may observe it."
+        },
+        {
+          "pk": 837351,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 15,
+          "text": "'See, I have set before you today life and prosperity, and death and adversity;"
+        },
+        {
+          "pk": 837352,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 16,
+          "text": "in that I command you today to love the LORD your God, to walk in His ways and to keep His commandments and His statutes and His judgments, that you may live and multiply, and that the LORD your God may bless you in the land where you are entering to possess it."
+        },
+        {
+          "pk": 837353,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 17,
+          "text": "'But if your heart turns away and you will not obey, but are drawn away and worship other gods and serve them,"
+        },
+        {
+          "pk": 837354,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 18,
+          "text": "I declare to you today that you shall surely perish. You will not prolong [your] days in the land where you are crossing the Jordan to enter and possess it."
+        },
+        {
+          "pk": 837355,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 19,
+          "text": "'I call heaven and earth to witness against you today, that I have set before you life and death, the blessing and the curse. So choose life in order that you may live, you and your descendants,"
+        },
+        {
+          "pk": 837356,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 30,
+          "verse": 20,
+          "text": "by loving the LORD your God, by obeying His voice, and by holding fast to Him; for this is your life and the length of your days, that you may live in the land which the LORD swore to your fathers, to Abraham, Isaac, and Jacob, to give them.'"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "pk": 837357,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 1,
+          "text": "So Moses went and spoke these words to all Israel."
+        },
+        {
+          "pk": 837358,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 2,
+          "text": "And he said to them, 'I am a hundred and twenty years old today; I am no longer able to come and go, and the LORD has said to me, 'You shall not cross this Jordan.'"
+        },
+        {
+          "pk": 837359,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 3,
+          "text": "'It is the LORD your God who will cross ahead of you; He will destroy these nations before you, and you shall dispossess them. Joshua is the one who will cross ahead of you, just as the LORD has spoken."
+        },
+        {
+          "pk": 837360,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 4,
+          "text": "'The LORD will do to them just as He did to Sihon and Og, the kings of the Amorites, and to their land, when He destroyed them."
+        },
+        {
+          "pk": 837361,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 5,
+          "text": "'The LORD will deliver them up before you, and you shall do to them according to all the commandments which I have commanded you."
+        },
+        {
+          "pk": 837362,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 6,
+          "text": "'Be strong and courageous, do not be afraid or tremble at them, for the LORD your God is the one who goes with you. He will not fail you or forsake you.'"
+        },
+        {
+          "pk": 837363,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 7,
+          "text": "Then Moses called to Joshua and said to him in the sight of all Israel, 'Be strong and courageous, for you shall go with this people into the land which the LORD has sworn to their fathers to give them, and you shall give it to them as an inheritance."
+        },
+        {
+          "pk": 837364,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 8,
+          "text": "'The LORD is the one who goes ahead of you; He will be with you. He will not fail you or forsake you. Do not fear or be dismayed.'"
+        },
+        {
+          "pk": 837365,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 9,
+          "text": "So Moses wrote this law and gave it to the priests, the sons of Levi who carried the ark of the covenant of the LORD, and to all the elders of Israel."
+        },
+        {
+          "pk": 837366,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 10,
+          "text": "Then Moses commanded them, saying, 'At the end of [every] seven years, at the time of the year of remission of debts, at the Feast of Booths,"
+        },
+        {
+          "pk": 837367,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 11,
+          "text": "when all Israel comes to appear before the LORD your God at the place which He will choose, you shall read this law in front of all Israel in their hearing."
+        },
+        {
+          "pk": 837368,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 12,
+          "text": "'Assemble the people, the men and the women and children and the alien who is in your town, so that they may hear and learn and fear the LORD your God, and be careful to observe all the words of this law."
+        },
+        {
+          "pk": 837369,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 13,
+          "text": "'Their children, who have not known, will hear and learn to fear the LORD your God, as long as you live on the land which you are about to cross the Jordan to possess.'"
+        },
+        {
+          "pk": 837370,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 14,
+          "text": "Then the LORD said to Moses, 'Behold, the time for you to die is near; call Joshua, and present yourselves at the tent of meeting, that I may commission him.' So Moses and Joshua went and presented themselves at the tent of meeting."
+        },
+        {
+          "pk": 837371,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 15,
+          "text": "The LORD appeared in the tent in a pillar of cloud, and the pillar of cloud stood at the doorway of the tent."
+        },
+        {
+          "pk": 837372,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 16,
+          "text": "The LORD said to Moses, 'Behold, you are about to lie down with your fathers; and this people will arise and play the harlot with the strange gods of the land, into the midst of which they are going, and will forsake Me and break My covenant which I have made with them."
+        },
+        {
+          "pk": 837373,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 17,
+          "text": "'Then My anger will be kindled against them in that day, and I will forsake them and hide My face from them, and they will be consumed, and many evils and troubles will come upon them; so that they will say in that day, 'Is it not because our God is not among us that these evils have come upon us?'"
+        },
+        {
+          "pk": 837374,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 18,
+          "text": "'But I will surely hide My face in that day because of all the evil which they will do, for they will turn to other gods."
+        },
+        {
+          "pk": 837375,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 19,
+          "text": "'Now therefore, write this song for yourselves, and teach it to the sons of Israel; put it on their lips, so that this song may be a witness for Me against the sons of Israel."
+        },
+        {
+          "pk": 837376,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 20,
+          "text": "'For when I bring them into the land flowing with milk and honey, which I swore to their fathers, and they have eaten and are satisfied and become prosperous, then they will turn to other gods and serve them, and spurn Me and break My covenant."
+        },
+        {
+          "pk": 837377,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 21,
+          "text": "'Then it shall come about, when many evils and troubles have come upon them, that this song will testify before them as a witness (for it shall not be forgotten from the lips of their descendants); for I know their intent which they are developing today, before I have brought them into the land which I swore.'"
+        },
+        {
+          "pk": 837378,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 22,
+          "text": "So Moses wrote this song the same day, and taught it to the sons of Israel."
+        },
+        {
+          "pk": 837379,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 23,
+          "text": "Then He commissioned Joshua the son of Nun, and said, 'Be strong and courageous, for you shall bring the sons of Israel into the land which I swore to them, and I will be with you.'"
+        },
+        {
+          "pk": 837380,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 24,
+          "text": "It came about, when Moses finished writing the words of this law in a book until they were complete,"
+        },
+        {
+          "pk": 837381,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 25,
+          "text": "that Moses commanded the Levites who carried the ark of the covenant of the LORD, saying,"
+        },
+        {
+          "pk": 837382,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 26,
+          "text": "'Take this book of the law and place it beside the ark of the covenant of the LORD your God, that it may remain there as a witness against you."
+        },
+        {
+          "pk": 837383,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 27,
+          "text": "'For I know your rebellion and your stubbornness; behold, while I am still alive with you today, you have been rebellious against the LORD; how much more, then, after my death?"
+        },
+        {
+          "pk": 837384,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 28,
+          "text": "'Assemble to me all the elders of your tribes and your officers, that I may speak these words in their hearing and call the heavens and the earth to witness against them."
+        },
+        {
+          "pk": 837385,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 29,
+          "text": "'For I know that after my death you will act corruptly and turn from the way which I have commanded you; and evil will befall you in the latter days, for you will do that which is evil in the sight of the LORD, provoking Him to anger with the work of your hands.'"
+        },
+        {
+          "pk": 837386,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 31,
+          "verse": 30,
+          "text": "Then Moses spoke in the hearing of all the assembly of Israel the words of this song, until they were complete:"
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "pk": 837387,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 1,
+          "text": "'Give ear, O heavens, and let me speak; And let the earth hear the words of my mouth."
+        },
+        {
+          "pk": 837388,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 2,
+          "text": "'Let my teaching drop as the rain, My speech distill as the dew, As the droplets on the fresh grass And as the showers on the herb."
+        },
+        {
+          "pk": 837389,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 3,
+          "text": "'For I proclaim the name of the LORD; Ascribe greatness to our God!"
+        },
+        {
+          "pk": 837390,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 4,
+          "text": "'The Rock! His work is perfect, For all His ways are just; A God of faithfulness and without injustice, Righteous and upright is He."
+        },
+        {
+          "pk": 837391,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 5,
+          "text": "'They have acted corruptly toward Him, [They are] not His children, because of their defect; [But are] a perverse and crooked generation."
+        },
+        {
+          "pk": 837392,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 6,
+          "text": "'Do you thus repay the LORD, O foolish and unwise people? Is not He your Father who has bought you? He has made you and established you."
+        },
+        {
+          "pk": 837393,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 7,
+          "text": "'Remember the days of old, Consider the years of all generations. Ask your father, and he will inform you, Your elders, and they will tell you."
+        },
+        {
+          "pk": 837394,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 8,
+          "text": "'When the Most High gave the nations their inheritance, When He separated the sons of man, He set the boundaries of the peoples According to the number of the sons of Israel."
+        },
+        {
+          "pk": 837395,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 9,
+          "text": "'For the LORD'S portion is His people; Jacob is the allotment of His inheritance."
+        },
+        {
+          "pk": 837396,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 10,
+          "text": "'He found him in a desert land, And in the howling waste of a wilderness; He encircled him, He cared for him, He guarded him as the pupil of His eye."
+        },
+        {
+          "pk": 837397,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 11,
+          "text": "'Like an eagle that stirs up its nest, That hovers over its young, He spread His wings and caught them, He carried them on His pinions."
+        },
+        {
+          "pk": 837398,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 12,
+          "text": "'The LORD alone guided him, And there was no foreign god with him."
+        },
+        {
+          "pk": 837399,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 13,
+          "text": "'He made him ride on the high places of the earth, And he ate the produce of the field; And He made him suck honey from the rock, And oil from the flinty rock,"
+        },
+        {
+          "pk": 837400,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 14,
+          "text": "Curds of cows, and milk of the flock, With fat of lambs, And rams, the breed of Bashan, and goats, With the finest of the wheat-- And of the blood of grapes you drank wine."
+        },
+        {
+          "pk": 837401,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 15,
+          "text": "'But Jeshurun grew fat and kicked-- You are grown fat, thick, and sleek-- Then he forsook God who made him, And scorned the Rock of his salvation."
+        },
+        {
+          "pk": 837402,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 16,
+          "text": "'They made Him jealous with strange [gods]; With abominations they provoked Him to anger."
+        },
+        {
+          "pk": 837403,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 17,
+          "text": "'They sacrificed to demons who were not God, To gods whom they have not known, New [gods] who came lately, Whom your fathers did not dread."
+        },
+        {
+          "pk": 837404,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 18,
+          "text": "'You neglected the Rock who begot you, And forgot the God who gave you birth."
+        },
+        {
+          "pk": 837405,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 19,
+          "text": "'The LORD saw [this], and spurned [them] Because of the provocation of His sons and daughters."
+        },
+        {
+          "pk": 837406,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 20,
+          "text": "'Then He said, 'I will hide My face from them, I will see what their end [shall be]; For they are a perverse generation, Sons in whom is no faithfulness."
+        },
+        {
+          "pk": 837407,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 21,
+          "text": "'They have made Me jealous with [what] is not God; They have provoked Me to anger with their idols. So I will make them jealous with [those who] are not a people; I will provoke them to anger with a foolish nation,"
+        },
+        {
+          "pk": 837408,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 22,
+          "text": "For a fire is kindled in My anger, And burns to the lowest part of Sheol, And consumes the earth with its yield, And sets on fire the foundations of the mountains."
+        },
+        {
+          "pk": 837409,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 23,
+          "text": "'I will heap misfortunes on them; I will use My arrows on them."
+        },
+        {
+          "pk": 837410,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 24,
+          "text": "'[They will be] wasted by famine, and consumed by plague And bitter destruction; And the teeth of beasts I will send upon them, With the venom of crawling things of the dust."
+        },
+        {
+          "pk": 837411,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 25,
+          "text": "'Outside the sword will bereave, And inside terror-- Both young man and virgin, The nursling with the man of gray hair."
+        },
+        {
+          "pk": 837412,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 26,
+          "text": "'I would have said, 'I will cut them to pieces, I will remove the memory of them from men,'"
+        },
+        {
+          "pk": 837413,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 27,
+          "text": "Had I not feared the provocation by the enemy, That their adversaries would misjudge, That they would say, 'Our hand is triumphant, And the LORD has not done all this.''"
+        },
+        {
+          "pk": 837414,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 28,
+          "text": "'For they are a nation lacking in counsel, And there is no understanding in them."
+        },
+        {
+          "pk": 837415,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 29,
+          "text": "'Would that they were wise, that they understood this, That they would discern their future!"
+        },
+        {
+          "pk": 837416,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 30,
+          "text": "'How could one chase a thousand, And two put ten thousand to flight, Unless their Rock had sold them, And the LORD had given them up?"
+        },
+        {
+          "pk": 837417,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 31,
+          "text": "'Indeed their rock is not like our Rock, Even our enemies themselves judge this."
+        },
+        {
+          "pk": 837418,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 32,
+          "text": "'For their vine is from the vine of Sodom, And from the fields of Gomorrah; Their grapes are grapes of poison, Their clusters, bitter."
+        },
+        {
+          "pk": 837419,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 33,
+          "text": "'Their wine is the venom of serpents, And the deadly poison of cobras."
+        },
+        {
+          "pk": 837420,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 34,
+          "text": "'Is it not laid up in store with Me, Sealed up in My treasuries?"
+        },
+        {
+          "pk": 837421,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 35,
+          "text": "'Vengeance is Mine, and retribution, In due time their foot will slip; For the day of their calamity is near, And the impending things are hastening upon them.'"
+        },
+        {
+          "pk": 837422,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 36,
+          "text": "'For the LORD will vindicate His people, And will have compassion on His servants, When He sees that [their] strength is gone, And there is none [remaining], bond or free."
+        },
+        {
+          "pk": 837423,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 37,
+          "text": "'And He will say, 'Where are their gods, The rock in which they sought refuge?"
+        },
+        {
+          "pk": 837424,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 38,
+          "text": "'Who ate the fat of their sacrifices, [And] drank the wine of their drink offering? Let them rise up and help you, Let them be your hiding place!"
+        },
+        {
+          "pk": 837425,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 39,
+          "text": "'See now that I, I am He, And there is no god besides Me; It is I who put to death and give life. I have wounded and it is I who heal, And there is no one who can deliver from My hand."
+        },
+        {
+          "pk": 837426,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 40,
+          "text": "'Indeed, I lift up My hand to heaven, And say, as I live forever,"
+        },
+        {
+          "pk": 837427,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 41,
+          "text": "If I sharpen My flashing sword, And My hand takes hold on justice, I will render vengeance on My adversaries, And I will repay those who hate Me."
+        },
+        {
+          "pk": 837428,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 42,
+          "text": "'I will make My arrows drunk with blood, And My sword will devour flesh, With the blood of the slain and the captives, From the long-haired leaders of the enemy.'"
+        },
+        {
+          "pk": 837429,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 43,
+          "text": "'Rejoice, O nations, [with] His people; For He will avenge the blood of His servants, And will render vengeance on His adversaries, And will atone for His land [and] His people.'"
+        },
+        {
+          "pk": 837430,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 44,
+          "text": "Then Moses came and spoke all the words of this song in the hearing of the people, he, with Joshua the son of Nun."
+        },
+        {
+          "pk": 837431,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 45,
+          "text": "When Moses had finished speaking all these words to all Israel,"
+        },
+        {
+          "pk": 837432,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 46,
+          "text": "he said to them, 'Take to your heart all the words with which I am warning you today, which you shall command your sons to observe carefully, [even] all the words of this law."
+        },
+        {
+          "pk": 837433,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 47,
+          "text": "'For it is not an idle word for you; indeed it is your life. And by this word you will prolong your days in the land, which you are about to cross the Jordan to possess.'"
+        },
+        {
+          "pk": 837434,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 48,
+          "text": "The LORD spoke to Moses that very same day, saying,"
+        },
+        {
+          "pk": 837435,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 49,
+          "text": "'Go up to this mountain of the Abarim, Mount Nebo, which is in the land of Moab opposite Jericho, and look at the land of Canaan, which I am giving to the sons of Israel for a possession."
+        },
+        {
+          "pk": 837436,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 50,
+          "text": "'Then die on the mountain where you ascend, and be gathered to your people, as Aaron your brother died on Mount Hor and was gathered to his people,"
+        },
+        {
+          "pk": 837437,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 51,
+          "text": "because you broke faith with Me in the midst of the sons of Israel at the waters of Meribah-kadesh, in the wilderness of Zin, because you did not treat Me as holy in the midst of the sons of Israel."
+        },
+        {
+          "pk": 837438,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 32,
+          "verse": 52,
+          "text": "'For you shall see the land at a distance, but you shall not go there, into the land which I am giving the sons of Israel.'"
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verses": [
+        {
+          "pk": 837439,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 1,
+          "text": "Now this is the blessing with which Moses the man of God blessed the sons of Israel before his death."
+        },
+        {
+          "pk": 837440,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 2,
+          "text": "He said, 'The LORD came from Sinai, And dawned on them from Seir; He shone forth from Mount Paran, And He came from the midst of ten thousand holy ones; At His right hand there was flashing lightning for them."
+        },
+        {
+          "pk": 837441,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 3,
+          "text": "'Indeed, He loves the people; All Your holy ones are in Your hand, And they followed in Your steps; [Everyone] receives of Your words."
+        },
+        {
+          "pk": 837442,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 4,
+          "text": "'Moses charged us with a law, A possession for the assembly of Jacob."
+        },
+        {
+          "pk": 837443,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 5,
+          "text": "'And He was king in Jeshurun, When the heads of the people were gathered, The tribes of Israel together."
+        },
+        {
+          "pk": 837444,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 6,
+          "text": "'May Reuben live and not die, Nor his men be few.'"
+        },
+        {
+          "pk": 837445,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 7,
+          "text": "And this regarding Judah; so he said, 'Hear, O LORD, the voice of Judah, And bring him to his people. With his hands he contended for them, And may You be a help against his adversaries.'"
+        },
+        {
+          "pk": 837446,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 8,
+          "text": "Of Levi he said, '[Let] Your Thummim and Your Urim [belong] to Your godly man, Whom You proved at Massah, With whom You contended at the waters of Meribah;"
+        },
+        {
+          "pk": 837447,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 9,
+          "text": "Who said of his father and his mother, 'I did not consider them'; And he did not acknowledge his brothers, Nor did he regard his own sons, For they observed Your word, And kept Your covenant."
+        },
+        {
+          "pk": 837448,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 10,
+          "text": "'They shall teach Your ordinances to Jacob, And Your law to Israel. They shall put incense before You, And whole burnt offerings on Your altar."
+        },
+        {
+          "pk": 837449,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 11,
+          "text": "'O LORD, bless his substance, And accept the work of his hands; Shatter the loins of those who rise up against him, And those who hate him, so that they will not rise [again].'"
+        },
+        {
+          "pk": 837450,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 12,
+          "text": "Of Benjamin he said, 'May the beloved of the LORD dwell in security by Him, Who shields him all the day, And he dwells between His shoulders.'"
+        },
+        {
+          "pk": 837451,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 13,
+          "text": "Of Joseph he said, 'Blessed of the LORD [be] his land, With the choice things of heaven, with the dew, And from the deep lying beneath,"
+        },
+        {
+          "pk": 837452,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 14,
+          "text": "And with the choice yield of the sun, And with the choice produce of the months."
+        },
+        {
+          "pk": 837453,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 15,
+          "text": "'And with the best things of the ancient mountains, And with the choice things of the everlasting hills,"
+        },
+        {
+          "pk": 837454,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 16,
+          "text": "And with the choice things of the earth and its fullness, And the favor of Him who dwelt in the bush. Let it come to the head of Joseph, And to the crown of the head of the one distinguished among his brothers."
+        },
+        {
+          "pk": 837455,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 17,
+          "text": "'As the firstborn of his ox, majesty is his, And his horns are the horns of the wild ox; With them he will push the peoples, All at once, [to] the ends of the earth. And those are the ten thousands of Ephraim, And those are the thousands of Manasseh.'"
+        },
+        {
+          "pk": 837456,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 18,
+          "text": "Of Zebulun he said, 'Rejoice, Zebulun, in your going forth, And, Issachar, in your tents."
+        },
+        {
+          "pk": 837457,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 19,
+          "text": "'They will call peoples [to] the mountain; There they will offer righteous sacrifices; For they will draw out the abundance of the seas, And the hidden treasures of the sand.'"
+        },
+        {
+          "pk": 837458,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 20,
+          "text": "Of Gad he said, 'Blessed is the one who enlarges Gad; He lies down as a lion, And tears the arm, also the crown of the head."
+        },
+        {
+          "pk": 837459,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 21,
+          "text": "'Then he provided the first [part] for himself, For there the ruler's portion was reserved; And he came [with] the leaders of the people; He executed the justice of the LORD, And His ordinances with Israel.'"
+        },
+        {
+          "pk": 837460,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 22,
+          "text": "Of Dan he said, 'Dan is a lion's whelp, That leaps forth from Bashan.'"
+        },
+        {
+          "pk": 837461,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 23,
+          "text": "Of Naphtali he said, 'O Naphtali, satisfied with favor, And full of the blessing of the LORD, Take possession of the sea and the south.'"
+        },
+        {
+          "pk": 837462,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 24,
+          "text": "Of Asher he said, 'More blessed than sons is Asher; May he be favored by his brothers, And may he dip his foot in oil."
+        },
+        {
+          "pk": 837463,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 25,
+          "text": "'Your locks will be iron and bronze, And according to your days, so will your leisurely walk be."
+        },
+        {
+          "pk": 837464,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 26,
+          "text": "'There is none like the God of Jeshurun, Who rides the heavens to your help, And through the skies in His majesty."
+        },
+        {
+          "pk": 837465,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 27,
+          "text": "'The eternal God is a dwelling place, And underneath are the everlasting arms; And He drove out the enemy from before you, And said, 'Destroy!'"
+        },
+        {
+          "pk": 837466,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 28,
+          "text": "'So Israel dwells in security, The fountain of Jacob secluded, In a land of grain and new wine; His heavens also drop down dew."
+        },
+        {
+          "pk": 837467,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 33,
+          "verse": 29,
+          "text": "'Blessed are you, O Israel; Who is like you, a people saved by the LORD, Who is the shield of your help And the sword of your majesty! So your enemies will cringe before you, And you will tread upon their high places.'"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "pk": 837468,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 1,
+          "text": "Now Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the LORD showed him all the land, Gilead as far as Dan,"
+        },
+        {
+          "pk": 837469,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 2,
+          "text": "and all Naphtali and the land of Ephraim and Manasseh, and all the land of Judah as far as the western sea,"
+        },
+        {
+          "pk": 837470,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 3,
+          "text": "and the Negev and the plain in the valley of Jericho, the city of palm trees, as far as Zoar."
+        },
+        {
+          "pk": 837471,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 4,
+          "text": "Then the LORD said to him, 'This is the land which I swore to Abraham, Isaac, and Jacob, saying, 'I will give it to your descendants'; I have let you see [it] with your eyes, but you shall not go over there.'"
+        },
+        {
+          "pk": 837472,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 5,
+          "text": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."
+        },
+        {
+          "pk": 837473,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 6,
+          "text": "And He buried him in the valley in the land of Moab, opposite Beth-peor; but no man knows his burial place to this day."
+        },
+        {
+          "pk": 837474,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 7,
+          "text": "Although Moses was one hundred and twenty years old when he died, his eye was not dim, nor his vigor abated."
+        },
+        {
+          "pk": 837475,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 8,
+          "text": "So the sons of Israel wept for Moses in the plains of Moab thirty days; then the days of weeping [and] mourning for Moses came to an end."
+        },
+        {
+          "pk": 837476,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 9,
+          "text": "Now Joshua the son of Nun was filled with the spirit of wisdom, for Moses had laid his hands on him; and the sons of Israel listened to him and did as the LORD had commanded Moses."
+        },
+        {
+          "pk": 837477,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 10,
+          "text": "Since that time no prophet has risen in Israel like Moses, whom the LORD knew face to face,"
+        },
+        {
+          "pk": 837478,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 11,
+          "text": "for all the signs and wonders which the LORD sent him to perform in the land of Egypt against Pharaoh, all his servants, and all his land,"
+        },
+        {
+          "pk": 837479,
+          "translation": "NASB",
+          "book": 5,
+          "chapter": 34,
+          "verse": 12,
+          "text": "and for all the mighty power and for all the great terror which Moses performed in the sight of all Israel."
+        }
+      ]
+    }
+  ]
+};

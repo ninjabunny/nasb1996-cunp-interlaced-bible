@@ -1,0 +1,579 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/78"] = [
+  {
+    "pk": 846742,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 1,
+    "text": "A Maskil of Asaph. Listen, O my people, to my instruction; Incline your ears to the words of my mouth."
+  },
+  {
+    "pk": 846743,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 2,
+    "text": "I will open my mouth in a parable; I will utter dark sayings of old,"
+  },
+  {
+    "pk": 846744,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 3,
+    "text": "Which we have heard and known, And our fathers have told us."
+  },
+  {
+    "pk": 846745,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 4,
+    "text": "We will not conceal them from their children, But tell to the generation to come the praises of the LORD, And His strength and His wondrous works that He has done."
+  },
+  {
+    "pk": 846746,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 5,
+    "text": "For He established a testimony in Jacob And appointed a law in Israel, Which He commanded our fathers That they should teach them to their children,"
+  },
+  {
+    "pk": 846747,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 6,
+    "text": "That the generation to come might know, [even] the children [yet] to be born, [That] they may arise and tell [them] to their children,"
+  },
+  {
+    "pk": 846748,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 7,
+    "text": "That they should put their confidence in God And not forget the works of God, But keep His commandments,"
+  },
+  {
+    "pk": 846749,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 8,
+    "text": "And not be like their fathers, A stubborn and rebellious generation, A generation that did not prepare its heart And whose spirit was not faithful to God."
+  },
+  {
+    "pk": 846750,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 9,
+    "text": "The sons of Ephraim were archers equipped with bows, [Yet] they turned back in the day of battle."
+  },
+  {
+    "pk": 846751,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 10,
+    "text": "They did not keep the covenant of God And refused to walk in His law;"
+  },
+  {
+    "pk": 846752,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 11,
+    "text": "They forgot His deeds And His miracles that He had shown them."
+  },
+  {
+    "pk": 846753,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 12,
+    "text": "He wrought wonders before their fathers In the land of Egypt, in the field of Zoan."
+  },
+  {
+    "pk": 846754,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 13,
+    "text": "He divided the sea and caused them to pass through, And He made the waters stand up like a heap."
+  },
+  {
+    "pk": 846755,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 14,
+    "text": "Then He led them with the cloud by day And all the night with a light of fire."
+  },
+  {
+    "pk": 846756,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 15,
+    "text": "He split the rocks in the wilderness And gave [them] abundant drink like the ocean depths."
+  },
+  {
+    "pk": 846757,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 16,
+    "text": "He brought forth streams also from the rock And caused waters to run down like rivers."
+  },
+  {
+    "pk": 846758,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 17,
+    "text": "Yet they still continued to sin against Him, To rebel against the Most High in the desert."
+  },
+  {
+    "pk": 846759,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 18,
+    "text": "And in their heart they put God to the test By asking food according to their desire."
+  },
+  {
+    "pk": 846760,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 19,
+    "text": "Then they spoke against God; They said, 'Can God prepare a table in the wilderness?"
+  },
+  {
+    "pk": 846761,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 20,
+    "text": "'Behold, He struck the rock so that waters gushed out, And streams were overflowing; Can He give bread also? Will He provide meat for His people?'"
+  },
+  {
+    "pk": 846762,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 21,
+    "text": "Therefore the LORD heard and was full of wrath; And a fire was kindled against Jacob And anger also mounted against Israel,"
+  },
+  {
+    "pk": 846763,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 22,
+    "text": "Because they did not believe in God And did not trust in His salvation."
+  },
+  {
+    "pk": 846764,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 23,
+    "text": "Yet He commanded the clouds above And opened the doors of heaven;"
+  },
+  {
+    "pk": 846765,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 24,
+    "text": "He rained down manna upon them to eat And gave them food from heaven."
+  },
+  {
+    "pk": 846766,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 25,
+    "text": "Man did eat the bread of angels; He sent them food in abundance."
+  },
+  {
+    "pk": 846767,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 26,
+    "text": "He caused the east wind to blow in the heavens And by His power He directed the south wind."
+  },
+  {
+    "pk": 846768,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 27,
+    "text": "When He rained meat upon them like the dust, Even winged fowl like the sand of the seas,"
+  },
+  {
+    "pk": 846769,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 28,
+    "text": "Then He let [them] fall in the midst of their camp, Round about their dwellings."
+  },
+  {
+    "pk": 846770,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 29,
+    "text": "So they ate and were well filled, And their desire He gave to them."
+  },
+  {
+    "pk": 846771,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 30,
+    "text": "Before they had satisfied their desire, While their food was in their mouths,"
+  },
+  {
+    "pk": 846772,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 31,
+    "text": "The anger of God rose against them And killed some of their stoutest ones, And subdued the choice men of Israel."
+  },
+  {
+    "pk": 846773,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 32,
+    "text": "In spite of all this they still sinned And did not believe in His wonderful works."
+  },
+  {
+    "pk": 846774,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 33,
+    "text": "So He brought their days to an end in futility And their years in sudden terror."
+  },
+  {
+    "pk": 846775,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 34,
+    "text": "When He killed them, then they sought Him, And returned and searched diligently for God;"
+  },
+  {
+    "pk": 846776,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 35,
+    "text": "And they remembered that God was their rock, And the Most High God their Redeemer."
+  },
+  {
+    "pk": 846777,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 36,
+    "text": "But they deceived Him with their mouth And lied to Him with their tongue."
+  },
+  {
+    "pk": 846778,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 37,
+    "text": "For their heart was not steadfast toward Him, Nor were they faithful in His covenant."
+  },
+  {
+    "pk": 846779,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 38,
+    "text": "But He, being compassionate, forgave [their] iniquity and did not destroy [them]; And often He restrained His anger And did not arouse all His wrath."
+  },
+  {
+    "pk": 846780,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 39,
+    "text": "Thus He remembered that they were but flesh, A wind that passes and does not return."
+  },
+  {
+    "pk": 846781,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 40,
+    "text": "How often they rebelled against Him in the wilderness And grieved Him in the desert!"
+  },
+  {
+    "pk": 846782,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 41,
+    "text": "Again and again they tempted God, And pained the Holy One of Israel."
+  },
+  {
+    "pk": 846783,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 42,
+    "text": "They did not remember His power, The day when He redeemed them from the adversary,"
+  },
+  {
+    "pk": 846784,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 43,
+    "text": "When He performed His signs in Egypt And His marvels in the field of Zoan,"
+  },
+  {
+    "pk": 846785,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 44,
+    "text": "And turned their rivers to blood, And their streams, they could not drink."
+  },
+  {
+    "pk": 846786,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 45,
+    "text": "He sent among them swarms of flies which devoured them, And frogs which destroyed them."
+  },
+  {
+    "pk": 846787,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 46,
+    "text": "He gave also their crops to the grasshopper And the product of their labor to the locust."
+  },
+  {
+    "pk": 846788,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 47,
+    "text": "He destroyed their vines with hailstones And their sycamore trees with frost."
+  },
+  {
+    "pk": 846789,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 48,
+    "text": "He gave over their cattle also to the hailstones And their herds to bolts of lightning."
+  },
+  {
+    "pk": 846790,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 49,
+    "text": "He sent upon them His burning anger, Fury and indignation and trouble, A band of destroying angels."
+  },
+  {
+    "pk": 846791,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 50,
+    "text": "He leveled a path for His anger; He did not spare their soul from death, But gave over their life to the plague,"
+  },
+  {
+    "pk": 846792,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 51,
+    "text": "And smote all the firstborn in Egypt, The first [issue] of their virility in the tents of Ham."
+  },
+  {
+    "pk": 846793,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 52,
+    "text": "But He led forth His own people like sheep And guided them in the wilderness like a flock;"
+  },
+  {
+    "pk": 846794,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 53,
+    "text": "He led them safely, so that they did not fear; But the sea engulfed their enemies."
+  },
+  {
+    "pk": 846795,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 54,
+    "text": "So He brought them to His holy land, To this hill country which His right hand had gained."
+  },
+  {
+    "pk": 846796,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 55,
+    "text": "He also drove out the nations before them And apportioned them for an inheritance by measurement, And made the tribes of Israel dwell in their tents."
+  },
+  {
+    "pk": 846797,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 56,
+    "text": "Yet they tempted and rebelled against the Most High God And did not keep His testimonies,"
+  },
+  {
+    "pk": 846798,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 57,
+    "text": "But turned back and acted treacherously like their fathers; They turned aside like a treacherous bow."
+  },
+  {
+    "pk": 846799,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 58,
+    "text": "For they provoked Him with their high places And aroused His jealousy with their graven images."
+  },
+  {
+    "pk": 846800,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 59,
+    "text": "When God heard, He was filled with wrath And greatly abhorred Israel;"
+  },
+  {
+    "pk": 846801,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 60,
+    "text": "So that He abandoned the dwelling place at Shiloh, The tent which He had pitched among men,"
+  },
+  {
+    "pk": 846802,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 61,
+    "text": "And gave up His strength to captivity And His glory into the hand of the adversary."
+  },
+  {
+    "pk": 846803,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 62,
+    "text": "He also delivered His people to the sword, And was filled with wrath at His inheritance."
+  },
+  {
+    "pk": 846804,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 63,
+    "text": "Fire devoured His young men, And His virgins had no wedding songs."
+  },
+  {
+    "pk": 846805,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 64,
+    "text": "His priests fell by the sword, And His widows could not weep."
+  },
+  {
+    "pk": 846806,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 65,
+    "text": "Then the Lord awoke as [if from] sleep, Like a warrior overcome by wine."
+  },
+  {
+    "pk": 846807,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 66,
+    "text": "He drove His adversaries backward; He put on them an everlasting reproach."
+  },
+  {
+    "pk": 846808,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 67,
+    "text": "He also rejected the tent of Joseph, And did not choose the tribe of Ephraim,"
+  },
+  {
+    "pk": 846809,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 68,
+    "text": "But chose the tribe of Judah, Mount Zion which He loved."
+  },
+  {
+    "pk": 846810,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 69,
+    "text": "And He built His sanctuary like the heights, Like the earth which He has founded forever."
+  },
+  {
+    "pk": 846811,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 70,
+    "text": "He also chose David His servant And took him from the sheepfolds;"
+  },
+  {
+    "pk": 846812,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 71,
+    "text": "From the care of the ewes with suckling lambs He brought him To shepherd Jacob His people, And Israel His inheritance."
+  },
+  {
+    "pk": 846813,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 78,
+    "verse": 72,
+    "text": "So he shepherded them according to the integrity of his heart, And guided them with his skillful hands."
+  }
+];

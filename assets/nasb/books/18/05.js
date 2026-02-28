@@ -1,0 +1,219 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/05"] = [
+  {
+    "pk": 844580,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 1,
+    "text": "'Call now, is there anyone who will answer you? And to which of the holy ones will you turn?"
+  },
+  {
+    "pk": 844581,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 2,
+    "text": "'For anger slays the foolish man, And jealousy kills the simple."
+  },
+  {
+    "pk": 844582,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 3,
+    "text": "'I have seen the foolish taking root, And I cursed his abode immediately."
+  },
+  {
+    "pk": 844583,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 4,
+    "text": "'His sons are far from safety, They are even oppressed in the gate, And there is no deliverer."
+  },
+  {
+    "pk": 844584,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 5,
+    "text": "'His harvest the hungry devour And take it to a [place of] thorns, And the schemer is eager for their wealth."
+  },
+  {
+    "pk": 844585,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 6,
+    "text": "'For affliction does not come from the dust, Nor does trouble sprout from the ground,"
+  },
+  {
+    "pk": 844586,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 7,
+    "text": "For man is born for trouble, As sparks fly upward."
+  },
+  {
+    "pk": 844587,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 8,
+    "text": "'But as for me, I would seek God, And I would place my cause before God;"
+  },
+  {
+    "pk": 844588,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 9,
+    "text": "Who does great and unsearchable things, Wonders without number."
+  },
+  {
+    "pk": 844589,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 10,
+    "text": "'He gives rain on the earth And sends water on the fields,"
+  },
+  {
+    "pk": 844590,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 11,
+    "text": "So that He sets on high those who are lowly, And those who mourn are lifted to safety."
+  },
+  {
+    "pk": 844591,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 12,
+    "text": "'He frustrates the plotting of the shrewd, So that their hands cannot attain success."
+  },
+  {
+    "pk": 844592,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 13,
+    "text": "'He captures the wise by their own shrewdness, And the advice of the cunning is quickly thwarted."
+  },
+  {
+    "pk": 844593,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 14,
+    "text": "'By day they meet with darkness, And grope at noon as in the night."
+  },
+  {
+    "pk": 844594,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 15,
+    "text": "'But He saves from the sword of their mouth, And the poor from the hand of the mighty."
+  },
+  {
+    "pk": 844595,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 16,
+    "text": "'So the helpless has hope, And unrighteousness must shut its mouth."
+  },
+  {
+    "pk": 844596,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 17,
+    "text": "'Behold, how happy is the man whom God reproves, So do not despise the discipline of the Almighty."
+  },
+  {
+    "pk": 844597,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 18,
+    "text": "'For He inflicts pain, and gives relief; He wounds, and His hands [also] heal."
+  },
+  {
+    "pk": 844598,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 19,
+    "text": "'From six troubles He will deliver you, Even in seven evil will not touch you."
+  },
+  {
+    "pk": 844599,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 20,
+    "text": "'In famine He will redeem you from death, And in war from the power of the sword."
+  },
+  {
+    "pk": 844600,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 21,
+    "text": "'You will be hidden from the scourge of the tongue, And you will not be afraid of violence when it comes."
+  },
+  {
+    "pk": 844601,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 22,
+    "text": "'You will laugh at violence and famine, And you will not be afraid of wild beasts."
+  },
+  {
+    "pk": 844602,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 23,
+    "text": "'For you will be in league with the stones of the field, And the beasts of the field will be at peace with you."
+  },
+  {
+    "pk": 844603,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 24,
+    "text": "'You will know that your tent is secure, For you will visit your abode and fear no loss."
+  },
+  {
+    "pk": 844604,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 25,
+    "text": "'You will know also that your descendants will be many, And your offspring as the grass of the earth."
+  },
+  {
+    "pk": 844605,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 26,
+    "text": "'You will come to the grave in full vigor, Like the stacking of grain in its season."
+  },
+  {
+    "pk": 844606,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 5,
+    "verse": 27,
+    "text": "'Behold this; we have investigated it, [and] so it is. Hear it, and know for yourself.'"
+  }
+];

@@ -1,0 +1,43 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/125"] = [
+  {
+    "pk": 847739,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 125,
+    "verse": 1,
+    "text": "A Song of Ascents. Those who trust in the LORD Are as Mount Zion, which cannot be moved but abides forever."
+  },
+  {
+    "pk": 847740,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 125,
+    "verse": 2,
+    "text": "As the mountains surround Jerusalem, So the LORD surrounds His people From this time forth and forever."
+  },
+  {
+    "pk": 847741,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 125,
+    "verse": 3,
+    "text": "For the scepter of wickedness shall not rest upon the land of the righteous, So that the righteous will not put forth their hands to do wrong."
+  },
+  {
+    "pk": 847742,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 125,
+    "verse": 4,
+    "text": "Do good, O LORD, to those who are good And to those who are upright in their hearts."
+  },
+  {
+    "pk": 847743,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 125,
+    "verse": 5,
+    "text": "But as for those who turn aside to their crooked ways, The LORD will lead them away with the doers of iniquity. Peace be upon Israel."
+  }
+];

@@ -1,0 +1,83 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/06/16"] = [
+  {
+    "pk": 837894,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 1,
+    "text": "Then the lot for the sons of Joseph went from the Jordan at Jericho to the waters of Jericho on the east into the wilderness, going up from Jericho through the hill country to Bethel."
+  },
+  {
+    "pk": 837895,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 2,
+    "text": "It went from Bethel to Luz, and continued to the border of the Archites at Ataroth."
+  },
+  {
+    "pk": 837896,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 3,
+    "text": "It went down westward to the territory of the Japhletites, as far as the territory of lower Beth-horon even to Gezer, and it ended at the sea."
+  },
+  {
+    "pk": 837897,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 4,
+    "text": "The sons of Joseph, Manasseh and Ephraim, received their inheritance."
+  },
+  {
+    "pk": 837898,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 5,
+    "text": "Now [this] was the territory of the sons of Ephraim according to their families: the border of their inheritance eastward was Ataroth-addar, as far as upper Beth-horon."
+  },
+  {
+    "pk": 837899,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 6,
+    "text": "Then the border went westward at Michmethath on the north, and the border turned about eastward to Taanath-shiloh and continued [beyond] it to the east of Janoah."
+  },
+  {
+    "pk": 837900,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 7,
+    "text": "It went down from Janoah to Ataroth and to Naarah, then reached Jericho and came out at the Jordan."
+  },
+  {
+    "pk": 837901,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 8,
+    "text": "From Tappuah the border continued westward to the brook of Kanah, and it ended at the sea. This is the inheritance of the tribe of the sons of Ephraim according to their families,"
+  },
+  {
+    "pk": 837902,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 9,
+    "text": "[together] with the cities which were set apart for the sons of Ephraim in the midst of the inheritance of the sons of Manasseh, all the cities with their villages."
+  },
+  {
+    "pk": 837903,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 16,
+    "verse": 10,
+    "text": "But they did not drive out the Canaanites who lived in Gezer, so the Canaanites live in the midst of Ephraim to this day, and they became forced laborers."
+  }
+];

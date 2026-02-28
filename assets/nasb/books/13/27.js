@@ -1,0 +1,275 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/13/27"] = [
+  {
+    "pk": 842738,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 1,
+    "text": "Now [this is] the enumeration of the sons of Israel, the heads of fathers' [households], the commanders of thousands and of hundreds, and their officers who served the king in all the affairs of the divisions which came in and went out month by month throughout all the months of the year, each division [numbering] 24,000:"
+  },
+  {
+    "pk": 842739,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 2,
+    "text": "Jashobeam the son of Zabdiel had charge of the first division for the first month; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842740,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 3,
+    "text": "[He was] from the sons of Perez, [and was] chief of all the commanders of the army for the first month."
+  },
+  {
+    "pk": 842741,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 4,
+    "text": "Dodai the Ahohite and his division had charge of the division for the second month, Mikloth [being] the chief officer; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842742,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 5,
+    "text": "The third commander of the army for the third month [was] Benaiah, the son of Jehoiada the priest, [as] chief; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842743,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 6,
+    "text": "This Benaiah [was] the mighty man of the thirty, and had charge of thirty; and over his division was Ammizabad his son."
+  },
+  {
+    "pk": 842744,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 7,
+    "text": "The fourth for the fourth month [was] Asahel the brother of Joab, and Zebadiah his son after him; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842745,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 8,
+    "text": "The fifth for the fifth month [was] the commander Shamhuth the Izrahite; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842746,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 9,
+    "text": "The sixth for the sixth month [was] Ira the son of Ikkesh the Tekoite; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842747,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 10,
+    "text": "The seventh for the seventh month [was] Helez the Pelonite of the sons of Ephraim; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842748,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 11,
+    "text": "The eighth for the eighth month [was] Sibbecai the Hushathite of the Zerahites; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842749,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 12,
+    "text": "The ninth for the ninth month [was] Abiezer the Anathothite of the Benjamites; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842750,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 13,
+    "text": "The tenth for the tenth month [was] Maharai the Netophathite of the Zerahites; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842751,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 14,
+    "text": "The eleventh for the eleventh month [was] Benaiah the Pirathonite of the sons of Ephraim; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842752,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 15,
+    "text": "The twelfth for the twelfth month [was] Heldai the Netophathite of Othniel; and in his division [were] 24,000."
+  },
+  {
+    "pk": 842753,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 16,
+    "text": "Now in charge of the tribes of Israel: chief officer for the Reubenites was Eliezer the son of Zichri; for the Simeonites, Shephatiah the son of Maacah;"
+  },
+  {
+    "pk": 842754,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 17,
+    "text": "for Levi, Hashabiah the son of Kemuel; for Aaron, Zadok;"
+  },
+  {
+    "pk": 842755,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 18,
+    "text": "for Judah, Elihu, [one] of David's brothers; for Issachar, Omri the son of Michael;"
+  },
+  {
+    "pk": 842756,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 19,
+    "text": "for Zebulun, Ishmaiah the son of Obadiah; for Naphtali, Jeremoth the son of Azriel;"
+  },
+  {
+    "pk": 842757,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 20,
+    "text": "for the sons of Ephraim, Hoshea the son of Azaziah; for the half-tribe of Manasseh, Joel the son of Pedaiah;"
+  },
+  {
+    "pk": 842758,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 21,
+    "text": "for the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah; for Benjamin, Jaasiel the son of Abner;"
+  },
+  {
+    "pk": 842759,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 22,
+    "text": "for Dan, Azarel the son of Jeroham. These [were] the princes of the tribes of Israel."
+  },
+  {
+    "pk": 842760,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 23,
+    "text": "But David did not count those twenty years of age and under, because the LORD had said He would multiply Israel as the stars of heaven."
+  },
+  {
+    "pk": 842761,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 24,
+    "text": "Joab the son of Zeruiah had begun to count [them], but did not finish; and because of this, wrath came upon Israel, and the number was not included in the account of the chronicles of King David."
+  },
+  {
+    "pk": 842762,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 25,
+    "text": "Now Azmaveth the son of Adiel had charge of the king's storehouses. And Jonathan the son of Uzziah had charge of the storehouses in the country, in the cities, in the villages and in the towers."
+  },
+  {
+    "pk": 842763,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 26,
+    "text": "Ezri the son of Chelub had charge of the agricultural workers who tilled the soil."
+  },
+  {
+    "pk": 842764,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 27,
+    "text": "Shimei the Ramathite had charge of the vineyards; and Zabdi the Shiphmite had charge of the produce of the vineyards [stored] in the wine cellars."
+  },
+  {
+    "pk": 842765,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 28,
+    "text": "Baal-hanan the Gederite had charge of the olive and sycamore trees in the Shephelah; and Joash had charge of the stores of oil."
+  },
+  {
+    "pk": 842766,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 29,
+    "text": "Shitrai the Sharonite had charge of the cattle which were grazing in Sharon; and Shaphat the son of Adlai had charge of the cattle in the valleys."
+  },
+  {
+    "pk": 842767,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 30,
+    "text": "Obil the Ishmaelite had charge of the camels; and Jehdeiah the Meronothite had charge of the donkeys."
+  },
+  {
+    "pk": 842768,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 31,
+    "text": "Jaziz the Hagrite had charge of the flocks. All these were overseers of the property which belonged to King David."
+  },
+  {
+    "pk": 842769,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 32,
+    "text": "Also Jonathan, David's uncle, [was] a counselor, a man of understanding, and a scribe; and Jehiel the son of Hachmoni tutored the king's sons."
+  },
+  {
+    "pk": 842770,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 33,
+    "text": "Ahithophel [was] counselor to the king; and Hushai the Archite [was] the king's friend."
+  },
+  {
+    "pk": 842771,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 27,
+    "verse": 34,
+    "text": "Jehoiada the son of Benaiah, and Abiathar succeeded Ahithophel; and Joab was the commander of the king's army."
+  }
+];

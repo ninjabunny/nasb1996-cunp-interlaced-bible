@@ -1,0 +1,99 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/09/05"] = [
+  {
+    "pk": 838948,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 1,
+    "text": "Now the Philistines took the ark of God and brought it from Ebenezer to Ashdod."
+  },
+  {
+    "pk": 838949,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 2,
+    "text": "Then the Philistines took the ark of God and brought it to the house of Dagon and set it by Dagon."
+  },
+  {
+    "pk": 838950,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 3,
+    "text": "When the Ashdodites arose early the next morning, behold, Dagon had fallen on his face to the ground before the ark of the LORD. So they took Dagon and set him in his place again."
+  },
+  {
+    "pk": 838951,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 4,
+    "text": "But when they arose early the next morning, behold, Dagon had fallen on his face to the ground before the ark of the LORD. And the head of Dagon and both the palms of his hands [were] cut off on the threshold; only the trunk of Dagon was left to him."
+  },
+  {
+    "pk": 838952,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 5,
+    "text": "Therefore neither the priests of Dagon nor all who enter Dagon's house tread on the threshold of Dagon in Ashdod to this day."
+  },
+  {
+    "pk": 838953,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 6,
+    "text": "Now the hand of the LORD was heavy on the Ashdodites, and He ravaged them and smote them with tumors, both Ashdod and its territories."
+  },
+  {
+    "pk": 838954,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 7,
+    "text": "When the men of Ashdod saw that it was so, they said, 'The ark of the God of Israel must not remain with us, for His hand is severe on us and on Dagon our god.'"
+  },
+  {
+    "pk": 838955,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 8,
+    "text": "So they sent and gathered all the lords of the Philistines to them and said, 'What shall we do with the ark of the God of Israel?' And they said, 'Let the ark of the God of Israel be brought around to Gath.' And they brought the ark of the God of Israel [around]."
+  },
+  {
+    "pk": 838956,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 9,
+    "text": "After they had brought it around, the hand of the LORD was against the city with very great confusion; and He smote the men of the city, both young and old, so that tumors broke out on them."
+  },
+  {
+    "pk": 838957,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 10,
+    "text": "So they sent the ark of God to Ekron. And as the ark of God came to Ekron the Ekronites cried out, saying, 'They have brought the ark of the God of Israel around to us, to kill us and our people.'"
+  },
+  {
+    "pk": 838958,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 11,
+    "text": "They sent therefore and gathered all the lords of the Philistines and said, 'Send away the ark of the God of Israel, and let it return to its own place, so that it will not kill us and our people.' For there was a deadly confusion throughout the city; the hand of God was very heavy there."
+  },
+  {
+    "pk": 838959,
+    "translation": "NASB",
+    "book": 9,
+    "chapter": 5,
+    "verse": 12,
+    "text": "And the men who did not die were smitten with tumors and the cry of the city went up to heaven."
+  }
+];

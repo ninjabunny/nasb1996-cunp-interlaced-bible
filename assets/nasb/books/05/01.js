@@ -1,0 +1,371 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/05/01"] = [
+  {
+    "pk": 836521,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 1,
+    "text": "These are the words which Moses spoke to all Israel across the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel and Laban and Hazeroth and Dizahab."
+  },
+  {
+    "pk": 836522,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 2,
+    "text": "It is eleven days' [journey] from Horeb by the way of Mount Seir to Kadesh-barnea."
+  },
+  {
+    "pk": 836523,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 3,
+    "text": "In the fortieth year, on the first [day] of the eleventh month, Moses spoke to the children of Israel, according to all that the LORD had commanded him [to give] to them,"
+  },
+  {
+    "pk": 836524,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 4,
+    "text": "after he had defeated Sihon the king of the Amorites, who lived in Heshbon, and Og the king of Bashan, who lived in Ashtaroth and Edrei."
+  },
+  {
+    "pk": 836525,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 5,
+    "text": "Across the Jordan in the land of Moab, Moses undertook to expound this law, saying,"
+  },
+  {
+    "pk": 836526,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 6,
+    "text": "'The LORD our God spoke to us at Horeb, saying, 'You have stayed long enough at this mountain."
+  },
+  {
+    "pk": 836527,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 7,
+    "text": "'Turn and set your journey, and go to the hill country of the Amorites, and to all their neighbors in the Arabah, in the hill country and in the lowland and in the Negev and by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates."
+  },
+  {
+    "pk": 836528,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 8,
+    "text": "'See, I have placed the land before you; go in and possess the land which the LORD swore to give to your fathers, to Abraham, to Isaac, and to Jacob, to them and their descendants after them.'"
+  },
+  {
+    "pk": 836529,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 9,
+    "text": "'I spoke to you at that time, saying, 'I am not able to bear [the burden] of you alone."
+  },
+  {
+    "pk": 836530,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 10,
+    "text": "'The LORD your God has multiplied you, and behold, you are this day like the stars of heaven in number."
+  },
+  {
+    "pk": 836531,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 11,
+    "text": "'May the LORD, the God of your fathers, increase you a thousand-fold more than you are and bless you, just as He has promised you!"
+  },
+  {
+    "pk": 836532,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 12,
+    "text": "'How can I alone bear the load and burden of you and your strife?"
+  },
+  {
+    "pk": 836533,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 13,
+    "text": "'Choose wise and discerning and experienced men from your tribes, and I will appoint them as your heads.'"
+  },
+  {
+    "pk": 836534,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 14,
+    "text": "'You answered me and said, 'The thing which you have said to do is good.'"
+  },
+  {
+    "pk": 836535,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 15,
+    "text": "'So I took the heads of your tribes, wise and experienced men, and appointed them heads over you, leaders of thousands and of hundreds, of fifties and of tens, and officers for your tribes."
+  },
+  {
+    "pk": 836536,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 16,
+    "text": "'Then I charged your judges at that time, saying, 'Hear [the cases] between your fellow countrymen, and judge righteously between a man and his fellow countryman, or the alien who is with him."
+  },
+  {
+    "pk": 836537,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 17,
+    "text": "'You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not fear man, for the judgment is God's. The case that is too hard for you, you shall bring to me, and I will hear it.'"
+  },
+  {
+    "pk": 836538,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 18,
+    "text": "'I commanded you at that time all the things that you should do."
+  },
+  {
+    "pk": 836539,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 19,
+    "text": "'Then we set out from Horeb, and went through all that great and terrible wilderness which you saw on the way to the hill country of the Amorites, just as the LORD our God had commanded us; and we came to Kadesh-barnea."
+  },
+  {
+    "pk": 836540,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 20,
+    "text": "'I said to you, 'You have come to the hill country of the Amorites which the LORD our God is about to give us."
+  },
+  {
+    "pk": 836541,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 21,
+    "text": "'See, the LORD your God has placed the land before you; go up, take possession, as the LORD, the God of your fathers, has spoken to you. Do not fear or be dismayed.'"
+  },
+  {
+    "pk": 836542,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 22,
+    "text": "'Then all of you approached me and said, 'Let us send men before us, that they may search out the land for us, and bring back to us word of the way by which we should go up and the cities which we shall enter.'"
+  },
+  {
+    "pk": 836543,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 23,
+    "text": "'The thing pleased me and I took twelve of your men, one man for each tribe."
+  },
+  {
+    "pk": 836544,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 24,
+    "text": "'They turned and went up into the hill country, and came to the valley of Eshcol and spied it out."
+  },
+  {
+    "pk": 836545,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 25,
+    "text": "'Then they took [some] of the fruit of the land in their hands and brought it down to us; and they brought us back a report and said, 'It is a good land which the LORD our God is about to give us.'"
+  },
+  {
+    "pk": 836546,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 26,
+    "text": "'Yet you were not willing to go up, but rebelled against the command of the LORD your God;"
+  },
+  {
+    "pk": 836547,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 27,
+    "text": "and you grumbled in your tents and said, 'Because the LORD hates us, He has brought us out of the land of Egypt to deliver us into the hand of the Amorites to destroy us."
+  },
+  {
+    "pk": 836548,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 28,
+    "text": "'Where can we go up? Our brethren have made our hearts melt, saying, 'The people are bigger and taller than we; the cities are large and fortified to heaven. And besides, we saw the sons of the Anakim there.''"
+  },
+  {
+    "pk": 836549,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 29,
+    "text": "'Then I said to you, 'Do not be shocked, nor fear them."
+  },
+  {
+    "pk": 836550,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 30,
+    "text": "'The LORD your God who goes before you will Himself fight on your behalf, just as He did for you in Egypt before your eyes,"
+  },
+  {
+    "pk": 836551,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 31,
+    "text": "and in the wilderness where you saw how the LORD your God carried you, just as a man carries his son, in all the way which you have walked until you came to this place.'"
+  },
+  {
+    "pk": 836552,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 32,
+    "text": "'But for all this, you did not trust the LORD your God,"
+  },
+  {
+    "pk": 836553,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 33,
+    "text": "who goes before you on [your] way, to seek out a place for you to encamp, in fire by night and cloud by day, to show you the way in which you should go."
+  },
+  {
+    "pk": 836554,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 34,
+    "text": "'Then the LORD heard the sound of your words, and He was angry and took an oath, saying,"
+  },
+  {
+    "pk": 836555,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 35,
+    "text": "'Not one of these men, this evil generation, shall see the good land which I swore to give your fathers,"
+  },
+  {
+    "pk": 836556,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 36,
+    "text": "except Caleb the son of Jephunneh; he shall see it, and to him and to his sons I will give the land on which he has set foot, because he has followed the LORD fully.'"
+  },
+  {
+    "pk": 836557,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 37,
+    "text": "'The LORD was angry with me also on your account, saying, 'Not even you shall enter there."
+  },
+  {
+    "pk": 836558,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 38,
+    "text": "'Joshua the son of Nun, who stands before you, he shall enter there; encourage him, for he will cause Israel to inherit it."
+  },
+  {
+    "pk": 836559,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 39,
+    "text": "'Moreover, your little ones who you said would become a prey, and your sons, who this day have no knowledge of good or evil, shall enter there, and I will give it to them and they shall possess it."
+  },
+  {
+    "pk": 836560,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 40,
+    "text": "'But as for you, turn around and set out for the wilderness by the way to the Red Sea.'"
+  },
+  {
+    "pk": 836561,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 41,
+    "text": "'Then you said to me, 'We have sinned against the LORD; we will indeed go up and fight, just as the LORD our God commanded us.' And every man of you girded on his weapons of war, and regarded it as easy to go up into the hill country."
+  },
+  {
+    "pk": 836562,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 42,
+    "text": "'And the LORD said to me, 'Say to them, 'Do not go up nor fight, for I am not among you; otherwise you will be defeated before your enemies.''"
+  },
+  {
+    "pk": 836563,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 43,
+    "text": "'So I spoke to you, but you would not listen. Instead you rebelled against the command of the LORD, and acted presumptuously and went up into the hill country."
+  },
+  {
+    "pk": 836564,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 44,
+    "text": "'The Amorites who lived in that hill country came out against you and chased you as bees do, and crushed you from Seir to Hormah."
+  },
+  {
+    "pk": 836565,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 45,
+    "text": "'Then you returned and wept before the LORD; but the LORD did not listen to your voice nor give ear to you."
+  },
+  {
+    "pk": 836566,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 1,
+    "verse": 46,
+    "text": "'So you remained in Kadesh many days, the days that you spent [there]."
+  }
+];

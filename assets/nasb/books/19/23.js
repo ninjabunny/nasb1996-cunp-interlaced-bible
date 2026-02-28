@@ -1,0 +1,51 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/23"] = [
+  {
+    "pk": 845864,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 23,
+    "verse": 1,
+    "text": "A Psalm of David. The LORD is my shepherd, I shall not want."
+  },
+  {
+    "pk": 845865,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 23,
+    "verse": 2,
+    "text": "He makes me lie down in green pastures; He leads me beside quiet waters."
+  },
+  {
+    "pk": 845866,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 23,
+    "verse": 3,
+    "text": "He restores my soul; He guides me in the paths of righteousness For His name's sake."
+  },
+  {
+    "pk": 845867,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 23,
+    "verse": 4,
+    "text": "Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me; Your rod and Your staff, they comfort me."
+  },
+  {
+    "pk": 845868,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 23,
+    "verse": 5,
+    "text": "You prepare a table before me in the presence of my enemies; You have anointed my head with oil; My cup overflows."
+  },
+  {
+    "pk": 845869,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 23,
+    "verse": 6,
+    "text": "Surely goodness and lovingkindness will follow me all the days of my life, And I will dwell in the house of the LORD forever."
+  }
+];

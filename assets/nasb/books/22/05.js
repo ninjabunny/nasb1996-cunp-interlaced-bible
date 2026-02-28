@@ -1,0 +1,131 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/22/05"] = [
+  {
+    "pk": 849227,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 1,
+    "text": "'I have come into my garden, my sister, [my] bride; I have gathered my myrrh along with my balsam. I have eaten my honeycomb and my honey; I have drunk my wine and my milk. Eat, friends; Drink and imbibe deeply, O lovers.'"
+  },
+  {
+    "pk": 849228,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 2,
+    "text": "'I was asleep but my heart was awake. A voice! My beloved was knocking: 'Open to me, my sister, my darling, My dove, my perfect one! For my head is drenched with dew, My locks with the damp of the night.'"
+  },
+  {
+    "pk": 849229,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 3,
+    "text": "'I have taken off my dress, How can I put it on [again]? I have washed my feet, How can I dirty them [again]?"
+  },
+  {
+    "pk": 849230,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 4,
+    "text": "'My beloved extended his hand through the opening, And my feelings were aroused for him."
+  },
+  {
+    "pk": 849231,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 5,
+    "text": "'I arose to open to my beloved; And my hands dripped with myrrh, And my fingers with liquid myrrh, On the handles of the bolt."
+  },
+  {
+    "pk": 849232,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 6,
+    "text": "'I opened to my beloved, But my beloved had turned away [and] had gone! My heart went out [to him] as he spoke. I searched for him but I did not find him; I called him but he did not answer me."
+  },
+  {
+    "pk": 849233,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 7,
+    "text": "'The watchmen who make the rounds in the city found me, They struck me [and] wounded me; The guardsmen of the walls took away my shawl from me."
+  },
+  {
+    "pk": 849234,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 8,
+    "text": "'I adjure you, O daughters of Jerusalem, If you find my beloved, As to what you will tell him: For I am lovesick.'"
+  },
+  {
+    "pk": 849235,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 9,
+    "text": "'What kind of beloved is your beloved, O most beautiful among women? What kind of beloved is your beloved, That thus you adjure us?'"
+  },
+  {
+    "pk": 849236,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 10,
+    "text": "'My beloved is dazzling and ruddy, Outstanding among ten thousand."
+  },
+  {
+    "pk": 849237,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 11,
+    "text": "'His head is [like] gold, pure gold; His locks are [like] clusters of dates [And] black as a raven."
+  },
+  {
+    "pk": 849238,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 12,
+    "text": "'His eyes are like doves Beside streams of water, Bathed in milk, [And] reposed in [their] setting."
+  },
+  {
+    "pk": 849239,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 13,
+    "text": "'His cheeks are like a bed of balsam, Banks of sweet-scented herbs; His lips are lilies Dripping with liquid myrrh."
+  },
+  {
+    "pk": 849240,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 14,
+    "text": "'His hands are rods of gold Set with beryl; His abdomen is carved ivory Inlaid with sapphires."
+  },
+  {
+    "pk": 849241,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 15,
+    "text": "'His legs are pillars of alabaster Set on pedestals of pure gold; His appearance is like Lebanon Choice as the cedars."
+  },
+  {
+    "pk": 849242,
+    "translation": "NASB",
+    "book": 22,
+    "chapter": 5,
+    "verse": 16,
+    "text": "'His mouth is [full of] sweetness. And he is wholly desirable. This is my beloved and this is my friend, O daughters of Jerusalem.'"
+  }
+];

@@ -1,0 +1,941 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/54/book"] = {
+  "translation": "NASB",
+  "book": 54,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 861325,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, an apostle of Christ Jesus according to the commandment of God our Savior, and of Christ Jesus, [who is] our hope,"
+        },
+        {
+          "pk": 861326,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 2,
+          "text": "To Timothy, [my] true child in [the] faith: Grace, mercy [and] peace from God the Father and Christ Jesus our Lord."
+        },
+        {
+          "pk": 861327,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 3,
+          "text": "As I urged you upon my departure for Macedonia, remain on at Ephesus so that you may instruct certain men not to teach strange doctrines,"
+        },
+        {
+          "pk": 861328,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 4,
+          "text": "nor to pay attention to myths and endless genealogies, which give rise to mere speculation rather than [furthering] the administration of God which is by faith."
+        },
+        {
+          "pk": 861329,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 5,
+          "text": "But the goal of our instruction is love from a pure heart and a good conscience and a sincere faith."
+        },
+        {
+          "pk": 861330,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 6,
+          "text": "For some men, straying from these things, have turned aside to fruitless discussion,"
+        },
+        {
+          "pk": 861331,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 7,
+          "text": "wanting to be teachers of the Law, even though they do not understand either what they are saying or the matters about which they make confident assertions."
+        },
+        {
+          "pk": 861332,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 8,
+          "text": "But we know that the Law is good, if one uses it lawfully,"
+        },
+        {
+          "pk": 861333,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 9,
+          "text": "realizing the fact that law is not made for a righteous person, but for those who are lawless and rebellious, for the ungodly and sinners, for the unholy and profane, for those who kill their fathers or mothers, for murderers"
+        },
+        {
+          "pk": 861334,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 10,
+          "text": "and immoral men and homosexuals and kidnappers and liars and perjurers, and whatever else is contrary to sound teaching,"
+        },
+        {
+          "pk": 861335,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 11,
+          "text": "according to the glorious gospel of the blessed God, with which I have been entrusted."
+        },
+        {
+          "pk": 861336,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 12,
+          "text": "I thank Christ Jesus our Lord, who has strengthened me, because He considered me faithful, putting me into service,"
+        },
+        {
+          "pk": 861337,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 13,
+          "text": "even though I was formerly a blasphemer and a persecutor and a violent aggressor. Yet I was shown mercy because I acted ignorantly in unbelief;"
+        },
+        {
+          "pk": 861338,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 14,
+          "text": "and the grace of our Lord was more than abundant, with the faith and love which are [found] in Christ Jesus."
+        },
+        {
+          "pk": 861339,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 15,
+          "text": "It is a trustworthy statement, deserving full acceptance, that Christ Jesus came into the world to save sinners, among whom I am foremost [of all]."
+        },
+        {
+          "pk": 861340,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 16,
+          "text": "Yet for this reason I found mercy, so that in me as the foremost, Jesus Christ might demonstrate His perfect patience as an example for those who would believe in Him for eternal life."
+        },
+        {
+          "pk": 861341,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 17,
+          "text": "Now to the King eternal, immortal, invisible, the only God, [be] honor and glory forever and ever. Amen."
+        },
+        {
+          "pk": 861342,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 18,
+          "text": "This command I entrust to you, Timothy, [my] son, in accordance with the prophecies previously made concerning you, that by them you fight the good fight,"
+        },
+        {
+          "pk": 861343,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 19,
+          "text": "keeping faith and a good conscience, which some have rejected and suffered shipwreck in regard to their faith."
+        },
+        {
+          "pk": 861344,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 1,
+          "verse": 20,
+          "text": "Among these are Hymenaeus and Alexander, whom I have handed over to Satan, so that they will be taught not to blaspheme."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 861345,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 1,
+          "text": "First of all, then, I urge that entreaties [and] prayers, petitions [and] thanksgivings, be made on behalf of all men,"
+        },
+        {
+          "pk": 861346,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 2,
+          "text": "for kings and all who are in authority, so that we may lead a tranquil and quiet life in all godliness and dignity."
+        },
+        {
+          "pk": 861347,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 3,
+          "text": "This is good and acceptable in the sight of God our Savior,"
+        },
+        {
+          "pk": 861348,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 4,
+          "text": "who desires all men to be saved and to come to the knowledge of the truth."
+        },
+        {
+          "pk": 861349,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 5,
+          "text": "For there is one God, [and] one mediator also between God and men, [the] man Christ Jesus,"
+        },
+        {
+          "pk": 861350,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 6,
+          "text": "who gave Himself as a ransom for all, the testimony [given] at the proper time."
+        },
+        {
+          "pk": 861351,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 7,
+          "text": "For this I was appointed a preacher and an apostle (I am telling the truth, I am not lying) as a teacher of the Gentiles in faith and truth."
+        },
+        {
+          "pk": 861352,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 8,
+          "text": "Therefore I want the men in every place to pray, lifting up holy hands, without wrath and dissension."
+        },
+        {
+          "pk": 861353,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 9,
+          "text": "Likewise, [I want] women to adorn themselves with proper clothing, modestly and discreetly, not with braided hair and gold or pearls or costly garments,"
+        },
+        {
+          "pk": 861354,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 10,
+          "text": "but rather by means of good works, as is proper for women making a claim to godliness."
+        },
+        {
+          "pk": 861355,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 11,
+          "text": "A woman must quietly receive instruction with entire submissiveness."
+        },
+        {
+          "pk": 861356,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 12,
+          "text": "But I do not allow a woman to teach or exercise authority over a man, but to remain quiet."
+        },
+        {
+          "pk": 861357,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 13,
+          "text": "For it was Adam who was first created, [and] then Eve."
+        },
+        {
+          "pk": 861358,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 14,
+          "text": "And [it was] not Adam [who] was deceived, but the woman being deceived, fell into transgression."
+        },
+        {
+          "pk": 861359,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 2,
+          "verse": 15,
+          "text": "But [women] will be preserved through the bearing of children if they continue in faith and love and sanctity with self-restraint."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 861360,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 1,
+          "text": "It is a trustworthy statement: if any man aspires to the office of overseer, it is a fine work he desires [to do]."
+        },
+        {
+          "pk": 861361,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 2,
+          "text": "An overseer, then, must be above reproach, the husband of one wife, temperate, prudent, respectable, hospitable, able to teach,"
+        },
+        {
+          "pk": 861362,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 3,
+          "text": "not addicted to wine or pugnacious, but gentle, peaceable, free from the love of money."
+        },
+        {
+          "pk": 861363,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 4,
+          "text": "[He must be] one who manages his own household well, keeping his children under control with all dignity"
+        },
+        {
+          "pk": 861364,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 5,
+          "text": "(but if a man does not know how to manage his own household, how will he take care of the church of God?),"
+        },
+        {
+          "pk": 861365,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 6,
+          "text": "[and] not a new convert, so that he will not become conceited and fall into the condemnation incurred by the devil."
+        },
+        {
+          "pk": 861366,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 7,
+          "text": "And he must have a good reputation with those outside [the church], so that he will not fall into reproach and the snare of the devil."
+        },
+        {
+          "pk": 861367,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 8,
+          "text": "Deacons likewise [must be] men of dignity, not double-tongued, or addicted to much wine or fond of sordid gain,"
+        },
+        {
+          "pk": 861368,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 9,
+          "text": "[but] holding to the mystery of the faith with a clear conscience."
+        },
+        {
+          "pk": 861369,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 10,
+          "text": "These men must also first be tested; then let them serve as deacons if they are beyond reproach."
+        },
+        {
+          "pk": 861370,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 11,
+          "text": "Women [must] likewise [be] dignified, not malicious gossips, but temperate, faithful in all things."
+        },
+        {
+          "pk": 861371,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 12,
+          "text": "Deacons must be husbands of [only] one wife, [and] good managers of [their] children and their own households."
+        },
+        {
+          "pk": 861372,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 13,
+          "text": "For those who have served well as deacons obtain for themselves a high standing and great confidence in the faith that is in Christ Jesus."
+        },
+        {
+          "pk": 861373,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 14,
+          "text": "I am writing these things to you, hoping to come to you before long;"
+        },
+        {
+          "pk": 861374,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 15,
+          "text": "but in case I am delayed, [I write] so that you will know how one ought to conduct himself in the household of God, which is the church of the living God, the pillar and support of the truth."
+        },
+        {
+          "pk": 861375,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 3,
+          "verse": 16,
+          "text": "By common confession, great is the mystery of godliness: He who was revealed in the flesh, Was vindicated in the Spirit, Seen by angels, Proclaimed among the nations, Believed on in the world, Taken up in glory."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 861376,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 1,
+          "text": "But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons,"
+        },
+        {
+          "pk": 861377,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 2,
+          "text": "by means of the hypocrisy of liars seared in their own conscience as with a branding iron,"
+        },
+        {
+          "pk": 861378,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 3,
+          "text": "[men] who forbid marriage [and advocate] abstaining from foods which God has created to be gratefully shared in by those who believe and know the truth."
+        },
+        {
+          "pk": 861379,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 4,
+          "text": "For everything created by God is good, and nothing is to be rejected if it is received with gratitude;"
+        },
+        {
+          "pk": 861380,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 5,
+          "text": "for it is sanctified by means of the word of God and prayer."
+        },
+        {
+          "pk": 861381,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 6,
+          "text": "In pointing out these things to the brethren, you will be a good servant of Christ Jesus, [constantly] nourished on the words of the faith and of the sound doctrine which you have been following."
+        },
+        {
+          "pk": 861382,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 7,
+          "text": "But have nothing to do with worldly fables fit only for old women. On the other hand, discipline yourself for the purpose of godliness;"
+        },
+        {
+          "pk": 861383,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 8,
+          "text": "for bodily discipline is only of little profit, but godliness is profitable for all things, since it holds promise for the present life and [also] for the [life] to come."
+        },
+        {
+          "pk": 861384,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 9,
+          "text": "It is a trustworthy statement deserving full acceptance."
+        },
+        {
+          "pk": 861385,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 10,
+          "text": "For it is for this we labor and strive, because we have fixed our hope on the living God, who is the Savior of all men, especially of believers."
+        },
+        {
+          "pk": 861386,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 11,
+          "text": "Prescribe and teach these things."
+        },
+        {
+          "pk": 861387,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 12,
+          "text": "Let no one look down on your youthfulness, but [rather] in speech, conduct, love, faith [and] purity, show yourself an example of those who believe."
+        },
+        {
+          "pk": 861388,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 13,
+          "text": "Until I come, give attention to the [public] reading [of Scripture], to exhortation and teaching."
+        },
+        {
+          "pk": 861389,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 14,
+          "text": "Do not neglect the spiritual gift within you, which was bestowed on you through prophetic utterance with the laying on of hands by the presbytery."
+        },
+        {
+          "pk": 861390,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 15,
+          "text": "Take pains with these things; be [absorbed] in them, so that your progress will be evident to all."
+        },
+        {
+          "pk": 861391,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 4,
+          "verse": 16,
+          "text": "Pay close attention to yourself and to your teaching; persevere in these things, for as you do this you will ensure salvation both for yourself and for those who hear you."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 861392,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Do not sharply rebuke an older man, but [rather] appeal to [him] as a father, [to] the younger men as brothers,"
+        },
+        {
+          "pk": 861393,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 2,
+          "text": "the older women as mothers, [and] the younger women as sisters, in all purity."
+        },
+        {
+          "pk": 861394,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 3,
+          "text": "Honor widows who are widows indeed;"
+        },
+        {
+          "pk": 861395,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 4,
+          "text": "but if any widow has children or grandchildren, they must first learn to practice piety in regard to their own family and to make some return to their parents; for this is acceptable in the sight of God."
+        },
+        {
+          "pk": 861396,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 5,
+          "text": "Now she who is a widow indeed and who has been left alone, has fixed her hope on God and continues in entreaties and prayers night and day."
+        },
+        {
+          "pk": 861397,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 6,
+          "text": "But she who gives herself to wanton pleasure is dead even while she lives."
+        },
+        {
+          "pk": 861398,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 7,
+          "text": "Prescribe these things as well, so that they may be above reproach."
+        },
+        {
+          "pk": 861399,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 8,
+          "text": "But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever."
+        },
+        {
+          "pk": 861400,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 9,
+          "text": "A widow is to be put on the list only if she is not less than sixty years old, [having been] the wife of one man,"
+        },
+        {
+          "pk": 861401,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 10,
+          "text": "having a reputation for good works; [and] if she has brought up children, if she has shown hospitality to strangers, if she has washed the saints' feet, if she has assisted those in distress, [and] if she has devoted herself to every good work."
+        },
+        {
+          "pk": 861402,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 11,
+          "text": "But refuse [to put] younger widows [on the list], for when they feel sensual desires in disregard of Christ, they want to get married,"
+        },
+        {
+          "pk": 861403,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 12,
+          "text": "[thus] incurring condemnation, because they have set aside their previous pledge."
+        },
+        {
+          "pk": 861404,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 13,
+          "text": "At the same time they also learn [to be] idle, as they go around from house to house; and not merely idle, but also gossips and busybodies, talking about things not proper [to mention]."
+        },
+        {
+          "pk": 861405,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 14,
+          "text": "Therefore, I want younger [widows] to get married, bear children, keep house, [and] give the enemy no occasion for reproach;"
+        },
+        {
+          "pk": 861406,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 15,
+          "text": "for some have already turned aside to follow Satan."
+        },
+        {
+          "pk": 861407,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 16,
+          "text": "If any woman who is a believer has [dependent] widows, she must assist them and the church must not be burdened, so that it may assist those who are widows indeed."
+        },
+        {
+          "pk": 861408,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 17,
+          "text": "The elders who rule well are to be considered worthy of double honor, especially those who work hard at preaching and teaching."
+        },
+        {
+          "pk": 861409,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 18,
+          "text": "For the Scripture says, 'YOU SHALL NOT MUZZLE THE OX WHILE HE IS THRESHING,' and 'The laborer is worthy of his wages.'"
+        },
+        {
+          "pk": 861410,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 19,
+          "text": "Do not receive an accusation against an elder except on the basis of two or three witnesses."
+        },
+        {
+          "pk": 861411,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 20,
+          "text": "Those who continue in sin, rebuke in the presence of all, so that the rest also will be fearful [of sinning]."
+        },
+        {
+          "pk": 861412,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 21,
+          "text": "I solemnly charge you in the presence of God and of Christ Jesus and of [His] chosen angels, to maintain these [principles] without bias, doing nothing in a [spirit of] partiality."
+        },
+        {
+          "pk": 861413,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 22,
+          "text": "Do not lay hands upon anyone [too] hastily and thereby share [responsibility for] the sins of others; keep yourself free from sin."
+        },
+        {
+          "pk": 861414,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 23,
+          "text": "No longer drink water [exclusively], but use a little wine for the sake of your stomach and your frequent ailments."
+        },
+        {
+          "pk": 861415,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 24,
+          "text": "The sins of some men are quite evident, going before them to judgment; for others, their [sins] follow after."
+        },
+        {
+          "pk": 861416,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 5,
+          "verse": 25,
+          "text": "Likewise also, deeds that are good are quite evident, and those which are otherwise cannot be concealed."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 861417,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 1,
+          "text": "All who are under the yoke as slaves are to regard their own masters as worthy of all honor so that the name of God and [our] doctrine will not be spoken against."
+        },
+        {
+          "pk": 861418,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 2,
+          "text": "Those who have believers as their masters must not be disrespectful to them because they are brethren, but must serve them all the more, because those who partake of the benefit are believers and beloved. Teach and preach these [principles]."
+        },
+        {
+          "pk": 861419,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 3,
+          "text": "If anyone advocates a different doctrine and does not agree with sound words, those of our Lord Jesus Christ, and with the doctrine conforming to godliness,"
+        },
+        {
+          "pk": 861420,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 4,
+          "text": "he is conceited [and] understands nothing; but he has a morbid interest in controversial questions and disputes about words, out of which arise envy, strife, abusive language, evil suspicions,"
+        },
+        {
+          "pk": 861421,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 5,
+          "text": "and constant friction between men of depraved mind and deprived of the truth, who suppose that godliness is a means of gain."
+        },
+        {
+          "pk": 861422,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 6,
+          "text": "But godliness [actually] is a means of great gain when accompanied by contentment."
+        },
+        {
+          "pk": 861423,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 7,
+          "text": "For we have brought nothing into the world, so we cannot take anything out of it either."
+        },
+        {
+          "pk": 861424,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 8,
+          "text": "If we have food and covering, with these we shall be content."
+        },
+        {
+          "pk": 861425,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 9,
+          "text": "But those who want to get rich fall into temptation and a snare and many foolish and harmful desires which plunge men into ruin and destruction."
+        },
+        {
+          "pk": 861426,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 10,
+          "text": "For the love of money is a root of all sorts of evil, and some by longing for it have wandered away from the faith and pierced themselves with many griefs."
+        },
+        {
+          "pk": 861427,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 11,
+          "text": "But flee from these things, you man of God, and pursue righteousness, godliness, faith, love, perseverance [and] gentleness."
+        },
+        {
+          "pk": 861428,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 12,
+          "text": "Fight the good fight of faith; take hold of the eternal life to which you were called, and you made the good confession in the presence of many witnesses."
+        },
+        {
+          "pk": 861429,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 13,
+          "text": "I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who testified the good confession before Pontius Pilate,"
+        },
+        {
+          "pk": 861430,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 14,
+          "text": "that you keep the commandment without stain or reproach until the appearing of our Lord Jesus Christ,"
+        },
+        {
+          "pk": 861431,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 15,
+          "text": "which He will bring about at the proper time-- He who is the blessed and only Sovereign, the King of kings and Lord of lords,"
+        },
+        {
+          "pk": 861432,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 16,
+          "text": "who alone possesses immortality and dwells in unapproachable light, whom no man has seen or can see. To Him [be] honor and eternal dominion! Amen."
+        },
+        {
+          "pk": 861433,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 17,
+          "text": "Instruct those who are rich in this present world not to be conceited or to fix their hope on the uncertainty of riches, but on God, who richly supplies us with all things to enjoy."
+        },
+        {
+          "pk": 861434,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 18,
+          "text": "[Instruct them] to do good, to be rich in good works, to be generous and ready to share,"
+        },
+        {
+          "pk": 861435,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 19,
+          "text": "storing up for themselves the treasure of a good foundation for the future, so that they may take hold of that which is life indeed."
+        },
+        {
+          "pk": 861436,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 20,
+          "text": "O Timothy, guard what has been entrusted to you, avoiding worldly [and] empty chatter [and] the opposing arguments of what is falsely called 'knowledge '--"
+        },
+        {
+          "pk": 861437,
+          "translation": "NASB",
+          "book": 54,
+          "chapter": 6,
+          "verse": 21,
+          "text": "which some have professed and thus gone astray from the faith. Grace be with you."
+        }
+      ]
+    }
+  ]
+};

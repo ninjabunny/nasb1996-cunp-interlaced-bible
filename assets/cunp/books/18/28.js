@@ -1,0 +1,237 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/18/28"] = [
+  {
+    "pk": 3496885,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 1,
+    "text": "銀子有礦；煉金有方。<br/>"
+  },
+  {
+    "pk": 3496886,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 2,
+    "text": "鐵從地裏挖出；銅從石中鎔化。<br/>"
+  },
+  {
+    "pk": 3496887,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 3,
+    "text": "人為黑暗定界限，查究幽暗陰翳的石頭，直到極處，<br/>"
+  },
+  {
+    "pk": 3496888,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 4,
+    "text": "在無人居住之處刨開礦穴，<i>過路的人</i>也想不到他們；又與人遠離，懸在空中搖來搖去。<br/>"
+  },
+  {
+    "pk": 3496889,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 5,
+    "text": "至於地，能出糧食，地內好像被火翻起來。<br/>"
+  },
+  {
+    "pk": 3496890,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 6,
+    "text": "地中的石頭有藍寶石，並有金沙。<br/>"
+  },
+  {
+    "pk": 3496891,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 7,
+    "text": "礦中的路鷙鳥不得知道；鷹眼也未見過。<br/>"
+  },
+  {
+    "pk": 3496892,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 8,
+    "text": "狂傲的野獸未曾行過；猛烈的獅子也未曾經過。"
+  },
+  {
+    "pk": 3496893,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 9,
+    "text": "人伸手鑿開堅石，傾倒山根，<br/>"
+  },
+  {
+    "pk": 3496894,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 10,
+    "text": "在磐石中鑿出水道，親眼看見各樣寶物。<br/>"
+  },
+  {
+    "pk": 3496895,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 11,
+    "text": "他封閉水不得滴流，使隱藏的物顯露出來。"
+  },
+  {
+    "pk": 3496896,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 12,
+    "text": "然而，智慧有何處可尋？聰明之處在哪裏呢？<br/>",
+    "comment": "<a href='/CUNP/18/28/20'>伯 28:20</a> 智慧從何處來呢？聰明之處在哪裏呢？<p><a href='/CUNP/21/7/24'>傳 7:24</a> 萬事<na>之理</na>，離<na>我</na>甚遠，而且最深，誰能測透呢？"
+  },
+  {
+    "pk": 3496897,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 13,
+    "text": "智慧的價值無人能知，在活人之地也無處可尋。<br/>",
+    "comment": "<a href='/CUNP/20/3/15'>箴 3:15</a> 比珍珠<small>〔或作「紅寶石」〕</small>寶貴；你一切所喜愛的，都不足與比較。"
+  },
+  {
+    "pk": 3496898,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 14,
+    "text": "深淵說：不在我內；滄海說：不在我中。<br/>",
+    "comment": "<a href='/CUNP/18/28/22'>伯 28:22</a> 滅沒和死亡說：我們風聞其名。<p><a href='/CUNP/45/11/33-34'>羅 11:33-34</a> 深哉，神豐富的智慧和知識！他的判斷何其難測！他的蹤跡何其難尋！誰知道主的心？誰作過他的謀士呢？"
+  },
+  {
+    "pk": 3496899,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 15,
+    "text": "智慧非用黃金可得，也不能平白銀為它的價值。<br/>",
+    "comment": "<a href='/CUNP/20/3/13-15'>箴 3:13-15</a> 得智慧，得聰明的，這人便為有福。因為得智慧勝過得銀子，其利益強如精金，比珍珠<small>〔或作「紅寶石」〕</small>寶貴；你一切所喜愛的，都不足與比較。<p><a href='/CUNP/20/8/10-11'>8:10-11</a>, <a href='/CUNP/20/8/19'>19</a> 你們當受我的教訓，不受白銀；寧得知識，勝過黃金。因為智慧比珍珠<small>〔或作「紅寶石」〕</small>更美；一切可喜愛的都不足與比較。……我的果實勝過黃金，強如精金；我的出產超乎高銀。<p><a href='/CUNP/20/16/16'>16:16</a> 得智慧勝似得金子；選聰明強如選銀子。"
+  },
+  {
+    "pk": 3496900,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 16,
+    "text": "<e>俄斐</e>金和貴重的紅瑪瑙，並藍寶石，不足與較量；<br/>"
+  },
+  {
+    "pk": 3496901,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 17,
+    "text": "黃金和玻璃不足與比較；精金的器皿不足與兌換。<br/>"
+  },
+  {
+    "pk": 3496902,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 18,
+    "text": "珊瑚、水晶都不足論；智慧的價值勝過珍珠<sup>〔或作「紅寶石」〕</sup>。<br/>"
+  },
+  {
+    "pk": 3496903,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 19,
+    "text": "<e>古實</e>的紅璧璽不足與比較；精金也不足與較量。"
+  },
+  {
+    "pk": 3496904,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 20,
+    "text": "智慧從何處來呢？聰明之處在哪裏呢？<br/>",
+    "comment": "<a href='/CUNP/18/28/12'>伯 28:12</a> 然而，智慧有何處可尋？聰明之處在哪裏呢？"
+  },
+  {
+    "pk": 3496905,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 21,
+    "text": "是向一切有生命的眼目隱藏，向空中的飛鳥掩蔽。<br/>"
+  },
+  {
+    "pk": 3496906,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 22,
+    "text": "滅沒和死亡說：我們風聞其名。",
+    "comment": "<a href='/CUNP/18/28/14'>伯 28:14</a> 深淵說：不在我內；滄海說：不在我中。"
+  },
+  {
+    "pk": 3496907,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 23,
+    "text": "神明白智慧的道路，曉得智慧的所在。<br/>"
+  },
+  {
+    "pk": 3496908,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 24,
+    "text": "因他鑒察直到地極，遍觀普天之下，<br/>",
+    "comment": "<a href='/CUNP/20/15/3'>箴 15:3</a> 耶和華的眼目無處不在；惡人善人，他都鑒察。"
+  },
+  {
+    "pk": 3496909,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 25,
+    "text": "要為風定輕重，又度量諸水；<br/>",
+    "comment": "<a href='/CUNP/19/135/7'>詩 135:7</a> 他使雲霧從地極上騰，造電隨雨而閃，從府庫中帶出風來。"
+  },
+  {
+    "pk": 3496910,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 26,
+    "text": "他為雨露定命令，為雷電定道路。<br/>",
+    "comment": "<a href='/CUNP/18/38/25'>伯 38:25</a> 誰為雨水分道？誰為雷電開路？"
+  },
+  {
+    "pk": 3496911,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 27,
+    "text": "那時他看見智慧，而且述說；他堅定，並且查究。<br/>"
+  },
+  {
+    "pk": 3496912,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 28,
+    "verse": 28,
+    "text": "他對人說：敬畏主就是智慧；遠離惡便是聰明。",
+    "comment": "<a href='/CUNP/5/4/6'>申 4:6</a> 所以你們要謹守遵行；這就是你們在萬民眼前的智慧、聰明。他們聽見這一切律例，必說：『這大國的人真是有智慧，有聰明！』<p><a href='/CUNP/19/111/10'>詩 111:10</a> 敬畏耶和華是智慧的開端；凡遵行<na>他命令</na>的是聰明人。耶和華是永遠當讚美的！<p><a href='/CUNP/20/1/7'>箴 1:7</a> 敬畏耶和華是知識的開端；愚妄人藐視智慧和訓誨。<p><a href='/CUNP/20/9/10'>9:10</a> 敬畏耶和華是智慧的開端；認識至聖者便是聰明。<p><a href='/CUNP/21/12/13'>傳 12:13</a> 這些事都已聽見了，總意就是：敬畏神，謹守他的誡命，這是人所當盡的<na>本分</na><small>〔或作「這是眾人的本分」〕</small>。"
+  }
+];

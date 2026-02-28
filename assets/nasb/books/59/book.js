@@ -1,0 +1,896 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/59/book"] = {
+  "translation": "NASB",
+  "book": 59,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 861895,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 1,
+          "text": "James, a bond-servant of God and of the Lord Jesus Christ, To the twelve tribes who are dispersed abroad: Greetings."
+        },
+        {
+          "pk": 861896,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 2,
+          "text": "Consider it all joy, my brethren, when you encounter various trials,"
+        },
+        {
+          "pk": 861897,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 3,
+          "text": "knowing that the testing of your faith produces endurance."
+        },
+        {
+          "pk": 861898,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 4,
+          "text": "And let endurance have [its] perfect result, so that you may be perfect and complete, lacking in nothing."
+        },
+        {
+          "pk": 861899,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 5,
+          "text": "But if any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him."
+        },
+        {
+          "pk": 861900,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 6,
+          "text": "But he must ask in faith without any doubting, for the one who doubts is like the surf of the sea, driven and tossed by the wind."
+        },
+        {
+          "pk": 861901,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 7,
+          "text": "For that man ought not to expect that he will receive anything from the Lord,"
+        },
+        {
+          "pk": 861902,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 8,
+          "text": "[being] a double-minded man, unstable in all his ways."
+        },
+        {
+          "pk": 861903,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 9,
+          "text": "But the brother of humble circumstances is to glory in his high position;"
+        },
+        {
+          "pk": 861904,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 10,
+          "text": "and the rich man [is to glory] in his humiliation, because like flowering grass he will pass away."
+        },
+        {
+          "pk": 861905,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 11,
+          "text": "For the sun rises with a scorching wind and withers the grass; and its flower falls off and the beauty of its appearance is destroyed; so too the rich man in the midst of his pursuits will fade away."
+        },
+        {
+          "pk": 861906,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 12,
+          "text": "Blessed is a man who perseveres under trial; for once he has been approved, he will receive the crown of life which [the Lord] has promised to those who love Him."
+        },
+        {
+          "pk": 861907,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 13,
+          "text": "Let no one say when he is tempted, 'I am being tempted by God'; for God cannot be tempted by evil, and He Himself does not tempt anyone."
+        },
+        {
+          "pk": 861908,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 14,
+          "text": "But each one is tempted when he is carried away and enticed by his own lust."
+        },
+        {
+          "pk": 861909,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 15,
+          "text": "Then when lust has conceived, it gives birth to sin; and when sin is accomplished, it brings forth death."
+        },
+        {
+          "pk": 861910,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 16,
+          "text": "Do not be deceived, my beloved brethren."
+        },
+        {
+          "pk": 861911,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 17,
+          "text": "Every good thing given and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shifting shadow."
+        },
+        {
+          "pk": 861912,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 18,
+          "text": "In the exercise of His will He brought us forth by the word of truth, so that we would be a kind of first fruits among His creatures."
+        },
+        {
+          "pk": 861913,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 19,
+          "text": "[This] you know, my beloved brethren. But everyone must be quick to hear, slow to speak [and] slow to anger;"
+        },
+        {
+          "pk": 861914,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 20,
+          "text": "for the anger of man does not achieve the righteousness of God."
+        },
+        {
+          "pk": 861915,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 21,
+          "text": "Therefore, putting aside all filthiness and [all] that remains of wickedness, in humility receive the word implanted, which is able to save your souls."
+        },
+        {
+          "pk": 861916,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 22,
+          "text": "But prove yourselves doers of the word, and not merely hearers who delude themselves."
+        },
+        {
+          "pk": 861917,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 23,
+          "text": "For if anyone is a hearer of the word and not a doer, he is like a man who looks at his natural face in a mirror;"
+        },
+        {
+          "pk": 861918,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 24,
+          "text": "for [once] he has looked at himself and gone away, he has immediately forgotten what kind of person he was."
+        },
+        {
+          "pk": 861919,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 25,
+          "text": "But one who looks intently at the perfect law, the [law] of liberty, and abides by it, not having become a forgetful hearer but an effectual doer, this man will be blessed in what he does."
+        },
+        {
+          "pk": 861920,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 26,
+          "text": "If anyone thinks himself to be religious, and yet does not bridle his tongue but deceives his [own] heart, this man's religion is worthless."
+        },
+        {
+          "pk": 861921,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 1,
+          "verse": 27,
+          "text": "Pure and undefiled religion in the sight of [our] God and Father is this: to visit orphans and widows in their distress, [and] to keep oneself unstained by the world."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 861922,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 1,
+          "text": "My brethren, do not hold your faith in our glorious Lord Jesus Christ with [an attitude of] personal favoritism."
+        },
+        {
+          "pk": 861923,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 2,
+          "text": "For if a man comes into your assembly with a gold ring and dressed in fine clothes, and there also comes in a poor man in dirty clothes,"
+        },
+        {
+          "pk": 861924,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 3,
+          "text": "and you pay special attention to the one who is wearing the fine clothes, and say, 'You sit here in a good place,' and you say to the poor man, 'You stand over there, or sit down by my footstool,'"
+        },
+        {
+          "pk": 861925,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 4,
+          "text": "have you not made distinctions among yourselves, and become judges with evil motives?"
+        },
+        {
+          "pk": 861926,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 5,
+          "text": "Listen, my beloved brethren: did not God choose the poor of this world [to be] rich in faith and heirs of the kingdom which He promised to those who love Him?"
+        },
+        {
+          "pk": 861927,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 6,
+          "text": "But you have dishonored the poor man. Is it not the rich who oppress you and personally drag you into court?"
+        },
+        {
+          "pk": 861928,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 7,
+          "text": "Do they not blaspheme the fair name by which you have been called?"
+        },
+        {
+          "pk": 861929,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 8,
+          "text": "If, however, you are fulfilling the royal law according to the Scripture, 'YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF,' you are doing well."
+        },
+        {
+          "pk": 861930,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 9,
+          "text": "But if you show partiality, you are committing sin [and] are convicted by the law as transgressors."
+        },
+        {
+          "pk": 861931,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 10,
+          "text": "For whoever keeps the whole law and yet stumbles in one [point], he has become guilty of all."
+        },
+        {
+          "pk": 861932,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 11,
+          "text": "For He who said, 'DO NOT COMMIT ADULTERY,' also said, 'DO NOT COMMIT MURDER.' Now if you do not commit adultery, but do commit murder, you have become a transgressor of the law."
+        },
+        {
+          "pk": 861933,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 12,
+          "text": "So speak and so act as those who are to be judged by [the] law of liberty."
+        },
+        {
+          "pk": 861934,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 13,
+          "text": "For judgment [will be] merciless to one who has shown no mercy; mercy triumphs over judgment."
+        },
+        {
+          "pk": 861935,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 14,
+          "text": "What use is it, my brethren, if someone says he has faith but he has no works? Can that faith save him?"
+        },
+        {
+          "pk": 861936,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 15,
+          "text": "If a brother or sister is without clothing and in need of daily food,"
+        },
+        {
+          "pk": 861937,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 16,
+          "text": "and one of you says to them, 'Go in peace, be warmed and be filled,' and yet you do not give them what is necessary for [their] body, what use is that?"
+        },
+        {
+          "pk": 861938,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 17,
+          "text": "Even so faith, if it has no works, is dead, [being] by itself."
+        },
+        {
+          "pk": 861939,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 18,
+          "text": "But someone may [well] say, 'You have faith and I have works; show me your faith without the works, and I will show you my faith by my works.'"
+        },
+        {
+          "pk": 861940,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 19,
+          "text": "You believe that God is one. You do well; the demons also believe, and shudder."
+        },
+        {
+          "pk": 861941,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 20,
+          "text": "But are you willing to recognize, you foolish fellow, that faith without works is useless?"
+        },
+        {
+          "pk": 861942,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 21,
+          "text": "Was not Abraham our father justified by works when he offered up Isaac his son on the altar?"
+        },
+        {
+          "pk": 861943,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 22,
+          "text": "You see that faith was working with his works, and as a result of the works, faith was perfected;"
+        },
+        {
+          "pk": 861944,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 23,
+          "text": "and the Scripture was fulfilled which says, 'AND ABRAHAM BELIEVED GOD, AND IT WAS RECKONED TO HIM AS RIGHTEOUSNESS,' and he was called the friend of God."
+        },
+        {
+          "pk": 861945,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 24,
+          "text": "You see that a man is justified by works and not by faith alone."
+        },
+        {
+          "pk": 861946,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 25,
+          "text": "In the same way, was not Rahab the harlot also justified by works when she received the messengers and sent them out by another way?"
+        },
+        {
+          "pk": 861947,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 2,
+          "verse": 26,
+          "text": "For just as the body without [the] spirit is dead, so also faith without works is dead."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 861948,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 1,
+          "text": "Let not many [of you] become teachers, my brethren, knowing that as such we will incur a stricter judgment."
+        },
+        {
+          "pk": 861949,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 2,
+          "text": "For we all stumble in many [ways]. If anyone does not stumble in what he says, he is a perfect man, able to bridle the whole body as well."
+        },
+        {
+          "pk": 861950,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 3,
+          "text": "Now if we put the bits into the horses' mouths so that they will obey us, we direct their entire body as well."
+        },
+        {
+          "pk": 861951,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 4,
+          "text": "Look at the ships also, though they are so great and are driven by strong winds, are still directed by a very small rudder wherever the inclination of the pilot desires."
+        },
+        {
+          "pk": 861952,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 5,
+          "text": "So also the tongue is a small part of the body, and [yet] it boasts of great things. See how great a forest is set aflame by such a small fire!"
+        },
+        {
+          "pk": 861953,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 6,
+          "text": "And the tongue is a fire, the [very] world of iniquity; the tongue is set among our members as that which defiles the entire body, and sets on fire the course of [our] life, and is set on fire by hell."
+        },
+        {
+          "pk": 861954,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 7,
+          "text": "For every species of beasts and birds, of reptiles and creatures of the sea, is tamed and has been tamed by the human race."
+        },
+        {
+          "pk": 861955,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 8,
+          "text": "But no one can tame the tongue; [it is] a restless evil [and] full of deadly poison."
+        },
+        {
+          "pk": 861956,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 9,
+          "text": "With it we bless [our] Lord and Father, and with it we curse men, who have been made in the likeness of God;"
+        },
+        {
+          "pk": 861957,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 10,
+          "text": "from the same mouth come [both] blessing and cursing. My brethren, these things ought not to be this way."
+        },
+        {
+          "pk": 861958,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 11,
+          "text": "Does a fountain send out from the same opening [both] fresh and bitter [water]?"
+        },
+        {
+          "pk": 861959,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 12,
+          "text": "Can a fig tree, my brethren, produce olives, or a vine produce figs? Nor [can] salt water produce fresh."
+        },
+        {
+          "pk": 861960,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 13,
+          "text": "Who among you is wise and understanding? Let him show by his good behavior his deeds in the gentleness of wisdom."
+        },
+        {
+          "pk": 861961,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 14,
+          "text": "But if you have bitter jealousy and selfish ambition in your heart, do not be arrogant and [so] lie against the truth."
+        },
+        {
+          "pk": 861962,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 15,
+          "text": "This wisdom is not that which comes down from above, but is earthly, natural, demonic."
+        },
+        {
+          "pk": 861963,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 16,
+          "text": "For where jealousy and selfish ambition exist, there is disorder and every evil thing."
+        },
+        {
+          "pk": 861964,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 17,
+          "text": "But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy."
+        },
+        {
+          "pk": 861965,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 3,
+          "verse": 18,
+          "text": "And the seed whose fruit is righteousness is sown in peace by those who make peace."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 861966,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 1,
+          "text": "What is the source of quarrels and conflicts among you? Is not the source your pleasures that wage war in your members?"
+        },
+        {
+          "pk": 861967,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 2,
+          "text": "You lust and do not have; [so] you commit murder. You are envious and cannot obtain; [so] you fight and quarrel. You do not have because you do not ask."
+        },
+        {
+          "pk": 861968,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 3,
+          "text": "You ask and do not receive, because you ask with wrong motives, so that you may spend [it] on your pleasures."
+        },
+        {
+          "pk": 861969,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 4,
+          "text": "You adulteresses, do you not know that friendship with the world is hostility toward God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God."
+        },
+        {
+          "pk": 861970,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 5,
+          "text": "Or do you think that the Scripture speaks to no purpose: 'He jealously desires the Spirit which He has made to dwell in us'?"
+        },
+        {
+          "pk": 861971,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 6,
+          "text": "But He gives a greater grace. Therefore [it] says, 'GOD IS OPPOSED TO THE PROUD, BUT GIVES GRACE TO THE HUMBLE.'"
+        },
+        {
+          "pk": 861972,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 7,
+          "text": "Submit therefore to God. Resist the devil and he will flee from you."
+        },
+        {
+          "pk": 861973,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 8,
+          "text": "Draw near to God and He will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded."
+        },
+        {
+          "pk": 861974,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 9,
+          "text": "Be miserable and mourn and weep; let your laughter be turned into mourning and your joy to gloom."
+        },
+        {
+          "pk": 861975,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 10,
+          "text": "Humble yourselves in the presence of the Lord, and He will exalt you."
+        },
+        {
+          "pk": 861976,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 11,
+          "text": "Do not speak against one another, brethren. He who speaks against a brother or judges his brother, speaks against the law and judges the law; but if you judge the law, you are not a doer of the law but a judge [of it]."
+        },
+        {
+          "pk": 861977,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 12,
+          "text": "There is [only] one Lawgiver and Judge, the One who is able to save and to destroy; but who are you who judge your neighbor?"
+        },
+        {
+          "pk": 861978,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 13,
+          "text": "Come now, you who say, 'Today or tomorrow we will go to such and such a city, and spend a year there and engage in business and make a profit.'"
+        },
+        {
+          "pk": 861979,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 14,
+          "text": "Yet you do not know what your life will be like tomorrow. You are [just] a vapor that appears for a little while and then vanishes away."
+        },
+        {
+          "pk": 861980,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 15,
+          "text": "Instead, [you ought] to say, 'If the Lord wills, we will live and also do this or that.'"
+        },
+        {
+          "pk": 861981,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 16,
+          "text": "But as it is, you boast in your arrogance; all such boasting is evil."
+        },
+        {
+          "pk": 861982,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 4,
+          "verse": 17,
+          "text": "Therefore, to one who knows [the] right thing to do and does not do it, to him it is sin."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 861983,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Come now, you rich, weep and howl for your miseries which are coming upon you."
+        },
+        {
+          "pk": 861984,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 2,
+          "text": "Your riches have rotted and your garments have become moth-eaten."
+        },
+        {
+          "pk": 861985,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 3,
+          "text": "Your gold and your silver have rusted; and their rust will be a witness against you and will consume your flesh like fire. It is in the last days that you have stored up your treasure!"
+        },
+        {
+          "pk": 861986,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 4,
+          "text": "Behold, the pay of the laborers who mowed your fields, [and] which has been withheld by you, cries out [against you]; and the outcry of those who did the harvesting has reached the ears of the Lord of Sabaoth."
+        },
+        {
+          "pk": 861987,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 5,
+          "text": "You have lived luxuriously on the earth and led a life of wanton pleasure; you have fattened your hearts in a day of slaughter."
+        },
+        {
+          "pk": 861988,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 6,
+          "text": "You have condemned and put to death the righteous [man]; he does not resist you."
+        },
+        {
+          "pk": 861989,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 7,
+          "text": "Therefore be patient, brethren, until the coming of the Lord. The farmer waits for the precious produce of the soil, being patient about it, until it gets the early and late rains."
+        },
+        {
+          "pk": 861990,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 8,
+          "text": "You too be patient; strengthen your hearts, for the coming of the Lord is near."
+        },
+        {
+          "pk": 861991,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 9,
+          "text": "Do not complain, brethren, against one another, so that you yourselves may not be judged; behold, the Judge is standing right at the door."
+        },
+        {
+          "pk": 861992,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 10,
+          "text": "As an example, brethren, of suffering and patience, take the prophets who spoke in the name of the Lord."
+        },
+        {
+          "pk": 861993,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 11,
+          "text": "We count those blessed who endured. You have heard of the endurance of Job and have seen the outcome of the Lord's dealings, that the Lord is full of compassion and [is] merciful."
+        },
+        {
+          "pk": 861994,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 12,
+          "text": "But above all, my brethren, do not swear, either by heaven or by earth or with any other oath; but your yes is to be yes, and your no, no, so that you may not fall under judgment."
+        },
+        {
+          "pk": 861995,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 13,
+          "text": "Is anyone among you suffering? [Then] he must pray. Is anyone cheerful? He is to sing praises."
+        },
+        {
+          "pk": 861996,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 14,
+          "text": "Is anyone among you sick? [Then] he must call for the elders of the church and they are to pray over him, anointing him with oil in the name of the Lord;"
+        },
+        {
+          "pk": 861997,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 15,
+          "text": "and the prayer offered in faith will restore the one who is sick, and the Lord will raise him up, and if he has committed sins, they will be forgiven him."
+        },
+        {
+          "pk": 861998,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 16,
+          "text": "Therefore, confess your sins to one another, and pray for one another so that you may be healed. The effective prayer of a righteous man can accomplish much."
+        },
+        {
+          "pk": 861999,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 17,
+          "text": "Elijah was a man with a nature like ours, and he prayed earnestly that it would not rain, and it did not rain on the earth for three years and six months."
+        },
+        {
+          "pk": 862000,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 18,
+          "text": "Then he prayed again, and the sky poured rain and the earth produced its fruit."
+        },
+        {
+          "pk": 862001,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 19,
+          "text": "My brethren, if any among you strays from the truth and one turns him back,"
+        },
+        {
+          "pk": 862002,
+          "translation": "NASB",
+          "book": 59,
+          "chapter": 5,
+          "verse": 20,
+          "text": "let him know that he who turns a sinner from the error of his way will save his soul from death and will cover a multitude of sins."
+        }
+      ]
+    }
+  ]
+};

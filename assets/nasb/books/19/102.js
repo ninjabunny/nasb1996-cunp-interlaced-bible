@@ -1,0 +1,227 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/102"] = [
+  {
+    "pk": 847150,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 1,
+    "text": "A Prayer of the Afflicted when he is faint and pours out his complaint before the LORD. Hear my prayer, O LORD! And let my cry for help come to You."
+  },
+  {
+    "pk": 847151,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 2,
+    "text": "Do not hide Your face from me in the day of my distress; Incline Your ear to me; In the day when I call answer me quickly."
+  },
+  {
+    "pk": 847152,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 3,
+    "text": "For my days have been consumed in smoke, And my bones have been scorched like a hearth."
+  },
+  {
+    "pk": 847153,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 4,
+    "text": "My heart has been smitten like grass and has withered away, Indeed, I forget to eat my bread."
+  },
+  {
+    "pk": 847154,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 5,
+    "text": "Because of the loudness of my groaning My bones cling to my flesh."
+  },
+  {
+    "pk": 847155,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 6,
+    "text": "I resemble a pelican of the wilderness; I have become like an owl of the waste places."
+  },
+  {
+    "pk": 847156,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 7,
+    "text": "I lie awake, I have become like a lonely bird on a housetop."
+  },
+  {
+    "pk": 847157,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 8,
+    "text": "My enemies have reproached me all day long; Those who deride me have used my [name] as a curse."
+  },
+  {
+    "pk": 847158,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 9,
+    "text": "For I have eaten ashes like bread And mingled my drink with weeping"
+  },
+  {
+    "pk": 847159,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 10,
+    "text": "Because of Your indignation and Your wrath, For You have lifted me up and cast me away."
+  },
+  {
+    "pk": 847160,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 11,
+    "text": "My days are like a lengthened shadow, And I wither away like grass."
+  },
+  {
+    "pk": 847161,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 12,
+    "text": "But You, O LORD, abide forever, And Your name to all generations."
+  },
+  {
+    "pk": 847162,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 13,
+    "text": "You will arise [and] have compassion on Zion; For it is time to be gracious to her, For the appointed time has come."
+  },
+  {
+    "pk": 847163,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 14,
+    "text": "Surely Your servants find pleasure in her stones And feel pity for her dust."
+  },
+  {
+    "pk": 847164,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 15,
+    "text": "So the nations will fear the name of the LORD And all the kings of the earth Your glory."
+  },
+  {
+    "pk": 847165,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 16,
+    "text": "For the LORD has built up Zion; He has appeared in His glory."
+  },
+  {
+    "pk": 847166,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 17,
+    "text": "He has regarded the prayer of the destitute And has not despised their prayer."
+  },
+  {
+    "pk": 847167,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 18,
+    "text": "This will be written for the generation to come, That a people yet to be created may praise the LORD."
+  },
+  {
+    "pk": 847168,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 19,
+    "text": "For He looked down from His holy height; From heaven the LORD gazed upon the earth,"
+  },
+  {
+    "pk": 847169,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 20,
+    "text": "To hear the groaning of the prisoner, To set free those who were doomed to death,"
+  },
+  {
+    "pk": 847170,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 21,
+    "text": "That [men] may tell of the name of the LORD in Zion And His praise in Jerusalem,"
+  },
+  {
+    "pk": 847171,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 22,
+    "text": "When the peoples are gathered together, And the kingdoms, to serve the LORD."
+  },
+  {
+    "pk": 847172,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 23,
+    "text": "He has weakened my strength in the way; He has shortened my days."
+  },
+  {
+    "pk": 847173,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 24,
+    "text": "I say, 'O my God, do not take me away in the midst of my days, Your years are throughout all generations."
+  },
+  {
+    "pk": 847174,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 25,
+    "text": "'Of old You founded the earth, And the heavens are the work of Your hands."
+  },
+  {
+    "pk": 847175,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 26,
+    "text": "'Even they will perish, but You endure; And all of them will wear out like a garment; Like clothing You will change them and they will be changed."
+  },
+  {
+    "pk": 847176,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 27,
+    "text": "'But You are the same, And Your years will not come to an end."
+  },
+  {
+    "pk": 847177,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 102,
+    "verse": 28,
+    "text": "'The children of Your servants will continue, And their descendants will be established before You.'"
+  }
+];

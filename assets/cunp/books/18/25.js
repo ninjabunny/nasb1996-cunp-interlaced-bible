@@ -1,0 +1,54 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/18/25"] = [
+  {
+    "pk": 3496842,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 25,
+    "verse": 1,
+    "text": "<e>書亞</e>人<e>比勒達</e>回答說：<br/>"
+  },
+  {
+    "pk": 3496843,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 25,
+    "verse": 2,
+    "text": "神有治理之權，有威嚴可畏；他在高處施行和平。<br/>"
+  },
+  {
+    "pk": 3496844,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 25,
+    "verse": 3,
+    "text": "他的諸軍豈能數算？他的光亮一發，誰不蒙照呢？<br/>",
+    "comment": "<a href='/CUNP/59/1/17'>雅 1:17</a> 各樣美善的恩賜和各樣全備的賞賜都是從上頭來的，從眾光之父那裏降下來的；在他並沒有改變，也沒有轉動的影兒。"
+  },
+  {
+    "pk": 3496845,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 25,
+    "verse": 4,
+    "text": "這樣在神面前，人怎能稱義？婦人所生的怎能潔淨？<br/>",
+    "comment": "<a href='/CUNP/18/4/17'>伯 4:17</a> 必死的人豈能比神公義嗎？人豈能比造他的主潔淨嗎？<p><a href='/CUNP/18/15/14'>15:14</a> 人是甚麼，竟算為潔淨呢？婦人所生的是甚麼，竟算為義呢？<p><a href='/CUNP/19/130/3'>詩 130:3</a> 主──耶和華啊，你若究察罪孽，誰能站得住呢？<p><a href='/CUNP/19/143/2'>143:2</a> 求你不要審問僕人；因為在你面前，凡活著的人沒有一個是義的。"
+  },
+  {
+    "pk": 3496846,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 25,
+    "verse": 5,
+    "text": "在神眼前，月亮也無光亮，星宿也不清潔。<br/>"
+  },
+  {
+    "pk": 3496847,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 25,
+    "verse": 6,
+    "text": "何況如蟲的人，如蛆的世人呢！",
+    "comment": "<a href='/CUNP/19/22/6'>詩 22:6</a> 但我是蟲，不是人，被眾人羞辱，被百姓藐視。"
+  }
+];

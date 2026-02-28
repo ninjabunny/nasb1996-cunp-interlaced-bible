@@ -1,0 +1,227 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/46"] = [
+  {
+    "pk": 851674,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 1,
+    "text": "That which came as the word of the LORD to Jeremiah the prophet concerning the nations."
+  },
+  {
+    "pk": 851675,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 2,
+    "text": "To Egypt, concerning the army of Pharaoh Neco king of Egypt, which was by the Euphrates River at Carchemish, which Nebuchadnezzar king of Babylon defeated in the fourth year of Jehoiakim the son of Josiah, king of Judah:"
+  },
+  {
+    "pk": 851676,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 3,
+    "text": "'Line up the shield and buckler, And draw near for the battle!"
+  },
+  {
+    "pk": 851677,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 4,
+    "text": "'Harness the horses, And mount the steeds, And take your stand with helmets [on]! Polish the spears, Put on the scale-armor!"
+  },
+  {
+    "pk": 851678,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 5,
+    "text": "'Why have I seen [it]? They are terrified, They are drawing back, And their mighty men are defeated And have taken refuge in flight, Without facing back; Terror is on every side!' Declares the LORD."
+  },
+  {
+    "pk": 851679,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 6,
+    "text": "Let not the swift man flee, Nor the mighty man escape; In the north beside the river Euphrates They have stumbled and fallen."
+  },
+  {
+    "pk": 851680,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 7,
+    "text": "Who is this that rises like the Nile, Like the rivers whose waters surge about?"
+  },
+  {
+    "pk": 851681,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 8,
+    "text": "Egypt rises like the Nile, Even like the rivers whose waters surge about; And He has said, 'I will rise and cover [that] land; I will surely destroy the city and its inhabitants.'"
+  },
+  {
+    "pk": 851682,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 9,
+    "text": "Go up, you horses, and drive madly, you chariots, That the mighty men may march forward: Ethiopia and Put, that handle the shield, And the Lydians, that handle [and] bend the bow."
+  },
+  {
+    "pk": 851683,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 10,
+    "text": "For that day belongs to the Lord GOD of hosts, A day of vengeance, so as to avenge Himself on His foes; And the sword will devour and be satiated And drink its fill of their blood; For there will be a slaughter for the Lord GOD of hosts, In the land of the north by the river Euphrates."
+  },
+  {
+    "pk": 851684,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 11,
+    "text": "Go up to Gilead and obtain balm, O virgin daughter of Egypt! In vain have you multiplied remedies; There is no healing for you."
+  },
+  {
+    "pk": 851685,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 12,
+    "text": "The nations have heard of your shame, And the earth is full of your cry [of distress]; For one warrior has stumbled over another, And both of them have fallen down together."
+  },
+  {
+    "pk": 851686,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 13,
+    "text": "[This is] the message which the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to smite the land of Egypt:"
+  },
+  {
+    "pk": 851687,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 14,
+    "text": "'Declare in Egypt and proclaim in Migdol, Proclaim also in Memphis and Tahpanhes; Say, 'Take your stand and get yourself ready, For the sword has devoured those around you.'"
+  },
+  {
+    "pk": 851688,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 15,
+    "text": "'Why have your mighty ones become prostrate? They do not stand because the LORD has thrust them down."
+  },
+  {
+    "pk": 851689,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 16,
+    "text": "'They have repeatedly stumbled; Indeed, they have fallen one against another. Then they said, 'Get up! And let us go back To our own people and our native land Away from the sword of the oppressor.'"
+  },
+  {
+    "pk": 851690,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 17,
+    "text": "'They cried there, 'Pharaoh king of Egypt [is] [but] a big noise; He has let the appointed time pass by!'"
+  },
+  {
+    "pk": 851691,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 18,
+    "text": "'As I live,' declares the King Whose name is the LORD of hosts, 'Surely one shall come [who looms up] like Tabor among the mountains, Or like Carmel by the sea."
+  },
+  {
+    "pk": 851692,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 19,
+    "text": "'Make your baggage ready for exile, O daughter dwelling in Egypt, For Memphis will become a desolation; It will even be burned down [and] bereft of inhabitants."
+  },
+  {
+    "pk": 851693,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 20,
+    "text": "'Egypt is a pretty heifer, [But] a horsefly is coming from the north-- it is coming!"
+  },
+  {
+    "pk": 851694,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 21,
+    "text": "'Also her mercenaries in her midst Are like fattened calves, For even they too have turned back [and] have fled away together; They did not stand [their ground]. For the day of their calamity has come upon them, The time of their punishment."
+  },
+  {
+    "pk": 851695,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 22,
+    "text": "'Its sound moves along like a serpent; For they move on like an army And come to her as woodcutters with axes."
+  },
+  {
+    "pk": 851696,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 23,
+    "text": "'They have cut down her forest,' declares the LORD; 'Surely it will no [more] be found, Even though they are [now] more numerous than locusts And are without number."
+  },
+  {
+    "pk": 851697,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 24,
+    "text": "'The daughter of Egypt has been put to shame, Given over to the power of the people of the north.'"
+  },
+  {
+    "pk": 851698,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 25,
+    "text": "The LORD of hosts, the God of Israel, says, 'Behold, I am going to punish Amon of Thebes, and Pharaoh, and Egypt along with her gods and her kings, even Pharaoh and those who trust in him."
+  },
+  {
+    "pk": 851699,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 26,
+    "text": "'I shall give them over to the power of those who are seeking their lives, even into the hand of Nebuchadnezzar king of Babylon and into the hand of his officers. Afterwards, however, it will be inhabited as in the days of old,' declares the LORD."
+  },
+  {
+    "pk": 851700,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 27,
+    "text": "'But as for you, O Jacob My servant, do not fear, Nor be dismayed, O Israel! For, see, I am going to save you from afar, And your descendants from the land of their captivity; And Jacob will return and be undisturbed And secure, with no one making [him] tremble."
+  },
+  {
+    "pk": 851701,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 46,
+    "verse": 28,
+    "text": "'O Jacob My servant, do not fear,' declares the LORD, 'For I am with you. For I will make a full end of all the nations Where I have driven you, Yet I will not make a full end of you; But I will correct you properly And by no means leave you unpunished.'"
+  }
+];

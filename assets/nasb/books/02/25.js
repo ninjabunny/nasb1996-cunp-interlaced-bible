@@ -1,0 +1,323 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/02/25"] = [
+  {
+    "pk": 833824,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 1,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 833825,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 2,
+    "text": "'Tell the sons of Israel to raise a contribution for Me; from every man whose heart moves him you shall raise My contribution."
+  },
+  {
+    "pk": 833826,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 3,
+    "text": "'This is the contribution which you are to raise from them: gold, silver and bronze,"
+  },
+  {
+    "pk": 833827,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 4,
+    "text": "blue, purple and scarlet [material], fine linen, goat [hair],"
+  },
+  {
+    "pk": 833828,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 5,
+    "text": "rams' skins dyed red, porpoise skins, acacia wood,"
+  },
+  {
+    "pk": 833829,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 6,
+    "text": "oil for lighting, spices for the anointing oil and for the fragrant incense,"
+  },
+  {
+    "pk": 833830,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 7,
+    "text": "onyx stones and setting stones for the ephod and for the breastpiece."
+  },
+  {
+    "pk": 833831,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 8,
+    "text": "'Let them construct a sanctuary for Me, that I may dwell among them."
+  },
+  {
+    "pk": 833832,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 9,
+    "text": "'According to all that I am going to show you, [as] the pattern of the tabernacle and the pattern of all its furniture, just so you shall construct [it]."
+  },
+  {
+    "pk": 833833,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 10,
+    "text": "'They shall construct an ark of acacia wood two and a half cubits long, and one and a half cubits wide, and one and a half cubits high."
+  },
+  {
+    "pk": 833834,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 11,
+    "text": "'You shall overlay it with pure gold, inside and out you shall overlay it, and you shall make a gold molding around it."
+  },
+  {
+    "pk": 833835,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 12,
+    "text": "'You shall cast four gold rings for it and fasten them on its four feet, and two rings shall be on one side of it and two rings on the other side of it."
+  },
+  {
+    "pk": 833836,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 13,
+    "text": "'You shall make poles of acacia wood and overlay them with gold."
+  },
+  {
+    "pk": 833837,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 14,
+    "text": "'You shall put the poles into the rings on the sides of the ark, to carry the ark with them."
+  },
+  {
+    "pk": 833838,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 15,
+    "text": "'The poles shall remain in the rings of the ark; they shall not be removed from it."
+  },
+  {
+    "pk": 833839,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 16,
+    "text": "'You shall put into the ark the testimony which I shall give you."
+  },
+  {
+    "pk": 833840,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 17,
+    "text": "'You shall make a mercy seat of pure gold, two and a half cubits long and one and a half cubits wide."
+  },
+  {
+    "pk": 833841,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 18,
+    "text": "'You shall make two cherubim of gold, make them of hammered work at the two ends of the mercy seat."
+  },
+  {
+    "pk": 833842,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 19,
+    "text": "'Make one cherub at one end and one cherub at the other end; you shall make the cherubim [of one piece] with the mercy seat at its two ends."
+  },
+  {
+    "pk": 833843,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 20,
+    "text": "'The cherubim shall have [their] wings spread upward, covering the mercy seat with their wings and facing one another; the faces of the cherubim are to be [turned] toward the mercy seat."
+  },
+  {
+    "pk": 833844,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 21,
+    "text": "'You shall put the mercy seat on top of the ark, and in the ark you shall put the testimony which I will give to you."
+  },
+  {
+    "pk": 833845,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 22,
+    "text": "'There I will meet with you; and from above the mercy seat, from between the two cherubim which are upon the ark of the testimony, I will speak to you about all that I will give you in commandment for the sons of Israel."
+  },
+  {
+    "pk": 833846,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 23,
+    "text": "'You shall make a table of acacia wood, two cubits long and one cubit wide and one and a half cubits high."
+  },
+  {
+    "pk": 833847,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 24,
+    "text": "'You shall overlay it with pure gold and make a gold border around it."
+  },
+  {
+    "pk": 833848,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 25,
+    "text": "'You shall make for it a rim of a handbreadth around [it]; and you shall make a gold border for the rim around it."
+  },
+  {
+    "pk": 833849,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 26,
+    "text": "'You shall make four gold rings for it and put rings on the four corners which are on its four feet."
+  },
+  {
+    "pk": 833850,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 27,
+    "text": "'The rings shall be close to the rim as holders for the poles to carry the table."
+  },
+  {
+    "pk": 833851,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 28,
+    "text": "'You shall make the poles of acacia wood and overlay them with gold, so that with them the table may be carried."
+  },
+  {
+    "pk": 833852,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 29,
+    "text": "'You shall make its dishes and its pans and its jars and its bowls with which to pour drink offerings; you shall make them of pure gold."
+  },
+  {
+    "pk": 833853,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 30,
+    "text": "'You shall set the bread of the Presence on the table before Me at all times."
+  },
+  {
+    "pk": 833854,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 31,
+    "text": "'Then you shall make a lampstand of pure gold. The lampstand [and] its base and its shaft are to be made of hammered work; its cups, its bulbs and its flowers shall be [of one piece] with it."
+  },
+  {
+    "pk": 833855,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 32,
+    "text": "'Six branches shall go out from its sides; three branches of the lampstand from its one side and three branches of the lampstand from its other side."
+  },
+  {
+    "pk": 833856,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 33,
+    "text": "'Three cups [shall be] shaped like almond [blossoms] in the one branch, a bulb and a flower, and three cups shaped like almond [blossoms] in the other branch, a bulb and a flower-- so for six branches going out from the lampstand;"
+  },
+  {
+    "pk": 833857,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 34,
+    "text": "and in the lampstand four cups shaped like almond [blossoms], its bulbs and its flowers."
+  },
+  {
+    "pk": 833858,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 35,
+    "text": "'A bulb shall be under the [first] pair of branches [coming] out of it, and a bulb under the [second] pair of branches [coming] out of it, and a bulb under the [third] pair of branches [coming] out of it, for the six branches coming out of the lampstand."
+  },
+  {
+    "pk": 833859,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 36,
+    "text": "'Their bulbs and their branches [shall be of one piece] with it; all of it shall be one piece of hammered work of pure gold."
+  },
+  {
+    "pk": 833860,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 37,
+    "text": "'Then you shall make its lamps seven [in number]; and they shall mount its lamps so as to shed light on the space in front of it."
+  },
+  {
+    "pk": 833861,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 38,
+    "text": "'Its snuffers and their trays [shall be] of pure gold."
+  },
+  {
+    "pk": 833862,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 39,
+    "text": "'It shall be made from a talent of pure gold, with all these utensils."
+  },
+  {
+    "pk": 833863,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 25,
+    "verse": 40,
+    "text": "'See that you make [them] after the pattern for them, which was shown to you on the mountain."
+  }
+];

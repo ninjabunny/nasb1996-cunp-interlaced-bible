@@ -1,0 +1,387 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/106"] = [
+  {
+    "pk": 847280,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 1,
+    "text": "Praise the LORD! Oh give thanks to the LORD, for He is good; For His lovingkindness is everlasting."
+  },
+  {
+    "pk": 847281,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 2,
+    "text": "Who can speak of the mighty deeds of the LORD, Or can show forth all His praise?"
+  },
+  {
+    "pk": 847282,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 3,
+    "text": "How blessed are those who keep justice, Who practice righteousness at all times!"
+  },
+  {
+    "pk": 847283,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 4,
+    "text": "Remember me, O LORD, in [Your] favor toward Your people; Visit me with Your salvation,"
+  },
+  {
+    "pk": 847284,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 5,
+    "text": "That I may see the prosperity of Your chosen ones, That I may rejoice in the gladness of Your nation, That I may glory with Your inheritance."
+  },
+  {
+    "pk": 847285,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 6,
+    "text": "We have sinned like our fathers, We have committed iniquity, we have behaved wickedly."
+  },
+  {
+    "pk": 847286,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 7,
+    "text": "Our fathers in Egypt did not understand Your wonders; They did not remember Your abundant kindnesses, But rebelled by the sea, at the Red Sea."
+  },
+  {
+    "pk": 847287,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 8,
+    "text": "Nevertheless He saved them for the sake of His name, That He might make His power known."
+  },
+  {
+    "pk": 847288,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 9,
+    "text": "Thus He rebuked the Red Sea and it dried up, And He led them through the deeps, as through the wilderness."
+  },
+  {
+    "pk": 847289,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 10,
+    "text": "So He saved them from the hand of the one who hated [them], And redeemed them from the hand of the enemy."
+  },
+  {
+    "pk": 847290,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 11,
+    "text": "The waters covered their adversaries; Not one of them was left."
+  },
+  {
+    "pk": 847291,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 12,
+    "text": "Then they believed His words; They sang His praise."
+  },
+  {
+    "pk": 847292,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 13,
+    "text": "They quickly forgot His works; They did not wait for His counsel,"
+  },
+  {
+    "pk": 847293,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 14,
+    "text": "But craved intensely in the wilderness, And tempted God in the desert."
+  },
+  {
+    "pk": 847294,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 15,
+    "text": "So He gave them their request, But sent a wasting disease among them."
+  },
+  {
+    "pk": 847295,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 16,
+    "text": "When they became envious of Moses in the camp, And of Aaron, the holy one of the LORD,"
+  },
+  {
+    "pk": 847296,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 17,
+    "text": "The earth opened and swallowed up Dathan, And engulfed the company of Abiram."
+  },
+  {
+    "pk": 847297,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 18,
+    "text": "And a fire blazed up in their company; The flame consumed the wicked."
+  },
+  {
+    "pk": 847298,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 19,
+    "text": "They made a calf in Horeb And worshiped a molten image."
+  },
+  {
+    "pk": 847299,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 20,
+    "text": "Thus they exchanged their glory For the image of an ox that eats grass."
+  },
+  {
+    "pk": 847300,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 21,
+    "text": "They forgot God their Savior, Who had done great things in Egypt,"
+  },
+  {
+    "pk": 847301,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 22,
+    "text": "Wonders in the land of Ham [And] awesome things by the Red Sea."
+  },
+  {
+    "pk": 847302,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 23,
+    "text": "Therefore He said that He would destroy them, Had not Moses His chosen one stood in the breach before Him, To turn away His wrath from destroying [them]."
+  },
+  {
+    "pk": 847303,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 24,
+    "text": "Then they despised the pleasant land; They did not believe in His word,"
+  },
+  {
+    "pk": 847304,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 25,
+    "text": "But grumbled in their tents; They did not listen to the voice of the LORD."
+  },
+  {
+    "pk": 847305,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 26,
+    "text": "Therefore He swore to them That He would cast them down in the wilderness,"
+  },
+  {
+    "pk": 847306,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 27,
+    "text": "And that He would cast their seed among the nations And scatter them in the lands."
+  },
+  {
+    "pk": 847307,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 28,
+    "text": "They joined themselves also to Baal-peor, And ate sacrifices offered to the dead."
+  },
+  {
+    "pk": 847308,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 29,
+    "text": "Thus they provoked [Him] to anger with their deeds, And the plague broke out among them."
+  },
+  {
+    "pk": 847309,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 30,
+    "text": "Then Phinehas stood up and interposed, And so the plague was stayed."
+  },
+  {
+    "pk": 847310,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 31,
+    "text": "And it was reckoned to him for righteousness, To all generations forever."
+  },
+  {
+    "pk": 847311,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 32,
+    "text": "They also provoked [Him] to wrath at the waters of Meribah, So that it went hard with Moses on their account;"
+  },
+  {
+    "pk": 847312,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 33,
+    "text": "Because they were rebellious against His Spirit, He spoke rashly with his lips."
+  },
+  {
+    "pk": 847313,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 34,
+    "text": "They did not destroy the peoples, As the LORD commanded them,"
+  },
+  {
+    "pk": 847314,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 35,
+    "text": "But they mingled with the nations And learned their practices,"
+  },
+  {
+    "pk": 847315,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 36,
+    "text": "And served their idols, Which became a snare to them."
+  },
+  {
+    "pk": 847316,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 37,
+    "text": "They even sacrificed their sons and their daughters to the demons,"
+  },
+  {
+    "pk": 847317,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 38,
+    "text": "And shed innocent blood, The blood of their sons and their daughters, Whom they sacrificed to the idols of Canaan; And the land was polluted with the blood."
+  },
+  {
+    "pk": 847318,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 39,
+    "text": "Thus they became unclean in their practices, And played the harlot in their deeds."
+  },
+  {
+    "pk": 847319,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 40,
+    "text": "Therefore the anger of the LORD was kindled against His people And He abhorred His inheritance."
+  },
+  {
+    "pk": 847320,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 41,
+    "text": "Then He gave them into the hand of the nations, And those who hated them ruled over them."
+  },
+  {
+    "pk": 847321,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 42,
+    "text": "Their enemies also oppressed them, And they were subdued under their power."
+  },
+  {
+    "pk": 847322,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 43,
+    "text": "Many times He would deliver them; They, however, were rebellious in their counsel, And [so] sank down in their iniquity."
+  },
+  {
+    "pk": 847323,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 44,
+    "text": "Nevertheless He looked upon their distress When He heard their cry;"
+  },
+  {
+    "pk": 847324,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 45,
+    "text": "And He remembered His covenant for their sake, And relented according to the greatness of His lovingkindness."
+  },
+  {
+    "pk": 847325,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 46,
+    "text": "He also made them [objects] of compassion In the presence of all their captors."
+  },
+  {
+    "pk": 847326,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 47,
+    "text": "Save us, O LORD our God, And gather us from among the nations, To give thanks to Your holy name And glory in Your praise."
+  },
+  {
+    "pk": 847327,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 106,
+    "verse": 48,
+    "text": "Blessed be the LORD, the God of Israel, From everlasting even to everlasting. And let all the people say, 'Amen.' Praise the LORD!"
+  }
+];

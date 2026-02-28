@@ -1,0 +1,147 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/115"] = [
+  {
+    "pk": 847459,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 1,
+    "text": "Not to us, O LORD, not to us, But to Your name give glory Because of Your lovingkindness, because of Your truth."
+  },
+  {
+    "pk": 847460,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 2,
+    "text": "Why should the nations say, 'Where, now, is their God?'"
+  },
+  {
+    "pk": 847461,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 3,
+    "text": "But our God is in the heavens; He does whatever He pleases."
+  },
+  {
+    "pk": 847462,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 4,
+    "text": "Their idols are silver and gold, The work of man's hands."
+  },
+  {
+    "pk": 847463,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 5,
+    "text": "They have mouths, but they cannot speak; They have eyes, but they cannot see;"
+  },
+  {
+    "pk": 847464,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 6,
+    "text": "They have ears, but they cannot hear; They have noses, but they cannot smell;"
+  },
+  {
+    "pk": 847465,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 7,
+    "text": "They have hands, but they cannot feel; They have feet, but they cannot walk; They cannot make a sound with their throat."
+  },
+  {
+    "pk": 847466,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 8,
+    "text": "Those who make them will become like them, Everyone who trusts in them."
+  },
+  {
+    "pk": 847467,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 9,
+    "text": "O Israel, trust in the LORD; He is their help and their shield."
+  },
+  {
+    "pk": 847468,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 10,
+    "text": "O house of Aaron, trust in the LORD; He is their help and their shield."
+  },
+  {
+    "pk": 847469,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 11,
+    "text": "You who fear the LORD, trust in the LORD; He is their help and their shield."
+  },
+  {
+    "pk": 847470,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 12,
+    "text": "The LORD has been mindful of us; He will bless [us]; He will bless the house of Israel; He will bless the house of Aaron."
+  },
+  {
+    "pk": 847471,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 13,
+    "text": "He will bless those who fear the LORD, The small together with the great."
+  },
+  {
+    "pk": 847472,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 14,
+    "text": "May the LORD give you increase, You and your children."
+  },
+  {
+    "pk": 847473,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 15,
+    "text": "May you be blessed of the LORD, Maker of heaven and earth."
+  },
+  {
+    "pk": 847474,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 16,
+    "text": "The heavens are the heavens of the LORD, But the earth He has given to the sons of men."
+  },
+  {
+    "pk": 847475,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 17,
+    "text": "The dead do not praise the LORD, Nor [do] any who go down into silence;"
+  },
+  {
+    "pk": 847476,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 115,
+    "verse": 18,
+    "text": "But as for us, we will bless the LORD From this time forth and forever. Praise the LORD!"
+  }
+];

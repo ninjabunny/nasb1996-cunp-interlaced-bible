@@ -1,0 +1,83 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/52/01"] = [
+  {
+    "pk": 861189,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Paul and Silvanus and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace."
+  },
+  {
+    "pk": 861190,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 2,
+    "text": "We give thanks to God always for all of you, making mention [of you] in our prayers;"
+  },
+  {
+    "pk": 861191,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 3,
+    "text": "constantly bearing in mind your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ in the presence of our God and Father,"
+  },
+  {
+    "pk": 861192,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 4,
+    "text": "knowing, brethren beloved by God, [His] choice of you;"
+  },
+  {
+    "pk": 861193,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 5,
+    "text": "for our gospel did not come to you in word only, but also in power and in the Holy Spirit and with full conviction; just as you know what kind of men we proved to be among you for your sake."
+  },
+  {
+    "pk": 861194,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 6,
+    "text": "You also became imitators of us and of the Lord, having received the word in much tribulation with the joy of the Holy Spirit,"
+  },
+  {
+    "pk": 861195,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 7,
+    "text": "so that you became an example to all the believers in Macedonia and in Achaia."
+  },
+  {
+    "pk": 861196,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 8,
+    "text": "For the word of the Lord has sounded forth from you, not only in Macedonia and Achaia, but also in every place your faith toward God has gone forth, so that we have no need to say anything."
+  },
+  {
+    "pk": 861197,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 9,
+    "text": "For they themselves report about us what kind of a reception we had with you, and how you turned to God from idols to serve a living and true God,"
+  },
+  {
+    "pk": 861198,
+    "translation": "NASB",
+    "book": 52,
+    "chapter": 1,
+    "verse": 10,
+    "text": "and to wait for His Son from heaven, whom He raised from the dead, [that is] Jesus, who rescues us from the wrath to come."
+  }
+];

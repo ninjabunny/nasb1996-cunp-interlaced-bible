@@ -1,0 +1,211 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/13/05"] = [
+  {
+    "pk": 842057,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 1,
+    "text": "Now the sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father's bed, his birthright was given to the sons of Joseph the son of Israel; so that he is not enrolled in the genealogy according to the birthright."
+  },
+  {
+    "pk": 842058,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 2,
+    "text": "Though Judah prevailed over his brothers, and from him [came] the leader, yet the birthright belonged to Joseph),"
+  },
+  {
+    "pk": 842059,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 3,
+    "text": "the sons of Reuben the firstborn of Israel [were] Hanoch and Pallu, Hezron and Carmi."
+  },
+  {
+    "pk": 842060,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 4,
+    "text": "The sons of Joel [were] Shemaiah his son, Gog his son, Shimei his son,"
+  },
+  {
+    "pk": 842061,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 5,
+    "text": "Micah his son, Reaiah his son, Baal his son,"
+  },
+  {
+    "pk": 842062,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 6,
+    "text": "Beerah his son, whom Tilgath-pilneser king of Assyria carried away into exile; he was leader of the Reubenites."
+  },
+  {
+    "pk": 842063,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 7,
+    "text": "His kinsmen by their families, in the genealogy of their generations, [were] Jeiel the chief, then Zechariah"
+  },
+  {
+    "pk": 842064,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 8,
+    "text": "and Bela the son of Azaz, the son of Shema, the son of Joel, who lived in Aroer, even to Nebo and Baal-meon."
+  },
+  {
+    "pk": 842065,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 9,
+    "text": "To the east he settled as far as the entrance of the wilderness from the river Euphrates, because their cattle had increased in the land of Gilead."
+  },
+  {
+    "pk": 842066,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 10,
+    "text": "In the days of Saul they made war with the Hagrites, who fell by their hand, so that they occupied their tents throughout all the land east of Gilead."
+  },
+  {
+    "pk": 842067,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 11,
+    "text": "Now the sons of Gad lived opposite them in the land of Bashan as far as Salecah."
+  },
+  {
+    "pk": 842068,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 12,
+    "text": "Joel [was] the chief and Shapham the second, then Janai and Shaphat in Bashan."
+  },
+  {
+    "pk": 842069,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 13,
+    "text": "Their kinsmen of their fathers' households [were] Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber, seven."
+  },
+  {
+    "pk": 842070,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 14,
+    "text": "These [were] the sons of Abihail, the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;"
+  },
+  {
+    "pk": 842071,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 15,
+    "text": "Ahi the son of Abdiel, the son of Guni, [was] head of their fathers' households."
+  },
+  {
+    "pk": 842072,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 16,
+    "text": "They lived in Gilead, in Bashan and in its towns, and in all the pasture lands of Sharon, as far as their borders."
+  },
+  {
+    "pk": 842073,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 17,
+    "text": "All of these were enrolled in the genealogies in the days of Jotham king of Judah and in the days of Jeroboam king of Israel."
+  },
+  {
+    "pk": 842074,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 18,
+    "text": "The sons of Reuben and the Gadites and the half-tribe of Manasseh, [consisting] of valiant men, men who bore shield and sword and shot with bow and [were] skillful in battle, [were] 44,760, who went to war."
+  },
+  {
+    "pk": 842075,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 19,
+    "text": "They made war against the Hagrites, Jetur, Naphish and Nodab."
+  },
+  {
+    "pk": 842076,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 20,
+    "text": "They were helped against them, and the Hagrites and all who [were] with them were given into their hand; for they cried out to God in the battle, and He answered their prayers because they trusted in Him."
+  },
+  {
+    "pk": 842077,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 21,
+    "text": "They took away their cattle: their 50,000 camels, 250,000 sheep, 2,000 donkeys; and 100,000 men."
+  },
+  {
+    "pk": 842078,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 22,
+    "text": "For many fell slain, because the war [was] of God. And they settled in their place until the exile."
+  },
+  {
+    "pk": 842079,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 23,
+    "text": "Now the sons of the half-tribe of Manasseh lived in the land; from Bashan to Baal-hermon and Senir and Mount Hermon they were numerous."
+  },
+  {
+    "pk": 842080,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 24,
+    "text": "These were the heads of their fathers' households, even Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah and Jahdiel, mighty men of valor, famous men, heads of their fathers' households."
+  },
+  {
+    "pk": 842081,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 25,
+    "text": "But they acted treacherously against the God of their fathers and played the harlot after the gods of the peoples of the land, whom God had destroyed before them."
+  },
+  {
+    "pk": 842082,
+    "translation": "NASB",
+    "book": 13,
+    "chapter": 5,
+    "verse": 26,
+    "text": "So the God of Israel stirred up the spirit of Pul, king of Assyria, even the spirit of Tilgath-pilneser king of Assyria, and he carried them away into exile, namely the Reubenites, the Gadites and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara and to the river of Gozan, to this day."
+  }
+];

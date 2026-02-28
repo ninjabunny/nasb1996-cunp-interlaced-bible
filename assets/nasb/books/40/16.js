@@ -1,0 +1,227 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/40/16"] = [
+  {
+    "pk": 855301,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 1,
+    "text": "The Pharisees and Sadducees came up, and testing Jesus, they asked Him to show them a sign from heaven."
+  },
+  {
+    "pk": 855302,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 2,
+    "text": "But He replied to them, 'When it is evening, you say, '[It will be] fair weather, for the sky is red.'"
+  },
+  {
+    "pk": 855303,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 3,
+    "text": "'And in the morning, '[There will be] a storm today, for the sky is red and threatening.' Do you know how to discern the appearance of the sky, but cannot [discern] the signs of the times?"
+  },
+  {
+    "pk": 855304,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 4,
+    "text": "'An evil and adulterous generation seeks after a sign; and a sign will not be given it, except the sign of Jonah.' And He left them and went away."
+  },
+  {
+    "pk": 855305,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 5,
+    "text": "And the disciples came to the other side [of the sea], but they had forgotten to bring [any] bread."
+  },
+  {
+    "pk": 855306,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 6,
+    "text": "And Jesus said to them, 'Watch out and beware of the leaven of the Pharisees and Sadducees.'"
+  },
+  {
+    "pk": 855307,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 7,
+    "text": "They began to discuss [this] among themselves, saying, '[He said that] because we did not bring [any] bread.'"
+  },
+  {
+    "pk": 855308,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 8,
+    "text": "But Jesus, aware of this, said, 'You men of little faith, why do you discuss among yourselves that you have no bread?"
+  },
+  {
+    "pk": 855309,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 9,
+    "text": "'Do you not yet understand or remember the five loaves of the five thousand, and how many baskets [full] you picked up?"
+  },
+  {
+    "pk": 855310,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 10,
+    "text": "'Or the seven loaves of the four thousand, and how many large baskets [full] you picked up?"
+  },
+  {
+    "pk": 855311,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 11,
+    "text": "'How is it that you do not understand that I did not speak to you concerning bread? But beware of the leaven of the Pharisees and Sadducees.'"
+  },
+  {
+    "pk": 855312,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 12,
+    "text": "Then they understood that He did not say to beware of the leaven of bread, but of the teaching of the Pharisees and Sadducees."
+  },
+  {
+    "pk": 855313,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 13,
+    "text": "Now when Jesus came into the district of Caesarea Philippi, He was asking His disciples, 'Who do people say that the Son of Man is?'"
+  },
+  {
+    "pk": 855314,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 14,
+    "text": "And they said, 'Some [say] John the Baptist; and others, Elijah; but still others, Jeremiah, or one of the prophets.'"
+  },
+  {
+    "pk": 855315,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 15,
+    "text": "He said to them, 'But who do you say that I am?'"
+  },
+  {
+    "pk": 855316,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 16,
+    "text": "Simon Peter answered, 'You are the Christ, the Son of the living God.'"
+  },
+  {
+    "pk": 855317,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 17,
+    "text": "And Jesus said to him, 'Blessed are you, Simon Barjona, because flesh and blood did not reveal [this] to you, but My Father who is in heaven."
+  },
+  {
+    "pk": 855318,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 18,
+    "text": "'I also say to you that you are Peter, and upon this rock I will build My church; and the gates of Hades will not overpower it."
+  },
+  {
+    "pk": 855319,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 19,
+    "text": "'I will give you the keys of the kingdom of heaven; and whatever you bind on earth shall have been bound in heaven, and whatever you loose on earth shall have been loosed in heaven.'"
+  },
+  {
+    "pk": 855320,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 20,
+    "text": "Then He warned the disciples that they should tell no one that He was the Christ."
+  },
+  {
+    "pk": 855321,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 21,
+    "text": "From that time Jesus began to show His disciples that He must go to Jerusalem, and suffer many things from the elders and chief priests and scribes, and be killed, and be raised up on the third day."
+  },
+  {
+    "pk": 855322,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 22,
+    "text": "Peter took Him aside and began to rebuke Him, saying, 'God forbid [it], Lord! This shall never happen to You.'"
+  },
+  {
+    "pk": 855323,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 23,
+    "text": "But He turned and said to Peter, 'Get behind Me, Satan! You are a stumbling block to Me; for you are not setting your mind on God's interests, but man's.'"
+  },
+  {
+    "pk": 855324,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 24,
+    "text": "Then Jesus said to His disciples, 'If anyone wishes to come after Me, he must deny himself, and take up his cross and follow Me."
+  },
+  {
+    "pk": 855325,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 25,
+    "text": "'For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it."
+  },
+  {
+    "pk": 855326,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 26,
+    "text": "'For what will it profit a man if he gains the whole world and forfeits his soul? Or what will a man give in exchange for his soul?"
+  },
+  {
+    "pk": 855327,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 27,
+    "text": "'For the Son of Man is going to come in the glory of His Father with His angels, and WILL THEN REPAY EVERY MAN ACCORDING TO HIS DEEDS."
+  },
+  {
+    "pk": 855328,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 16,
+    "verse": 28,
+    "text": "'Truly I say to you, there are some of those who are standing here who will not taste death until they see the Son of Man coming in His kingdom.'"
+  }
+];

@@ -1,0 +1,123 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/47"] = [
+  {
+    "pk": 850228,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 1,
+    "text": "'Come down and sit in the dust, O virgin daughter of Babylon; Sit on the ground without a throne, O daughter of the Chaldeans! For you shall no longer be called tender and delicate."
+  },
+  {
+    "pk": 850229,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 2,
+    "text": "'Take the millstones and grind meal. Remove your veil, strip off the skirt, Uncover the leg, cross the rivers."
+  },
+  {
+    "pk": 850230,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 3,
+    "text": "'Your nakedness will be uncovered, Your shame also will be exposed; I will take vengeance and will not spare a man.'"
+  },
+  {
+    "pk": 850231,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 4,
+    "text": "Our Redeemer, the LORD of hosts is His name, The Holy One of Israel."
+  },
+  {
+    "pk": 850232,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 5,
+    "text": "'Sit silently, and go into darkness, O daughter of the Chaldeans, For you will no longer be called The queen of kingdoms."
+  },
+  {
+    "pk": 850233,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 6,
+    "text": "'I was angry with My people, I profaned My heritage And gave them into your hand. You did not show mercy to them, On the aged you made your yoke very heavy."
+  },
+  {
+    "pk": 850234,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 7,
+    "text": "'Yet you said, 'I will be a queen forever.' These things you did not consider Nor remember the outcome of them."
+  },
+  {
+    "pk": 850235,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 8,
+    "text": "'Now, then, hear this, you sensual one, Who dwells securely, Who says in your heart, 'I am, and there is no one besides me. I will not sit as a widow, Nor know loss of children.'"
+  },
+  {
+    "pk": 850236,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 9,
+    "text": "'But these two things will come on you suddenly in one day: Loss of children and widowhood. They will come on you in full measure In spite of your many sorceries, In spite of the great power of your spells."
+  },
+  {
+    "pk": 850237,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 10,
+    "text": "'You felt secure in your wickedness and said, 'No one sees me,' Your wisdom and your knowledge, they have deluded you; For you have said in your heart, 'I am, and there is no one besides me.'"
+  },
+  {
+    "pk": 850238,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 11,
+    "text": "'But evil will come on you Which you will not know how to charm away; And disaster will fall on you For which you cannot atone; And destruction about which you do not know Will come on you suddenly."
+  },
+  {
+    "pk": 850239,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 12,
+    "text": "'Stand [fast] now in your spells And in your many sorceries With which you have labored from your youth; Perhaps you will be able to profit, Perhaps you may cause trembling."
+  },
+  {
+    "pk": 850240,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 13,
+    "text": "'You are wearied with your many counsels; Let now the astrologers, Those who prophesy by the stars, Those who predict by the new moons, Stand up and save you from what will come upon you."
+  },
+  {
+    "pk": 850241,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 14,
+    "text": "'Behold, they have become like stubble, Fire burns them; They cannot deliver themselves from the power of the flame; There will be no coal to warm by [Nor] a fire to sit before!"
+  },
+  {
+    "pk": 850242,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 47,
+    "verse": 15,
+    "text": "'So have those become to you with whom you have labored, Who have trafficked with you from your youth; Each has wandered in his own way; There is none to save you."
+  }
+];

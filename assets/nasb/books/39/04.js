@@ -1,0 +1,51 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/39/04"] = [
+  {
+    "pk": 854767,
+    "translation": "NASB",
+    "book": 39,
+    "chapter": 4,
+    "verse": 1,
+    "text": "'For behold, the day is coming, burning like a furnace; and all the arrogant and every evildoer will be chaff; and the day that is coming will set them ablaze,' says the LORD of hosts, 'so that it will leave them neither root nor branch.'"
+  },
+  {
+    "pk": 854768,
+    "translation": "NASB",
+    "book": 39,
+    "chapter": 4,
+    "verse": 2,
+    "text": "'But for you who fear My name, the sun of righteousness will rise with healing in its wings; and you will go forth and skip about like calves from the stall."
+  },
+  {
+    "pk": 854769,
+    "translation": "NASB",
+    "book": 39,
+    "chapter": 4,
+    "verse": 3,
+    "text": "'You will tread down the wicked, for they will be ashes under the soles of your feet on the day which I am preparing,' says the LORD of hosts."
+  },
+  {
+    "pk": 854770,
+    "translation": "NASB",
+    "book": 39,
+    "chapter": 4,
+    "verse": 4,
+    "text": "'Remember the law of Moses My servant, [even the] statutes and ordinances which I commanded him in Horeb for all Israel."
+  },
+  {
+    "pk": 854771,
+    "translation": "NASB",
+    "book": 39,
+    "chapter": 4,
+    "verse": 5,
+    "text": "'Behold, I am going to send you Elijah the prophet before the coming of the great and terrible day of the LORD."
+  },
+  {
+    "pk": 854772,
+    "translation": "NASB",
+    "book": 39,
+    "chapter": 4,
+    "verse": 6,
+    "text": "'He will restore the hearts of the fathers to [their] children and the hearts of the children to their fathers, so that I will not come and smite the land with a curse.'"
+  }
+];

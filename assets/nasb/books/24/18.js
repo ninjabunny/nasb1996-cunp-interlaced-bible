@@ -1,0 +1,187 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/18"] = [
+  {
+    "pk": 851013,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 1,
+    "text": "The word which came to Jeremiah from the LORD saying,"
+  },
+  {
+    "pk": 851014,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 2,
+    "text": "'Arise and go down to the potter's house, and there I will announce My words to you.'"
+  },
+  {
+    "pk": 851015,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 3,
+    "text": "Then I went down to the potter's house, and there he was, making something on the wheel."
+  },
+  {
+    "pk": 851016,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 4,
+    "text": "But the vessel that he was making of clay was spoiled in the hand of the potter; so he remade it into another vessel, as it pleased the potter to make."
+  },
+  {
+    "pk": 851017,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 5,
+    "text": "Then the word of the LORD came to me saying,"
+  },
+  {
+    "pk": 851018,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 6,
+    "text": "'Can I not, O house of Israel, deal with you as this potter [does]?' declares the LORD. 'Behold, like the clay in the potter's hand, so are you in My hand, O house of Israel."
+  },
+  {
+    "pk": 851019,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 7,
+    "text": "'At one moment I might speak concerning a nation or concerning a kingdom to uproot, to pull down, or to destroy [it];"
+  },
+  {
+    "pk": 851020,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 8,
+    "text": "if that nation against which I have spoken turns from its evil, I will relent concerning the calamity I planned to bring on it."
+  },
+  {
+    "pk": 851021,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 9,
+    "text": "'Or at another moment I might speak concerning a nation or concerning a kingdom to build up or to plant [it];"
+  },
+  {
+    "pk": 851022,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 10,
+    "text": "if it does evil in My sight by not obeying My voice, then I will think better of the good with which I had promised to bless it."
+  },
+  {
+    "pk": 851023,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 11,
+    "text": "'So now then, speak to the men of Judah and against the inhabitants of Jerusalem saying, 'Thus says the LORD, 'Behold, I am fashioning calamity against you and devising a plan against you. Oh turn back, each of you from his evil way, and reform your ways and your deeds.''"
+  },
+  {
+    "pk": 851024,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 12,
+    "text": "'But they will say, 'It's hopeless! For we are going to follow our own plans, and each of us will act according to the stubbornness of his evil heart.'"
+  },
+  {
+    "pk": 851025,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 13,
+    "text": "'Therefore thus says the LORD, 'Ask now among the nations, Who ever heard the like of this? The virgin of Israel Has done a most appalling thing."
+  },
+  {
+    "pk": 851026,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 14,
+    "text": "'Does the snow of Lebanon forsake the rock of the open country? Or is the cold flowing water [from] a foreign [land] ever snatched away?"
+  },
+  {
+    "pk": 851027,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 15,
+    "text": "'For My people have forgotten Me, They burn incense to worthless gods And they have stumbled from their ways, From the ancient paths, To walk in bypaths, Not on a highway,"
+  },
+  {
+    "pk": 851028,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 16,
+    "text": "To make their land a desolation, [An object of] perpetual hissing; Everyone who passes by it will be astonished And shake his head."
+  },
+  {
+    "pk": 851029,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 17,
+    "text": "'Like an east wind I will scatter them Before the enemy; I will show them My back and not [My] face In the day of their calamity.''"
+  },
+  {
+    "pk": 851030,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 18,
+    "text": "Then they said, 'Come and let us devise plans against Jeremiah. Surely the law is not going to be lost to the priest, nor counsel to the sage, nor the [divine] word to the prophet! Come on and let us strike at him with [our] tongue, and let us give no heed to any of his words.'"
+  },
+  {
+    "pk": 851031,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 19,
+    "text": "Do give heed to me, O LORD, And listen to what my opponents are saying!"
+  },
+  {
+    "pk": 851032,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 20,
+    "text": "Should good be repaid with evil? For they have dug a pit for me. Remember how I stood before You To speak good on their behalf, So as to turn away Your wrath from them."
+  },
+  {
+    "pk": 851033,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 21,
+    "text": "Therefore, give their children over to famine And deliver them up to the power of the sword; And let their wives become childless and widowed. Let their men also be smitten to death, Their young men struck down by the sword in battle."
+  },
+  {
+    "pk": 851034,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 22,
+    "text": "May an outcry be heard from their houses, When You suddenly bring raiders upon them; For they have dug a pit to capture me And hidden snares for my feet."
+  },
+  {
+    "pk": 851035,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 18,
+    "verse": 23,
+    "text": "Yet You, O LORD, know All their deadly designs against me; Do not forgive their iniquity Or blot out their sin from Your sight. But may they be overthrown before You; Deal with them in the time of Your anger!"
+  }
+];

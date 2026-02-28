@@ -1,0 +1,51 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/53"] = [
+  {
+    "pk": 846348,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 53,
+    "verse": 1,
+    "text": "For the choir director; according to Mahalath. A Maskil of David. The fool has said in his heart, 'There is no God,' They are corrupt, and have committed abominable injustice; There is no one who does good."
+  },
+  {
+    "pk": 846349,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 53,
+    "verse": 2,
+    "text": "God has looked down from heaven upon the sons of men To see if there is anyone who understands, Who seeks after God."
+  },
+  {
+    "pk": 846350,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 53,
+    "verse": 3,
+    "text": "Every one of them has turned aside; together they have become corrupt; There is no one who does good, not even one."
+  },
+  {
+    "pk": 846351,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 53,
+    "verse": 4,
+    "text": "Have the workers of wickedness no knowledge, Who eat up My people [as though] they ate bread And have not called upon God?"
+  },
+  {
+    "pk": 846352,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 53,
+    "verse": 5,
+    "text": "There they were in great fear [where] no fear had been; For God scattered the bones of him who encamped against you; You put [them] to shame, because God had rejected them."
+  },
+  {
+    "pk": 846353,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 53,
+    "verse": 6,
+    "text": "Oh, that the salvation of Israel would come out of Zion! When God restores His captive people, Let Jacob rejoice, let Israel be glad."
+  }
+];

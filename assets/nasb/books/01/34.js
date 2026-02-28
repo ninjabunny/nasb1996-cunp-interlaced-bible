@@ -1,0 +1,251 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/01/34"] = [
+  {
+    "pk": 832609,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 1,
+    "text": "Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to visit the daughters of the land."
+  },
+  {
+    "pk": 832610,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 2,
+    "text": "When Shechem the son of Hamor the Hivite, the prince of the land, saw her, he took her and lay with her by force."
+  },
+  {
+    "pk": 832611,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 3,
+    "text": "He was deeply attracted to Dinah the daughter of Jacob, and he loved the girl and spoke tenderly to her."
+  },
+  {
+    "pk": 832612,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 4,
+    "text": "So Shechem spoke to his father Hamor, saying, 'Get me this young girl for a wife.'"
+  },
+  {
+    "pk": 832613,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 5,
+    "text": "Now Jacob heard that he had defiled Dinah his daughter; but his sons were with his livestock in the field, so Jacob kept silent until they came in."
+  },
+  {
+    "pk": 832614,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 6,
+    "text": "Then Hamor the father of Shechem went out to Jacob to speak with him."
+  },
+  {
+    "pk": 832615,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 7,
+    "text": "Now the sons of Jacob came in from the field when they heard [it]; and the men were grieved, and they were very angry because he had done a disgraceful thing in Israel by lying with Jacob's daughter, for such a thing ought not to be done."
+  },
+  {
+    "pk": 832616,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 8,
+    "text": "But Hamor spoke with them, saying, 'The soul of my son Shechem longs for your daughter; please give her to him in marriage."
+  },
+  {
+    "pk": 832617,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 9,
+    "text": "'Intermarry with us; give your daughters to us and take our daughters for yourselves."
+  },
+  {
+    "pk": 832618,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 10,
+    "text": "'Thus you shall live with us, and the land shall be [open] before you; live and trade in it and acquire property in it.'"
+  },
+  {
+    "pk": 832619,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 11,
+    "text": "Shechem also said to her father and to her brothers, 'If I find favor in your sight, then I will give whatever you say to me."
+  },
+  {
+    "pk": 832620,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 12,
+    "text": "'Ask me ever so much bridal payment and gift, and I will give according as you say to me; but give me the girl in marriage.'"
+  },
+  {
+    "pk": 832621,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 13,
+    "text": "But Jacob's sons answered Shechem and his father Hamor with deceit, because he had defiled Dinah their sister."
+  },
+  {
+    "pk": 832622,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 14,
+    "text": "They said to them, 'We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us."
+  },
+  {
+    "pk": 832623,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 15,
+    "text": "'Only on this [condition] will we consent to you: if you will become like us, in that every male of you be circumcised,"
+  },
+  {
+    "pk": 832624,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 16,
+    "text": "then we will give our daughters to you, and we will take your daughters for ourselves, and we will live with you and become one people."
+  },
+  {
+    "pk": 832625,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 17,
+    "text": "'But if you will not listen to us to be circumcised, then we will take our daughter and go.'"
+  },
+  {
+    "pk": 832626,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 18,
+    "text": "Now their words seemed reasonable to Hamor and Shechem, Hamor's son."
+  },
+  {
+    "pk": 832627,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 19,
+    "text": "The young man did not delay to do the thing, because he was delighted with Jacob's daughter. Now he was more respected than all the household of his father."
+  },
+  {
+    "pk": 832628,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 20,
+    "text": "So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying,"
+  },
+  {
+    "pk": 832629,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 21,
+    "text": "'These men are friendly with us; therefore let them live in the land and trade in it, for behold, the land is large enough for them. Let us take their daughters in marriage, and give our daughters to them."
+  },
+  {
+    "pk": 832630,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 22,
+    "text": "'Only on this [condition] will the men consent to us to live with us, to become one people: that every male among us be circumcised as they are circumcised."
+  },
+  {
+    "pk": 832631,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 23,
+    "text": "'Will not their livestock and their property and all their animals be ours? Only let us consent to them, and they will live with us.'"
+  },
+  {
+    "pk": 832632,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 24,
+    "text": "All who went out of the gate of his city listened to Hamor and to his son Shechem, and every male was circumcised, all who went out of the gate of his city."
+  },
+  {
+    "pk": 832633,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 25,
+    "text": "Now it came about on the third day, when they were in pain, that two of Jacob's sons, Simeon and Levi, Dinah's brothers, each took his sword and came upon the city unawares, and killed every male."
+  },
+  {
+    "pk": 832634,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 26,
+    "text": "They killed Hamor and his son Shechem with the edge of the sword, and took Dinah from Shechem's house, and went forth."
+  },
+  {
+    "pk": 832635,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 27,
+    "text": "Jacob's sons came upon the slain and looted the city, because they had defiled their sister."
+  },
+  {
+    "pk": 832636,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 28,
+    "text": "They took their flocks and their herds and their donkeys, and that which was in the city and that which was in the field;"
+  },
+  {
+    "pk": 832637,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 29,
+    "text": "and they captured and looted all their wealth and all their little ones and their wives, even all that [was] in the houses."
+  },
+  {
+    "pk": 832638,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 30,
+    "text": "Then Jacob said to Simeon and Levi, 'You have brought trouble on me by making me odious among the inhabitants of the land, among the Canaanites and the Perizzites; and my men being few in number, they will gather together against me and attack me and I will be destroyed, I and my household.'"
+  },
+  {
+    "pk": 832639,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 34,
+    "verse": 31,
+    "text": "But they said, 'Should he treat our sister as a harlot?'"
+  }
+];

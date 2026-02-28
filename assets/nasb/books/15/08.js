@@ -1,0 +1,291 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/15/08"] = [
+  {
+    "pk": 843830,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 1,
+    "text": "Now these are the heads of their fathers' [households] and the genealogical enrollment of those who went up with me from Babylon in the reign of King Artaxerxes:"
+  },
+  {
+    "pk": 843831,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 2,
+    "text": "of the sons of Phinehas, Gershom; of the sons of Ithamar, Daniel; of the sons of David, Hattush;"
+  },
+  {
+    "pk": 843832,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 3,
+    "text": "of the sons of Shecaniah [who was] of the sons of Parosh, Zechariah and with him 150 males [who were in] the genealogical list;"
+  },
+  {
+    "pk": 843833,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 4,
+    "text": "of the sons of Pahath-moab, Eliehoenai the son of Zerahiah and 200 males with him;"
+  },
+  {
+    "pk": 843834,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 5,
+    "text": "of the sons of Zattu, Shecaniah, the son of Jahaziel and 300 males with him;"
+  },
+  {
+    "pk": 843835,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 6,
+    "text": "and of the sons of Adin, Ebed the son of Jonathan and 50 males with him;"
+  },
+  {
+    "pk": 843836,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 7,
+    "text": "and of the sons of Elam, Jeshaiah the son of Athaliah and 70 males with him;"
+  },
+  {
+    "pk": 843837,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 8,
+    "text": "and of the sons of Shephatiah, Zebadiah the son of Michael and 80 males with him;"
+  },
+  {
+    "pk": 843838,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 9,
+    "text": "of the sons of Joab, Obadiah the son of Jehiel and 218 males with him;"
+  },
+  {
+    "pk": 843839,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 10,
+    "text": "and of the sons of Bani, Shelomith, the son of Josiphiah and 160 males with him;"
+  },
+  {
+    "pk": 843840,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 11,
+    "text": "and of the sons of Bebai, Zechariah the son of Bebai and 28 males with him;"
+  },
+  {
+    "pk": 843841,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 12,
+    "text": "and of the sons of Azgad, Johanan the son of Hakkatan and 110 males with him;"
+  },
+  {
+    "pk": 843842,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 13,
+    "text": "and of the sons of Adonikam, the last ones, these being their names, Eliphelet, Jeuel and Shemaiah, and 60 males with them;"
+  },
+  {
+    "pk": 843843,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 14,
+    "text": "and of the sons of Bigvai, Uthai and Zabbud, and 70 males with them."
+  },
+  {
+    "pk": 843844,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 15,
+    "text": "Now I assembled them at the river that runs to Ahava, where we camped for three days; and when I observed the people and the priests, I did not find any Levites there."
+  },
+  {
+    "pk": 843845,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 16,
+    "text": "So I sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah and Meshullam, leading men, and for Joiarib and Elnathan, teachers."
+  },
+  {
+    "pk": 843846,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 17,
+    "text": "I sent them to Iddo the leading man at the place Casiphia; and I told them what to say to Iddo [and] his brothers, the temple servants at the place Casiphia, [that is], to bring ministers to us for the house of our God."
+  },
+  {
+    "pk": 843847,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 18,
+    "text": "According to the good hand of our God upon us they brought us a man of insight of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, and his sons and brothers, 18 men;"
+  },
+  {
+    "pk": 843848,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 19,
+    "text": "and Hashabiah and Jeshaiah of the sons of Merari, with his brothers and their sons, 20 men;"
+  },
+  {
+    "pk": 843849,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 20,
+    "text": "and 220 of the temple servants, whom David and the princes had given for the service of the Levites, all of them designated by name."
+  },
+  {
+    "pk": 843850,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 21,
+    "text": "Then I proclaimed a fast there at the river of Ahava, that we might humble ourselves before our God to seek from Him a safe journey for us, our little ones, and all our possessions."
+  },
+  {
+    "pk": 843851,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 22,
+    "text": "For I was ashamed to request from the king troops and horsemen to protect us from the enemy on the way, because we had said to the king, 'The hand of our God is favorably disposed to all those who seek Him, but His power and His anger are against all those who forsake Him.'"
+  },
+  {
+    "pk": 843852,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 23,
+    "text": "So we fasted and sought our God concerning this [matter], and He listened to our entreaty."
+  },
+  {
+    "pk": 843853,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 24,
+    "text": "Then I set apart twelve of the leading priests, Sherebiah, Hashabiah, and with them ten of their brothers;"
+  },
+  {
+    "pk": 843854,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 25,
+    "text": "and I weighed out to them the silver, the gold and the utensils, the offering for the house of our God which the king and his counselors and his princes and all Israel present [there] had offered."
+  },
+  {
+    "pk": 843855,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 26,
+    "text": "Thus I weighed into their hands 650 talents of silver, and silver utensils [worth] 100 talents, [and] 100 gold talents,"
+  },
+  {
+    "pk": 843856,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 27,
+    "text": "and 20 gold bowls [worth] 1,000 darics, and two utensils of fine shiny bronze, precious as gold."
+  },
+  {
+    "pk": 843857,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 28,
+    "text": "Then I said to them, 'You are holy to the LORD, and the utensils are holy; and the silver and the gold are a freewill offering to the LORD God of your fathers."
+  },
+  {
+    "pk": 843858,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 29,
+    "text": "'Watch and keep [them] until you weigh [them] before the leading priests, the Levites and the heads of the fathers' [households] of Israel at Jerusalem, [in] the chambers of the house of the LORD.'"
+  },
+  {
+    "pk": 843859,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 30,
+    "text": "So the priests and the Levites accepted the weighed out silver and gold and the utensils, to bring [them] to Jerusalem to the house of our God."
+  },
+  {
+    "pk": 843860,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 31,
+    "text": "Then we journeyed from the river Ahava on the twelfth of the first month to go to Jerusalem; and the hand of our God was over us, and He delivered us from the hand of the enemy and the ambushes by the way."
+  },
+  {
+    "pk": 843861,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 32,
+    "text": "Thus we came to Jerusalem and remained there three days."
+  },
+  {
+    "pk": 843862,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 33,
+    "text": "On the fourth day the silver and the gold and the utensils were weighed out in the house of our God into the hand of Meremoth the son of Uriah the priest, and with him [was] Eleazar the son of Phinehas; and with them [were] the Levites, Jozabad the son of Jeshua and Noadiah the son of Binnui."
+  },
+  {
+    "pk": 843863,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 34,
+    "text": "Everything [was] numbered and weighed, and all the weight was recorded at that time."
+  },
+  {
+    "pk": 843864,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 35,
+    "text": "The exiles who had come from the captivity offered burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, 12 male goats for a sin offering, all as a burnt offering to the LORD."
+  },
+  {
+    "pk": 843865,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 8,
+    "verse": 36,
+    "text": "Then they delivered the king's edicts to the king's satraps and to the governors [in the provinces] beyond the River, and they supported the people and the house of God."
+  }
+];

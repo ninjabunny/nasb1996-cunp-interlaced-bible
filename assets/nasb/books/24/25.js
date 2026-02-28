@@ -1,0 +1,307 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/25"] = [
+  {
+    "pk": 851163,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 1,
+    "text": "The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (that was the first year of Nebuchadnezzar king of Babylon),"
+  },
+  {
+    "pk": 851164,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 2,
+    "text": "which Jeremiah the prophet spoke to all the people of Judah and to all the inhabitants of Jerusalem, saying,"
+  },
+  {
+    "pk": 851165,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 3,
+    "text": "'From the thirteenth year of Josiah the son of Amon, king of Judah, even to this day, these twenty-three years the word of the LORD has come to me, and I have spoken to you again and again, but you have not listened."
+  },
+  {
+    "pk": 851166,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 4,
+    "text": "'And the LORD has sent to you all His servants the prophets again and again, but you have not listened nor inclined your ear to hear,"
+  },
+  {
+    "pk": 851167,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 5,
+    "text": "saying, 'Turn now everyone from his evil way and from the evil of your deeds, and dwell on the land which the LORD has given to you and your forefathers forever and ever;"
+  },
+  {
+    "pk": 851168,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 6,
+    "text": "and do not go after other gods to serve them and to worship them, and do not provoke Me to anger with the work of your hands, and I will do you no harm.'"
+  },
+  {
+    "pk": 851169,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 7,
+    "text": "'Yet you have not listened to Me,' declares the LORD, 'in order that you might provoke Me to anger with the work of your hands to your own harm."
+  },
+  {
+    "pk": 851170,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 8,
+    "text": "'Therefore thus says the LORD of hosts, 'Because you have not obeyed My words,"
+  },
+  {
+    "pk": 851171,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 9,
+    "text": "behold, I will send and take all the families of the north,' declares the LORD, 'and [I will send] to Nebuchadnezzar king of Babylon, My servant, and will bring them against this land and against its inhabitants and against all these nations round about; and I will utterly destroy them and make them a horror and a hissing, and an everlasting desolation."
+  },
+  {
+    "pk": 851172,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 10,
+    "text": "'Moreover, I will take from them the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstones and the light of the lamp."
+  },
+  {
+    "pk": 851173,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 11,
+    "text": "'This whole land will be a desolation and a horror, and these nations will serve the king of Babylon seventy years."
+  },
+  {
+    "pk": 851174,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 12,
+    "text": "'Then it will be when seventy years are completed I will punish the king of Babylon and that nation,' declares the LORD, 'for their iniquity, and the land of the Chaldeans; and I will make it an everlasting desolation."
+  },
+  {
+    "pk": 851175,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 13,
+    "text": "'I will bring upon that land all My words which I have pronounced against it, all that is written in this book which Jeremiah has prophesied against all the nations."
+  },
+  {
+    "pk": 851176,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 14,
+    "text": "'(For many nations and great kings will make slaves of them, even them; and I will recompense them according to their deeds and according to the work of their hands.)''"
+  },
+  {
+    "pk": 851177,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 15,
+    "text": "For thus the LORD, the God of Israel, says to me, 'Take this cup of the wine of wrath from My hand and cause all the nations to whom I send you to drink it."
+  },
+  {
+    "pk": 851178,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 16,
+    "text": "'They will drink and stagger and go mad because of the sword that I will send among them.'"
+  },
+  {
+    "pk": 851179,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 17,
+    "text": "Then I took the cup from the LORD'S hand and made all the nations to whom the LORD sent me drink it:"
+  },
+  {
+    "pk": 851180,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 18,
+    "text": "Jerusalem and the cities of Judah and its kings [and] its princes, to make them a ruin, a horror, a hissing and a curse, as it is this day;"
+  },
+  {
+    "pk": 851181,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 19,
+    "text": "Pharaoh king of Egypt, his servants, his princes and all his people;"
+  },
+  {
+    "pk": 851182,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 20,
+    "text": "and all the foreign people, all the kings of the land of Uz, all the kings of the land of the Philistines (even Ashkelon, Gaza, Ekron and the remnant of Ashdod);"
+  },
+  {
+    "pk": 851183,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 21,
+    "text": "Edom, Moab and the sons of Ammon;"
+  },
+  {
+    "pk": 851184,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 22,
+    "text": "and all the kings of Tyre, all the kings of Sidon and the kings of the coastlands which are beyond the sea;"
+  },
+  {
+    "pk": 851185,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 23,
+    "text": "and Dedan, Tema, Buz and all who cut the corners [of their hair];"
+  },
+  {
+    "pk": 851186,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 24,
+    "text": "and all the kings of Arabia and all the kings of the foreign people who dwell in the desert;"
+  },
+  {
+    "pk": 851187,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 25,
+    "text": "and all the kings of Zimri, all the kings of Elam and all the kings of Media;"
+  },
+  {
+    "pk": 851188,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 26,
+    "text": "and all the kings of the north, near and far, one with another; and all the kingdoms of the earth which are upon the face of the ground, and the king of Sheshach shall drink after them."
+  },
+  {
+    "pk": 851189,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 27,
+    "text": "'You shall say to them, 'Thus says the LORD of hosts, the God of Israel, 'Drink, be drunk, vomit, fall and rise no more because of the sword which I will send among you.''"
+  },
+  {
+    "pk": 851190,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 28,
+    "text": "'And it will be, if they refuse to take the cup from your hand to drink, then you will say to them, 'Thus says the LORD of hosts: 'You shall surely drink!"
+  },
+  {
+    "pk": 851191,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 29,
+    "text": "'For behold, I am beginning to work calamity in [this] city which is called by My name, and shall you be completely free from punishment? You will not be free from punishment; for I am summoning a sword against all the inhabitants of the earth,' declares the LORD of hosts.'"
+  },
+  {
+    "pk": 851192,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 30,
+    "text": "'Therefore you shall prophesy against them all these words, and you shall say to them, 'The LORD will roar from on high And utter His voice from His holy habitation; He will roar mightily against His fold. He will shout like those who tread [the grapes], Against all the inhabitants of the earth."
+  },
+  {
+    "pk": 851193,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 31,
+    "text": "'A clamor has come to the end of the earth, Because the LORD has a controversy with the nations. He is entering into judgment with all flesh; As for the wicked, He has given them to the sword,' declares the LORD.'"
+  },
+  {
+    "pk": 851194,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 32,
+    "text": "Thus says the LORD of hosts, 'Behold, evil is going forth From nation to nation, And a great storm is being stirred up From the remotest parts of the earth."
+  },
+  {
+    "pk": 851195,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 33,
+    "text": "'Those slain by the LORD on that day will be from one end of the earth to the other. They will not be lamented, gathered or buried; they will be like dung on the face of the ground."
+  },
+  {
+    "pk": 851196,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 34,
+    "text": "'Wail, you shepherds, and cry; And wallow [in ashes], you masters of the flock; For the days of your slaughter and your dispersions have come, And you will fall like a choice vessel."
+  },
+  {
+    "pk": 851197,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 35,
+    "text": "'Flight will perish from the shepherds, And escape from the masters of the flock."
+  },
+  {
+    "pk": 851198,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 36,
+    "text": "'[Hear] the sound of the cry of the shepherds, And the wailing of the masters of the flock! For the LORD is destroying their pasture,"
+  },
+  {
+    "pk": 851199,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 37,
+    "text": "'And the peaceful folds are made silent Because of the fierce anger of the LORD."
+  },
+  {
+    "pk": 851200,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 25,
+    "verse": 38,
+    "text": "'He has left His hiding place like the lion; For their land has become a horror Because of the fierceness of the oppressing [sword] And because of His fierce anger.'"
+  }
+];

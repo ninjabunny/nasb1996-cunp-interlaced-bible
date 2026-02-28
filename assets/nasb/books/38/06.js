@@ -1,0 +1,123 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/38/06"] = [
+  {
+    "pk": 854576,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 1,
+    "text": "Now I lifted up my eyes again and looked, and behold, four chariots were coming forth from between the two mountains; and the mountains [were] bronze mountains."
+  },
+  {
+    "pk": 854577,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 2,
+    "text": "With the first chariot [were] red horses, with the second chariot black horses,"
+  },
+  {
+    "pk": 854578,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 3,
+    "text": "with the third chariot white horses, and with the fourth chariot strong dappled horses."
+  },
+  {
+    "pk": 854579,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 4,
+    "text": "Then I spoke and said to the angel who was speaking with me, 'What are these, my lord?'"
+  },
+  {
+    "pk": 854580,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 5,
+    "text": "The angel replied to me, 'These are the four spirits of heaven, going forth after standing before the Lord of all the earth,"
+  },
+  {
+    "pk": 854581,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 6,
+    "text": "with one of which the black horses are going forth to the north country; and the white ones go forth after them, while the dappled ones go forth to the south country."
+  },
+  {
+    "pk": 854582,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 7,
+    "text": "'When the strong ones went out, they were eager to go to patrol the earth.' And He said, 'Go, patrol the earth.' So they patrolled the earth."
+  },
+  {
+    "pk": 854583,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 8,
+    "text": "Then He cried out to me and spoke to me saying, 'See, those who are going to the land of the north have appeased My wrath in the land of the north.'"
+  },
+  {
+    "pk": 854584,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 9,
+    "text": "The word of the LORD also came to me, saying,"
+  },
+  {
+    "pk": 854585,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 10,
+    "text": "'Take [an offering] from the exiles, from Heldai, Tobijah and Jedaiah; and you go the same day and enter the house of Josiah the son of Zephaniah, where they have arrived from Babylon."
+  },
+  {
+    "pk": 854586,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 11,
+    "text": "'Take silver and gold, make an [ornate] crown and set [it] on the head of Joshua the son of Jehozadak, the high priest."
+  },
+  {
+    "pk": 854587,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 12,
+    "text": "'Then say to him, 'Thus says the LORD of hosts, 'Behold, a man whose name is Branch, for He will branch out from where He is; and He will build the temple of the LORD."
+  },
+  {
+    "pk": 854588,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 13,
+    "text": "'Yes, it is He who will build the temple of the LORD, and He who will bear the honor and sit and rule on His throne. Thus, He will be a priest on His throne, and the counsel of peace will be between the two offices.''"
+  },
+  {
+    "pk": 854589,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 14,
+    "text": "'Now the crown will become a reminder in the temple of the LORD to Helem, Tobijah, Jedaiah and Hen the son of Zephaniah."
+  },
+  {
+    "pk": 854590,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 6,
+    "verse": 15,
+    "text": "'Those who are far off will come and build the temple of the LORD.' Then you will know that the LORD of hosts has sent me to you. And it will take place if you completely obey the LORD your God."
+  }
+];

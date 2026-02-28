@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/50/03"] = [
+  {
+    "pk": 861050,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 1,
+    "text": "Finally, my brethren, rejoice in the Lord. To write the same things [again] is no trouble to me, and it is a safeguard for you."
+  },
+  {
+    "pk": 861051,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 2,
+    "text": "Beware of the dogs, beware of the evil workers, beware of the false circumcision;"
+  },
+  {
+    "pk": 861052,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 3,
+    "text": "for we are the [true] circumcision, who worship in the Spirit of God and glory in Christ Jesus and put no confidence in the flesh,"
+  },
+  {
+    "pk": 861053,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 4,
+    "text": "although I myself might have confidence even in the flesh. If anyone else has a mind to put confidence in the flesh, I far more:"
+  },
+  {
+    "pk": 861054,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 5,
+    "text": "circumcised the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the Law, a Pharisee;"
+  },
+  {
+    "pk": 861055,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 6,
+    "text": "as to zeal, a persecutor of the church; as to the righteousness which is in the Law, found blameless."
+  },
+  {
+    "pk": 861056,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 7,
+    "text": "But whatever things were gain to me, those things I have counted as loss for the sake of Christ."
+  },
+  {
+    "pk": 861057,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 8,
+    "text": "More than that, I count all things to be loss in view of the surpassing value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them but rubbish so that I may gain Christ,"
+  },
+  {
+    "pk": 861058,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 9,
+    "text": "and may be found in Him, not having a righteousness of my own derived from [the] Law, but that which is through faith in Christ, the righteousness which [comes] from God on the basis of faith,"
+  },
+  {
+    "pk": 861059,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 10,
+    "text": "that I may know Him and the power of His resurrection and the fellowship of His sufferings, being conformed to His death;"
+  },
+  {
+    "pk": 861060,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 11,
+    "text": "in order that I may attain to the resurrection from the dead."
+  },
+  {
+    "pk": 861061,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 12,
+    "text": "Not that I have already obtained [it] or have already become perfect, but I press on so that I may lay hold of that for which also I was laid hold of by Christ Jesus."
+  },
+  {
+    "pk": 861062,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 13,
+    "text": "Brethren, I do not regard myself as having laid hold of [it] yet; but one thing [I do]: forgetting what [lies] behind and reaching forward to what [lies] ahead,"
+  },
+  {
+    "pk": 861063,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 14,
+    "text": "I press on toward the goal for the prize of the upward call of God in Christ Jesus."
+  },
+  {
+    "pk": 861064,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 15,
+    "text": "Let us therefore, as many as are perfect, have this attitude; and if in anything you have a different attitude, God will reveal that also to you;"
+  },
+  {
+    "pk": 861065,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 16,
+    "text": "however, let us keep living by that same [standard] to which we have attained."
+  },
+  {
+    "pk": 861066,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 17,
+    "text": "Brethren, join in following my example, and observe those who walk according to the pattern you have in us."
+  },
+  {
+    "pk": 861067,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 18,
+    "text": "For many walk, of whom I often told you, and now tell you even weeping, [that they are] enemies of the cross of Christ,"
+  },
+  {
+    "pk": 861068,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 19,
+    "text": "whose end is destruction, whose god is [their] appetite, and [whose] glory is in their shame, who set their minds on earthly things."
+  },
+  {
+    "pk": 861069,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 20,
+    "text": "For our citizenship is in heaven, from which also we eagerly wait for a Savior, the Lord Jesus Christ;"
+  },
+  {
+    "pk": 861070,
+    "translation": "NASB",
+    "book": 50,
+    "chapter": 3,
+    "verse": 21,
+    "text": "who will transform the body of our humble state into conformity with the body of His glory, by the exertion of the power that He has even to subject all things to Himself."
+  }
+];

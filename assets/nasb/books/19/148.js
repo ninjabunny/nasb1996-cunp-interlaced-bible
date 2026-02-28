@@ -1,0 +1,115 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/148"] = [
+  {
+    "pk": 848000,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 1,
+    "text": "Praise the LORD! Praise the LORD from the heavens; Praise Him in the heights!"
+  },
+  {
+    "pk": 848001,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 2,
+    "text": "Praise Him, all His angels; Praise Him, all His hosts!"
+  },
+  {
+    "pk": 848002,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 3,
+    "text": "Praise Him, sun and moon; Praise Him, all stars of light!"
+  },
+  {
+    "pk": 848003,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 4,
+    "text": "Praise Him, highest heavens, And the waters that are above the heavens!"
+  },
+  {
+    "pk": 848004,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 5,
+    "text": "Let them praise the name of the LORD, For He commanded and they were created."
+  },
+  {
+    "pk": 848005,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 6,
+    "text": "He has also established them forever and ever; He has made a decree which will not pass away."
+  },
+  {
+    "pk": 848006,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 7,
+    "text": "Praise the LORD from the earth, Sea monsters and all deeps;"
+  },
+  {
+    "pk": 848007,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 8,
+    "text": "Fire and hail, snow and clouds; Stormy wind, fulfilling His word;"
+  },
+  {
+    "pk": 848008,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 9,
+    "text": "Mountains and all hills; Fruit trees and all cedars;"
+  },
+  {
+    "pk": 848009,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 10,
+    "text": "Beasts and all cattle; Creeping things and winged fowl;"
+  },
+  {
+    "pk": 848010,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 11,
+    "text": "Kings of the earth and all peoples; Princes and all judges of the earth;"
+  },
+  {
+    "pk": 848011,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 12,
+    "text": "Both young men and virgins; Old men and children."
+  },
+  {
+    "pk": 848012,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 13,
+    "text": "Let them praise the name of the LORD, For His name alone is exalted; His glory is above earth and heaven."
+  },
+  {
+    "pk": 848013,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 148,
+    "verse": 14,
+    "text": "And He has lifted up a horn for His people, Praise for all His godly ones; [Even] for the sons of Israel, a people near to Him. Praise the LORD!"
+  }
+];

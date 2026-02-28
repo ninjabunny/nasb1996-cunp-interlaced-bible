@@ -1,0 +1,251 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/16/13"] = [
+  {
+    "pk": 844300,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 1,
+    "text": "On that day they read aloud from the book of Moses in the hearing of the people; and there was found written in it that no Ammonite or Moabite should ever enter the assembly of God,"
+  },
+  {
+    "pk": 844301,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 2,
+    "text": "because they did not meet the sons of Israel with bread and water, but hired Balaam against them to curse them. However, our God turned the curse into a blessing."
+  },
+  {
+    "pk": 844302,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 3,
+    "text": "So when they heard the law, they excluded all foreigners from Israel."
+  },
+  {
+    "pk": 844303,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 4,
+    "text": "Now prior to this, Eliashib the priest, who was appointed over the chambers of the house of our God, being related to Tobiah,"
+  },
+  {
+    "pk": 844304,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 5,
+    "text": "had prepared a large room for him, where formerly they put the grain offerings, the frankincense, the utensils and the tithes of grain, wine and oil prescribed for the Levites, the singers and the gatekeepers, and the contributions for the priests."
+  },
+  {
+    "pk": 844305,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 6,
+    "text": "But during all this [time] I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I had gone to the king. After some time, however, I asked leave from the king,"
+  },
+  {
+    "pk": 844306,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 7,
+    "text": "and I came to Jerusalem and learned about the evil that Eliashib had done for Tobiah, by preparing a room for him in the courts of the house of God."
+  },
+  {
+    "pk": 844307,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 8,
+    "text": "It was very displeasing to me, so I threw all of Tobiah's household goods out of the room."
+  },
+  {
+    "pk": 844308,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 9,
+    "text": "Then I gave an order and they cleansed the rooms; and I returned there the utensils of the house of God with the grain offerings and the frankincense."
+  },
+  {
+    "pk": 844309,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 10,
+    "text": "I also discovered that the portions of the Levites had not been given [them], so that the Levites and the singers who performed the service had gone away, each to his own field."
+  },
+  {
+    "pk": 844310,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 11,
+    "text": "So I reprimanded the officials and said, 'Why is the house of God forsaken?' Then I gathered them together and restored them to their posts."
+  },
+  {
+    "pk": 844311,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 12,
+    "text": "All Judah then brought the tithe of the grain, wine and oil into the storehouses."
+  },
+  {
+    "pk": 844312,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 13,
+    "text": "In charge of the storehouses I appointed Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, and in addition to them was Hanan the son of Zaccur, the son of Mattaniah; for they were considered reliable, and it was their task to distribute to their kinsmen."
+  },
+  {
+    "pk": 844313,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 14,
+    "text": "Remember me for this, O my God, and do not blot out my loyal deeds which I have performed for the house of my God and its services."
+  },
+  {
+    "pk": 844314,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 15,
+    "text": "In those days I saw in Judah some who were treading wine presses on the sabbath, and bringing in sacks of grain and loading [them] on donkeys, as well as wine, grapes, figs and all kinds of loads, and they brought [them] into Jerusalem on the sabbath day. So I admonished [them] on the day they sold food."
+  },
+  {
+    "pk": 844315,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 16,
+    "text": "Also men of Tyre were living there [who] imported fish and all kinds of merchandise, and sold [them] to the sons of Judah on the sabbath, even in Jerusalem."
+  },
+  {
+    "pk": 844316,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 17,
+    "text": "Then I reprimanded the nobles of Judah and said to them, 'What is this evil thing you are doing, by profaning the sabbath day?"
+  },
+  {
+    "pk": 844317,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 18,
+    "text": "'Did not your fathers do the same, so that our God brought on us and on this city all this trouble? Yet you are adding to the wrath on Israel by profaning the sabbath.'"
+  },
+  {
+    "pk": 844318,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 19,
+    "text": "It came about that just as it grew dark at the gates of Jerusalem before the sabbath, I commanded that the doors should be shut and that they should not open them until after the sabbath. Then I stationed some of my servants at the gates [so that] no load would enter on the sabbath day."
+  },
+  {
+    "pk": 844319,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 20,
+    "text": "Once or twice the traders and merchants of every kind of merchandise spent the night outside Jerusalem."
+  },
+  {
+    "pk": 844320,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 21,
+    "text": "Then I warned them and said to them, 'Why do you spend the night in front of the wall? If you do so again, I will use force against you.' From that time on they did not come on the sabbath."
+  },
+  {
+    "pk": 844321,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 22,
+    "text": "And I commanded the Levites that they should purify themselves and come as gatekeepers to sanctify the sabbath day. [For] this also remember me, O my God, and have compassion on me according to the greatness of Your lovingkindness."
+  },
+  {
+    "pk": 844322,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 23,
+    "text": "In those days I also saw that the Jews had married women from Ashdod, Ammon [and] Moab."
+  },
+  {
+    "pk": 844323,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 24,
+    "text": "As for their children, half spoke in the language of Ashdod, and none of them was able to speak the language of Judah, but the language of his own people."
+  },
+  {
+    "pk": 844324,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 25,
+    "text": "So I contended with them and cursed them and struck some of them and pulled out their hair, and made them swear by God, 'You shall not give your daughters to their sons, nor take of their daughters for your sons or for yourselves."
+  },
+  {
+    "pk": 844325,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 26,
+    "text": "'Did not Solomon king of Israel sin regarding these things? Yet among the many nations there was no king like him, and he was loved by his God, and God made him king over all Israel; nevertheless the foreign women caused even him to sin."
+  },
+  {
+    "pk": 844326,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 27,
+    "text": "'Do we then hear about you that you have committed all this great evil by acting unfaithfully against our God by marrying foreign women?'"
+  },
+  {
+    "pk": 844327,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 28,
+    "text": "Even one of the sons of Joiada, the son of Eliashib the high priest, was a son-in-law of Sanballat the Horonite, so I drove him away from me."
+  },
+  {
+    "pk": 844328,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 29,
+    "text": "Remember them, O my God, because they have defiled the priesthood and the covenant of the priesthood and the Levites."
+  },
+  {
+    "pk": 844329,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 30,
+    "text": "Thus I purified them from everything foreign and appointed duties for the priests and the Levites, each in his task,"
+  },
+  {
+    "pk": 844330,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 13,
+    "verse": 31,
+    "text": "and [I arranged] for the supply of wood at appointed times and for the first fruits. Remember me, O my God, for good."
+  }
+];

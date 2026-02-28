@@ -1,0 +1,227 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/44"] = [
+  {
+    "pk": 850162,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 1,
+    "text": "'But now listen, O Jacob, My servant, And Israel, whom I have chosen:"
+  },
+  {
+    "pk": 850163,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 2,
+    "text": "Thus says the LORD who made you And formed you from the womb, who will help you, 'Do not fear, O Jacob My servant; And you Jeshurun whom I have chosen."
+  },
+  {
+    "pk": 850164,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 3,
+    "text": "'For I will pour out water on the thirsty [land] And streams on the dry ground; I will pour out My Spirit on your offspring And My blessing on your descendants;"
+  },
+  {
+    "pk": 850165,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 4,
+    "text": "And they will spring up among the grass Like poplars by streams of water.'"
+  },
+  {
+    "pk": 850166,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 5,
+    "text": "'This one will say, 'I am the LORD'S'; And that one will call on the name of Jacob; And another will write [on] his hand, 'Belonging to the LORD,' And will name Israel's name with honor."
+  },
+  {
+    "pk": 850167,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 6,
+    "text": "'Thus says the LORD, the King of Israel and his Redeemer, the LORD of hosts: 'I am the first and I am the last, And there is no God besides Me."
+  },
+  {
+    "pk": 850168,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 7,
+    "text": "'Who is like Me? Let him proclaim and declare it; Yes, let him recount it to Me in order, From the time that I established the ancient nation. And let them declare to them the things that are coming And the events that are going to take place."
+  },
+  {
+    "pk": 850169,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 8,
+    "text": "'Do not tremble and do not be afraid; Have I not long since announced [it] to you and declared [it]? And you are My witnesses. Is there any God besides Me, Or is there any [other] Rock? I know of none.''"
+  },
+  {
+    "pk": 850170,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 9,
+    "text": "Those who fashion a graven image are all of them futile, and their precious things are of no profit; even their own witnesses fail to see or know, so that they will be put to shame."
+  },
+  {
+    "pk": 850171,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 10,
+    "text": "Who has fashioned a god or cast an idol to no profit?"
+  },
+  {
+    "pk": 850172,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 11,
+    "text": "Behold, all his companions will be put to shame, for the craftsmen themselves are mere men. Let them all assemble themselves, let them stand up, let them tremble, let them together be put to shame."
+  },
+  {
+    "pk": 850173,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 12,
+    "text": "The man shapes iron into a cutting tool and does his work over the coals, fashioning it with hammers and working it with his strong arm. He also gets hungry and his strength fails; he drinks no water and becomes weary."
+  },
+  {
+    "pk": 850174,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 13,
+    "text": "[Another] shapes wood, he extends a measuring line; he outlines it with red chalk. He works it with planes and outlines it with a compass, and makes it like the form of a man, like the beauty of man, so that it may sit in a house."
+  },
+  {
+    "pk": 850175,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 14,
+    "text": "Surely he cuts cedars for himself, and takes a cypress or an oak and raises [it] for himself among the trees of the forest. He plants a fir, and the rain makes it grow."
+  },
+  {
+    "pk": 850176,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 15,
+    "text": "Then it becomes [something] for a man to burn, so he takes one of them and warms himself; he also makes a fire to bake bread. He also makes a god and worships it; he makes it a graven image and falls down before it."
+  },
+  {
+    "pk": 850177,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 16,
+    "text": "Half of it he burns in the fire; over [this] half he eats meat as he roasts a roast and is satisfied. He also warms himself and says, 'Aha! I am warm, I have seen the fire.'"
+  },
+  {
+    "pk": 850178,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 17,
+    "text": "But the rest of it he makes into a god, his graven image. He falls down before it and worships; he also prays to it and says, 'Deliver me, for you are my god.'"
+  },
+  {
+    "pk": 850179,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 18,
+    "text": "They do not know, nor do they understand, for He has smeared over their eyes so that they cannot see and their hearts so that they cannot comprehend."
+  },
+  {
+    "pk": 850180,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 19,
+    "text": "No one recalls, nor is there knowledge or understanding to say, 'I have burned half of it in the fire and also have baked bread over its coals. I roast meat and eat [it]. Then I make the rest of it into an abomination, I fall down before a block of wood!'"
+  },
+  {
+    "pk": 850181,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 20,
+    "text": "He feeds on ashes; a deceived heart has turned him aside. And he cannot deliver himself, nor say, 'Is there not a lie in my right hand?'"
+  },
+  {
+    "pk": 850182,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 21,
+    "text": "'Remember these things, O Jacob, And Israel, for you are My servant; I have formed you, you are My servant, O Israel, you will not be forgotten by Me."
+  },
+  {
+    "pk": 850183,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 22,
+    "text": "'I have wiped out your transgressions like a thick cloud And your sins like a heavy mist. Return to Me, for I have redeemed you.'"
+  },
+  {
+    "pk": 850184,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 23,
+    "text": "Shout for joy, O heavens, for the LORD has done [it]! Shout joyfully, you lower parts of the earth; Break forth into a shout of joy, you mountains, O forest, and every tree in it; For the LORD has redeemed Jacob And in Israel He shows forth His glory."
+  },
+  {
+    "pk": 850185,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 24,
+    "text": "Thus says the LORD, your Redeemer, and the one who formed you from the womb, 'I, the LORD, am the maker of all things, Stretching out the heavens by Myself And spreading out the earth all alone,"
+  },
+  {
+    "pk": 850186,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 25,
+    "text": "Causing the omens of boasters to fail, Making fools out of diviners, Causing wise men to draw back And turning their knowledge into foolishness,"
+  },
+  {
+    "pk": 850187,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 26,
+    "text": "Confirming the word of His servant And performing the purpose of His messengers. [It is I] who says of Jerusalem, 'She shall be inhabited!' And of the cities of Judah, 'They shall be built.' And I will raise up her ruins [again]."
+  },
+  {
+    "pk": 850188,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 27,
+    "text": "'[It is I] who says to the depth of the sea, 'Be dried up!' And I will make your rivers dry."
+  },
+  {
+    "pk": 850189,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 44,
+    "verse": 28,
+    "text": "'[It is I] who says of Cyrus, '[He is] My shepherd! And he will perform all My desire.' And he declares of Jerusalem, 'She will be built,' And of the temple, 'Your foundation will be laid.''"
+  }
+];

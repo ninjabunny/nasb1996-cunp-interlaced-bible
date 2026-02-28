@@ -1,0 +1,131 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/06/23"] = [
+  {
+    "pk": 838089,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 1,
+    "text": "Now it came about after many days, when the LORD had given rest to Israel from all their enemies on every side, and Joshua was old, advanced in years,"
+  },
+  {
+    "pk": 838090,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 2,
+    "text": "that Joshua called for all Israel, for their elders and their heads and their judges and their officers, and said to them, 'I am old, advanced in years."
+  },
+  {
+    "pk": 838091,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 3,
+    "text": "'And you have seen all that the LORD your God has done to all these nations because of you, for the LORD your God is He who has been fighting for you."
+  },
+  {
+    "pk": 838092,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 4,
+    "text": "'See, I have apportioned to you these nations which remain as an inheritance for your tribes, with all the nations which I have cut off, from the Jordan even to the Great Sea toward the setting of the sun."
+  },
+  {
+    "pk": 838093,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 5,
+    "text": "'The LORD your God, He will thrust them out from before you and drive them from before you; and you will possess their land, just as the LORD your God promised you."
+  },
+  {
+    "pk": 838094,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 6,
+    "text": "'Be very firm, then, to keep and do all that is written in the book of the law of Moses, so that you may not turn aside from it to the right hand or to the left,"
+  },
+  {
+    "pk": 838095,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 7,
+    "text": "so that you will not associate with these nations, these which remain among you, or mention the name of their gods, or make [anyone] swear [by them], or serve them, or bow down to them."
+  },
+  {
+    "pk": 838096,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 8,
+    "text": "'But you are to cling to the LORD your God, as you have done to this day."
+  },
+  {
+    "pk": 838097,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 9,
+    "text": "'For the LORD has driven out great and strong nations from before you; and as for you, no man has stood before you to this day."
+  },
+  {
+    "pk": 838098,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 10,
+    "text": "'One of your men puts to flight a thousand, for the LORD your God is He who fights for you, just as He promised you."
+  },
+  {
+    "pk": 838099,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 11,
+    "text": "'So take diligent heed to yourselves to love the LORD your God."
+  },
+  {
+    "pk": 838100,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 12,
+    "text": "'For if you ever go back and cling to the rest of these nations, these which remain among you, and intermarry with them, so that you associate with them and they with you,"
+  },
+  {
+    "pk": 838101,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 13,
+    "text": "know with certainty that the LORD your God will not continue to drive these nations out from before you; but they will be a snare and a trap to you, and a whip on your sides and thorns in your eyes, until you perish from off this good land which the LORD your God has given you."
+  },
+  {
+    "pk": 838102,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 14,
+    "text": "'Now behold, today I am going the way of all the earth, and you know in all your hearts and in all your souls that not one word of all the good words which the LORD your God spoke concerning you has failed; all have been fulfilled for you, not one of them has failed."
+  },
+  {
+    "pk": 838103,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 15,
+    "text": "'It shall come about that just as all the good words which the LORD your God spoke to you have come upon you, so the LORD will bring upon you all the threats, until He has destroyed you from off this good land which the LORD your God has given you."
+  },
+  {
+    "pk": 838104,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 23,
+    "verse": 16,
+    "text": "'When you transgress the covenant of the LORD your God, which He commanded you, and go and serve other gods and bow down to them, then the anger of the LORD will burn against you, and you will perish quickly from off the good land which He has given you.'"
+  }
+];

@@ -1,0 +1,203 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/10/05"] = [
+  {
+    "pk": 839761,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 1,
+    "text": "Then all the tribes of Israel came to David at Hebron and said, 'Behold, we are your bone and your flesh."
+  },
+  {
+    "pk": 839762,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 2,
+    "text": "'Previously, when Saul was king over us, you were the one who led Israel out and in. And the LORD said to you, 'You will shepherd My people Israel, and you will be a ruler over Israel.''"
+  },
+  {
+    "pk": 839763,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 3,
+    "text": "So all the elders of Israel came to the king at Hebron, and King David made a covenant with them before the LORD at Hebron; then they anointed David king over Israel."
+  },
+  {
+    "pk": 839764,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 4,
+    "text": "David was thirty years old when he became king, [and] he reigned forty years."
+  },
+  {
+    "pk": 839765,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 5,
+    "text": "At Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah."
+  },
+  {
+    "pk": 839766,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 6,
+    "text": "Now the king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, and they said to David, 'You shall not come in here, but the blind and lame will turn you away'; thinking, 'David cannot enter here.'"
+  },
+  {
+    "pk": 839767,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 7,
+    "text": "Nevertheless, David captured the stronghold of Zion, that is the city of David."
+  },
+  {
+    "pk": 839768,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 8,
+    "text": "David said on that day, 'Whoever would strike the Jebusites, let him reach the lame and the blind, who are hated by David's soul, through the water tunnel.' Therefore they say, 'The blind or the lame shall not come into the house.'"
+  },
+  {
+    "pk": 839769,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 9,
+    "text": "So David lived in the stronghold and called it the city of David. And David built all around from the Millo and inward."
+  },
+  {
+    "pk": 839770,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 10,
+    "text": "David became greater and greater, for the LORD God of hosts was with him."
+  },
+  {
+    "pk": 839771,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 11,
+    "text": "Then Hiram king of Tyre sent messengers to David with cedar trees and carpenters and stonemasons; and they built a house for David."
+  },
+  {
+    "pk": 839772,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 12,
+    "text": "And David realized that the LORD had established him as king over Israel, and that He had exalted his kingdom for the sake of His people Israel."
+  },
+  {
+    "pk": 839773,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 13,
+    "text": "Meanwhile David took more concubines and wives from Jerusalem, after he came from Hebron; and more sons and daughters were born to David."
+  },
+  {
+    "pk": 839774,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 14,
+    "text": "Now these are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,"
+  },
+  {
+    "pk": 839775,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 15,
+    "text": "Ibhar, Elishua, Nepheg, Japhia,"
+  },
+  {
+    "pk": 839776,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 16,
+    "text": "Elishama, Eliada and Eliphelet."
+  },
+  {
+    "pk": 839777,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 17,
+    "text": "When the Philistines heard that they had anointed David king over Israel, all the Philistines went up to seek out David; and when David heard [of it], he went down to the stronghold."
+  },
+  {
+    "pk": 839778,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 18,
+    "text": "Now the Philistines came and spread themselves out in the valley of Rephaim."
+  },
+  {
+    "pk": 839779,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 19,
+    "text": "Then David inquired of the LORD, saying, 'Shall I go up against the Philistines? Will You give them into my hand?' And the LORD said to David, 'Go up, for I will certainly give the Philistines into your hand.'"
+  },
+  {
+    "pk": 839780,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 20,
+    "text": "So David came to Baal-perazim and defeated them there; and he said, 'The LORD has broken through my enemies before me like the breakthrough of waters.' Therefore he named that place Baal-perazim."
+  },
+  {
+    "pk": 839781,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 21,
+    "text": "They abandoned their idols there, so David and his men carried them away."
+  },
+  {
+    "pk": 839782,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 22,
+    "text": "Now the Philistines came up once again and spread themselves out in the valley of Rephaim."
+  },
+  {
+    "pk": 839783,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 23,
+    "text": "When David inquired of the LORD, He said, 'You shall not go [directly] up; circle around behind them and come at them in front of the balsam trees."
+  },
+  {
+    "pk": 839784,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 24,
+    "text": "'It shall be, when you hear the sound of marching in the tops of the balsam trees, then you shall act promptly, for then the LORD will have gone out before you to strike the army of the Philistines.'"
+  },
+  {
+    "pk": 839785,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 5,
+    "verse": 25,
+    "text": "Then David did so, just as the LORD had commanded him, and struck down the Philistines from Geba as far as Gezer."
+  }
+];

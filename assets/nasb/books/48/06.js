@@ -1,0 +1,147 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/48/06"] = [
+  {
+    "pk": 860817,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 1,
+    "text": "Brethren, even if anyone is caught in any trespass, you who are spiritual, restore such a one in a spirit of gentleness; [each one] looking to yourself, so that you too will not be tempted."
+  },
+  {
+    "pk": 860818,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 2,
+    "text": "Bear one another's burdens, and thereby fulfill the law of Christ."
+  },
+  {
+    "pk": 860819,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 3,
+    "text": "For if anyone thinks he is something when he is nothing, he deceives himself."
+  },
+  {
+    "pk": 860820,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 4,
+    "text": "But each one must examine his own work, and then he will have [reason for] boasting in regard to himself alone, and not in regard to another."
+  },
+  {
+    "pk": 860821,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 5,
+    "text": "For each one will bear his own load."
+  },
+  {
+    "pk": 860822,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 6,
+    "text": "The one who is taught the word is to share all good things with the one who teaches [him]."
+  },
+  {
+    "pk": 860823,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 7,
+    "text": "Do not be deceived, God is not mocked; for whatever a man sows, this he will also reap."
+  },
+  {
+    "pk": 860824,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 8,
+    "text": "For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life."
+  },
+  {
+    "pk": 860825,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 9,
+    "text": "Let us not lose heart in doing good, for in due time we will reap if we do not grow weary."
+  },
+  {
+    "pk": 860826,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 10,
+    "text": "So then, while we have opportunity, let us do good to all people, and especially to those who are of the household of the faith."
+  },
+  {
+    "pk": 860827,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 11,
+    "text": "See with what large letters I am writing to you with my own hand."
+  },
+  {
+    "pk": 860828,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 12,
+    "text": "Those who desire to make a good showing in the flesh try to compel you to be circumcised, simply so that they will not be persecuted for the cross of Christ."
+  },
+  {
+    "pk": 860829,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 13,
+    "text": "For those who are circumcised do not even keep the Law themselves, but they desire to have you circumcised so that they may boast in your flesh."
+  },
+  {
+    "pk": 860830,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 14,
+    "text": "But may it never be that I would boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world."
+  },
+  {
+    "pk": 860831,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 15,
+    "text": "For neither is circumcision anything, nor uncircumcision, but a new creation."
+  },
+  {
+    "pk": 860832,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 16,
+    "text": "And those who will walk by this rule, peace and mercy [be] upon them, and upon the Israel of God."
+  },
+  {
+    "pk": 860833,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 17,
+    "text": "From now on let no one cause trouble for me, for I bear on my body the brand-marks of Jesus."
+  },
+  {
+    "pk": 860834,
+    "translation": "NASB",
+    "book": 48,
+    "chapter": 6,
+    "verse": 18,
+    "text": "The grace of our Lord Jesus Christ be with your spirit, brethren. Amen."
+  }
+];

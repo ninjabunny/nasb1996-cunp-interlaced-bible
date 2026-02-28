@@ -1,0 +1,91 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/58"] = [
+  {
+    "pk": 846408,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 1,
+    "text": "For the choir director; [set to] Al-tashheth. A Mikhtam of David. Do you indeed speak righteousness, O gods? Do you judge uprightly, O sons of men?"
+  },
+  {
+    "pk": 846409,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 2,
+    "text": "No, in heart you work unrighteousness; On earth you weigh out the violence of your hands."
+  },
+  {
+    "pk": 846410,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 3,
+    "text": "The wicked are estranged from the womb; These who speak lies go astray from birth."
+  },
+  {
+    "pk": 846411,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 4,
+    "text": "They have venom like the venom of a serpent; Like a deaf cobra that stops up its ear,"
+  },
+  {
+    "pk": 846412,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 5,
+    "text": "So that it does not hear the voice of charmers, [Or] a skillful caster of spells."
+  },
+  {
+    "pk": 846413,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 6,
+    "text": "O God, shatter their teeth in their mouth; Break out the fangs of the young lions, O LORD."
+  },
+  {
+    "pk": 846414,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 7,
+    "text": "Let them flow away like water that runs off; [When] he aims his arrows, let them be as headless shafts."
+  },
+  {
+    "pk": 846415,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 8,
+    "text": "[Let them be] as a snail which melts away as it goes along, [Like] the miscarriages of a woman which never see the sun."
+  },
+  {
+    "pk": 846416,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 9,
+    "text": "Before your pots can feel [the fire of] thorns He will sweep them away with a whirlwind, the green and the burning alike."
+  },
+  {
+    "pk": 846417,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 10,
+    "text": "The righteous will rejoice when he sees the vengeance; He will wash his feet in the blood of the wicked."
+  },
+  {
+    "pk": 846418,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 58,
+    "verse": 11,
+    "text": "And men will say, 'Surely there is a reward for the righteous; Surely there is a God who judges on earth!'"
+  }
+];

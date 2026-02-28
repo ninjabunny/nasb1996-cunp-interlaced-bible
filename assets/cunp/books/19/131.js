@@ -1,0 +1,30 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/19/131"] = [
+  {
+    "pk": 3499528,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 131,
+    "verse": 1,
+    "text": "〔大衛上行之詩。〕<br/>耶和華啊，我的心不狂傲，我的眼不高大；重大和測不透的事，我也不敢行。<br/>",
+    "comment": "<a href='/CUNP/45/12/16'>羅 12:16</a> 要彼此同心；不要志氣高大，倒要俯就卑微的人<small>〔「人」或作「事」〕</small>。不要自以為聰明。"
+  },
+  {
+    "pk": 3499529,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 131,
+    "verse": 2,
+    "text": "我的心平穩安靜，好像斷過奶的孩子在他母親的懷中；我的心在我裏面真像斷過奶的孩子。",
+    "comment": "<a href='/CUNP/40/18/3'>太 18:3</a> 說：「我實在告訴你們，你們若不回轉，變成小孩子的樣式，斷不得進天國。<p><a href='/CUNP/46/14/20'>林前 14:20</a> 弟兄們，在心志上不要作小孩子。然而，在惡事上要作嬰孩，在心志上總要作大人。"
+  },
+  {
+    "pk": 3499530,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 131,
+    "verse": 3,
+    "text": "<e>以色列</e>啊，你當仰望耶和華，從今時直到永遠！",
+    "comment": "<a href='/CUNP/19/130/7'>詩 130:7</a> <u>以色列</u>啊，你當仰望耶和華！因他有慈愛，有豐盛的救恩。"
+  }
+];

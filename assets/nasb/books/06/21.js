@@ -1,0 +1,363 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/06/21"] = [
+  {
+    "pk": 838010,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 1,
+    "text": "Then the heads of households of the Levites approached Eleazar the priest, and Joshua the son of Nun, and the heads of households of the tribes of the sons of Israel."
+  },
+  {
+    "pk": 838011,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 2,
+    "text": "They spoke to them at Shiloh in the land of Canaan, saying, 'The LORD commanded through Moses to give us cities to live in, with their pasture lands for our cattle.'"
+  },
+  {
+    "pk": 838012,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 3,
+    "text": "So the sons of Israel gave the Levites from their inheritance these cities with their pasture lands, according to the command of the LORD."
+  },
+  {
+    "pk": 838013,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 4,
+    "text": "Then the lot came out for the families of the Kohathites. And the sons of Aaron the priest, who were of the Levites, received thirteen cities by lot from the tribe of Judah and from the tribe of the Simeonites and from the tribe of Benjamin."
+  },
+  {
+    "pk": 838014,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 5,
+    "text": "The rest of the sons of Kohath received ten cities by lot from the families of the tribe of Ephraim and from the tribe of Dan and from the half-tribe of Manasseh."
+  },
+  {
+    "pk": 838015,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 6,
+    "text": "The sons of Gershon received thirteen cities by lot from the families of the tribe of Issachar and from the tribe of Asher and from the tribe of Naphtali and from the half-tribe of Manasseh in Bashan."
+  },
+  {
+    "pk": 838016,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 7,
+    "text": "The sons of Merari according to their families received twelve cities from the tribe of Reuben and from the tribe of Gad and from the tribe of Zebulun."
+  },
+  {
+    "pk": 838017,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 8,
+    "text": "Now the sons of Israel gave by lot to the Levites these cities with their pasture lands, as the LORD had commanded through Moses."
+  },
+  {
+    "pk": 838018,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 9,
+    "text": "They gave these cities which are [here] mentioned by name from the tribe of the sons of Judah and from the tribe of the sons of Simeon;"
+  },
+  {
+    "pk": 838019,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 10,
+    "text": "and they were for the sons of Aaron, one of the families of the Kohathites, of the sons of Levi, for the lot was theirs first."
+  },
+  {
+    "pk": 838020,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 11,
+    "text": "Thus they gave them Kiriath-arba, [Arba being] the father of Anak (that is, Hebron), in the hill country of Judah, with its surrounding pasture lands."
+  },
+  {
+    "pk": 838021,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 12,
+    "text": "But the fields of the city and its villages they gave to Caleb the son of Jephunneh as his possession."
+  },
+  {
+    "pk": 838022,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 13,
+    "text": "So to the sons of Aaron the priest they gave Hebron, the city of refuge for the manslayer, with its pasture lands, and Libnah with its pasture lands,"
+  },
+  {
+    "pk": 838023,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 14,
+    "text": "and Jattir with its pasture lands and Eshtemoa with its pasture lands,"
+  },
+  {
+    "pk": 838024,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 15,
+    "text": "and Holon with its pasture lands and Debir with its pasture lands,"
+  },
+  {
+    "pk": 838025,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 16,
+    "text": "and Ain with its pasture lands and Juttah with its pasture lands [and] Beth-shemesh with its pasture lands; nine cities from these two tribes."
+  },
+  {
+    "pk": 838026,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 17,
+    "text": "From the tribe of Benjamin, Gibeon with its pasture lands, Geba with its pasture lands,"
+  },
+  {
+    "pk": 838027,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 18,
+    "text": "Anathoth with its pasture lands and Almon with its pasture lands; four cities."
+  },
+  {
+    "pk": 838028,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 19,
+    "text": "All the cities of the sons of Aaron, the priests, were thirteen cities with their pasture lands."
+  },
+  {
+    "pk": 838029,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 20,
+    "text": "Then the cities from the tribe of Ephraim were allotted to the families of the sons of Kohath, the Levites, [even to] the rest of the sons of Kohath."
+  },
+  {
+    "pk": 838030,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 21,
+    "text": "They gave them Shechem, the city of refuge for the manslayer, with its pasture lands, in the hill country of Ephraim, and Gezer with its pasture lands,"
+  },
+  {
+    "pk": 838031,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 22,
+    "text": "and Kibzaim with its pasture lands and Beth-horon with its pasture lands; four cities."
+  },
+  {
+    "pk": 838032,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 23,
+    "text": "From the tribe of Dan, Elteke with its pasture lands, Gibbethon with its pasture lands,"
+  },
+  {
+    "pk": 838033,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 24,
+    "text": "Aijalon with its pasture lands, Gath-rimmon with its pasture lands; four cities."
+  },
+  {
+    "pk": 838034,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 25,
+    "text": "From the half-tribe of Manasseh, [they allotted] Taanach with its pasture lands and Gath-rimmon with its pasture lands; two cities."
+  },
+  {
+    "pk": 838035,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 26,
+    "text": "All the cities with their pasture lands for the families of the rest of the sons of Kohath were ten."
+  },
+  {
+    "pk": 838036,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 27,
+    "text": "To the sons of Gershon, one of the families of the Levites, from the half-tribe of Manasseh, [they gave] Golan in Bashan, the city of refuge for the manslayer, with its pasture lands, and Be-eshterah with its pasture lands; two cities."
+  },
+  {
+    "pk": 838037,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 28,
+    "text": "From the tribe of Issachar, [they gave] Kishion with its pasture lands, Daberath with its pasture lands,"
+  },
+  {
+    "pk": 838038,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 29,
+    "text": "Jarmuth with its pasture lands, En-gannim with its pasture lands; four cities."
+  },
+  {
+    "pk": 838039,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 30,
+    "text": "From the tribe of Asher, [they gave] Mishal with its pasture lands, Abdon with its pasture lands,"
+  },
+  {
+    "pk": 838040,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 31,
+    "text": "Helkath with its pasture lands and Rehob with its pasture lands; four cities."
+  },
+  {
+    "pk": 838041,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 32,
+    "text": "From the tribe of Naphtali, [they gave] Kedesh in Galilee, the city of refuge for the manslayer, with its pasture lands and Hammoth-dor with its pasture lands and Kartan with its pasture lands; three cities."
+  },
+  {
+    "pk": 838042,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 33,
+    "text": "All the cities of the Gershonites according to their families were thirteen cities with their pasture lands."
+  },
+  {
+    "pk": 838043,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 34,
+    "text": "To the families of the sons of Merari, the rest of the Levites, [they gave] from the tribe of Zebulun, Jokneam with its pasture lands and Kartah with its pasture lands."
+  },
+  {
+    "pk": 838044,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 35,
+    "text": "Dimnah with its pasture lands, Nahalal with its pasture lands; four cities."
+  },
+  {
+    "pk": 838045,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 36,
+    "text": "From the tribe of Reuben, [they gave] Bezer with its pasture lands and Jahaz with its pasture lands,"
+  },
+  {
+    "pk": 838046,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 37,
+    "text": "Kedemoth with its pasture lands and Mephaath with its pasture lands; four cities."
+  },
+  {
+    "pk": 838047,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 38,
+    "text": "From the tribe of Gad, [they gave] Ramoth in Gilead, the city of refuge for the manslayer, with its pasture lands and Mahanaim with its pasture lands,"
+  },
+  {
+    "pk": 838048,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 39,
+    "text": "Heshbon with its pasture lands, Jazer with its pasture lands; four cities in all."
+  },
+  {
+    "pk": 838049,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 40,
+    "text": "All [these were] the cities of the sons of Merari according to their families, the rest of the families of the Levites; and their lot was twelve cities."
+  },
+  {
+    "pk": 838050,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 41,
+    "text": "All the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight cities with their pasture lands."
+  },
+  {
+    "pk": 838051,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 42,
+    "text": "These cities each had its surrounding pasture lands; thus [it was] with all these cities."
+  },
+  {
+    "pk": 838052,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 43,
+    "text": "So the LORD gave Israel all the land which He had sworn to give to their fathers, and they possessed it and lived in it."
+  },
+  {
+    "pk": 838053,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 44,
+    "text": "And the LORD gave them rest on every side, according to all that He had sworn to their fathers, and no one of all their enemies stood before them; the LORD gave all their enemies into their hand."
+  },
+  {
+    "pk": 838054,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 21,
+    "verse": 45,
+    "text": "Not one of the good promises which the LORD had made to the house of Israel failed; all came to pass."
+  }
+];

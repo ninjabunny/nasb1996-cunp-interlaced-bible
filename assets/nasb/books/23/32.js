@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/32"] = [
+  {
+    "pk": 849888,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 1,
+    "text": "Behold, a king will reign righteously And princes will rule justly."
+  },
+  {
+    "pk": 849889,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 2,
+    "text": "Each will be like a refuge from the wind And a shelter from the storm, Like streams of water in a dry country, Like the shade of a huge rock in a parched land."
+  },
+  {
+    "pk": 849890,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 3,
+    "text": "Then the eyes of those who see will not be blinded, And the ears of those who hear will listen."
+  },
+  {
+    "pk": 849891,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 4,
+    "text": "The mind of the hasty will discern the truth, And the tongue of the stammerers will hasten to speak clearly."
+  },
+  {
+    "pk": 849892,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 5,
+    "text": "No longer will the fool be called noble, Or the rogue be spoken of [as] generous."
+  },
+  {
+    "pk": 849893,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 6,
+    "text": "For a fool speaks nonsense, And his heart inclines toward wickedness: To practice ungodliness and to speak error against the LORD, To keep the hungry person unsatisfied And to withhold drink from the thirsty."
+  },
+  {
+    "pk": 849894,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 7,
+    "text": "As for a rogue, his weapons are evil; He devises wicked schemes To destroy [the] afflicted with slander, Even though [the] needy one speaks what is right."
+  },
+  {
+    "pk": 849895,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 8,
+    "text": "But the noble man devises noble plans; And by noble plans he stands."
+  },
+  {
+    "pk": 849896,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 9,
+    "text": "Rise up, you women who are at ease, [And] hear my voice; Give ear to my word, You complacent daughters."
+  },
+  {
+    "pk": 849897,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 10,
+    "text": "Within a year and [a few] days You will be troubled, O complacent [daughters]; For the vintage is ended, [And] the [fruit] gathering will not come."
+  },
+  {
+    "pk": 849898,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 11,
+    "text": "Tremble, you [women] who are at ease; Be troubled, you complacent [daughters]; Strip, undress and put [sackcloth] on [your] waist,"
+  },
+  {
+    "pk": 849899,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 12,
+    "text": "Beat your breasts for the pleasant fields, for the fruitful vine,"
+  },
+  {
+    "pk": 849900,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 13,
+    "text": "For the land of my people [in which] thorns [and] briars shall come up; Yea, for all the joyful houses [and for] the jubilant city."
+  },
+  {
+    "pk": 849901,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 14,
+    "text": "Because the palace has been abandoned, the populated city forsaken. Hill and watch-tower have become caves forever, A delight for wild donkeys, a pasture for flocks;"
+  },
+  {
+    "pk": 849902,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 15,
+    "text": "Until the Spirit is poured out upon us from on high, And the wilderness becomes a fertile field, And the fertile field is considered as a forest."
+  },
+  {
+    "pk": 849903,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 16,
+    "text": "Then justice will dwell in the wilderness And righteousness will abide in the fertile field."
+  },
+  {
+    "pk": 849904,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 17,
+    "text": "And the work of righteousness will be peace, And the service of righteousness, quietness and confidence forever."
+  },
+  {
+    "pk": 849905,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 18,
+    "text": "Then my people will live in a peaceful habitation, And in secure dwellings and in undisturbed resting places;"
+  },
+  {
+    "pk": 849906,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 19,
+    "text": "And it will hail when the forest comes down, And the city will be utterly laid low."
+  },
+  {
+    "pk": 849907,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 32,
+    "verse": 20,
+    "text": "How blessed will you be, you who sow beside all waters, Who let out freely the ox and the donkey."
+  }
+];

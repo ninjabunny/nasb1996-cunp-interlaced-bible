@@ -1,0 +1,179 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/01/28"] = [
+  {
+    "pk": 832402,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 1,
+    "text": "So Isaac called Jacob and blessed him and charged him, and said to him, 'You shall not take a wife from the daughters of Canaan."
+  },
+  {
+    "pk": 832403,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 2,
+    "text": "'Arise, go to Paddan-aram, to the house of Bethuel your mother's father; and from there take to yourself a wife from the daughters of Laban your mother's brother."
+  },
+  {
+    "pk": 832404,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 3,
+    "text": "'May God Almighty bless you and make you fruitful and multiply you, that you may become a company of peoples."
+  },
+  {
+    "pk": 832405,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 4,
+    "text": "'May He also give you the blessing of Abraham, to you and to your descendants with you, that you may possess the land of your sojournings, which God gave to Abraham.'"
+  },
+  {
+    "pk": 832406,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 5,
+    "text": "Then Isaac sent Jacob away, and he went to Paddan-aram to Laban, son of Bethuel the Aramean, the brother of Rebekah, the mother of Jacob and Esau."
+  },
+  {
+    "pk": 832407,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 6,
+    "text": "Now Esau saw that Isaac had blessed Jacob and sent him away to Paddan-aram to take to himself a wife from there, [and that] when he blessed him he charged him, saying, 'You shall not take a wife from the daughters of Canaan,'"
+  },
+  {
+    "pk": 832408,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 7,
+    "text": "and that Jacob had obeyed his father and his mother and had gone to Paddan-aram."
+  },
+  {
+    "pk": 832409,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 8,
+    "text": "So Esau saw that the daughters of Canaan displeased his father Isaac;"
+  },
+  {
+    "pk": 832410,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 9,
+    "text": "and Esau went to Ishmael, and married, besides the wives that he had, Mahalath the daughter of Ishmael, Abraham's son, the sister of Nebaioth."
+  },
+  {
+    "pk": 832411,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 10,
+    "text": "Then Jacob departed from Beersheba and went toward Haran."
+  },
+  {
+    "pk": 832412,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 11,
+    "text": "He came to a certain place and spent the night there, because the sun had set; and he took one of the stones of the place and put it under his head, and lay down in that place."
+  },
+  {
+    "pk": 832413,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 12,
+    "text": "He had a dream, and behold, a ladder was set on the earth with its top reaching to heaven; and behold, the angels of God were ascending and descending on it."
+  },
+  {
+    "pk": 832414,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 13,
+    "text": "And behold, the LORD stood above it and said, 'I am the LORD, the God of your father Abraham and the God of Isaac; the land on which you lie, I will give it to you and to your descendants."
+  },
+  {
+    "pk": 832415,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 14,
+    "text": "'Your descendants will also be like the dust of the earth, and you will spread out to the west and to the east and to the north and to the south; and in you and in your descendants shall all the families of the earth be blessed."
+  },
+  {
+    "pk": 832416,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 15,
+    "text": "'Behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have promised you.'"
+  },
+  {
+    "pk": 832417,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 16,
+    "text": "Then Jacob awoke from his sleep and said, 'Surely the LORD is in this place, and I did not know it.'"
+  },
+  {
+    "pk": 832418,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 17,
+    "text": "He was afraid and said, 'How awesome is this place! This is none other than the house of God, and this is the gate of heaven.'"
+  },
+  {
+    "pk": 832419,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 18,
+    "text": "So Jacob rose early in the morning, and took the stone that he had put under his head and set it up as a pillar and poured oil on its top."
+  },
+  {
+    "pk": 832420,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 19,
+    "text": "He called the name of that place Bethel; however, previously the name of the city had been Luz."
+  },
+  {
+    "pk": 832421,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 20,
+    "text": "Then Jacob made a vow, saying, 'If God will be with me and will keep me on this journey that I take, and will give me food to eat and garments to wear,"
+  },
+  {
+    "pk": 832422,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 21,
+    "text": "and I return to my father's house in safety, then the LORD will be my God."
+  },
+  {
+    "pk": 832423,
+    "translation": "NASB",
+    "book": 1,
+    "chapter": 28,
+    "verse": 22,
+    "text": "'This stone, which I have set up as a pillar, will be God's house, and of all that You give me I will surely give a tenth to You.'"
+  }
+];

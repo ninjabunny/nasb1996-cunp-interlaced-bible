@@ -1,0 +1,251 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/20/11"] = [
+  {
+    "pk": 848317,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 1,
+    "text": "A false balance is an abomination to the LORD, But a just weight is His delight."
+  },
+  {
+    "pk": 848318,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 2,
+    "text": "When pride comes, then comes dishonor, But with the humble is wisdom."
+  },
+  {
+    "pk": 848319,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 3,
+    "text": "The integrity of the upright will guide them, But the crookedness of the treacherous will destroy them."
+  },
+  {
+    "pk": 848320,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 4,
+    "text": "Riches do not profit in the day of wrath, But righteousness delivers from death."
+  },
+  {
+    "pk": 848321,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 5,
+    "text": "The righteousness of the blameless will smooth his way, But the wicked will fall by his own wickedness."
+  },
+  {
+    "pk": 848322,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 6,
+    "text": "The righteousness of the upright will deliver them, But the treacherous will be caught by [their own] greed."
+  },
+  {
+    "pk": 848323,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 7,
+    "text": "When a wicked man dies, [his] expectation will perish, And the hope of strong men perishes."
+  },
+  {
+    "pk": 848324,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 8,
+    "text": "The righteous is delivered from trouble, But the wicked takes his place."
+  },
+  {
+    "pk": 848325,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 9,
+    "text": "With [his] mouth the godless man destroys his neighbor, But through knowledge the righteous will be delivered."
+  },
+  {
+    "pk": 848326,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 10,
+    "text": "When it goes well with the righteous, the city rejoices, And when the wicked perish, there is joyful shouting."
+  },
+  {
+    "pk": 848327,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 11,
+    "text": "By the blessing of the upright a city is exalted, But by the mouth of the wicked it is torn down."
+  },
+  {
+    "pk": 848328,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 12,
+    "text": "He who despises his neighbor lacks sense, But a man of understanding keeps silent."
+  },
+  {
+    "pk": 848329,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 13,
+    "text": "He who goes about as a talebearer reveals secrets, But he who is trustworthy conceals a matter."
+  },
+  {
+    "pk": 848330,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 14,
+    "text": "Where there is no guidance the people fall, But in abundance of counselors there is victory."
+  },
+  {
+    "pk": 848331,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 15,
+    "text": "He who is guarantor for a stranger will surely suffer for it, But he who hates being a guarantor is secure."
+  },
+  {
+    "pk": 848332,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 16,
+    "text": "A gracious woman attains honor, And ruthless men attain riches."
+  },
+  {
+    "pk": 848333,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 17,
+    "text": "The merciful man does himself good, But the cruel man does himself harm."
+  },
+  {
+    "pk": 848334,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 18,
+    "text": "The wicked earns deceptive wages, But he who sows righteousness [gets] a true reward."
+  },
+  {
+    "pk": 848335,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 19,
+    "text": "He who is steadfast in righteousness [will attain] to life, And he who pursues evil [will bring about] his own death."
+  },
+  {
+    "pk": 848336,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 20,
+    "text": "The perverse in heart are an abomination to the LORD, But the blameless in [their] walk are His delight."
+  },
+  {
+    "pk": 848337,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 21,
+    "text": "Assuredly, the evil man will not go unpunished, But the descendants of the righteous will be delivered."
+  },
+  {
+    "pk": 848338,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 22,
+    "text": "[As] a ring of gold in a swine's snout [So is] a beautiful woman who lacks discretion."
+  },
+  {
+    "pk": 848339,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 23,
+    "text": "The desire of the righteous is only good, [But] the expectation of the wicked is wrath."
+  },
+  {
+    "pk": 848340,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 24,
+    "text": "There is one who scatters, and [yet] increases all the more, And there is one who withholds what is justly due, [and yet it results] only in want."
+  },
+  {
+    "pk": 848341,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 25,
+    "text": "The generous man will be prosperous, And he who waters will himself be watered."
+  },
+  {
+    "pk": 848342,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 26,
+    "text": "He who withholds grain, the people will curse him, But blessing will be on the head of him who sells [it]."
+  },
+  {
+    "pk": 848343,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 27,
+    "text": "He who diligently seeks good seeks favor, But he who seeks evil, evil will come to him."
+  },
+  {
+    "pk": 848344,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 28,
+    "text": "He who trusts in his riches will fall, But the righteous will flourish like the [green] leaf."
+  },
+  {
+    "pk": 848345,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 29,
+    "text": "He who troubles his own house will inherit wind, And the foolish will be servant to the wisehearted."
+  },
+  {
+    "pk": 848346,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 30,
+    "text": "The fruit of the righteous is a tree of life, And he who is wise wins souls."
+  },
+  {
+    "pk": 848347,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 11,
+    "verse": 31,
+    "text": "If the righteous will be rewarded in the earth, How much more the wicked and the sinner!"
+  }
+];

@@ -1,0 +1,219 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/02/18"] = [
+  {
+    "pk": 833628,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 1,
+    "text": "Now Jethro, the priest of Midian, Moses' father-in-law, heard of all that God had done for Moses and for Israel His people, how the LORD had brought Israel out of Egypt."
+  },
+  {
+    "pk": 833629,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 2,
+    "text": "Jethro, Moses' father-in-law, took Moses' wife Zipporah, after he had sent her away,"
+  },
+  {
+    "pk": 833630,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 3,
+    "text": "and her two sons, of whom one was named Gershom, for Moses said, 'I have been a sojourner in a foreign land.'"
+  },
+  {
+    "pk": 833631,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 4,
+    "text": "The other was named Eliezer, for [he said], 'The God of my father was my help, and delivered me from the sword of Pharaoh.'"
+  },
+  {
+    "pk": 833632,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 5,
+    "text": "Then Jethro, Moses' father-in-law, came with his sons and his wife to Moses in the wilderness where he was camped, at the mount of God."
+  },
+  {
+    "pk": 833633,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 6,
+    "text": "He sent word to Moses, 'I, your father-in-law Jethro, am coming to you with your wife and her two sons with her.'"
+  },
+  {
+    "pk": 833634,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 7,
+    "text": "Then Moses went out to meet his father-in-law, and he bowed down and kissed him; and they asked each other of their welfare and went into the tent."
+  },
+  {
+    "pk": 833635,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 8,
+    "text": "Moses told his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel's sake, all the hardship that had befallen them on the journey, and [how] the LORD had delivered them."
+  },
+  {
+    "pk": 833636,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 9,
+    "text": "Jethro rejoiced over all the goodness which the LORD had done to Israel, in delivering them from the hand of the Egyptians."
+  },
+  {
+    "pk": 833637,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 10,
+    "text": "So Jethro said, 'Blessed be the LORD who delivered you from the hand of the Egyptians and from the hand of Pharaoh, [and] who delivered the people from under the hand of the Egyptians."
+  },
+  {
+    "pk": 833638,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 11,
+    "text": "'Now I know that the LORD is greater than all the gods; indeed, it was proven when they dealt proudly against the people.'"
+  },
+  {
+    "pk": 833639,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 12,
+    "text": "Then Jethro, Moses' father-in-law, took a burnt offering and sacrifices for God, and Aaron came with all the elders of Israel to eat a meal with Moses' father-in-law before God."
+  },
+  {
+    "pk": 833640,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 13,
+    "text": "It came about the next day that Moses sat to judge the people, and the people stood about Moses from the morning until the evening."
+  },
+  {
+    "pk": 833641,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 14,
+    "text": "Now when Moses' father-in-law saw all that he was doing for the people, he said, 'What is this thing that you are doing for the people? Why do you alone sit [as judge] and all the people stand about you from morning until evening?'"
+  },
+  {
+    "pk": 833642,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 15,
+    "text": "Moses said to his father-in-law, 'Because the people come to me to inquire of God."
+  },
+  {
+    "pk": 833643,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 16,
+    "text": "'When they have a dispute, it comes to me, and I judge between a man and his neighbor and make known the statutes of God and His laws.'"
+  },
+  {
+    "pk": 833644,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 17,
+    "text": "Moses' father-in-law said to him, 'The thing that you are doing is not good."
+  },
+  {
+    "pk": 833645,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 18,
+    "text": "'You will surely wear out, both yourself and these people who are with you, for the task is too heavy for you; you cannot do it alone."
+  },
+  {
+    "pk": 833646,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 19,
+    "text": "'Now listen to me: I will give you counsel, and God be with you. You be the people's representative before God, and you bring the disputes to God,"
+  },
+  {
+    "pk": 833647,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 20,
+    "text": "then teach them the statutes and the laws, and make known to them the way in which they are to walk and the work they are to do."
+  },
+  {
+    "pk": 833648,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 21,
+    "text": "'Furthermore, you shall select out of all the people able men who fear God, men of truth, those who hate dishonest gain; and you shall place [these] over them [as] leaders of thousands, of hundreds, of fifties and of tens."
+  },
+  {
+    "pk": 833649,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 22,
+    "text": "'Let them judge the people at all times; and let it be that every major dispute they will bring to you, but every minor dispute they themselves will judge. So it will be easier for you, and they will bear [the burden] with you."
+  },
+  {
+    "pk": 833650,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 23,
+    "text": "'If you do this thing and God [so] commands you, then you will be able to endure, and all these people also will go to their place in peace.'"
+  },
+  {
+    "pk": 833651,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 24,
+    "text": "So Moses listened to his father-in-law and did all that he had said."
+  },
+  {
+    "pk": 833652,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 25,
+    "text": "Moses chose able men out of all Israel and made them heads over the people, leaders of thousands, of hundreds, of fifties and of tens."
+  },
+  {
+    "pk": 833653,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 26,
+    "text": "They judged the people at all times; the difficult dispute they would bring to Moses, but every minor dispute they themselves would judge."
+  },
+  {
+    "pk": 833654,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 18,
+    "verse": 27,
+    "text": "Then Moses bade his father-in-law farewell, and he went his way into his own land."
+  }
+];

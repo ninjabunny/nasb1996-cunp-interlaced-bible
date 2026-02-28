@@ -1,0 +1,235 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/19"] = [
+  {
+    "pk": 844926,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 1,
+    "text": "Then Job responded,"
+  },
+  {
+    "pk": 844927,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 2,
+    "text": "'How long will you torment me And crush me with words?"
+  },
+  {
+    "pk": 844928,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 3,
+    "text": "'These ten times you have insulted me; You are not ashamed to wrong me."
+  },
+  {
+    "pk": 844929,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 4,
+    "text": "'Even if I have truly erred, My error lodges with me."
+  },
+  {
+    "pk": 844930,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 5,
+    "text": "'If indeed you vaunt yourselves against me And prove my disgrace to me,"
+  },
+  {
+    "pk": 844931,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 6,
+    "text": "Know then that God has wronged me And has closed His net around me."
+  },
+  {
+    "pk": 844932,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 7,
+    "text": "'Behold, I cry, 'Violence!' but I get no answer; I shout for help, but there is no justice."
+  },
+  {
+    "pk": 844933,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 8,
+    "text": "'He has walled up my way so that I cannot pass, And He has put darkness on my paths."
+  },
+  {
+    "pk": 844934,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 9,
+    "text": "'He has stripped my honor from me And removed the crown from my head."
+  },
+  {
+    "pk": 844935,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 10,
+    "text": "'He breaks me down on every side, and I am gone; And He has uprooted my hope like a tree."
+  },
+  {
+    "pk": 844936,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 11,
+    "text": "'He has also kindled His anger against me And considered me as His enemy."
+  },
+  {
+    "pk": 844937,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 12,
+    "text": "'His troops come together, And build up their way against me And camp around my tent."
+  },
+  {
+    "pk": 844938,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 13,
+    "text": "'He has removed my brothers far from me, And my acquaintances are completely estranged from me."
+  },
+  {
+    "pk": 844939,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 14,
+    "text": "'My relatives have failed, And my intimate friends have forgotten me."
+  },
+  {
+    "pk": 844940,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 15,
+    "text": "'Those who live in my house and my maids consider me a stranger. I am a foreigner in their sight."
+  },
+  {
+    "pk": 844941,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 16,
+    "text": "'I call to my servant, but he does not answer; I have to implore him with my mouth."
+  },
+  {
+    "pk": 844942,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 17,
+    "text": "'My breath is offensive to my wife, And I am loathsome to my own brothers."
+  },
+  {
+    "pk": 844943,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 18,
+    "text": "'Even young children despise me; I rise up and they speak against me."
+  },
+  {
+    "pk": 844944,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 19,
+    "text": "'All my associates abhor me, And those I love have turned against me."
+  },
+  {
+    "pk": 844945,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 20,
+    "text": "'My bone clings to my skin and my flesh, And I have escaped [only] by the skin of my teeth."
+  },
+  {
+    "pk": 844946,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 21,
+    "text": "'Pity me, pity me, O you my friends, For the hand of God has struck me."
+  },
+  {
+    "pk": 844947,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 22,
+    "text": "'Why do you persecute me as God [does], And are not satisfied with my flesh?"
+  },
+  {
+    "pk": 844948,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 23,
+    "text": "'Oh that my words were written! Oh that they were inscribed in a book!"
+  },
+  {
+    "pk": 844949,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 24,
+    "text": "'That with an iron stylus and lead They were engraved in the rock forever!"
+  },
+  {
+    "pk": 844950,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 25,
+    "text": "'As for me, I know that my Redeemer lives, And at the last He will take His stand on the earth."
+  },
+  {
+    "pk": 844951,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 26,
+    "text": "'Even after my skin is destroyed, Yet from my flesh I shall see God;"
+  },
+  {
+    "pk": 844952,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 27,
+    "text": "Whom I myself shall behold, And whom my eyes will see and not another. My heart faints within me!"
+  },
+  {
+    "pk": 844953,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 28,
+    "text": "'If you say, 'How shall we persecute him?' And 'What pretext for a case against him can we find?'"
+  },
+  {
+    "pk": 844954,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 19,
+    "verse": 29,
+    "text": "'[Then] be afraid of the sword for yourselves, For wrath [brings] the punishment of the sword, So that you may know there is judgment.'"
+  }
+];

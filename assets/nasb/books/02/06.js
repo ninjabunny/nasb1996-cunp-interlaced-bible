@@ -1,0 +1,243 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/02/06"] = [
+  {
+    "pk": 833284,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 1,
+    "text": "Then the LORD said to Moses, 'Now you shall see what I will do to Pharaoh; for under compulsion he will let them go, and under compulsion he will drive them out of his land.'"
+  },
+  {
+    "pk": 833285,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 2,
+    "text": "God spoke further to Moses and said to him, 'I am the LORD;"
+  },
+  {
+    "pk": 833286,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 3,
+    "text": "and I appeared to Abraham, Isaac, and Jacob, as God Almighty, but [by] My name, LORD, I did not make Myself known to them."
+  },
+  {
+    "pk": 833287,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 4,
+    "text": "'I also established My covenant with them, to give them the land of Canaan, the land in which they sojourned."
+  },
+  {
+    "pk": 833288,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 5,
+    "text": "'Furthermore I have heard the groaning of the sons of Israel, because the Egyptians are holding them in bondage, and I have remembered My covenant."
+  },
+  {
+    "pk": 833289,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 6,
+    "text": "'Say, therefore, to the sons of Israel, 'I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will deliver you from their bondage. I will also redeem you with an outstretched arm and with great judgments."
+  },
+  {
+    "pk": 833290,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 7,
+    "text": "'Then I will take you for My people, and I will be your God; and you shall know that I am the LORD your God, who brought you out from under the burdens of the Egyptians."
+  },
+  {
+    "pk": 833291,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 8,
+    "text": "'I will bring you to the land which I swore to give to Abraham, Isaac, and Jacob, and I will give it to you [for] a possession; I am the LORD.''"
+  },
+  {
+    "pk": 833292,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 9,
+    "text": "So Moses spoke thus to the sons of Israel, but they did not listen to Moses on account of [their] despondency and cruel bondage."
+  },
+  {
+    "pk": 833293,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 10,
+    "text": "Now the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 833294,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 11,
+    "text": "'Go, tell Pharaoh king of Egypt to let the sons of Israel go out of his land.'"
+  },
+  {
+    "pk": 833295,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 12,
+    "text": "But Moses spoke before the LORD, saying, 'Behold, the sons of Israel have not listened to me; how then will Pharaoh listen to me, for I am unskilled in speech?'"
+  },
+  {
+    "pk": 833296,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 13,
+    "text": "Then the LORD spoke to Moses and to Aaron, and gave them a charge to the sons of Israel and to Pharaoh king of Egypt, to bring the sons of Israel out of the land of Egypt."
+  },
+  {
+    "pk": 833297,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 14,
+    "text": "These are the heads of their fathers' households. The sons of Reuben, Israel's firstborn: Hanoch and Pallu, Hezron and Carmi; these are the families of Reuben."
+  },
+  {
+    "pk": 833298,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 15,
+    "text": "The sons of Simeon: Jemuel and Jamin and Ohad and Jachin and Zohar and Shaul the son of a Canaanite woman; these are the families of Simeon."
+  },
+  {
+    "pk": 833299,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 16,
+    "text": "These are the names of the sons of Levi according to their generations: Gershon and Kohath and Merari; and the length of Levi's life was one hundred and thirty-seven years."
+  },
+  {
+    "pk": 833300,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 17,
+    "text": "The sons of Gershon: Libni and Shimei, according to their families."
+  },
+  {
+    "pk": 833301,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 18,
+    "text": "The sons of Kohath: Amram and Izhar and Hebron and Uzziel; and the length of Kohath's life was one hundred and thirty-three years."
+  },
+  {
+    "pk": 833302,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 19,
+    "text": "The sons of Merari: Mahli and Mushi. These are the families of the Levites according to their generations."
+  },
+  {
+    "pk": 833303,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 20,
+    "text": "Amram married his father's sister Jochebed, and she bore him Aaron and Moses; and the length of Amram's life was one hundred and thirty-seven years."
+  },
+  {
+    "pk": 833304,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 21,
+    "text": "The sons of Izhar: Korah and Nepheg and Zichri."
+  },
+  {
+    "pk": 833305,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 22,
+    "text": "The sons of Uzziel: Mishael and Elzaphan and Sithri."
+  },
+  {
+    "pk": 833306,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 23,
+    "text": "Aaron married Elisheba, the daughter of Amminadab, the sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar."
+  },
+  {
+    "pk": 833307,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 24,
+    "text": "The sons of Korah: Assir and Elkanah and Abiasaph; these are the families of the Korahites."
+  },
+  {
+    "pk": 833308,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 25,
+    "text": "Aaron's son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These are the heads of the fathers' [households] of the Levites according to their families."
+  },
+  {
+    "pk": 833309,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 26,
+    "text": "It was [the same] Aaron and Moses to whom the LORD said, 'Bring out the sons of Israel from the land of Egypt according to their hosts.'"
+  },
+  {
+    "pk": 833310,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 27,
+    "text": "They were the ones who spoke to Pharaoh king of Egypt about bringing out the sons of Israel from Egypt; it was [the same] Moses and Aaron."
+  },
+  {
+    "pk": 833311,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 28,
+    "text": "Now it came about on the day when the LORD spoke to Moses in the land of Egypt,"
+  },
+  {
+    "pk": 833312,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 29,
+    "text": "that the LORD spoke to Moses, saying, 'I am the LORD; speak to Pharaoh king of Egypt all that I speak to you.'"
+  },
+  {
+    "pk": 833313,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 6,
+    "verse": 30,
+    "text": "But Moses said before the LORD, 'Behold, I am unskilled in speech; how then will Pharaoh listen to me?'"
+  }
+];

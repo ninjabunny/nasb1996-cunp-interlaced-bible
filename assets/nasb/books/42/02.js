@@ -1,0 +1,419 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/42/02"] = [
+  {
+    "pk": 856602,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 1,
+    "text": "Now in those days a decree went out from Caesar Augustus, that a census be taken of all the inhabited earth."
+  },
+  {
+    "pk": 856603,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 2,
+    "text": "This was the first census taken while Quirinius was governor of Syria."
+  },
+  {
+    "pk": 856604,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 3,
+    "text": "And everyone was on his way to register for the census, each to his own city."
+  },
+  {
+    "pk": 856605,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 4,
+    "text": "Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David which is called Bethlehem, because he was of the house and family of David,"
+  },
+  {
+    "pk": 856606,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 5,
+    "text": "in order to register along with Mary, who was engaged to him, and was with child."
+  },
+  {
+    "pk": 856607,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 6,
+    "text": "While they were there, the days were completed for her to give birth."
+  },
+  {
+    "pk": 856608,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 7,
+    "text": "And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn."
+  },
+  {
+    "pk": 856609,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 8,
+    "text": "In the same region there were [some] shepherds staying out in the fields and keeping watch over their flock by night."
+  },
+  {
+    "pk": 856610,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 9,
+    "text": "And an angel of the Lord suddenly stood before them, and the glory of the Lord shone around them; and they were terribly frightened."
+  },
+  {
+    "pk": 856611,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 10,
+    "text": "But the angel said to them, 'Do not be afraid; for behold, I bring you good news of great joy which will be for all the people;"
+  },
+  {
+    "pk": 856612,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 11,
+    "text": "for today in the city of David there has been born for you a Savior, who is Christ the Lord."
+  },
+  {
+    "pk": 856613,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 12,
+    "text": "'This [will be] a sign for you: you will find a baby wrapped in cloths and lying in a manger.'"
+  },
+  {
+    "pk": 856614,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 13,
+    "text": "And suddenly there appeared with the angel a multitude of the heavenly host praising God and saying,"
+  },
+  {
+    "pk": 856615,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 14,
+    "text": "'Glory to God in the highest, And on earth peace among men with whom He is pleased.'"
+  },
+  {
+    "pk": 856616,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 15,
+    "text": "When the angels had gone away from them into heaven, the shepherds [began] saying to one another, 'Let us go straight to Bethlehem then, and see this thing that has happened which the Lord has made known to us.'"
+  },
+  {
+    "pk": 856617,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 16,
+    "text": "So they came in a hurry and found their way to Mary and Joseph, and the baby as He lay in the manger."
+  },
+  {
+    "pk": 856618,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 17,
+    "text": "When they had seen this, they made known the statement which had been told them about this Child."
+  },
+  {
+    "pk": 856619,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 18,
+    "text": "And all who heard it wondered at the things which were told them by the shepherds."
+  },
+  {
+    "pk": 856620,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 19,
+    "text": "But Mary treasured all these things, pondering them in her heart."
+  },
+  {
+    "pk": 856621,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 20,
+    "text": "The shepherds went back, glorifying and praising God for all that they had heard and seen, just as had been told them."
+  },
+  {
+    "pk": 856622,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 21,
+    "text": "And when eight days had passed, before His circumcision, His name was [then] called Jesus, the name given by the angel before He was conceived in the womb."
+  },
+  {
+    "pk": 856623,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 22,
+    "text": "And when the days for their purification according to the law of Moses were completed, they brought Him up to Jerusalem to present Him to the Lord"
+  },
+  {
+    "pk": 856624,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 23,
+    "text": "(as it is written in the Law of the Lord, 'EVERY [firstborn] MALE THAT OPENS THE WOMB SHALL BE CALLED HOLY TO THE LORD '),"
+  },
+  {
+    "pk": 856625,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 24,
+    "text": "and to offer a sacrifice according to what was said in the Law of the Lord, 'A PAIR OF TURTLEDOVES OR TWO YOUNG PIGEONS.'"
+  },
+  {
+    "pk": 856626,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 25,
+    "text": "And there was a man in Jerusalem whose name was Simeon; and this man was righteous and devout, looking for the consolation of Israel; and the Holy Spirit was upon him."
+  },
+  {
+    "pk": 856627,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 26,
+    "text": "And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ."
+  },
+  {
+    "pk": 856628,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 27,
+    "text": "And he came in the Spirit into the temple; and when the parents brought in the child Jesus, to carry out for Him the custom of the Law,"
+  },
+  {
+    "pk": 856629,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 28,
+    "text": "then he took Him into his arms, and blessed God, and said,"
+  },
+  {
+    "pk": 856630,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 29,
+    "text": "'Now Lord, You are releasing Your bond-servant to depart in peace, According to Your word;"
+  },
+  {
+    "pk": 856631,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 30,
+    "text": "For my eyes have seen Your salvation,"
+  },
+  {
+    "pk": 856632,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 31,
+    "text": "Which You have prepared in the presence of all peoples,"
+  },
+  {
+    "pk": 856633,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 32,
+    "text": "A LIGHT OF REVELATION TO THE GENTILES, And the glory of Your people Israel.'"
+  },
+  {
+    "pk": 856634,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 33,
+    "text": "And His father and mother were amazed at the things which were being said about Him."
+  },
+  {
+    "pk": 856635,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 34,
+    "text": "And Simeon blessed them and said to Mary His mother, 'Behold, this [Child] is appointed for the fall and rise of many in Israel, and for a sign to be opposed--"
+  },
+  {
+    "pk": 856636,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 35,
+    "text": "and a sword will pierce even your own soul-- to the end that thoughts from many hearts may be revealed.'"
+  },
+  {
+    "pk": 856637,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 36,
+    "text": "And there was a prophetess, Anna the daughter of Phanuel, of the tribe of Asher. She was advanced in years and had lived with [her] husband seven years after her marriage,"
+  },
+  {
+    "pk": 856638,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 37,
+    "text": "and then as a widow to the age of eighty-four. She never left the temple, serving night and day with fastings and prayers."
+  },
+  {
+    "pk": 856639,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 38,
+    "text": "At that very moment she came up and [began] giving thanks to God, and continued to speak of Him to all those who were looking for the redemption of Jerusalem."
+  },
+  {
+    "pk": 856640,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 39,
+    "text": "When they had performed everything according to the Law of the Lord, they returned to Galilee, to their own city of Nazareth."
+  },
+  {
+    "pk": 856641,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 40,
+    "text": "The Child continued to grow and become strong, increasing in wisdom; and the grace of God was upon Him."
+  },
+  {
+    "pk": 856642,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 41,
+    "text": "Now His parents went to Jerusalem every year at the Feast of the Passover."
+  },
+  {
+    "pk": 856643,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 42,
+    "text": "And when He became twelve, they went up [there] according to the custom of the Feast;"
+  },
+  {
+    "pk": 856644,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 43,
+    "text": "and as they were returning, after spending the full number of days, the boy Jesus stayed behind in Jerusalem. But His parents were unaware of it,"
+  },
+  {
+    "pk": 856645,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 44,
+    "text": "but supposed Him to be in the caravan, and went a day's journey; and they [began] looking for Him among their relatives and acquaintances."
+  },
+  {
+    "pk": 856646,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 45,
+    "text": "When they did not find Him, they returned to Jerusalem looking for Him."
+  },
+  {
+    "pk": 856647,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 46,
+    "text": "Then, after three days they found Him in the temple, sitting in the midst of the teachers, both listening to them and asking them questions."
+  },
+  {
+    "pk": 856648,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 47,
+    "text": "And all who heard Him were amazed at His understanding and His answers."
+  },
+  {
+    "pk": 856649,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 48,
+    "text": "When they saw Him, they were astonished; and His mother said to Him, 'Son, why have You treated us this way? Behold, Your father and I have been anxiously looking for You.'"
+  },
+  {
+    "pk": 856650,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 49,
+    "text": "And He said to them, 'Why is it that you were looking for Me? Did you not know that I had to be in My Father's [house]?'"
+  },
+  {
+    "pk": 856651,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 50,
+    "text": "But they did not understand the statement which He had made to them."
+  },
+  {
+    "pk": 856652,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 51,
+    "text": "And He went down with them and came to Nazareth, and He continued in subjection to them; and His mother treasured all [these] things in her heart."
+  },
+  {
+    "pk": 856653,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 2,
+    "verse": 52,
+    "text": "And Jesus kept increasing in wisdom and stature, and in favor with God and men."
+  }
+];

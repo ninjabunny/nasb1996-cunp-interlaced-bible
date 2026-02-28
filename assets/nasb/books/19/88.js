@@ -1,0 +1,147 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/88"] = [
+  {
+    "pk": 846937,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 1,
+    "text": "A Song. A Psalm of the sons of Korah. For the choir director; according to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, the God of my salvation, I have cried out by day and in the night before You."
+  },
+  {
+    "pk": 846938,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 2,
+    "text": "Let my prayer come before You; Incline Your ear to my cry!"
+  },
+  {
+    "pk": 846939,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 3,
+    "text": "For my soul has had enough troubles, And my life has drawn near to Sheol."
+  },
+  {
+    "pk": 846940,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 4,
+    "text": "I am reckoned among those who go down to the pit; I have become like a man without strength,"
+  },
+  {
+    "pk": 846941,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 5,
+    "text": "Forsaken among the dead, Like the slain who lie in the grave, Whom You remember no more, And they are cut off from Your hand."
+  },
+  {
+    "pk": 846942,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 6,
+    "text": "You have put me in the lowest pit, In dark places, in the depths."
+  },
+  {
+    "pk": 846943,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 7,
+    "text": "Your wrath has rested upon me, And You have afflicted me with all Your waves. Selah."
+  },
+  {
+    "pk": 846944,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 8,
+    "text": "You have removed my acquaintances far from me; You have made me an object of loathing to them; I am shut up and cannot go out."
+  },
+  {
+    "pk": 846945,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 9,
+    "text": "My eye has wasted away because of affliction; I have called upon You every day, O LORD; I have spread out my hands to You."
+  },
+  {
+    "pk": 846946,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 10,
+    "text": "Will You perform wonders for the dead? Will the departed spirits rise [and] praise You? Selah."
+  },
+  {
+    "pk": 846947,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 11,
+    "text": "Will Your lovingkindness be declared in the grave, Your faithfulness in Abaddon?"
+  },
+  {
+    "pk": 846948,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 12,
+    "text": "Will Your wonders be made known in the darkness? And Your righteousness in the land of forgetfulness?"
+  },
+  {
+    "pk": 846949,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 13,
+    "text": "But I, O LORD, have cried out to You for help, And in the morning my prayer comes before You."
+  },
+  {
+    "pk": 846950,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 14,
+    "text": "O LORD, why do You reject my soul? [Why] do You hide Your face from me?"
+  },
+  {
+    "pk": 846951,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 15,
+    "text": "I was afflicted and about to die from my youth on; I suffer Your terrors; I am overcome."
+  },
+  {
+    "pk": 846952,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 16,
+    "text": "Your burning anger has passed over me; Your terrors have destroyed me."
+  },
+  {
+    "pk": 846953,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 17,
+    "text": "They have surrounded me like water all day long; They have encompassed me altogether."
+  },
+  {
+    "pk": 846954,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 88,
+    "verse": 18,
+    "text": "You have removed lover and friend far from me; My acquaintances are [in] darkness."
+  }
+];

@@ -1,0 +1,427 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/42/24"] = [
+  {
+    "pk": 857620,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 1,
+    "text": "But on the first day of the week, at early dawn, they came to the tomb bringing the spices which they had prepared."
+  },
+  {
+    "pk": 857621,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 2,
+    "text": "And they found the stone rolled away from the tomb,"
+  },
+  {
+    "pk": 857622,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 3,
+    "text": "but when they entered, they did not find the body of the Lord Jesus."
+  },
+  {
+    "pk": 857623,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 4,
+    "text": "While they were perplexed about this, behold, two men suddenly stood near them in dazzling clothing;"
+  },
+  {
+    "pk": 857624,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 5,
+    "text": "and as [the women] were terrified and bowed their faces to the ground, [the men] said to them, 'Why do you seek the living One among the dead?"
+  },
+  {
+    "pk": 857625,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 6,
+    "text": "'He is not here, but He has risen. Remember how He spoke to you while He was still in Galilee,"
+  },
+  {
+    "pk": 857626,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 7,
+    "text": "saying that the Son of Man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.'"
+  },
+  {
+    "pk": 857627,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 8,
+    "text": "And they remembered His words,"
+  },
+  {
+    "pk": 857628,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 9,
+    "text": "and returned from the tomb and reported all these things to the eleven and to all the rest."
+  },
+  {
+    "pk": 857629,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 10,
+    "text": "Now they were Mary Magdalene and Joanna and Mary the [mother] of James; also the other women with them were telling these things to the apostles."
+  },
+  {
+    "pk": 857630,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 11,
+    "text": "But these words appeared to them as nonsense, and they would not believe them."
+  },
+  {
+    "pk": 857631,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 12,
+    "text": "But Peter got up and ran to the tomb; stooping and looking in, he saw the linen wrappings only; and he went away to his home, marveling at what had happened."
+  },
+  {
+    "pk": 857632,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 13,
+    "text": "And behold, two of them were going that very day to a village named Emmaus, which was about seven miles from Jerusalem."
+  },
+  {
+    "pk": 857633,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 14,
+    "text": "And they were talking with each other about all these things which had taken place."
+  },
+  {
+    "pk": 857634,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 15,
+    "text": "While they were talking and discussing, Jesus Himself approached and [began] traveling with them."
+  },
+  {
+    "pk": 857635,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 16,
+    "text": "But their eyes were prevented from recognizing Him."
+  },
+  {
+    "pk": 857636,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 17,
+    "text": "And He said to them, 'What are these words that you are exchanging with one another as you are walking?' And they stood still, looking sad."
+  },
+  {
+    "pk": 857637,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 18,
+    "text": "One [of them], named Cleopas, answered and said to Him, 'Are You the only one visiting Jerusalem and unaware of the things which have happened here in these days?'"
+  },
+  {
+    "pk": 857638,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 19,
+    "text": "And He said to them, 'What things?' And they said to Him, 'The things about Jesus the Nazarene, who was a prophet mighty in deed and word in the sight of God and all the people,"
+  },
+  {
+    "pk": 857639,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 20,
+    "text": "and how the chief priests and our rulers delivered Him to the sentence of death, and crucified Him."
+  },
+  {
+    "pk": 857640,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 21,
+    "text": "'But we were hoping that it was He who was going to redeem Israel. Indeed, besides all this, it is the third day since these things happened."
+  },
+  {
+    "pk": 857641,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 22,
+    "text": "'But also some women among us amazed us. When they were at the tomb early in the morning,"
+  },
+  {
+    "pk": 857642,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 23,
+    "text": "and did not find His body, they came, saying that they had also seen a vision of angels who said that He was alive."
+  },
+  {
+    "pk": 857643,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 24,
+    "text": "'Some of those who were with us went to the tomb and found it just exactly as the women also had said; but Him they did not see.'"
+  },
+  {
+    "pk": 857644,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 25,
+    "text": "And He said to them, 'O foolish men and slow of heart to believe in all that the prophets have spoken!"
+  },
+  {
+    "pk": 857645,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 26,
+    "text": "'Was it not necessary for the Christ to suffer these things and to enter into His glory?'"
+  },
+  {
+    "pk": 857646,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 27,
+    "text": "Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself in all the Scriptures."
+  },
+  {
+    "pk": 857647,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 28,
+    "text": "And they approached the village where they were going, and He acted as though He were going farther."
+  },
+  {
+    "pk": 857648,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 29,
+    "text": "But they urged Him, saying, 'Stay with us, for it is [getting] toward evening, and the day is now nearly over.' So He went in to stay with them."
+  },
+  {
+    "pk": 857649,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 30,
+    "text": "When He had reclined [at the table] with them, He took the bread and blessed [it], and breaking [it], He [began] giving [it] to them."
+  },
+  {
+    "pk": 857650,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 31,
+    "text": "Then their eyes were opened and they recognized Him; and He vanished from their sight."
+  },
+  {
+    "pk": 857651,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 32,
+    "text": "They said to one another, 'Were not our hearts burning within us while He was speaking to us on the road, while He was explaining the Scriptures to us?'"
+  },
+  {
+    "pk": 857652,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 33,
+    "text": "And they got up that very hour and returned to Jerusalem, and found gathered together the eleven and those who were with them,"
+  },
+  {
+    "pk": 857653,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 34,
+    "text": "saying, 'The Lord has really risen and has appeared to Simon.'"
+  },
+  {
+    "pk": 857654,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 35,
+    "text": "They [began] to relate their experiences on the road and how He was recognized by them in the breaking of the bread."
+  },
+  {
+    "pk": 857655,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 36,
+    "text": "While they were telling these things, He Himself stood in their midst and said to them, 'Peace be to you.'"
+  },
+  {
+    "pk": 857656,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 37,
+    "text": "But they were startled and frightened and thought that they were seeing a spirit."
+  },
+  {
+    "pk": 857657,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 38,
+    "text": "And He said to them, 'Why are you troubled, and why do doubts arise in your hearts?"
+  },
+  {
+    "pk": 857658,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 39,
+    "text": "'See My hands and My feet, that it is I Myself; touch Me and see, for a spirit does not have flesh and bones as you see that I have.'"
+  },
+  {
+    "pk": 857659,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 40,
+    "text": "And when He had said this, He showed them His hands and His feet."
+  },
+  {
+    "pk": 857660,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 41,
+    "text": "While they still could not believe [it] because of their joy and amazement, He said to them, 'Have you anything here to eat?'"
+  },
+  {
+    "pk": 857661,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 42,
+    "text": "They gave Him a piece of a broiled fish;"
+  },
+  {
+    "pk": 857662,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 43,
+    "text": "and He took it and ate [it] before them."
+  },
+  {
+    "pk": 857663,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 44,
+    "text": "Now He said to them, 'These are My words which I spoke to you while I was still with you, that all things which are written about Me in the Law of Moses and the Prophets and the Psalms must be fulfilled.'"
+  },
+  {
+    "pk": 857664,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 45,
+    "text": "Then He opened their minds to understand the Scriptures,"
+  },
+  {
+    "pk": 857665,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 46,
+    "text": "and He said to them, 'Thus it is written, that the Christ would suffer and rise again from the dead the third day,"
+  },
+  {
+    "pk": 857666,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 47,
+    "text": "and that repentance for forgiveness of sins would be proclaimed in His name to all the nations, beginning from Jerusalem."
+  },
+  {
+    "pk": 857667,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 48,
+    "text": "'You are witnesses of these things."
+  },
+  {
+    "pk": 857668,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 49,
+    "text": "'And behold, I am sending forth the promise of My Father upon you; but you are to stay in the city until you are clothed with power from on high.'"
+  },
+  {
+    "pk": 857669,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 50,
+    "text": "And He led them out as far as Bethany, and He lifted up His hands and blessed them."
+  },
+  {
+    "pk": 857670,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 51,
+    "text": "While He was blessing them, He parted from them and was carried up into heaven."
+  },
+  {
+    "pk": 857671,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 52,
+    "text": "And they, after worshiping Him, returned to Jerusalem with great joy,"
+  },
+  {
+    "pk": 857672,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 24,
+    "verse": 53,
+    "text": "and were continually in the temple praising God."
+  }
+];

@@ -1,0 +1,211 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/26/41"] = [
+  {
+    "pk": 853155,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 1,
+    "text": "Then he brought me to the nave and measured the side pillars; six cubits wide on each side [was] the width of the side pillar."
+  },
+  {
+    "pk": 853156,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 2,
+    "text": "The width of the entrance [was] ten cubits and the sides of the entrance [were] five cubits on each side. And he measured the length of the nave, forty cubits, and the width, twenty cubits."
+  },
+  {
+    "pk": 853157,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 3,
+    "text": "Then he went inside and measured each side pillar of the doorway, two cubits, and the doorway, six cubits [high]; and the width of the doorway, seven cubits."
+  },
+  {
+    "pk": 853158,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 4,
+    "text": "He measured its length, twenty cubits, and the width, twenty cubits, before the nave; and he said to me, 'This is the most holy [place].'"
+  },
+  {
+    "pk": 853159,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 5,
+    "text": "Then he measured the wall of the temple, six cubits; and the width of the side chambers, four cubits, all around about the house on every side."
+  },
+  {
+    "pk": 853160,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 6,
+    "text": "The side chambers were in three stories, one above another, and thirty in each story; and the side chambers extended to the wall which [stood] on their inward side all around, that they might be fastened, and not be fastened into the wall of the temple [itself]."
+  },
+  {
+    "pk": 853161,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 7,
+    "text": "The side chambers surrounding the temple were wider at each successive story. Because the structure surrounding the temple went upward by stages on all sides of the temple, therefore the width of the temple [increased] as it went higher; and thus one went up from the lowest [story] to the highest by way of the second [story]."
+  },
+  {
+    "pk": 853162,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 8,
+    "text": "I saw also that the house had a raised platform all around; the foundations of the side chambers were a full rod of six long cubits [in height]."
+  },
+  {
+    "pk": 853163,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 9,
+    "text": "The thickness of the outer wall of the side chambers [was] five cubits. But the free space between the side chambers belonging to the temple"
+  },
+  {
+    "pk": 853164,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 10,
+    "text": "and the [outer] chambers [was] twenty cubits in width all around the temple on every side."
+  },
+  {
+    "pk": 853165,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 11,
+    "text": "The doorways of the side chambers toward the free space [consisted of] one doorway toward the north and another doorway toward the south; and the width of the free space [was] five cubits all around."
+  },
+  {
+    "pk": 853166,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 12,
+    "text": "The building that [was] in front of the separate area at the side toward the west [was] seventy cubits wide; and the wall of the building [was] five cubits thick all around, and its length [was] ninety cubits."
+  },
+  {
+    "pk": 853167,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 13,
+    "text": "Then he measured the temple, a hundred cubits long; the separate area with the building and its walls [were] also a hundred cubits long."
+  },
+  {
+    "pk": 853168,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 14,
+    "text": "Also the width of the front of the temple and [that of] the separate areas along the east [side totaled] a hundred cubits."
+  },
+  {
+    "pk": 853169,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 15,
+    "text": "He measured the length of the building along the front of the separate area behind it, with a gallery on each side, a hundred cubits; [he] also [measured] the inner nave and the porches of the court."
+  },
+  {
+    "pk": 853170,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 16,
+    "text": "The thresholds, the latticed windows and the galleries round about their three stories, opposite the threshold, were paneled with wood all around, and [from] the ground to the windows (but the windows were covered),"
+  },
+  {
+    "pk": 853171,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 17,
+    "text": "over the entrance, and to the inner house, and on the outside, and on all the wall all around inside and outside, by measurement."
+  },
+  {
+    "pk": 853172,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 18,
+    "text": "It was carved with cherubim and palm trees; and a palm tree was between cherub and cherub, and every cherub had two faces,"
+  },
+  {
+    "pk": 853173,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 19,
+    "text": "a man's face toward the palm tree on one side and a young lion's face toward the palm tree on the other side; they were carved on all the house all around."
+  },
+  {
+    "pk": 853174,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 20,
+    "text": "From the ground to above the entrance cherubim and palm trees were carved, as well as [on] the wall of the nave."
+  },
+  {
+    "pk": 853175,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 21,
+    "text": "The doorposts of the nave were square; as for the front of the sanctuary, the appearance of one doorpost was like that of the other."
+  },
+  {
+    "pk": 853176,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 22,
+    "text": "The altar [was] of wood, three cubits high and its length two cubits; its corners, its base and its sides [were] of wood. And he said to me, 'This is the table that is before the LORD.'"
+  },
+  {
+    "pk": 853177,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 23,
+    "text": "The nave and the sanctuary each had a double door."
+  },
+  {
+    "pk": 853178,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 24,
+    "text": "Each of the doors had two leaves, two swinging leaves; two [leaves] for one door and two leaves for the other."
+  },
+  {
+    "pk": 853179,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 25,
+    "text": "Also there were carved on them, on the doors of the nave, cherubim and palm trees like those carved on the walls; and [there was] a threshold of wood on the front of the porch outside."
+  },
+  {
+    "pk": 853180,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 41,
+    "verse": 26,
+    "text": "[There were] latticed windows and palm trees on one side and on the other, on the sides of the porch; thus [were] the side chambers of the house and the thresholds."
+  }
+];

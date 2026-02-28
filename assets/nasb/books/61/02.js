@@ -1,0 +1,179 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/61/02"] = [
+  {
+    "pk": 862129,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 1,
+    "text": "But false prophets also arose among the people, just as there will also be false teachers among you, who will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves."
+  },
+  {
+    "pk": 862130,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 2,
+    "text": "Many will follow their sensuality, and because of them the way of the truth will be maligned;"
+  },
+  {
+    "pk": 862131,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 3,
+    "text": "and in [their] greed they will exploit you with false words; their judgment from long ago is not idle, and their destruction is not asleep."
+  },
+  {
+    "pk": 862132,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 4,
+    "text": "For if God did not spare angels when they sinned, but cast them into hell and committed them to pits of darkness, reserved for judgment;"
+  },
+  {
+    "pk": 862133,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 5,
+    "text": "and did not spare the ancient world, but preserved Noah, a preacher of righteousness, with seven others, when He brought a flood upon the world of the ungodly;"
+  },
+  {
+    "pk": 862134,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 6,
+    "text": "and [if] He condemned the cities of Sodom and Gomorrah to destruction by reducing [them] to ashes, having made them an example to those who would live ungodly [lives] thereafter;"
+  },
+  {
+    "pk": 862135,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 7,
+    "text": "and [if] He rescued righteous Lot, oppressed by the sensual conduct of unprincipled men"
+  },
+  {
+    "pk": 862136,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 8,
+    "text": "(for by what he saw and heard [that] righteous man, while living among them, felt [his] righteous soul tormented day after day by [their] lawless deeds),"
+  },
+  {
+    "pk": 862137,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 9,
+    "text": "[then] the Lord knows how to rescue the godly from temptation, and to keep the unrighteous under punishment for the day of judgment,"
+  },
+  {
+    "pk": 862138,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 10,
+    "text": "and especially those who indulge the flesh in [its] corrupt desires and despise authority. Daring, self-willed, they do not tremble when they revile angelic majesties,"
+  },
+  {
+    "pk": 862139,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 11,
+    "text": "whereas angels who are greater in might and power do not bring a reviling judgment against them before the Lord."
+  },
+  {
+    "pk": 862140,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 12,
+    "text": "But these, like unreasoning animals, born as creatures of instinct to be captured and killed, reviling where they have no knowledge, will in the destruction of those creatures also be destroyed,"
+  },
+  {
+    "pk": 862141,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 13,
+    "text": "suffering wrong as the wages of doing wrong. They count it a pleasure to revel in the daytime. They are stains and blemishes, reveling in their deceptions, as they carouse with you,"
+  },
+  {
+    "pk": 862142,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 14,
+    "text": "having eyes full of adultery that never cease from sin, enticing unstable souls, having a heart trained in greed, accursed children;"
+  },
+  {
+    "pk": 862143,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 15,
+    "text": "forsaking the right way, they have gone astray, having followed the way of Balaam, the [son] of Beor, who loved the wages of unrighteousness;"
+  },
+  {
+    "pk": 862144,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 16,
+    "text": "but he received a rebuke for his own transgression, [for] a mute donkey, speaking with a voice of a man, restrained the madness of the prophet."
+  },
+  {
+    "pk": 862145,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 17,
+    "text": "These are springs without water and mists driven by a storm, for whom the black darkness has been reserved."
+  },
+  {
+    "pk": 862146,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 18,
+    "text": "For speaking out arrogant [words] of vanity they entice by fleshly desires, by sensuality, those who barely escape from the ones who live in error,"
+  },
+  {
+    "pk": 862147,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 19,
+    "text": "promising them freedom while they themselves are slaves of corruption; for by what a man is overcome, by this he is enslaved."
+  },
+  {
+    "pk": 862148,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 20,
+    "text": "For if, after they have escaped the defilements of the world by the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first."
+  },
+  {
+    "pk": 862149,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 21,
+    "text": "For it would be better for them not to have known the way of righteousness, than having known it, to turn away from the holy commandment handed on to them."
+  },
+  {
+    "pk": 862150,
+    "translation": "NASB",
+    "book": 61,
+    "chapter": 2,
+    "verse": 22,
+    "text": "It has happened to them according to the true proverb, 'A DOG RETURNS TO ITS OWN VOMIT,' and, 'A sow, after washing, [returns] to wallowing in the mire.'"
+  }
+];

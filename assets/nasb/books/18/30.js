@@ -1,0 +1,251 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/30"] = [
+  {
+    "pk": 845186,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 1,
+    "text": "'But now those younger than I mock me, Whose fathers I disdained to put with the dogs of my flock."
+  },
+  {
+    "pk": 845187,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 2,
+    "text": "'Indeed, what [good was] the strength of their hands to me? Vigor had perished from them."
+  },
+  {
+    "pk": 845188,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 3,
+    "text": "'From want and famine they are gaunt Who gnaw the dry ground by night in waste and desolation,"
+  },
+  {
+    "pk": 845189,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 4,
+    "text": "Who pluck mallow by the bushes, And whose food is the root of the broom shrub."
+  },
+  {
+    "pk": 845190,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 5,
+    "text": "'They are driven from the community; They shout against them as [against] a thief,"
+  },
+  {
+    "pk": 845191,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 6,
+    "text": "So that they dwell in dreadful valleys, In holes of the earth and of the rocks."
+  },
+  {
+    "pk": 845192,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 7,
+    "text": "'Among the bushes they cry out; Under the nettles they are gathered together."
+  },
+  {
+    "pk": 845193,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 8,
+    "text": "'Fools, even those without a name, They were scourged from the land."
+  },
+  {
+    "pk": 845194,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 9,
+    "text": "'And now I have become their taunt, I have even become a byword to them."
+  },
+  {
+    "pk": 845195,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 10,
+    "text": "'They abhor me [and] stand aloof from me, And they do not refrain from spitting at my face."
+  },
+  {
+    "pk": 845196,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 11,
+    "text": "'Because He has loosed His bowstring and afflicted me, They have cast off the bridle before me."
+  },
+  {
+    "pk": 845197,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 12,
+    "text": "'On the right hand their brood arises; They thrust aside my feet and build up against me their ways of destruction."
+  },
+  {
+    "pk": 845198,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 13,
+    "text": "'They break up my path, They profit from my destruction; No one restrains them."
+  },
+  {
+    "pk": 845199,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 14,
+    "text": "'As [through] a wide breach they come, Amid the tempest they roll on."
+  },
+  {
+    "pk": 845200,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 15,
+    "text": "'Terrors are turned against me; They pursue my honor as the wind, And my prosperity has passed away like a cloud."
+  },
+  {
+    "pk": 845201,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 16,
+    "text": "'And now my soul is poured out within me; Days of affliction have seized me."
+  },
+  {
+    "pk": 845202,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 17,
+    "text": "'At night it pierces my bones within me, And my gnawing [pains] take no rest."
+  },
+  {
+    "pk": 845203,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 18,
+    "text": "'By a great force my garment is distorted; It binds me about as the collar of my coat."
+  },
+  {
+    "pk": 845204,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 19,
+    "text": "'He has cast me into the mire, And I have become like dust and ashes."
+  },
+  {
+    "pk": 845205,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 20,
+    "text": "'I cry out to You for help, but You do not answer me; I stand up, and You turn Your attention against me."
+  },
+  {
+    "pk": 845206,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 21,
+    "text": "'You have become cruel to me; With the might of Your hand You persecute me."
+  },
+  {
+    "pk": 845207,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 22,
+    "text": "'You lift me up to the wind [and] cause me to ride; And You dissolve me in a storm."
+  },
+  {
+    "pk": 845208,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 23,
+    "text": "'For I know that You will bring me to death And to the house of meeting for all living."
+  },
+  {
+    "pk": 845209,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 24,
+    "text": "'Yet does not one in a heap of ruins stretch out [his] hand, Or in his disaster therefore cry out for help?"
+  },
+  {
+    "pk": 845210,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 25,
+    "text": "'Have I not wept for the one whose life is hard? Was not my soul grieved for the needy?"
+  },
+  {
+    "pk": 845211,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 26,
+    "text": "'When I expected good, then evil came; When I waited for light, then darkness came."
+  },
+  {
+    "pk": 845212,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 27,
+    "text": "'I am seething within and cannot relax; Days of affliction confront me."
+  },
+  {
+    "pk": 845213,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 28,
+    "text": "'I go about mourning without comfort; I stand up in the assembly [and] cry out for help."
+  },
+  {
+    "pk": 845214,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 29,
+    "text": "'I have become a brother to jackals And a companion of ostriches."
+  },
+  {
+    "pk": 845215,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 30,
+    "text": "'My skin turns black on me, And my bones burn with fever."
+  },
+  {
+    "pk": 845216,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 30,
+    "verse": 31,
+    "text": "'Therefore my harp is turned to mourning, And my flute to the sound of those who weep."
+  }
+];

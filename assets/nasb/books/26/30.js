@@ -1,0 +1,211 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/26/30"] = [
+  {
+    "pk": 852833,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 1,
+    "text": "The word of the LORD came again to me saying,"
+  },
+  {
+    "pk": 852834,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 2,
+    "text": "'Son of man, prophesy and say, 'Thus says the Lord GOD, 'Wail, 'Alas for the day!'"
+  },
+  {
+    "pk": 852835,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 3,
+    "text": "'For the day is near, Even the day of the LORD is near; It will be a day of clouds, A time [of doom] for the nations."
+  },
+  {
+    "pk": 852836,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 4,
+    "text": "'A sword will come upon Egypt, And anguish will be in Ethiopia; When the slain fall in Egypt, They take away her wealth, And her foundations are torn down."
+  },
+  {
+    "pk": 852837,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 5,
+    "text": "'Ethiopia, Put, Lud, all Arabia, Libya and the people of the land that is in league will fall with them by the sword.'"
+  },
+  {
+    "pk": 852838,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 6,
+    "text": "'Thus says the LORD, 'Indeed, those who support Egypt will fall And the pride of her power will come down; From Migdol [to] Syene They will fall within her by the sword,' Declares the Lord GOD."
+  },
+  {
+    "pk": 852839,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 7,
+    "text": "'They will be desolate In the midst of the desolated lands; And her cities will be In the midst of the devastated cities."
+  },
+  {
+    "pk": 852840,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 8,
+    "text": "'And they will know that I am the LORD, When I set a fire in Egypt And all her helpers are broken."
+  },
+  {
+    "pk": 852841,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 9,
+    "text": "'On that day messengers will go forth from Me in ships to frighten secure Ethiopia; and anguish will be on them as on the day of Egypt; for behold, it comes!'"
+  },
+  {
+    "pk": 852842,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 10,
+    "text": "'Thus says the Lord GOD, 'I will also make the hordes of Egypt cease By the hand of Nebuchadnezzar king of Babylon."
+  },
+  {
+    "pk": 852843,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 11,
+    "text": "'He and his people with him, The most ruthless of the nations, Will be brought in to destroy the land; And they will draw their swords against Egypt And fill the land with the slain."
+  },
+  {
+    "pk": 852844,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 12,
+    "text": "'Moreover, I will make the Nile canals dry And sell the land into the hands of evil men. And I will make the land desolate And all that is in it, By the hand of strangers; I the LORD have spoken.'"
+  },
+  {
+    "pk": 852845,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 13,
+    "text": "'Thus says the Lord GOD, 'I will also destroy the idols And make the images cease from Memphis. And there will no longer be a prince in the land of Egypt; And I will put fear in the land of Egypt."
+  },
+  {
+    "pk": 852846,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 14,
+    "text": "'I will make Pathros desolate, Set a fire in Zoan And execute judgments on Thebes."
+  },
+  {
+    "pk": 852847,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 15,
+    "text": "'I will pour out My wrath on Sin, The stronghold of Egypt; I will also cut off the hordes of Thebes."
+  },
+  {
+    "pk": 852848,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 16,
+    "text": "'I will set a fire in Egypt; Sin will writhe in anguish, Thebes will be breached And Memphis [will have] distresses daily."
+  },
+  {
+    "pk": 852849,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 17,
+    "text": "'The young men of On and of Pi-beseth Will fall by the sword, And the women will go into captivity."
+  },
+  {
+    "pk": 852850,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 18,
+    "text": "'In Tehaphnehes the day will be dark When I break there the yoke bars of Egypt. Then the pride of her power will cease in her; A cloud will cover her, And her daughters will go into captivity."
+  },
+  {
+    "pk": 852851,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 19,
+    "text": "'Thus I will execute judgments on Egypt, And they will know that I am the LORD.'''"
+  },
+  {
+    "pk": 852852,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 20,
+    "text": "In the eleventh year, in the first [month], on the seventh of the month, the word of the LORD came to me saying,"
+  },
+  {
+    "pk": 852853,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 21,
+    "text": "'Son of man, I have broken the arm of Pharaoh king of Egypt; and, behold, it has not been bound up for healing or wrapped with a bandage, that it may be strong to hold the sword."
+  },
+  {
+    "pk": 852854,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 22,
+    "text": "'Therefore thus says the Lord GOD, 'Behold, I am against Pharaoh king of Egypt and will break his arms, both the strong and the broken; and I will make the sword fall from his hand."
+  },
+  {
+    "pk": 852855,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 23,
+    "text": "'I will scatter the Egyptians among the nations and disperse them among the lands."
+  },
+  {
+    "pk": 852856,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 24,
+    "text": "'For I will strengthen the arms of the king of Babylon and put My sword in his hand; and I will break the arms of Pharaoh, so that he will groan before him with the groanings of a wounded man."
+  },
+  {
+    "pk": 852857,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 25,
+    "text": "'Thus I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall. Then they will know that I am the LORD, when I put My sword into the hand of the king of Babylon and he stretches it out against the land of Egypt."
+  },
+  {
+    "pk": 852858,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 30,
+    "verse": 26,
+    "text": "'When I scatter the Egyptians among the nations and disperse them among the lands, then they will know that I am the LORD.''"
+  }
+];

@@ -1,0 +1,139 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/03/01"] = [
+  {
+    "pk": 834374,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Then the LORD called to Moses and spoke to him from the tent of meeting, saying,"
+  },
+  {
+    "pk": 834375,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 2,
+    "text": "'Speak to the sons of Israel and say to them, 'When any man of you brings an offering to the LORD, you shall bring your offering of animals from the herd or the flock."
+  },
+  {
+    "pk": 834376,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 3,
+    "text": "'If his offering is a burnt offering from the herd, he shall offer it, a male without defect; he shall offer it at the doorway of the tent of meeting, that he may be accepted before the LORD."
+  },
+  {
+    "pk": 834377,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 4,
+    "text": "'He shall lay his hand on the head of the burnt offering, that it may be accepted for him to make atonement on his behalf."
+  },
+  {
+    "pk": 834378,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 5,
+    "text": "'He shall slay the young bull before the LORD; and Aaron's sons the priests shall offer up the blood and sprinkle the blood around on the altar that is at the doorway of the tent of meeting."
+  },
+  {
+    "pk": 834379,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 6,
+    "text": "'He shall then skin the burnt offering and cut it into its pieces."
+  },
+  {
+    "pk": 834380,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 7,
+    "text": "'The sons of Aaron the priest shall put fire on the altar and arrange wood on the fire."
+  },
+  {
+    "pk": 834381,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 8,
+    "text": "'Then Aaron's sons the priests shall arrange the pieces, the head and the suet over the wood which is on the fire that is on the altar."
+  },
+  {
+    "pk": 834382,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 9,
+    "text": "'Its entrails, however, and its legs he shall wash with water. And the priest shall offer up in smoke all of it on the altar for a burnt offering, an offering by fire of a soothing aroma to the LORD."
+  },
+  {
+    "pk": 834383,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 10,
+    "text": "'But if his offering is from the flock, of the sheep or of the goats, for a burnt offering, he shall offer it a male without defect."
+  },
+  {
+    "pk": 834384,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 11,
+    "text": "'He shall slay it on the side of the altar northward before the LORD, and Aaron's sons the priests shall sprinkle its blood around on the altar."
+  },
+  {
+    "pk": 834385,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 12,
+    "text": "'He shall then cut it into its pieces with its head and its suet, and the priest shall arrange them on the wood which is on the fire that is on the altar."
+  },
+  {
+    "pk": 834386,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 13,
+    "text": "'The entrails, however, and the legs he shall wash with water. And the priest shall offer all of it, and offer it up in smoke on the altar; it is a burnt offering, an offering by fire of a soothing aroma to the LORD."
+  },
+  {
+    "pk": 834387,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 14,
+    "text": "'But if his offering to the LORD is a burnt offering of birds, then he shall bring his offering from the turtledoves or from young pigeons."
+  },
+  {
+    "pk": 834388,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 15,
+    "text": "'The priest shall bring it to the altar, and wring off its head and offer it up in smoke on the altar; and its blood is to be drained out on the side of the altar."
+  },
+  {
+    "pk": 834389,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 16,
+    "text": "'He shall also take away its crop with its feathers and cast it beside the altar eastward, to the place of the ashes."
+  },
+  {
+    "pk": 834390,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 1,
+    "verse": 17,
+    "text": "'Then he shall tear it by its wings, [but] shall not sever [it]. And the priest shall offer it up in smoke on the altar on the wood which is on the fire; it is a burnt offering, an offering by fire of a soothing aroma to the LORD."
+  }
+];

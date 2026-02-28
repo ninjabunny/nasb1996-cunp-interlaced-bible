@@ -1,0 +1,243 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/22"] = [
+  {
+    "pk": 851083,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 1,
+    "text": "Thus says the LORD, 'Go down to the house of the king of Judah, and there speak this word"
+  },
+  {
+    "pk": 851084,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 2,
+    "text": "and say, 'Hear the word of the LORD, O king of Judah, who sits on David's throne, you and your servants and your people who enter these gates."
+  },
+  {
+    "pk": 851085,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 3,
+    "text": "'Thus says the LORD, 'Do justice and righteousness, and deliver the one who has been robbed from the power of [his] oppressor. Also do not mistreat [or] do violence to the stranger, the orphan, or the widow; and do not shed innocent blood in this place."
+  },
+  {
+    "pk": 851086,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 4,
+    "text": "'For if you men will indeed perform this thing, then kings will enter the gates of this house, sitting in David's place on his throne, riding in chariots and on horses, [even the king] himself and his servants and his people."
+  },
+  {
+    "pk": 851087,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 5,
+    "text": "'But if you will not obey these words, I swear by Myself,' declares the LORD, 'that this house will become a desolation.'''"
+  },
+  {
+    "pk": 851088,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 6,
+    "text": "For thus says the LORD concerning the house of the king of Judah: 'You are [like] Gilead to Me, [Like] the summit of Lebanon; Yet most assuredly I will make you like a wilderness, [Like] cities which are not inhabited."
+  },
+  {
+    "pk": 851089,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 7,
+    "text": "'For I will set apart destroyers against you, Each with his weapons; And they will cut down your choicest cedars And throw [them] on the fire."
+  },
+  {
+    "pk": 851090,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 8,
+    "text": "'Many nations will pass by this city; and they will say to one another, 'Why has the LORD done thus to this great city?'"
+  },
+  {
+    "pk": 851091,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 9,
+    "text": "'Then they will answer, 'Because they forsook the covenant of the LORD their God and bowed down to other gods and served them.''"
+  },
+  {
+    "pk": 851092,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 10,
+    "text": "Do not weep for the dead or mourn for him, [But] weep continually for the one who goes away; For he will never return Or see his native land."
+  },
+  {
+    "pk": 851093,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 11,
+    "text": "For thus says the LORD in regard to Shallum the son of Josiah, king of Judah, who became king in the place of Josiah his father, who went forth from this place, 'He will never return there;"
+  },
+  {
+    "pk": 851094,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 12,
+    "text": "but in the place where they led him captive, there he will die and not see this land again."
+  },
+  {
+    "pk": 851095,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 13,
+    "text": "'Woe to him who builds his house without righteousness And his upper rooms without justice, Who uses his neighbor's services without pay And does not give him his wages,"
+  },
+  {
+    "pk": 851096,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 14,
+    "text": "Who says, 'I will build myself a roomy house With spacious upper rooms, And cut out its windows, Paneling [it] with cedar and painting [it] bright red.'"
+  },
+  {
+    "pk": 851097,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 15,
+    "text": "'Do you become a king because you are competing in cedar? Did not your father eat and drink And do justice and righteousness? Then it was well with him."
+  },
+  {
+    "pk": 851098,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 16,
+    "text": "'He pled the cause of the afflicted and needy; Then it was well. Is not that what it means to know Me?' Declares the LORD."
+  },
+  {
+    "pk": 851099,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 17,
+    "text": "'But your eyes and your heart Are [intent] only upon your own dishonest gain, And on shedding innocent blood And on practicing oppression and extortion.'"
+  },
+  {
+    "pk": 851100,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 18,
+    "text": "Therefore thus says the LORD in regard to Jehoiakim the son of Josiah, king of Judah, 'They will not lament for him: 'Alas, my brother!' or, 'Alas, sister!' They will not lament for him: 'Alas for the master!' or, 'Alas for his splendor!'"
+  },
+  {
+    "pk": 851101,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 19,
+    "text": "'He will be buried with a donkey's burial, Dragged off and thrown out beyond the gates of Jerusalem."
+  },
+  {
+    "pk": 851102,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 20,
+    "text": "'Go up to Lebanon and cry out, And lift up your voice in Bashan; Cry out also from Abarim, For all your lovers have been crushed."
+  },
+  {
+    "pk": 851103,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 21,
+    "text": "'I spoke to you in your prosperity; But you said, 'I will not listen!' This has been your practice from your youth, That you have not obeyed My voice."
+  },
+  {
+    "pk": 851104,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 22,
+    "text": "'The wind will sweep away all your shepherds, And your lovers will go into captivity; Then you will surely be ashamed and humiliated Because of all your wickedness."
+  },
+  {
+    "pk": 851105,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 23,
+    "text": "'You who dwell in Lebanon, Nested in the cedars, How you will groan when pangs come upon you, Pain like a woman in childbirth!"
+  },
+  {
+    "pk": 851106,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 24,
+    "text": "'As I live,' declares the LORD, 'even though Coniah the son of Jehoiakim king of Judah were a signet [ring] on My right hand, yet I would pull you off;"
+  },
+  {
+    "pk": 851107,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 25,
+    "text": "and I will give you over into the hand of those who are seeking your life, yes, into the hand of those whom you dread, even into the hand of Nebuchadnezzar king of Babylon and into the hand of the Chaldeans."
+  },
+  {
+    "pk": 851108,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 26,
+    "text": "'I will hurl you and your mother who bore you into another country where you were not born, and there you will die."
+  },
+  {
+    "pk": 851109,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 27,
+    "text": "'But as for the land to which they desire to return, they will not return to it."
+  },
+  {
+    "pk": 851110,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 28,
+    "text": "'Is this man Coniah a despised, shattered jar? Or is he an undesirable vessel? Why have he and his descendants been hurled out And cast into a land that they had not known?"
+  },
+  {
+    "pk": 851111,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 29,
+    "text": "'O land, land, land, Hear the word of the LORD!"
+  },
+  {
+    "pk": 851112,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 22,
+    "verse": 30,
+    "text": "'Thus says the LORD, 'Write this man down childless, A man who will not prosper in his days; For no man of his descendants will prosper Sitting on the throne of David Or ruling again in Judah.''"
+  }
+];

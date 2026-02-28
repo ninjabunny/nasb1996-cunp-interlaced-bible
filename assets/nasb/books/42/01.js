@@ -1,0 +1,643 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/42/01"] = [
+  {
+    "pk": 856522,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Inasmuch as many have undertaken to compile an account of the things accomplished among us,"
+  },
+  {
+    "pk": 856523,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 2,
+    "text": "just as they were handed down to us by those who from the beginning were eyewitnesses and servants of the word,"
+  },
+  {
+    "pk": 856524,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 3,
+    "text": "it seemed fitting for me as well, having investigated everything carefully from the beginning, to write [it] out for you in consecutive order, most excellent Theophilus;"
+  },
+  {
+    "pk": 856525,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 4,
+    "text": "so that you may know the exact truth about the things you have been taught."
+  },
+  {
+    "pk": 856526,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 5,
+    "text": "In the days of Herod, king of Judea, there was a priest named Zacharias, of the division of Abijah; and he had a wife from the daughters of Aaron, and her name was Elizabeth."
+  },
+  {
+    "pk": 856527,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 6,
+    "text": "They were both righteous in the sight of God, walking blamelessly in all the commandments and requirements of the Lord."
+  },
+  {
+    "pk": 856528,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 7,
+    "text": "But they had no child, because Elizabeth was barren, and they were both advanced in years."
+  },
+  {
+    "pk": 856529,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Now it happened [that] while he was performing his priestly service before God in the [appointed] order of his division,"
+  },
+  {
+    "pk": 856530,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 9,
+    "text": "according to the custom of the priestly office, he was chosen by lot to enter the temple of the Lord and burn incense."
+  },
+  {
+    "pk": 856531,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And the whole multitude of the people were in prayer outside at the hour of the incense offering."
+  },
+  {
+    "pk": 856532,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 11,
+    "text": "And an angel of the Lord appeared to him, standing to the right of the altar of incense."
+  },
+  {
+    "pk": 856533,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 12,
+    "text": "Zacharias was troubled when he saw [the angel], and fear gripped him."
+  },
+  {
+    "pk": 856534,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 13,
+    "text": "But the angel said to him, 'Do not be afraid, Zacharias, for your petition has been heard, and your wife Elizabeth will bear you a son, and you will give him the name John."
+  },
+  {
+    "pk": 856535,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 14,
+    "text": "'You will have joy and gladness, and many will rejoice at his birth."
+  },
+  {
+    "pk": 856536,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 15,
+    "text": "'For he will be great in the sight of the Lord; and he will drink no wine or liquor, and he will be filled with the Holy Spirit while yet in his mother's womb."
+  },
+  {
+    "pk": 856537,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 16,
+    "text": "'And he will turn many of the sons of Israel back to the Lord their God."
+  },
+  {
+    "pk": 856538,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 17,
+    "text": "'It is he who will go [as a forerunner] before Him in the spirit and power of Elijah, TO TURN THE HEARTS OF THE FATHERS BACK TO THE CHILDREN, and the disobedient to the attitude of the righteous, so as to make ready a people prepared for the Lord.'"
+  },
+  {
+    "pk": 856539,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 18,
+    "text": "Zacharias said to the angel, 'How will I know this [for certain]? For I am an old man and my wife is advanced in years.'"
+  },
+  {
+    "pk": 856540,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 19,
+    "text": "The angel answered and said to him, 'I am Gabriel, who stands in the presence of God, and I have been sent to speak to you and to bring you this good news."
+  },
+  {
+    "pk": 856541,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 20,
+    "text": "'And behold, you shall be silent and unable to speak until the day when these things take place, because you did not believe my words, which will be fulfilled in their proper time.'"
+  },
+  {
+    "pk": 856542,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 21,
+    "text": "The people were waiting for Zacharias, and were wondering at his delay in the temple."
+  },
+  {
+    "pk": 856543,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 22,
+    "text": "But when he came out, he was unable to speak to them; and they realized that he had seen a vision in the temple; and he kept making signs to them, and remained mute."
+  },
+  {
+    "pk": 856544,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 23,
+    "text": "When the days of his priestly service were ended, he went back home."
+  },
+  {
+    "pk": 856545,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 24,
+    "text": "After these days Elizabeth his wife became pregnant, and she kept herself in seclusion for five months, saying,"
+  },
+  {
+    "pk": 856546,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 25,
+    "text": "'This is the way the Lord has dealt with me in the days when He looked [with favor] upon [me], to take away my disgrace among men.'"
+  },
+  {
+    "pk": 856547,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 26,
+    "text": "Now in the sixth month the angel Gabriel was sent from God to a city in Galilee called Nazareth,"
+  },
+  {
+    "pk": 856548,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 27,
+    "text": "to a virgin engaged to a man whose name was Joseph, of the descendants of David; and the virgin's name was Mary."
+  },
+  {
+    "pk": 856549,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 28,
+    "text": "And coming in, he said to her, 'Greetings, favored one! The Lord [is] with you.'"
+  },
+  {
+    "pk": 856550,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 29,
+    "text": "But she was very perplexed at [this] statement, and kept pondering what kind of salutation this was."
+  },
+  {
+    "pk": 856551,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 30,
+    "text": "The angel said to her, 'Do not be afraid, Mary; for you have found favor with God."
+  },
+  {
+    "pk": 856552,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 31,
+    "text": "'And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus."
+  },
+  {
+    "pk": 856553,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 32,
+    "text": "'He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David;"
+  },
+  {
+    "pk": 856554,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 33,
+    "text": "and He will reign over the house of Jacob forever, and His kingdom will have no end.'"
+  },
+  {
+    "pk": 856555,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 34,
+    "text": "Mary said to the angel, 'How can this be, since I am a virgin?'"
+  },
+  {
+    "pk": 856556,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 35,
+    "text": "The angel answered and said to her, 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you; and for that reason the holy Child shall be called the Son of God."
+  },
+  {
+    "pk": 856557,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 36,
+    "text": "'And behold, even your relative Elizabeth has also conceived a son in her old age; and she who was called barren is now in her sixth month."
+  },
+  {
+    "pk": 856558,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 37,
+    "text": "'For nothing will be impossible with God.'"
+  },
+  {
+    "pk": 856559,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 38,
+    "text": "And Mary said, 'Behold, the bondslave of the Lord; may it be done to me according to your word.' And the angel departed from her."
+  },
+  {
+    "pk": 856560,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 39,
+    "text": "Now at this time Mary arose and went in a hurry to the hill country, to a city of Judah,"
+  },
+  {
+    "pk": 856561,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 40,
+    "text": "and entered the house of Zacharias and greeted Elizabeth."
+  },
+  {
+    "pk": 856562,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 41,
+    "text": "When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit."
+  },
+  {
+    "pk": 856563,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 42,
+    "text": "And she cried out with a loud voice and said, 'Blessed [are] you among women, and blessed [is] the fruit of your womb!"
+  },
+  {
+    "pk": 856564,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 43,
+    "text": "'And how has it [happened] to me, that the mother of my Lord would come to me?"
+  },
+  {
+    "pk": 856565,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 44,
+    "text": "'For behold, when the sound of your greeting reached my ears, the baby leaped in my womb for joy."
+  },
+  {
+    "pk": 856566,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 45,
+    "text": "'And blessed [is] she who believed that there would be a fulfillment of what had been spoken to her by the Lord.'"
+  },
+  {
+    "pk": 856567,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 46,
+    "text": "And Mary said: 'My soul exalts the Lord,"
+  },
+  {
+    "pk": 856568,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 47,
+    "text": "And my spirit has rejoiced in God my Savior."
+  },
+  {
+    "pk": 856569,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 48,
+    "text": "'For He has had regard for the humble state of His bondslave; For behold, from this time on all generations will count me blessed."
+  },
+  {
+    "pk": 856570,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 49,
+    "text": "'For the Mighty One has done great things for me; And holy is His name."
+  },
+  {
+    "pk": 856571,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 50,
+    "text": "'AND HIS MERCY IS UPON GENERATION AFTER GENERATION TOWARD THOSE WHO FEAR HIM."
+  },
+  {
+    "pk": 856572,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 51,
+    "text": "'He has done mighty deeds with His arm; He has scattered [those who were] proud in the thoughts of their heart."
+  },
+  {
+    "pk": 856573,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 52,
+    "text": "'He has brought down rulers from [their] thrones, And has exalted those who were humble."
+  },
+  {
+    "pk": 856574,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 53,
+    "text": "'HE HAS FILLED THE HUNGRY WITH GOOD THINGS; And sent away the rich empty-handed."
+  },
+  {
+    "pk": 856575,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 54,
+    "text": "'He has given help to Israel His servant, In remembrance of His mercy,"
+  },
+  {
+    "pk": 856576,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 55,
+    "text": "As He spoke to our fathers, To Abraham and his descendants forever.'"
+  },
+  {
+    "pk": 856577,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 56,
+    "text": "And Mary stayed with her about three months, and [then] returned to her home."
+  },
+  {
+    "pk": 856578,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 57,
+    "text": "Now the time had come for Elizabeth to give birth, and she gave birth to a son."
+  },
+  {
+    "pk": 856579,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 58,
+    "text": "Her neighbors and her relatives heard that the Lord had displayed His great mercy toward her; and they were rejoicing with her."
+  },
+  {
+    "pk": 856580,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 59,
+    "text": "And it happened that on the eighth day they came to circumcise the child, and they were going to call him Zacharias, after his father."
+  },
+  {
+    "pk": 856581,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 60,
+    "text": "But his mother answered and said, 'No indeed; but he shall be called John.'"
+  },
+  {
+    "pk": 856582,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 61,
+    "text": "And they said to her, 'There is no one among your relatives who is called by that name.'"
+  },
+  {
+    "pk": 856583,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 62,
+    "text": "And they made signs to his father, as to what he wanted him called."
+  },
+  {
+    "pk": 856584,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 63,
+    "text": "And he asked for a tablet and wrote as follows, 'His name is John.' And they were all astonished."
+  },
+  {
+    "pk": 856585,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 64,
+    "text": "And at once his mouth was opened and his tongue [loosed], and he [began] to speak in praise of God."
+  },
+  {
+    "pk": 856586,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 65,
+    "text": "Fear came on all those living around them; and all these matters were being talked about in all the hill country of Judea."
+  },
+  {
+    "pk": 856587,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 66,
+    "text": "All who heard them kept them in mind, saying, 'What then will this child [turn out to] be?' For the hand of the Lord was certainly with him."
+  },
+  {
+    "pk": 856588,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 67,
+    "text": "And his father Zacharias was filled with the Holy Spirit, and prophesied, saying:"
+  },
+  {
+    "pk": 856589,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 68,
+    "text": "'Blessed [be] the Lord God of Israel, For He has visited us and accomplished redemption for His people,"
+  },
+  {
+    "pk": 856590,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 69,
+    "text": "And has raised up a horn of salvation for us In the house of David His servant--"
+  },
+  {
+    "pk": 856591,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 70,
+    "text": "As He spoke by the mouth of His holy prophets from of old--"
+  },
+  {
+    "pk": 856592,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 71,
+    "text": "Salvation FROM OUR ENEMIES, And FROM THE HAND OF ALL WHO HATE US;"
+  },
+  {
+    "pk": 856593,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 72,
+    "text": "To show mercy toward our fathers, And to remember His holy covenant,"
+  },
+  {
+    "pk": 856594,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 73,
+    "text": "The oath which He swore to Abraham our father,"
+  },
+  {
+    "pk": 856595,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 74,
+    "text": "To grant us that we, being rescued from the hand of our enemies, Might serve Him without fear,"
+  },
+  {
+    "pk": 856596,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 75,
+    "text": "In holiness and righteousness before Him all our days."
+  },
+  {
+    "pk": 856597,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 76,
+    "text": "'And you, child, will be called the prophet of the Most High; For you will go on BEFORE THE LORD TO PREPARE HIS WAYS;"
+  },
+  {
+    "pk": 856598,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 77,
+    "text": "To give to His people [the] knowledge of salvation By the forgiveness of their sins,"
+  },
+  {
+    "pk": 856599,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 78,
+    "text": "Because of the tender mercy of our God, With which the Sunrise from on high will visit us,"
+  },
+  {
+    "pk": 856600,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 79,
+    "text": "TO SHINE UPON THOSE WHO SIT IN DARKNESS AND THE SHADOW OF DEATH, To guide our feet into the way of peace.'"
+  },
+  {
+    "pk": 856601,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 1,
+    "verse": 80,
+    "text": "And the child continued to grow and to become strong in spirit, and he lived in the deserts until the day of his public appearance to Israel."
+  }
+];

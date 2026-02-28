@@ -1,0 +1,211 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/09"] = [
+  {
+    "pk": 850804,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 1,
+    "text": "Oh that my head were waeyrs And my eyes a fountain of tears, That I might weep day and night For the slain of the daughter of my people!"
+  },
+  {
+    "pk": 850805,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 2,
+    "text": "Oh that I had in the desert A wayfarers' lodging place; That I might leave my people And go from them! For all of them are adulterers, An assembly of treacherous men."
+  },
+  {
+    "pk": 850806,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 3,
+    "text": "'They bend their tongue [like] their bow; Lies and not truth prevail in the land; For they proceed from evil to evil, And they do not know Me,' declares the LORD."
+  },
+  {
+    "pk": 850807,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 4,
+    "text": "'Let everyone be on guard against his neighbor, And do not trust any brother; Because every brother deals craftily, And every neighbor goes about as a slanderer."
+  },
+  {
+    "pk": 850808,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 5,
+    "text": "'Everyone deceives his neighbor And does not speak the truth, They have taught their tongue to speak lies; They weary themselves committing iniquity."
+  },
+  {
+    "pk": 850809,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 6,
+    "text": "'Your dwelling is in the midst of deceit; Through deceit they refuse to know Me,' declares the LORD."
+  },
+  {
+    "pk": 850810,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 7,
+    "text": "Therefore thus says the LORD of hosts, 'Behold, I will refine them and assay them; For what [else] can I do, because of the daughter of My people?"
+  },
+  {
+    "pk": 850811,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 8,
+    "text": "'Their tongue is a deadly arrow; It speaks deceit; With his mouth one speaks peace to his neighbor, But inwardly he sets an ambush for him."
+  },
+  {
+    "pk": 850812,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 9,
+    "text": "'Shall I not punish them for these things?' declares the LORD. 'On a nation such as this Shall I not avenge Myself?"
+  },
+  {
+    "pk": 850813,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 10,
+    "text": "'For the mountains I will take up a weeping and wailing, And for the pastures of the wilderness a dirge, Because they are laid waste so that no one passes through, And the lowing of the cattle is not heard; Both the birds of the sky and the beasts have fled; they are gone."
+  },
+  {
+    "pk": 850814,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 11,
+    "text": "'I will make Jerusalem a heap of ruins, A haunt of jackals; And I will make the cities of Judah a desolation, without inhabitant.'"
+  },
+  {
+    "pk": 850815,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 12,
+    "text": "Who is the wise man that may understand this? And [who is] he to whom the mouth of the LORD has spoken, that he may declare it? Why is the land ruined, laid waste like a desert, so that no one passes through?"
+  },
+  {
+    "pk": 850816,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 13,
+    "text": "The LORD said, 'Because they have forsaken My law which I set before them, and have not obeyed My voice nor walked according to it,"
+  },
+  {
+    "pk": 850817,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 14,
+    "text": "but have walked after the stubbornness of their heart and after the Baals, as their fathers taught them,'"
+  },
+  {
+    "pk": 850818,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 15,
+    "text": "therefore thus says the LORD of hosts, the God of Israel, 'behold, I will feed them, this people, with wormwood and give them poisoned water to drink."
+  },
+  {
+    "pk": 850819,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 16,
+    "text": "'I will scatter them among the nations, whom neither they nor their fathers have known; and I will send the sword after them until I have annihilated them.'"
+  },
+  {
+    "pk": 850820,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 17,
+    "text": "Thus says the LORD of hosts, 'Consider and call for the mourning women, that they may come; And send for the wailing women, that they may come!"
+  },
+  {
+    "pk": 850821,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 18,
+    "text": "'Let them make haste and take up a wailing for us, That our eyes may shed tears And our eyelids flow with water."
+  },
+  {
+    "pk": 850822,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 19,
+    "text": "'For a voice of wailing is heard from Zion, 'How are we ruined! We are put to great shame, For we have left the land, Because they have cast down our dwellings.''"
+  },
+  {
+    "pk": 850823,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 20,
+    "text": "Now hear the word of the LORD, O you women, And let your ear receive the word of His mouth; Teach your daughters wailing, And everyone her neighbor a dirge."
+  },
+  {
+    "pk": 850824,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 21,
+    "text": "For death has come up through our windows; It has entered our palaces To cut off the children from the streets, The young men from the town squares."
+  },
+  {
+    "pk": 850825,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 22,
+    "text": "Speak, 'Thus says the LORD, 'The corpses of men will fall like dung on the open field, And like the sheaf after the reaper, But no one will gather [them].''"
+  },
+  {
+    "pk": 850826,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 23,
+    "text": "Thus says the LORD, 'Let not a wise man boast of his wisdom, and let not the mighty man boast of his might, let not a rich man boast of his riches;"
+  },
+  {
+    "pk": 850827,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 24,
+    "text": "but let him who boasts boast of this, that he understands and knows Me, that I am the LORD who exercises lovingkindness, justice and righteousness on earth; for I delight in these things,' declares the LORD."
+  },
+  {
+    "pk": 850828,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 25,
+    "text": "'Behold, the days are coming,' declares the LORD, 'that I will punish all who are circumcised and yet uncircumcised--"
+  },
+  {
+    "pk": 850829,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 9,
+    "verse": 26,
+    "text": "Egypt and Judah, and Edom and the sons of Ammon, and Moab and all those inhabiting the desert who clip the hair on their temples; for all the nations are uncircumcised, and all the house of Israel are uncircumcised of heart.'"
+  }
+];

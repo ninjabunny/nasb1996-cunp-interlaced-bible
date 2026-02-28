@@ -1,0 +1,107 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/21"] = [
+  {
+    "pk": 845820,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 1,
+    "text": "For the choir director. A Psalm of David. O LORD, in Your strength the king will be glad, And in Your salvation how greatly he will rejoice!"
+  },
+  {
+    "pk": 845821,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 2,
+    "text": "You have given him his heart's desire, And You have not withheld the request of his lips. Selah."
+  },
+  {
+    "pk": 845822,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 3,
+    "text": "For You meet him with the blessings of good things; You set a crown of fine gold on his head."
+  },
+  {
+    "pk": 845823,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 4,
+    "text": "He asked life of You, You gave it to him, Length of days forever and ever."
+  },
+  {
+    "pk": 845824,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 5,
+    "text": "His glory is great through Your salvation, Splendor and majesty You place upon him."
+  },
+  {
+    "pk": 845825,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 6,
+    "text": "For You make him most blessed forever; You make him joyful with gladness in Your presence."
+  },
+  {
+    "pk": 845826,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 7,
+    "text": "For the king trusts in the LORD, And through the lovingkindness of the Most High he will not be shaken."
+  },
+  {
+    "pk": 845827,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 8,
+    "text": "Your hand will find out all your enemies; Your right hand will find out those who hate you."
+  },
+  {
+    "pk": 845828,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 9,
+    "text": "You will make them as a fiery oven in the time of your anger; The LORD will swallow them up in His wrath, And fire will devour them."
+  },
+  {
+    "pk": 845829,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 10,
+    "text": "Their offspring You will destroy from the earth, And their descendants from among the sons of men."
+  },
+  {
+    "pk": 845830,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 11,
+    "text": "Though they intended evil against You [And] devised a plot, They will not succeed."
+  },
+  {
+    "pk": 845831,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 12,
+    "text": "For You will make them turn their back; You will aim with Your bowstrings at their faces."
+  },
+  {
+    "pk": 845832,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 21,
+    "verse": 13,
+    "text": "Be exalted, O LORD, in Your strength; We will sing and praise Your power."
+  }
+];

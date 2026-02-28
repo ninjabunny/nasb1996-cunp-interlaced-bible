@@ -1,0 +1,411 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/06/19"] = [
+  {
+    "pk": 837950,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 1,
+    "text": "Then the second lot fell to Simeon, to the tribe of the sons of Simeon according to their families, and their inheritance was in the midst of the inheritance of the sons of Judah."
+  },
+  {
+    "pk": 837951,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 2,
+    "text": "So they had as their inheritance Beersheba or Sheba and Moladah,"
+  },
+  {
+    "pk": 837952,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 3,
+    "text": "and Hazar-shual and Balah and Ezem,"
+  },
+  {
+    "pk": 837953,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 4,
+    "text": "and Eltolad and Bethul and Hormah,"
+  },
+  {
+    "pk": 837954,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 5,
+    "text": "and Ziklag and Beth-marcaboth and Hazar-susah,"
+  },
+  {
+    "pk": 837955,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 6,
+    "text": "and Beth-lebaoth and Sharuhen; thirteen cities with their villages;"
+  },
+  {
+    "pk": 837956,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 7,
+    "text": "Ain, Rimmon and Ether and Ashan; four cities with their villages;"
+  },
+  {
+    "pk": 837957,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 8,
+    "text": "and all the villages which [were] around these cities as far as Baalath-beer, Ramah of the Negev. This [was] the inheritance of the tribe of the sons of Simeon according to their families."
+  },
+  {
+    "pk": 837958,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 9,
+    "text": "The inheritance of the sons of Simeon [was taken] from the portion of the sons of Judah, for the share of the sons of Judah was too large for them; so the sons of Simeon received [an] inheritance in the midst of Judah's inheritance."
+  },
+  {
+    "pk": 837959,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 10,
+    "text": "Now the third lot came up for the sons of Zebulun according to their families. And the territory of their inheritance was as far as Sarid."
+  },
+  {
+    "pk": 837960,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 11,
+    "text": "Then their border went up to the west and to Maralah, it then touched Dabbesheth and reached to the brook that is before Jokneam."
+  },
+  {
+    "pk": 837961,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 12,
+    "text": "Then it turned from Sarid to the east toward the sunrise as far as the border of Chisloth-tabor, and it proceeded to Daberath and up to Japhia."
+  },
+  {
+    "pk": 837962,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 13,
+    "text": "From there it continued eastward toward the sunrise to Gath-hepher, to Eth-kazin, and it proceeded to Rimmon which stretches to Neah."
+  },
+  {
+    "pk": 837963,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 14,
+    "text": "The border circled around it on the north to Hannathon, and it ended at the valley of Iphtahel."
+  },
+  {
+    "pk": 837964,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 15,
+    "text": "[Included] also [were] Kattah and Nahalal and Shimron and Idalah and Bethlehem; twelve cities with their villages."
+  },
+  {
+    "pk": 837965,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 16,
+    "text": "This [was] the inheritance of the sons of Zebulun according to their families, these cities with their villages."
+  },
+  {
+    "pk": 837966,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 17,
+    "text": "The fourth lot fell to Issachar, to the sons of Issachar according to their families."
+  },
+  {
+    "pk": 837967,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 18,
+    "text": "Their territory was to Jezreel and [included] Chesulloth and Shunem,"
+  },
+  {
+    "pk": 837968,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 19,
+    "text": "and Hapharaim and Shion and Anaharath,"
+  },
+  {
+    "pk": 837969,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 20,
+    "text": "and Rabbith and Kishion and Ebez,"
+  },
+  {
+    "pk": 837970,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 21,
+    "text": "and Remeth and En-gannim and En-haddah and Beth-pazzez."
+  },
+  {
+    "pk": 837971,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 22,
+    "text": "The border reached to Tabor and Shahazumah and Beth-shemesh, and their border ended at the Jordan; sixteen cities with their villages."
+  },
+  {
+    "pk": 837972,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 23,
+    "text": "This [was] the inheritance of the tribe of the sons of Issachar according to their families, the cities with their villages."
+  },
+  {
+    "pk": 837973,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 24,
+    "text": "Now the fifth lot fell to the tribe of the sons of Asher according to their families."
+  },
+  {
+    "pk": 837974,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 25,
+    "text": "Their territory was Helkath and Hali and Beten and Achshaph,"
+  },
+  {
+    "pk": 837975,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 26,
+    "text": "and Allammelech and Amad and Mishal; and it reached to Carmel on the west and to Shihor-libnath."
+  },
+  {
+    "pk": 837976,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 27,
+    "text": "It turned toward the east to Beth-dagon and reached to Zebulun, and to the valley of Iphtahel northward to Beth-emek and Neiel; then it proceeded on north to Cabul,"
+  },
+  {
+    "pk": 837977,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 28,
+    "text": "and Ebron and Rehob and Hammon and Kanah, as far as Great Sidon."
+  },
+  {
+    "pk": 837978,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 29,
+    "text": "The border turned to Ramah and to the fortified city of Tyre; then the border turned to Hosah, and it ended at the sea by the region of Achzib."
+  },
+  {
+    "pk": 837979,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 30,
+    "text": "[Included] also [were] Ummah, and Aphek and Rehob; twenty-two cities with their villages."
+  },
+  {
+    "pk": 837980,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 31,
+    "text": "This [was] the inheritance of the tribe of the sons of Asher according to their families, these cities with their villages."
+  },
+  {
+    "pk": 837981,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 32,
+    "text": "The sixth lot fell to the sons of Naphtali; to the sons of Naphtali according to their families."
+  },
+  {
+    "pk": 837982,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 33,
+    "text": "Their border was from Heleph, from the oak in Zaanannim and Adami-nekeb and Jabneel, as far as Lakkum, and it ended at the Jordan."
+  },
+  {
+    "pk": 837983,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 34,
+    "text": "Then the border turned westward to Aznoth-tabor and proceeded from there to Hukkok; and it reached to Zebulun on the south and touched Asher on the west, and to Judah at the Jordan toward the east."
+  },
+  {
+    "pk": 837984,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 35,
+    "text": "The fortified cities [were] Ziddim, Zer and Hammath, Rakkath and Chinnereth,"
+  },
+  {
+    "pk": 837985,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 36,
+    "text": "and Adamah and Ramah and Hazor,"
+  },
+  {
+    "pk": 837986,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 37,
+    "text": "and Kedesh and Edrei and En-hazor,"
+  },
+  {
+    "pk": 837987,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 38,
+    "text": "and Yiron and Migdal-el, Horem and Beth-anath and Beth-shemesh; nineteen cities with their villages."
+  },
+  {
+    "pk": 837988,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 39,
+    "text": "This [was] the inheritance of the tribe of the sons of Naphtali according to their families, the cities with their villages."
+  },
+  {
+    "pk": 837989,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 40,
+    "text": "The seventh lot fell to the tribe of the sons of Dan according to their families."
+  },
+  {
+    "pk": 837990,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 41,
+    "text": "The territory of their inheritance was Zorah and Eshtaol and Ir-shemesh,"
+  },
+  {
+    "pk": 837991,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 42,
+    "text": "and Shaalabbin and Aijalon and Ithlah,"
+  },
+  {
+    "pk": 837992,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 43,
+    "text": "and Elon and Timnah and Ekron,"
+  },
+  {
+    "pk": 837993,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 44,
+    "text": "and Eltekeh and Gibbethon and Baalath,"
+  },
+  {
+    "pk": 837994,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 45,
+    "text": "and Jehud and Bene-berak and Gath-rimmon,"
+  },
+  {
+    "pk": 837995,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 46,
+    "text": "and Me-jarkon and Rakkon, with the territory over against Joppa."
+  },
+  {
+    "pk": 837996,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 47,
+    "text": "The territory of the sons of Dan proceeded beyond them; for the sons of Dan went up and fought with Leshem and captured it. Then they struck it with the edge of the sword and possessed it and settled in it; and they called Leshem Dan after the name of Dan their father."
+  },
+  {
+    "pk": 837997,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 48,
+    "text": "This [was] the inheritance of the tribe of the sons of Dan according to their families, these cities with their villages."
+  },
+  {
+    "pk": 837998,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 49,
+    "text": "When they finished apportioning the land for inheritance by its borders, the sons of Israel gave an inheritance in their midst to Joshua the son of Nun."
+  },
+  {
+    "pk": 837999,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 50,
+    "text": "In accordance with the command of the LORD they gave him the city for which he asked, Timnath-serah in the hill country of Ephraim. So he built the city and settled in it."
+  },
+  {
+    "pk": 838000,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 19,
+    "verse": 51,
+    "text": "These are the inheritances which Eleazar the priest, and Joshua the son of Nun, and the heads of the households of the tribes of the sons of Israel distributed by lot in Shiloh before the LORD at the doorway of the tent of meeting. So they finished dividing the land."
+  }
+];

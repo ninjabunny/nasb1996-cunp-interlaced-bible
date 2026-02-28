@@ -1,0 +1,243 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/20/20"] = [
+  {
+    "pk": 848583,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 1,
+    "text": "Wine is a mocker, strong drink a brawler, And whoever is intoxicated by it is not wise."
+  },
+  {
+    "pk": 848584,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 2,
+    "text": "The terror of a king is like the growling of a lion; He who provokes him to anger forfeits his own life."
+  },
+  {
+    "pk": 848585,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 3,
+    "text": "Keeping away from strife is an honor for a man, But any fool will quarrel."
+  },
+  {
+    "pk": 848586,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 4,
+    "text": "The sluggard does not plow after the autumn, So he begs during the harvest and has nothing."
+  },
+  {
+    "pk": 848587,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 5,
+    "text": "A plan in the heart of a man is [like] deep water, But a man of understanding draws it out."
+  },
+  {
+    "pk": 848588,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 6,
+    "text": "Many a man proclaims his own loyalty, But who can find a trustworthy man?"
+  },
+  {
+    "pk": 848589,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 7,
+    "text": "A righteous man who walks in his integrity-- How blessed are his sons after him."
+  },
+  {
+    "pk": 848590,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 8,
+    "text": "A king who sits on the throne of justice Disperses all evil with his eyes."
+  },
+  {
+    "pk": 848591,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 9,
+    "text": "Who can say, 'I have cleansed my heart, I am pure from my sin '?"
+  },
+  {
+    "pk": 848592,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 10,
+    "text": "Differing weights and differing measures, Both of them are abominable to the LORD."
+  },
+  {
+    "pk": 848593,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 11,
+    "text": "It is by his deeds that a lad distinguishes himself If his conduct is pure and right."
+  },
+  {
+    "pk": 848594,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 12,
+    "text": "The hearing ear and the seeing eye, The LORD has made both of them."
+  },
+  {
+    "pk": 848595,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 13,
+    "text": "Do not love sleep, or you will become poor; Open your eyes, [and] you will be satisfied with food."
+  },
+  {
+    "pk": 848596,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 14,
+    "text": "'Bad, bad,' says the buyer, But when he goes his way, then he boasts."
+  },
+  {
+    "pk": 848597,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 15,
+    "text": "There is gold, and an abundance of jewels; But the lips of knowledge are a more precious thing."
+  },
+  {
+    "pk": 848598,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 16,
+    "text": "Take his garment when he becomes surety for a stranger; And for foreigners, hold him in pledge."
+  },
+  {
+    "pk": 848599,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 17,
+    "text": "Bread obtained by falsehood is sweet to a man, But afterward his mouth will be filled with gravel."
+  },
+  {
+    "pk": 848600,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 18,
+    "text": "Prepare plans by consultation, And make war by wise guidance."
+  },
+  {
+    "pk": 848601,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 19,
+    "text": "He who goes about as a slanderer reveals secrets, Therefore do not associate with a gossip."
+  },
+  {
+    "pk": 848602,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 20,
+    "text": "He who curses his father or his mother, His lamp will go out in time of darkness."
+  },
+  {
+    "pk": 848603,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 21,
+    "text": "An inheritance gained hurriedly at the beginning Will not be blessed in the end."
+  },
+  {
+    "pk": 848604,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 22,
+    "text": "Do not say, 'I will repay evil'; Wait for the LORD, and He will save you."
+  },
+  {
+    "pk": 848605,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 23,
+    "text": "Differing weights are an abomination to the LORD, And a false scale is not good."
+  },
+  {
+    "pk": 848606,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 24,
+    "text": "Man's steps are [ordained] by the LORD, How then can man understand his way?"
+  },
+  {
+    "pk": 848607,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 25,
+    "text": "It is a trap for a man to say rashly, 'It is holy!' And after the vows to make inquiry."
+  },
+  {
+    "pk": 848608,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 26,
+    "text": "A wise king winnows the wicked, And drives the [threshing] wheel over them."
+  },
+  {
+    "pk": 848609,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 27,
+    "text": "The spirit of man is the lamp of the LORD, Searching all the innermost parts of his being."
+  },
+  {
+    "pk": 848610,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 28,
+    "text": "Loyalty and truth preserve the king, And he upholds his throne by righteousness."
+  },
+  {
+    "pk": 848611,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 29,
+    "text": "The glory of young men is their strength, And the honor of old men is their gray hair."
+  },
+  {
+    "pk": 848612,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 20,
+    "verse": 30,
+    "text": "Stripes that wound scour away evil, And strokes [reach] the innermost parts."
+  }
+];

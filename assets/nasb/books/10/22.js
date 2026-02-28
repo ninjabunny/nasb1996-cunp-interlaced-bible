@@ -1,0 +1,411 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/10/22"] = [
+  {
+    "pk": 840231,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 1,
+    "text": "And David spoke the words of this song to the LORD in the day that the LORD delivered him from the hand of all his enemies and from the hand of Saul."
+  },
+  {
+    "pk": 840232,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 2,
+    "text": "He said, 'The LORD is my rock and my fortress and my deliverer;"
+  },
+  {
+    "pk": 840233,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 3,
+    "text": "My God, my rock, in whom I take refuge, My shield and the horn of my salvation, my stronghold and my refuge; My savior, You save me from violence."
+  },
+  {
+    "pk": 840234,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 4,
+    "text": "'I call upon the LORD, who is worthy to be praised, And I am saved from my enemies."
+  },
+  {
+    "pk": 840235,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 5,
+    "text": "'For the waves of death encompassed me; The torrents of destruction overwhelmed me;"
+  },
+  {
+    "pk": 840236,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 6,
+    "text": "The cords of Sheol surrounded me; The snares of death confronted me."
+  },
+  {
+    "pk": 840237,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 7,
+    "text": "'In my distress I called upon the LORD, Yes, I cried to my God; And from His temple He heard my voice, And my cry for help [came] into His ears."
+  },
+  {
+    "pk": 840238,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 8,
+    "text": "'Then the earth shook and quaked, The foundations of heaven were trembling And were shaken, because He was angry."
+  },
+  {
+    "pk": 840239,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 9,
+    "text": "'Smoke went up out of His nostrils, Fire from His mouth devoured; Coals were kindled by it."
+  },
+  {
+    "pk": 840240,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 10,
+    "text": "'He bowed the heavens also, and came down With thick darkness under His feet."
+  },
+  {
+    "pk": 840241,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 11,
+    "text": "'And He rode on a cherub and flew; And He appeared on the wings of the wind."
+  },
+  {
+    "pk": 840242,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 12,
+    "text": "'And He made darkness canopies around Him, A mass of waters, thick clouds of the sky."
+  },
+  {
+    "pk": 840243,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 13,
+    "text": "'From the brightness before Him Coals of fire were kindled."
+  },
+  {
+    "pk": 840244,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 14,
+    "text": "'The LORD thundered from heaven, And the Most High uttered His voice."
+  },
+  {
+    "pk": 840245,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 15,
+    "text": "'And He sent out arrows, and scattered them, Lightning, and routed them."
+  },
+  {
+    "pk": 840246,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 16,
+    "text": "'Then the channels of the sea appeared, The foundations of the world were laid bare By the rebuke of the LORD, At the blast of the breath of His nostrils."
+  },
+  {
+    "pk": 840247,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 17,
+    "text": "'He sent from on high, He took me; He drew me out of many waters."
+  },
+  {
+    "pk": 840248,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 18,
+    "text": "'He delivered me from my strong enemy, From those who hated me, for they were too strong for me."
+  },
+  {
+    "pk": 840249,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 19,
+    "text": "'They confronted me in the day of my calamity, But the LORD was my support."
+  },
+  {
+    "pk": 840250,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 20,
+    "text": "'He also brought me forth into a broad place; He rescued me, because He delighted in me."
+  },
+  {
+    "pk": 840251,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 21,
+    "text": "'The LORD has rewarded me according to my righteousness; According to the cleanness of my hands He has recompensed me."
+  },
+  {
+    "pk": 840252,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 22,
+    "text": "'For I have kept the ways of the LORD, And have not acted wickedly against my God."
+  },
+  {
+    "pk": 840253,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 23,
+    "text": "'For all His ordinances [were] before me, And [as for] His statutes, I did not depart from them."
+  },
+  {
+    "pk": 840254,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 24,
+    "text": "'I was also blameless toward Him, And I kept myself from my iniquity."
+  },
+  {
+    "pk": 840255,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 25,
+    "text": "'Therefore the LORD has recompensed me according to my righteousness, According to my cleanness before His eyes."
+  },
+  {
+    "pk": 840256,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 26,
+    "text": "'With the kind You show Yourself kind, With the blameless You show Yourself blameless;"
+  },
+  {
+    "pk": 840257,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 27,
+    "text": "With the pure You show Yourself pure, And with the perverted You show Yourself astute."
+  },
+  {
+    "pk": 840258,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 28,
+    "text": "'And You save an afflicted people; But Your eyes are on the haughty [whom] You abase."
+  },
+  {
+    "pk": 840259,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 29,
+    "text": "'For You are my lamp, O LORD; And the LORD illumines my darkness."
+  },
+  {
+    "pk": 840260,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 30,
+    "text": "'For by You I can run upon a troop; By my God I can leap over a wall."
+  },
+  {
+    "pk": 840261,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 31,
+    "text": "'As for God, His way is blameless; The word of the LORD is tested; He is a shield to all who take refuge in Him."
+  },
+  {
+    "pk": 840262,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 32,
+    "text": "'For who is God, besides the LORD? And who is a rock, besides our God?"
+  },
+  {
+    "pk": 840263,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 33,
+    "text": "'God is my strong fortress; And He sets the blameless in His way."
+  },
+  {
+    "pk": 840264,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 34,
+    "text": "'He makes my feet like hinds' [feet], And sets me on my high places."
+  },
+  {
+    "pk": 840265,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 35,
+    "text": "'He trains my hands for battle, So that my arms can bend a bow of bronze."
+  },
+  {
+    "pk": 840266,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 36,
+    "text": "'You have also given me the shield of Your salvation, And Your help makes me great."
+  },
+  {
+    "pk": 840267,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 37,
+    "text": "'You enlarge my steps under me, And my feet have not slipped."
+  },
+  {
+    "pk": 840268,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 38,
+    "text": "'I pursued my enemies and destroyed them, And I did not turn back until they were consumed."
+  },
+  {
+    "pk": 840269,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 39,
+    "text": "'And I have devoured them and shattered them, so that they did not rise; And they fell under my feet."
+  },
+  {
+    "pk": 840270,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 40,
+    "text": "'For You have girded me with strength for battle; You have subdued under me those who rose up against me."
+  },
+  {
+    "pk": 840271,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 41,
+    "text": "'You have also made my enemies turn [their] backs to me, And I destroyed those who hated me."
+  },
+  {
+    "pk": 840272,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 42,
+    "text": "'They looked, but there was none to save; [Even] to the LORD, but He did not answer them."
+  },
+  {
+    "pk": 840273,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 43,
+    "text": "'Then I pulverized them as the dust of the earth; I crushed [and] stamped them as the mire of the streets."
+  },
+  {
+    "pk": 840274,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 44,
+    "text": "'You have also delivered me from the contentions of my people; You have kept me as head of the nations; A people whom I have not known serve me."
+  },
+  {
+    "pk": 840275,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 45,
+    "text": "'Foreigners pretend obedience to me; As soon as they hear, they obey me."
+  },
+  {
+    "pk": 840276,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 46,
+    "text": "'Foreigners lose heart, And come trembling out of their fortresses."
+  },
+  {
+    "pk": 840277,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 47,
+    "text": "'The LORD lives, and blessed be my rock; And exalted be God, the rock of my salvation,"
+  },
+  {
+    "pk": 840278,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 48,
+    "text": "The God who executes vengeance for me, And brings down peoples under me,"
+  },
+  {
+    "pk": 840279,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 49,
+    "text": "Who also brings me out from my enemies; You even lift me above those who rise up against me; You rescue me from the violent man."
+  },
+  {
+    "pk": 840280,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 50,
+    "text": "'Therefore I will give thanks to You, O LORD, among the nations, And I will sing praises to Your name."
+  },
+  {
+    "pk": 840281,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 22,
+    "verse": 51,
+    "text": "'[He] is a tower of deliverance to His king, And shows lovingkindness to His anointed, To David and his descendants forever.'"
+  }
+];

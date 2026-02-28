@@ -1,0 +1,155 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/16/06"] = [
+  {
+    "pk": 844030,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 1,
+    "text": "Now when it was reported to Sanballat, Tobiah, to Geshem the Arab and to the rest of our enemies that I had rebuilt the wall, and [that] no breach remained in it, although at that time I had not set up the doors in the gates,"
+  },
+  {
+    "pk": 844031,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 2,
+    "text": "then Sanballat and Geshem sent [a message] to me, saying, 'Come, let us meet together at Chephirim in the plain of Ono.' But they were planning to harm me."
+  },
+  {
+    "pk": 844032,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 3,
+    "text": "So I sent messengers to them, saying, 'I am doing a great work and I cannot come down. Why should the work stop while I leave it and come down to you?'"
+  },
+  {
+    "pk": 844033,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 4,
+    "text": "They sent [messages] to me four times in this manner, and I answered them in the same way."
+  },
+  {
+    "pk": 844034,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 5,
+    "text": "Then Sanballat sent his servant to me in the same manner a fifth time with an open letter in his hand."
+  },
+  {
+    "pk": 844035,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 6,
+    "text": "In it was written, 'It is reported among the nations, and Gashmu says, that you and the Jews are planning to rebel; therefore you are rebuilding the wall. And you are to be their king, according to these reports."
+  },
+  {
+    "pk": 844036,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 7,
+    "text": "'You have also appointed prophets to proclaim in Jerusalem concerning you, 'A king is in Judah!' And now it will be reported to the king according to these reports. So come now, let us take counsel together.'"
+  },
+  {
+    "pk": 844037,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 8,
+    "text": "Then I sent [a message] to him saying, 'Such things as you are saying have not been done, but you are inventing them in your own mind.'"
+  },
+  {
+    "pk": 844038,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 9,
+    "text": "For all of them were [trying] to frighten us, thinking, 'They will become discouraged with the work and it will not be done.' But now, [O God], strengthen my hands."
+  },
+  {
+    "pk": 844039,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 10,
+    "text": "When I entered the house of Shemaiah the son of Delaiah, son of Mehetabel, who was confined at home, he said, 'Let us meet together in the house of God, within the temple, and let us close the doors of the temple, for they are coming to kill you, and they are coming to kill you at night.'"
+  },
+  {
+    "pk": 844040,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 11,
+    "text": "But I said, 'Should a man like me flee? And could one such as I go into the temple to save his life? I will not go in.'"
+  },
+  {
+    "pk": 844041,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 12,
+    "text": "Then I perceived that surely God had not sent him, but he uttered [his] prophecy against me because Tobiah and Sanballat had hired him."
+  },
+  {
+    "pk": 844042,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 13,
+    "text": "He was hired for this reason, that I might become frightened and act accordingly and sin, so that they might have an evil report in order that they could reproach me."
+  },
+  {
+    "pk": 844043,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 14,
+    "text": "Remember, O my God, Tobiah and Sanballat according to these works of theirs, and also Noadiah the prophetess and the rest of the prophets who were [trying] to frighten me."
+  },
+  {
+    "pk": 844044,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 15,
+    "text": "So the wall was completed on the twenty-fifth of [the month] Elul, in fifty-two days."
+  },
+  {
+    "pk": 844045,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 16,
+    "text": "When all our enemies heard [of it], and all the nations surrounding us saw [it], they lost their confidence; for they recognized that this work had been accomplished with the help of our God."
+  },
+  {
+    "pk": 844046,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 17,
+    "text": "Also in those days many letters went from the nobles of Judah to Tobiah, and Tobiah's [letters] came to them."
+  },
+  {
+    "pk": 844047,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 18,
+    "text": "For many in Judah were bound by oath to him because he was the son-in-law of Shecaniah the son of Arah, and his son Jehohanan had married the daughter of Meshullam the son of Berechiah."
+  },
+  {
+    "pk": 844048,
+    "translation": "NASB",
+    "book": 16,
+    "chapter": 6,
+    "verse": 19,
+    "text": "Moreover, they were speaking about his good deeds in my presence and reported my words to him. Then Tobiah sent letters to frighten me."
+  }
+];

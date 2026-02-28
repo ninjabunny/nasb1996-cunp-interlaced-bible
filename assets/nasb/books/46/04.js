@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/46/04"] = [
+  {
+    "pk": 860062,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 1,
+    "text": "Let a man regard us in this manner, as servants of Christ and stewards of the mysteries of God."
+  },
+  {
+    "pk": 860063,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 2,
+    "text": "In this case, moreover, it is required of stewards that one be found trustworthy."
+  },
+  {
+    "pk": 860064,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 3,
+    "text": "But to me it is a very small thing that I may be examined by you, or by [any] human court; in fact, I do not even examine myself."
+  },
+  {
+    "pk": 860065,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 4,
+    "text": "For I am conscious of nothing against myself, yet I am not by this acquitted; but the one who examines me is the Lord."
+  },
+  {
+    "pk": 860066,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 5,
+    "text": "Therefore do not go on passing judgment before the time, [but wait] until the Lord comes who will both bring to light the things hidden in the darkness and disclose the motives of [men's] hearts; and then each man's praise will come to him from God."
+  },
+  {
+    "pk": 860067,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 6,
+    "text": "Now these things, brethren, I have figuratively applied to myself and Apollos for your sakes, so that in us you may learn not to exceed what is written, so that no one of you will become arrogant in behalf of one against the other."
+  },
+  {
+    "pk": 860068,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 7,
+    "text": "For who regards you as superior? What do you have that you did not receive? And if you did receive it, why do you boast as if you had not received it?"
+  },
+  {
+    "pk": 860069,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 8,
+    "text": "You are already filled, you have already become rich, you have become kings without us; and indeed, [I] wish that you had become kings so that we also might reign with you."
+  },
+  {
+    "pk": 860070,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 9,
+    "text": "For, I think, God has exhibited us apostles last of all, as men condemned to death; because we have become a spectacle to the world, both to angels and to men."
+  },
+  {
+    "pk": 860071,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 10,
+    "text": "We are fools for Christ's sake, but you are prudent in Christ; we are weak, but you are strong; you are distinguished, but we are without honor."
+  },
+  {
+    "pk": 860072,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 11,
+    "text": "To this present hour we are both hungry and thirsty, and are poorly clothed, and are roughly treated, and are homeless;"
+  },
+  {
+    "pk": 860073,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 12,
+    "text": "and we toil, working with our own hands; when we are reviled, we bless; when we are persecuted, we endure;"
+  },
+  {
+    "pk": 860074,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 13,
+    "text": "when we are slandered, we try to conciliate; we have become as the scum of the world, the dregs of all things, [even] until now."
+  },
+  {
+    "pk": 860075,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 14,
+    "text": "I do not write these things to shame you, but to admonish you as my beloved children."
+  },
+  {
+    "pk": 860076,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 15,
+    "text": "For if you were to have countless tutors in Christ, yet [you would] not [have] many fathers, for in Christ Jesus I became your father through the gospel."
+  },
+  {
+    "pk": 860077,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 16,
+    "text": "Therefore I exhort you, be imitators of me."
+  },
+  {
+    "pk": 860078,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 17,
+    "text": "For this reason I have sent to you Timothy, who is my beloved and faithful child in the Lord, and he will remind you of my ways which are in Christ, just as I teach everywhere in every church."
+  },
+  {
+    "pk": 860079,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 18,
+    "text": "Now some have become arrogant, as though I were not coming to you."
+  },
+  {
+    "pk": 860080,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 19,
+    "text": "But I will come to you soon, if the Lord wills, and I shall find out, not the words of those who are arrogant but their power."
+  },
+  {
+    "pk": 860081,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 20,
+    "text": "For the kingdom of God does not consist in words but in power."
+  },
+  {
+    "pk": 860082,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 4,
+    "verse": 21,
+    "text": "What do you desire? Shall I come to you with a rod, or with love and a spirit of gentleness?"
+  }
+];

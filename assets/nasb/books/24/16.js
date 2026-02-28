@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/16"] = [
+  {
+    "pk": 850965,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 1,
+    "text": "The word of the LORD also came to me saying,"
+  },
+  {
+    "pk": 850966,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 2,
+    "text": "'You shall not take a wife for yourself nor have sons or daughters in this place.'"
+  },
+  {
+    "pk": 850967,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 3,
+    "text": "For thus says the LORD concerning the sons and daughters born in this place, and concerning their mothers who bear them, and their fathers who beget them in this land:"
+  },
+  {
+    "pk": 850968,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 4,
+    "text": "'They will die of deadly diseases, they will not be lamented or buried; they will be as dung on the surface of the ground and come to an end by sword and famine, and their carcasses will become food for the birds of the sky and for the beasts of the earth.'"
+  },
+  {
+    "pk": 850969,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 5,
+    "text": "For thus says the LORD, 'Do not enter a house of mourning, or go to lament or to console them; for I have withdrawn My peace from this people,' declares the LORD, '[My] lovingkindness and compassion."
+  },
+  {
+    "pk": 850970,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 6,
+    "text": "'Both great men and small will die in this land; they will not be buried, they will not be lamented, nor will anyone gash himself or shave his head for them."
+  },
+  {
+    "pk": 850971,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 7,
+    "text": "'Men will not break [bread] in mourning for them, to comfort anyone for the dead, nor give them a cup of consolation to drink for anyone's father or mother."
+  },
+  {
+    "pk": 850972,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 8,
+    "text": "'Moreover you shall not go into a house of feasting to sit with them to eat and drink.'"
+  },
+  {
+    "pk": 850973,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 9,
+    "text": "For thus says the LORD of hosts, the God of Israel: 'Behold, I am going to eliminate from this place, before your eyes and in your time, the voice of rejoicing and the voice of gladness, the voice of the groom and the voice of the bride."
+  },
+  {
+    "pk": 850974,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 10,
+    "text": "'Now when you tell this people all these words, they will say to you, 'For what reason has the LORD declared all this great calamity against us? And what is our iniquity, or what is our sin which we have committed against the LORD our God?'"
+  },
+  {
+    "pk": 850975,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 11,
+    "text": "'Then you are to say to them, '[It is] because your forefathers have forsaken Me,' declares the LORD, 'and have followed other gods and served them and bowed down to them; but Me they have forsaken and have not kept My law."
+  },
+  {
+    "pk": 850976,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 12,
+    "text": "'You too have done evil, [even] more than your forefathers; for behold, you are each one walking according to the stubbornness of his own evil heart, without listening to Me."
+  },
+  {
+    "pk": 850977,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 13,
+    "text": "'So I will hurl you out of this land into the land which you have not known, neither you nor your fathers; and there you will serve other gods day and night, for I will grant you no favor.'"
+  },
+  {
+    "pk": 850978,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 14,
+    "text": "'Therefore behold, days are coming,' declares the LORD, 'when it will no longer be said, 'As the LORD lives, who brought up the sons of Israel out of the land of Egypt,'"
+  },
+  {
+    "pk": 850979,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 15,
+    "text": "but, 'As the LORD lives, who brought up the sons of Israel from the land of the north and from all the countries where He had banished them.' For I will restore them to their own land which I gave to their fathers."
+  },
+  {
+    "pk": 850980,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 16,
+    "text": "'Behold, I am going to send for many fishermen,' declares the LORD, 'and they will fish for them; and afterwards I will send for many hunters, and they will hunt them from every mountain and every hill and from the clefts of the rocks."
+  },
+  {
+    "pk": 850981,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 17,
+    "text": "'For My eyes are on all their ways; they are not hidden from My face, nor is their iniquity concealed from My eyes."
+  },
+  {
+    "pk": 850982,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 18,
+    "text": "'I will first doubly repay their iniquity and their sin, because they have polluted My land; they have filled My inheritance with the carcasses of their detestable idols and with their abominations.'"
+  },
+  {
+    "pk": 850983,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 19,
+    "text": "O LORD, my strength and my stronghold, And my refuge in the day of distress, To You the nations will come From the ends of the earth and say, 'Our fathers have inherited nothing but falsehood, Futility and things of no profit.'"
+  },
+  {
+    "pk": 850984,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 20,
+    "text": "Can man make gods for himself? Yet they are not gods!"
+  },
+  {
+    "pk": 850985,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 16,
+    "verse": 21,
+    "text": "'Therefore behold, I am going to make them know-- This time I will make them know My power and My might; And they shall know that My name is the LORD.'"
+  }
+];

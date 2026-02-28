@@ -1,0 +1,403 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/43/12"] = [
+  {
+    "pk": 858209,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 1,
+    "text": "Jesus, therefore, six days before the Passover, came to Bethany where Lazarus was, whom Jesus had raised from the dead."
+  },
+  {
+    "pk": 858210,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 2,
+    "text": "So they made Him a supper there, and Martha was serving; but Lazarus was one of those reclining [at the] [table] with Him."
+  },
+  {
+    "pk": 858211,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 3,
+    "text": "Mary then took a pound of very costly perfume of pure nard, and anointed the feet of Jesus and wiped His feet with her hair; and the house was filled with the fragrance of the perfume."
+  },
+  {
+    "pk": 858212,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 4,
+    "text": "But Judas Iscariot, one of His disciples, who was intending to betray Him, said,"
+  },
+  {
+    "pk": 858213,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 5,
+    "text": "'Why was this perfume not sold for three hundred denarii and given to poor [people]?'"
+  },
+  {
+    "pk": 858214,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 6,
+    "text": "Now he said this, not because he was concerned about the poor, but because he was a thief, and as he had the money box, he used to pilfer what was put into it."
+  },
+  {
+    "pk": 858215,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 7,
+    "text": "Therefore Jesus said, 'Let her alone, so that she may keep it for the day of My burial."
+  },
+  {
+    "pk": 858216,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 8,
+    "text": "'For you always have the poor with you, but you do not always have Me.'"
+  },
+  {
+    "pk": 858217,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 9,
+    "text": "The large crowd of the Jews then learned that He was there; and they came, not for Jesus' sake only, but that they might also see Lazarus, whom He raised from the dead."
+  },
+  {
+    "pk": 858218,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 10,
+    "text": "But the chief priests planned to put Lazarus to death also;"
+  },
+  {
+    "pk": 858219,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 11,
+    "text": "because on account of him many of the Jews were going away and were believing in Jesus."
+  },
+  {
+    "pk": 858220,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 12,
+    "text": "On the next day the large crowd who had come to the feast, when they heard that Jesus was coming to Jerusalem,"
+  },
+  {
+    "pk": 858221,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 13,
+    "text": "took the branches of the palm trees and went out to meet Him, and [began] to shout, 'Hosanna! BLESSED IS HE WHO COMES IN THE NAME OF THE LORD, even the King of Israel.'"
+  },
+  {
+    "pk": 858222,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 14,
+    "text": "Jesus, finding a young donkey, sat on it; as it is written,"
+  },
+  {
+    "pk": 858223,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 15,
+    "text": "'FEAR NOT, DAUGHTER OF ZION; BEHOLD, YOUR KING IS COMING, SEATED ON A DONKEY'S COLT.'"
+  },
+  {
+    "pk": 858224,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 16,
+    "text": "These things His disciples did not understand at the first; but when Jesus was glorified, then they remembered that these things were written of Him, and that they had done these things to Him."
+  },
+  {
+    "pk": 858225,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 17,
+    "text": "So the people, who were with Him when He called Lazarus out of the tomb and raised him from the dead, continued to testify [about Him]."
+  },
+  {
+    "pk": 858226,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 18,
+    "text": "For this reason also the people went and met Him, because they heard that He had performed this sign."
+  },
+  {
+    "pk": 858227,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 19,
+    "text": "So the Pharisees said to one another, 'You see that you are not doing any good; look, the world has gone after Him.'"
+  },
+  {
+    "pk": 858228,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 20,
+    "text": "Now there were some Greeks among those who were going up to worship at the feast;"
+  },
+  {
+    "pk": 858229,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 21,
+    "text": "these then came to Philip, who was from Bethsaida of Galilee, and [began to] ask him, saying, 'Sir, we wish to see Jesus.'"
+  },
+  {
+    "pk": 858230,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 22,
+    "text": "Philip came and told Andrew; Andrew and Philip came and told Jesus."
+  },
+  {
+    "pk": 858231,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 23,
+    "text": "And Jesus answered them, saying, 'The hour has come for the Son of Man to be glorified."
+  },
+  {
+    "pk": 858232,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 24,
+    "text": "'Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit."
+  },
+  {
+    "pk": 858233,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 25,
+    "text": "'He who loves his life loses it, and he who hates his life in this world will keep it to life eternal."
+  },
+  {
+    "pk": 858234,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 26,
+    "text": "'If anyone serves Me, he must follow Me; and where I am, there My servant will be also; if anyone serves Me, the Father will honor him."
+  },
+  {
+    "pk": 858235,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 27,
+    "text": "'Now My soul has become troubled; and what shall I say, 'Father, save Me from this hour '? But for this purpose I came to this hour."
+  },
+  {
+    "pk": 858236,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 28,
+    "text": "'Father, glorify Your name.' Then a voice came out of heaven: 'I have both glorified it, and will glorify it again.'"
+  },
+  {
+    "pk": 858237,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 29,
+    "text": "So the crowd [of people] who stood by and heard it were saying that it had thundered; others were saying, 'An angel has spoken to Him.'"
+  },
+  {
+    "pk": 858238,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 30,
+    "text": "Jesus answered and said, 'This voice has not come for My sake, but for your sakes."
+  },
+  {
+    "pk": 858239,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 31,
+    "text": "'Now judgment is upon this world; now the ruler of this world will be cast out."
+  },
+  {
+    "pk": 858240,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 32,
+    "text": "'And I, if I am lifted up from the earth, will draw all men to Myself.'"
+  },
+  {
+    "pk": 858241,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 33,
+    "text": "But He was saying this to indicate the kind of death by which He was to die."
+  },
+  {
+    "pk": 858242,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 34,
+    "text": "The crowd then answered Him, 'We have heard out of the Law that the Christ is to remain forever; and how can You say, 'The Son of Man must be lifted up'? Who is this Son of Man?'"
+  },
+  {
+    "pk": 858243,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 35,
+    "text": "So Jesus said to them, 'For a little while longer the Light is among you. Walk while you have the Light, so that darkness will not overtake you; he who walks in the darkness does not know where he goes."
+  },
+  {
+    "pk": 858244,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 36,
+    "text": "'While you have the Light, believe in the Light, so that you may become sons of Light.' These things Jesus spoke, and He went away and hid Himself from them."
+  },
+  {
+    "pk": 858245,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 37,
+    "text": "But though He had performed so many signs before them, [yet] they were not believing in Him."
+  },
+  {
+    "pk": 858246,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 38,
+    "text": "[This was] to fulfill the word of Isaiah the prophet which he spoke: 'LORD, WHO HAS BELIEVED OUR REPORT? AND TO WHOM HAS THE ARM OF THE LORD BEEN REVEALED?'"
+  },
+  {
+    "pk": 858247,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 39,
+    "text": "For this reason they could not believe, for Isaiah said again,"
+  },
+  {
+    "pk": 858248,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 40,
+    "text": "'HE HAS BLINDED THEIR EYES AND HE HARDENED THEIR HEART, SO THAT THEY WOULD NOT SEE WITH THEIR EYES AND PERCEIVE WITH THEIR HEART, AND BE CONVERTED AND I HEAL THEM.'"
+  },
+  {
+    "pk": 858249,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 41,
+    "text": "These things Isaiah said because he saw His glory, and he spoke of Him."
+  },
+  {
+    "pk": 858250,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 42,
+    "text": "Nevertheless many even of the rulers believed in Him, but because of the Pharisees they were not confessing [Him], for fear that they would be put out of the synagogue;"
+  },
+  {
+    "pk": 858251,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 43,
+    "text": "for they loved the approval of men rather than the approval of God."
+  },
+  {
+    "pk": 858252,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 44,
+    "text": "And Jesus cried out and said, 'He who believes in Me, does not believe in Me but in Him who sent Me."
+  },
+  {
+    "pk": 858253,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 45,
+    "text": "'He who sees Me sees the One who sent Me."
+  },
+  {
+    "pk": 858254,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 46,
+    "text": "'I have come [as] Light into the world, so that everyone who believes in Me will not remain in darkness."
+  },
+  {
+    "pk": 858255,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 47,
+    "text": "'If anyone hears My sayings and does not keep them, I do not judge him; for I did not come to judge the world, but to save the world."
+  },
+  {
+    "pk": 858256,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 48,
+    "text": "'He who rejects Me and does not receive My sayings, has one who judges him; the word I spoke is what will judge him at the last day."
+  },
+  {
+    "pk": 858257,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 49,
+    "text": "'For I did not speak on My own initiative, but the Father Himself who sent Me has given Me a commandment [as to] what to say and what to speak."
+  },
+  {
+    "pk": 858258,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 12,
+    "verse": 50,
+    "text": "'I know that His commandment is eternal life; therefore the things I speak, I speak just as the Father has told Me.'"
+  }
+];

@@ -1,0 +1,139 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/28/09"] = [
+  {
+    "pk": 853837,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 1,
+    "text": "Do not rejoice, O Israel, with exultation like the nations! For you have played the harlot, forsaking your God. You have loved [harlots]' earnings on every threshing floor."
+  },
+  {
+    "pk": 853838,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 2,
+    "text": "Threshing floor and wine press will not feed them, And the new wine will fail them."
+  },
+  {
+    "pk": 853839,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 3,
+    "text": "They will not remain in the LORD'S land, But Ephraim will return to Egypt, And in Assyria they will eat unclean [food]."
+  },
+  {
+    "pk": 853840,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 4,
+    "text": "They will not pour out drink offerings of wine to the LORD, Their sacrifices will not please Him. [Their bread will] [be] like mourners' bread; All who eat of it will be defiled, For their bread will be for themselves [alone]; It will not enter the house of the LORD."
+  },
+  {
+    "pk": 853841,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 5,
+    "text": "What will you do on the day of the appointed festival And on the day of the feast of the LORD?"
+  },
+  {
+    "pk": 853842,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 6,
+    "text": "For behold, they will go because of destruction; Egypt will gather them up, Memphis will bury them. Weeds will take over their treasures of silver; Thorns [will be] in their tents."
+  },
+  {
+    "pk": 853843,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 7,
+    "text": "The days of punishment have come, The days of retribution have come; Let Israel know [this]! The prophet is a fool, The inspired man is demented, Because of the grossness of your iniquity, And [because] your hostility is [so] great."
+  },
+  {
+    "pk": 853844,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 8,
+    "text": "Ephraim [was] a watchman with my God, a prophet; [Yet] the snare of a bird catcher is in all his ways, [And] there is [only] hostility in the house of his God."
+  },
+  {
+    "pk": 853845,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 9,
+    "text": "They have gone deep in depravity As in the days of Gibeah; He will remember their iniquity, He will punish their sins."
+  },
+  {
+    "pk": 853846,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 10,
+    "text": "I found Israel like grapes in the wilderness; I saw your forefathers as the earliest fruit on the fig tree in its first [season]. [But] they came to Baal-peor and devoted themselves to shame, And they became as detestable as that which they loved."
+  },
+  {
+    "pk": 853847,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 11,
+    "text": "As for Ephraim, their glory will fly away like a bird-- No birth, no pregnancy and no conception!"
+  },
+  {
+    "pk": 853848,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 12,
+    "text": "Though they bring up their children, Yet I will bereave them until not a man is left. Yes, woe to them indeed when I depart from them!"
+  },
+  {
+    "pk": 853849,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 13,
+    "text": "Ephraim, as I have seen, Is planted in a pleasant meadow like Tyre; But Ephraim will bring out his children for slaughter."
+  },
+  {
+    "pk": 853850,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 14,
+    "text": "Give them, O LORD-- what will You give? Give them a miscarrying womb and dry breasts."
+  },
+  {
+    "pk": 853851,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 15,
+    "text": "All their evil is at Gilgal; Indeed, I came to hate them there! Because of the wickedness of their deeds I will drive them out of My house! I will love them no more; All their princes are rebels."
+  },
+  {
+    "pk": 853852,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 16,
+    "text": "Ephraim is stricken, their root is dried up, They will bear no fruit. Even though they bear children, I will slay the precious ones of their womb."
+  },
+  {
+    "pk": 853853,
+    "translation": "NASB",
+    "book": 28,
+    "chapter": 9,
+    "verse": 17,
+    "text": "My God will cast them away Because they have not listened to Him; And they will be wanderers among the nations."
+  }
+];

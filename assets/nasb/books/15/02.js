@@ -1,0 +1,563 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/15/02"] = [
+  {
+    "pk": 843656,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 1,
+    "text": "Now these are the people of the province who came up out of the captivity of the exiles whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and returned to Jerusalem and Judah, each to his city."
+  },
+  {
+    "pk": 843657,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 2,
+    "text": "These came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum [and] Baanah. The number of the men of the people of Israel:"
+  },
+  {
+    "pk": 843658,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 3,
+    "text": "the sons of Parosh, 2,172;"
+  },
+  {
+    "pk": 843659,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 4,
+    "text": "the sons of Shephatiah, 372;"
+  },
+  {
+    "pk": 843660,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 5,
+    "text": "the sons of Arah, 775;"
+  },
+  {
+    "pk": 843661,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 6,
+    "text": "the sons of Pahath-moab of the sons of Jeshua [and] Joab, 2,812;"
+  },
+  {
+    "pk": 843662,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 7,
+    "text": "the sons of Elam, 1,254;"
+  },
+  {
+    "pk": 843663,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 8,
+    "text": "the sons of Zattu, 945;"
+  },
+  {
+    "pk": 843664,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 9,
+    "text": "the sons of Zaccai, 760;"
+  },
+  {
+    "pk": 843665,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 10,
+    "text": "the sons of Bani, 642;"
+  },
+  {
+    "pk": 843666,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 11,
+    "text": "the sons of Bebai, 623;"
+  },
+  {
+    "pk": 843667,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 12,
+    "text": "the sons of Azgad, 1,222;"
+  },
+  {
+    "pk": 843668,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 13,
+    "text": "the sons of Adonikam, 666;"
+  },
+  {
+    "pk": 843669,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 14,
+    "text": "the sons of Bigvai, 2,056;"
+  },
+  {
+    "pk": 843670,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 15,
+    "text": "the sons of Adin, 454;"
+  },
+  {
+    "pk": 843671,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 16,
+    "text": "the sons of Ater of Hezekiah, 98;"
+  },
+  {
+    "pk": 843672,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 17,
+    "text": "the sons of Bezai, 323;"
+  },
+  {
+    "pk": 843673,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 18,
+    "text": "the sons of Jorah, 112;"
+  },
+  {
+    "pk": 843674,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 19,
+    "text": "the sons of Hashum, 223;"
+  },
+  {
+    "pk": 843675,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 20,
+    "text": "the sons of Gibbar, 95;"
+  },
+  {
+    "pk": 843676,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 21,
+    "text": "the men of Bethlehem, 123;"
+  },
+  {
+    "pk": 843677,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 22,
+    "text": "the men of Netophah, 56;"
+  },
+  {
+    "pk": 843678,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 23,
+    "text": "the men of Anathoth, 128;"
+  },
+  {
+    "pk": 843679,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 24,
+    "text": "the sons of Azmaveth, 42;"
+  },
+  {
+    "pk": 843680,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 25,
+    "text": "the sons of Kiriath-arim, Chephirah and Beeroth, 743;"
+  },
+  {
+    "pk": 843681,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 26,
+    "text": "the sons of Ramah and Geba, 621;"
+  },
+  {
+    "pk": 843682,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 27,
+    "text": "the men of Michmas, 122;"
+  },
+  {
+    "pk": 843683,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 28,
+    "text": "the men of Bethel and Ai, 223;"
+  },
+  {
+    "pk": 843684,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 29,
+    "text": "the sons of Nebo, 52;"
+  },
+  {
+    "pk": 843685,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 30,
+    "text": "the sons of Magbish, 156;"
+  },
+  {
+    "pk": 843686,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 31,
+    "text": "the sons of the other Elam, 1,254;"
+  },
+  {
+    "pk": 843687,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 32,
+    "text": "the sons of Harim, 320;"
+  },
+  {
+    "pk": 843688,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 33,
+    "text": "the sons of Lod, Hadid and Ono, 725;"
+  },
+  {
+    "pk": 843689,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 34,
+    "text": "the men of Jericho, 345;"
+  },
+  {
+    "pk": 843690,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 35,
+    "text": "the sons of Senaah, 3,630."
+  },
+  {
+    "pk": 843691,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 36,
+    "text": "The priests: the sons of Jedaiah of the house of Jeshua, 973;"
+  },
+  {
+    "pk": 843692,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 37,
+    "text": "the sons of Immer, 1,052;"
+  },
+  {
+    "pk": 843693,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 38,
+    "text": "the sons of Pashhur, 1,247;"
+  },
+  {
+    "pk": 843694,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 39,
+    "text": "the sons of Harim, 1,017."
+  },
+  {
+    "pk": 843695,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 40,
+    "text": "The Levites: the sons of Jeshua and Kadmiel, of the sons of Hodaviah, 74."
+  },
+  {
+    "pk": 843696,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 41,
+    "text": "The singers: the sons of Asaph, 128."
+  },
+  {
+    "pk": 843697,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 42,
+    "text": "The sons of the gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, in all 139."
+  },
+  {
+    "pk": 843698,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 43,
+    "text": "The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,"
+  },
+  {
+    "pk": 843699,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 44,
+    "text": "the sons of Keros, the sons of Siaha, the sons of Padon,"
+  },
+  {
+    "pk": 843700,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 45,
+    "text": "the sons of Lebanah, the sons of Hagabah, the sons of Akkub,"
+  },
+  {
+    "pk": 843701,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 46,
+    "text": "the sons of Hagab, the sons of Shalmai, the sons of Hanan,"
+  },
+  {
+    "pk": 843702,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 47,
+    "text": "the sons of Giddel, the sons of Gahar, the sons of Reaiah,"
+  },
+  {
+    "pk": 843703,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 48,
+    "text": "the sons of Rezin, the sons of Nekoda, the sons of Gazzam,"
+  },
+  {
+    "pk": 843704,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 49,
+    "text": "the sons of Uzza, the sons of Paseah, the sons of Besai,"
+  },
+  {
+    "pk": 843705,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 50,
+    "text": "the sons of Asnah, the sons of Meunim, the sons of Nephisim,"
+  },
+  {
+    "pk": 843706,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 51,
+    "text": "the sons of Bakbuk, the sons of Hakupha, the sons of Harhur,"
+  },
+  {
+    "pk": 843707,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 52,
+    "text": "the sons of Bazluth, the sons of Mehida, the sons of Harsha,"
+  },
+  {
+    "pk": 843708,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 53,
+    "text": "the sons of Barkos, the sons of Sisera, the sons of Temah,"
+  },
+  {
+    "pk": 843709,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 54,
+    "text": "the sons of Neziah, the sons of Hatipha."
+  },
+  {
+    "pk": 843710,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 55,
+    "text": "The sons of Solomon's servants: the sons of Sotai, the sons of Hassophereth, the sons of Peruda,"
+  },
+  {
+    "pk": 843711,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 56,
+    "text": "the sons of Jaalah, the sons of Darkon, the sons of Giddel,"
+  },
+  {
+    "pk": 843712,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 57,
+    "text": "the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Ami."
+  },
+  {
+    "pk": 843713,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 58,
+    "text": "All the temple servants and the sons of Solomon's servants were 392."
+  },
+  {
+    "pk": 843714,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 59,
+    "text": "Now these are those who came up from Tel-melah, Tel-harsha, Cherub, Addan [and] Immer, but they were not able to give evidence of their fathers' households and their descendants, whether they were of Israel:"
+  },
+  {
+    "pk": 843715,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 60,
+    "text": "the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 652."
+  },
+  {
+    "pk": 843716,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 61,
+    "text": "Of the sons of the priests: the sons of Habaiah, the sons of Hakkoz, the sons of Barzillai, who took a wife from the daughters of Barzillai the Gileadite, and he was called by their name."
+  },
+  {
+    "pk": 843717,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 62,
+    "text": "These searched [among] their ancestral registration, but they could not be located; therefore they were considered unclean [and excluded] from the priesthood."
+  },
+  {
+    "pk": 843718,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 63,
+    "text": "The governor said to them that they should not eat from the most holy things until a priest stood up with Urim and Thummim."
+  },
+  {
+    "pk": 843719,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 64,
+    "text": "The whole assembly numbered 42,360,"
+  },
+  {
+    "pk": 843720,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 65,
+    "text": "besides their male and female servants who numbered 7,337; and they had 200 singing men and women."
+  },
+  {
+    "pk": 843721,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 66,
+    "text": "Their horses were 736; their mules, 245;"
+  },
+  {
+    "pk": 843722,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 67,
+    "text": "their camels, 435; [their] donkeys, 6,720."
+  },
+  {
+    "pk": 843723,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 68,
+    "text": "Some of the heads of fathers' [households], when they arrived at the house of the LORD which is in Jerusalem, offered willingly for the house of God to restore it on its foundation."
+  },
+  {
+    "pk": 843724,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 69,
+    "text": "According to their ability they gave to the treasury for the work 61,000 gold drachmas and 5,000 silver minas and 100 priestly garments."
+  },
+  {
+    "pk": 843725,
+    "translation": "NASB",
+    "book": 15,
+    "chapter": 2,
+    "verse": 70,
+    "text": "Now the priests and the Levites, some of the people, the singers, the gatekeepers and the temple servants lived in their cities, and all Israel in their cities."
+  }
+];

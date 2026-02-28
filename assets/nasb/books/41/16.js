@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/41/16"] = [
+  {
+    "pk": 856502,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 1,
+    "text": "When the Sabbath was over, Mary Magdalene, and Mary the [mother] of James, and Salome, bought spices, so that they might come and anoint Him."
+  },
+  {
+    "pk": 856503,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 2,
+    "text": "Very early on the first day of the week, they came to the tomb when the sun had risen."
+  },
+  {
+    "pk": 856504,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 3,
+    "text": "They were saying to one another, 'Who will roll away the stone for us from the entrance of the tomb?'"
+  },
+  {
+    "pk": 856505,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 4,
+    "text": "Looking up, they saw that the stone had been rolled away, although it was extremely large."
+  },
+  {
+    "pk": 856506,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 5,
+    "text": "Entering the tomb, they saw a young man sitting at the right, wearing a white robe; and they were amazed."
+  },
+  {
+    "pk": 856507,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 6,
+    "text": "And he said to them, 'Do not be amazed; you are looking for Jesus the Nazarene, who has been crucified. He has risen; He is not here; behold, [here is] the place where they laid Him."
+  },
+  {
+    "pk": 856508,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 7,
+    "text": "'But go, tell His disciples and Peter, 'He is going ahead of you to Galilee; there you will see Him, just as He told you.''"
+  },
+  {
+    "pk": 856509,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 8,
+    "text": "They went out and fled from the tomb, for trembling and astonishment had gripped them; and they said nothing to anyone, for they were afraid."
+  },
+  {
+    "pk": 856510,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 9,
+    "text": "[Now after He had risen early on the first day of the week, He first appeared to Mary Magdalene, from whom He had cast out seven demons."
+  },
+  {
+    "pk": 856511,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 10,
+    "text": "She went and reported to those who had been with Him, while they were mourning and weeping."
+  },
+  {
+    "pk": 856512,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 11,
+    "text": "When they heard that He was alive and had been seen by her, they refused to believe it."
+  },
+  {
+    "pk": 856513,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 12,
+    "text": "After that, He appeared in a different form to two of them while they were walking along on their way to the country."
+  },
+  {
+    "pk": 856514,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 13,
+    "text": "They went away and reported it to the others, but they did not believe them either."
+  },
+  {
+    "pk": 856515,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 14,
+    "text": "Afterward He appeared to the eleven themselves as they were reclining [at the table]; and He reproached them for their unbelief and hardness of heart, because they had not believed those who had seen Him after He had risen."
+  },
+  {
+    "pk": 856516,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 15,
+    "text": "And He said to them, 'Go into all the world and preach the gospel to all creation."
+  },
+  {
+    "pk": 856517,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 16,
+    "text": "'He who has believed and has been baptized shall be saved; but he who has disbelieved shall be condemned."
+  },
+  {
+    "pk": 856518,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 17,
+    "text": "'These signs will accompany those who have believed: in My name they will cast out demons, they will speak with new tongues;"
+  },
+  {
+    "pk": 856519,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 18,
+    "text": "they will pick up serpents, and if they drink any deadly [poison], it will not hurt them; they will lay hands on the sick, and they will recover.'"
+  },
+  {
+    "pk": 856520,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 19,
+    "text": "So then, when the Lord Jesus had spoken to them, He was received up into heaven and sat down at the right hand of God."
+  },
+  {
+    "pk": 856521,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 16,
+    "verse": 20,
+    "text": "And they went out and preached everywhere, while the Lord worked with them, and confirmed the word by the signs that followed]. [[And they promptly reported all these instructions to Peter and his companions. And after that, Jesus Himself sent out through them from east to west the sacred and imperishable proclamation of eternal salvation].]"
+  }
+];

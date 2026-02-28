@@ -1,0 +1,139 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/66/12"] = [
+  {
+    "pk": 862521,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 1,
+    "text": "A great sign appeared in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars;"
+  },
+  {
+    "pk": 862522,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 2,
+    "text": "and she was with child; and she cried out, being in labor and in pain to give birth."
+  },
+  {
+    "pk": 862523,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 3,
+    "text": "Then another sign appeared in heaven: and behold, a great red dragon having seven heads and ten horns, and on his heads [were] seven diadems."
+  },
+  {
+    "pk": 862524,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 4,
+    "text": "And his tail swept away a third of the stars of heaven and threw them to the earth. And the dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child."
+  },
+  {
+    "pk": 862525,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 5,
+    "text": "And she gave birth to a son, a male [child], who is to rule all the nations with a rod of iron; and her child was caught up to God and to His throne."
+  },
+  {
+    "pk": 862526,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 6,
+    "text": "Then the woman fled into the wilderness where she had a place prepared by God, so that there she would be nourished for one thousand two hundred and sixty days."
+  },
+  {
+    "pk": 862527,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 7,
+    "text": "And there was war in heaven, Michael and his angels waging war with the dragon. The dragon and his angels waged war,"
+  },
+  {
+    "pk": 862528,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 8,
+    "text": "and they were not strong enough, and there was no longer a place found for them in heaven."
+  },
+  {
+    "pk": 862529,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 9,
+    "text": "And the great dragon was thrown down, the serpent of old who is called the devil and Satan, who deceives the whole world; he was thrown down to the earth, and his angels were thrown down with him."
+  },
+  {
+    "pk": 862530,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 10,
+    "text": "Then I heard a loud voice in heaven, saying, 'Now the salvation, and the power, and the kingdom of our God and the authority of His Christ have come, for the accuser of our brethren has been thrown down, he who accuses them before our God day and night."
+  },
+  {
+    "pk": 862531,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 11,
+    "text": "'And they overcame him because of the blood of the Lamb and because of the word of their testimony, and they did not love their life even when faced with death."
+  },
+  {
+    "pk": 862532,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 12,
+    "text": "'For this reason, rejoice, O heavens and you who dwell in them. Woe to the earth and the sea, because the devil has come down to you, having great wrath, knowing that he has [only] a short time.'"
+  },
+  {
+    "pk": 862533,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 13,
+    "text": "And when the dragon saw that he was thrown down to the earth, he persecuted the woman who gave birth to the male [child]."
+  },
+  {
+    "pk": 862534,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 14,
+    "text": "But the two wings of the great eagle were given to the woman, so that she could fly into the wilderness to her place, where she was nourished for a time and times and half a time, from the presence of the serpent."
+  },
+  {
+    "pk": 862535,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 15,
+    "text": "And the serpent poured water like a river out of his mouth after the woman, so that he might cause her to be swept away with the flood."
+  },
+  {
+    "pk": 862536,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 16,
+    "text": "But the earth helped the woman, and the earth opened its mouth and drank up the river which the dragon poured out of his mouth."
+  },
+  {
+    "pk": 862537,
+    "translation": "NASB",
+    "book": 66,
+    "chapter": 12,
+    "verse": 17,
+    "text": "So the dragon was enraged with the woman, and went off to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus."
+  }
+];

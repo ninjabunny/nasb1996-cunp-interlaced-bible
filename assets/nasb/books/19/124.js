@@ -1,0 +1,67 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/124"] = [
+  {
+    "pk": 847731,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 1,
+    "text": "A Song of Ascents, of David. 'Had it not been the LORD who was on our side,' Let Israel now say,"
+  },
+  {
+    "pk": 847732,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 2,
+    "text": "'Had it not been the LORD who was on our side When men rose up against us,"
+  },
+  {
+    "pk": 847733,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 3,
+    "text": "Then they would have swallowed us alive, When their anger was kindled against us;"
+  },
+  {
+    "pk": 847734,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 4,
+    "text": "Then the waters would have engulfed us, The stream would have swept over our soul;"
+  },
+  {
+    "pk": 847735,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 5,
+    "text": "Then the raging waters would have swept over our soul.'"
+  },
+  {
+    "pk": 847736,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 6,
+    "text": "Blessed be the LORD, Who has not given us to be torn by their teeth."
+  },
+  {
+    "pk": 847737,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 7,
+    "text": "Our soul has escaped as a bird out of the snare of the trapper; The snare is broken and we have escaped."
+  },
+  {
+    "pk": 847738,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 124,
+    "verse": 8,
+    "text": "Our help is in the name of the LORD, Who made heaven and earth."
+  }
+];

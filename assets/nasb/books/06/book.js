@@ -1,0 +1,5391 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/06/book"] = {
+  "translation": "NASB",
+  "book": 6,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 837480,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 1,
+          "text": "Now it came about after the death of Moses the servant of the LORD, that the LORD spoke to Joshua the son of Nun, Moses' servant, saying,"
+        },
+        {
+          "pk": 837481,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 2,
+          "text": "'Moses My servant is dead; now therefore arise, cross this Jordan, you and all this people, to the land which I am giving to them, to the sons of Israel."
+        },
+        {
+          "pk": 837482,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 3,
+          "text": "'Every place on which the sole of your foot treads, I have given it to you, just as I spoke to Moses."
+        },
+        {
+          "pk": 837483,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 4,
+          "text": "'From the wilderness and this Lebanon, even as far as the great river, the river Euphrates, all the land of the Hittites, and as far as the Great Sea toward the setting of the sun will be your territory."
+        },
+        {
+          "pk": 837484,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 5,
+          "text": "'No man will [be able to] stand before you all the days of your life. Just as I have been with Moses, I will be with you; I will not fail you or forsake you."
+        },
+        {
+          "pk": 837485,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 6,
+          "text": "'Be strong and courageous, for you shall give this people possession of the land which I swore to their fathers to give them."
+        },
+        {
+          "pk": 837486,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 7,
+          "text": "'Only be strong and very courageous; be careful to do according to all the law which Moses My servant commanded you; do not turn from it to the right or to the left, so that you may have success wherever you go."
+        },
+        {
+          "pk": 837487,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 8,
+          "text": "'This book of the law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it; for then you will make your way prosperous, and then you will have success."
+        },
+        {
+          "pk": 837488,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 9,
+          "text": "'Have I not commanded you? Be strong and courageous! Do not tremble or be dismayed, for the LORD your God is with you wherever you go.'"
+        },
+        {
+          "pk": 837489,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 10,
+          "text": "Then Joshua commanded the officers of the people, saying,"
+        },
+        {
+          "pk": 837490,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 11,
+          "text": "'Pass through the midst of the camp and command the people, saying, 'Prepare provisions for yourselves, for within three days you are to cross this Jordan, to go in to possess the land which the LORD your God is giving you, to possess it.''"
+        },
+        {
+          "pk": 837491,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 12,
+          "text": "To the Reubenites and to the Gadites and to the half-tribe of Manasseh, Joshua said,"
+        },
+        {
+          "pk": 837492,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 13,
+          "text": "'Remember the word which Moses the servant of the LORD commanded you, saying, 'The LORD your God gives you rest and will give you this land.'"
+        },
+        {
+          "pk": 837493,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 14,
+          "text": "'Your wives, your little ones, and your cattle shall remain in the land which Moses gave you beyond the Jordan, but you shall cross before your brothers in battle array, all your valiant warriors, and shall help them,"
+        },
+        {
+          "pk": 837494,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 15,
+          "text": "until the LORD gives your brothers rest, as [He gives] you, and they also possess the land which the LORD your God is giving them. Then you shall return to your own land, and possess that which Moses the servant of the LORD gave you beyond the Jordan toward the sunrise.'"
+        },
+        {
+          "pk": 837495,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 16,
+          "text": "They answered Joshua, saying, 'All that you have commanded us we will do, and wherever you send us we will go."
+        },
+        {
+          "pk": 837496,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 17,
+          "text": "'Just as we obeyed Moses in all things, so we will obey you; only may the LORD your God be with you as He was with Moses."
+        },
+        {
+          "pk": 837497,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 1,
+          "verse": 18,
+          "text": "'Anyone who rebels against your command and does not obey your words in all that you command him, shall be put to death; only be strong and courageous.'"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 837498,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 1,
+          "text": "Then Joshua the son of Nun sent two men as spies secretly from Shittim, saying, 'Go, view the land, especially Jericho.' So they went and came into the house of a harlot whose name was Rahab, and lodged there."
+        },
+        {
+          "pk": 837499,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 2,
+          "text": "It was told the king of Jericho, saying, 'Behold, men from the sons of Israel have come here tonight to search out the land.'"
+        },
+        {
+          "pk": 837500,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 3,
+          "text": "And the king of Jericho sent [word] to Rahab, saying, 'Bring out the men who have come to you, who have entered your house, for they have come to search out all the land.'"
+        },
+        {
+          "pk": 837501,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 4,
+          "text": "But the woman had taken the two men and hidden them, and she said, 'Yes, the men came to me, but I did not know where they were from."
+        },
+        {
+          "pk": 837502,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 5,
+          "text": "'It came about when [it was time] to shut the gate at dark, that the men went out; I do not know where the men went. Pursue them quickly, for you will overtake them.'"
+        },
+        {
+          "pk": 837503,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 6,
+          "text": "But she had brought them up to the roof and hidden them in the stalks of flax which she had laid in order on the roof."
+        },
+        {
+          "pk": 837504,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 7,
+          "text": "So the men pursued them on the road to the Jordan to the fords; and as soon as those who were pursuing them had gone out, they shut the gate."
+        },
+        {
+          "pk": 837505,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 8,
+          "text": "Now before they lay down, she came up to them on the roof,"
+        },
+        {
+          "pk": 837506,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 9,
+          "text": "and said to the men, 'I know that the LORD has given you the land, and that the terror of you has fallen on us, and that all the inhabitants of the land have melted away before you."
+        },
+        {
+          "pk": 837507,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 10,
+          "text": "'For we have heard how the LORD dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you utterly destroyed."
+        },
+        {
+          "pk": 837508,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 11,
+          "text": "'When we heard [it], our hearts melted and no courage remained in any man any longer because of you; for the LORD your God, He is God in heaven above and on earth beneath."
+        },
+        {
+          "pk": 837509,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 12,
+          "text": "'Now therefore, please swear to me by the LORD, since I have dealt kindly with you, that you also will deal kindly with my father's household, and give me a pledge of truth,"
+        },
+        {
+          "pk": 837510,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 13,
+          "text": "and spare my father and my mother and my brothers and my sisters, with all who belong to them, and deliver our lives from death.'"
+        },
+        {
+          "pk": 837511,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 14,
+          "text": "So the men said to her, 'Our life for yours if you do not tell this business of ours; and it shall come about when the LORD gives us the land that we will deal kindly and faithfully with you.'"
+        },
+        {
+          "pk": 837512,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 15,
+          "text": "Then she let them down by a rope through the window, for her house was on the city wall, so that she was living on the wall."
+        },
+        {
+          "pk": 837513,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 16,
+          "text": "She said to them, 'Go to the hill country, so that the pursuers will not happen upon you, and hide yourselves there for three days until the pursuers return. Then afterward you may go on your way.'"
+        },
+        {
+          "pk": 837514,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 17,
+          "text": "The men said to her, 'We [shall be] free from this oath to you which you have made us swear,"
+        },
+        {
+          "pk": 837515,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 18,
+          "text": "unless, when we come into the land, you tie this cord of scarlet thread in the window through which you let us down, and gather to yourself into the house your father and your mother and your brothers and all your father's household."
+        },
+        {
+          "pk": 837516,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 19,
+          "text": "'It shall come about that anyone who goes out of the doors of your house into the street, his blood [shall be] on his own head, and we [shall be] free; but anyone who is with you in the house, his blood [shall be] on our head if a hand is [laid] on him."
+        },
+        {
+          "pk": 837517,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 20,
+          "text": "'But if you tell this business of ours, then we shall be free from the oath which you have made us swear.'"
+        },
+        {
+          "pk": 837518,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 21,
+          "text": "She said, 'According to your words, so be it.' So she sent them away, and they departed; and she tied the scarlet cord in the window."
+        },
+        {
+          "pk": 837519,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 22,
+          "text": "They departed and came to the hill country, and remained there for three days until the pursuers returned. Now the pursuers had sought [them] all along the road, but had not found [them]."
+        },
+        {
+          "pk": 837520,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 23,
+          "text": "Then the two men returned and came down from the hill country and crossed over and came to Joshua the son of Nun, and they related to him all that had happened to them."
+        },
+        {
+          "pk": 837521,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 2,
+          "verse": 24,
+          "text": "They said to Joshua, 'Surely the LORD has given all the land into our hands; moreover, all the inhabitants of the land have melted away before us.'"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 837522,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 1,
+          "text": "Then Joshua rose early in the morning; and he and all the sons of Israel set out from Shittim and came to the Jordan, and they lodged there before they crossed."
+        },
+        {
+          "pk": 837523,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 2,
+          "text": "At the end of three days the officers went through the midst of the camp;"
+        },
+        {
+          "pk": 837524,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 3,
+          "text": "and they commanded the people, saying, 'When you see the ark of the covenant of the LORD your God with the Levitical priests carrying it, then you shall set out from your place and go after it."
+        },
+        {
+          "pk": 837525,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 4,
+          "text": "'However, there shall be between you and it a distance of about 2,000 cubits by measure. Do not come near it, that you may know the way by which you shall go, for you have not passed this way before.'"
+        },
+        {
+          "pk": 837526,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 5,
+          "text": "Then Joshua said to the people, 'Consecrate yourselves, for tomorrow the LORD will do wonders among you.'"
+        },
+        {
+          "pk": 837527,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 6,
+          "text": "And Joshua spoke to the priests, saying, 'Take up the ark of the covenant and cross over ahead of the people.' So they took up the ark of the covenant and went ahead of the people."
+        },
+        {
+          "pk": 837528,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 7,
+          "text": "Now the LORD said to Joshua, 'This day I will begin to exalt you in the sight of all Israel, that they may know that just as I have been with Moses, I will be with you."
+        },
+        {
+          "pk": 837529,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 8,
+          "text": "'You shall, moreover, command the priests who are carrying the ark of the covenant, saying, 'When you come to the edge of the waters of the Jordan, you shall stand [still] in the Jordan.''"
+        },
+        {
+          "pk": 837530,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 9,
+          "text": "Then Joshua said to the sons of Israel, 'Come here, and hear the words of the LORD your God.'"
+        },
+        {
+          "pk": 837531,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 10,
+          "text": "Joshua said, 'By this you shall know that the living God is among you, and that He will assuredly dispossess from before you the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite."
+        },
+        {
+          "pk": 837532,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 11,
+          "text": "'Behold, the ark of the covenant of the Lord of all the earth is crossing over ahead of you into the Jordan."
+        },
+        {
+          "pk": 837533,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 12,
+          "text": "'Now then, take for yourselves twelve men from the tribes of Israel, one man for each tribe."
+        },
+        {
+          "pk": 837534,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 13,
+          "text": "'It shall come about when the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, [and] the waters which are flowing down from above will stand in one heap.'"
+        },
+        {
+          "pk": 837535,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 14,
+          "text": "So when the people set out from their tents to cross the Jordan with the priests carrying the ark of the covenant before the people,"
+        },
+        {
+          "pk": 837536,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 15,
+          "text": "and when those who carried the ark came into the Jordan, and the feet of the priests carrying the ark were dipped in the edge of the water (for the Jordan overflows all its banks all the days of harvest),"
+        },
+        {
+          "pk": 837537,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 16,
+          "text": "the waters which were flowing down from above stood [and] rose up in one heap, a great distance away at Adam, the city that is beside Zarethan; and those which were flowing down toward the sea of the Arabah, the Salt Sea, were completely cut off. So the people crossed opposite Jericho."
+        },
+        {
+          "pk": 837538,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 3,
+          "verse": 17,
+          "text": "And the priests who carried the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan while all Israel crossed on dry ground, until all the nation had finished crossing the Jordan."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 837539,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now when all the nation had finished crossing the Jordan, the LORD spoke to Joshua, saying,"
+        },
+        {
+          "pk": 837540,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 2,
+          "text": "'Take for yourselves twelve men from the people, one man from each tribe,"
+        },
+        {
+          "pk": 837541,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 3,
+          "text": "and command them, saying, 'Take up for yourselves twelve stones from here out of the middle of the Jordan, from the place where the priests' feet are standing firm, and carry them over with you and lay them down in the lodging place where you will lodge tonight.''"
+        },
+        {
+          "pk": 837542,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 4,
+          "text": "So Joshua called the twelve men whom he had appointed from the sons of Israel, one man from each tribe;"
+        },
+        {
+          "pk": 837543,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 5,
+          "text": "and Joshua said to them, 'Cross again to the ark of the LORD your God into the middle of the Jordan, and each of you take up a stone on his shoulder, according to the number of the tribes of the sons of Israel."
+        },
+        {
+          "pk": 837544,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 6,
+          "text": "'Let this be a sign among you, so that when your children ask later, saying, 'What do these stones mean to you?'"
+        },
+        {
+          "pk": 837545,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 7,
+          "text": "then you shall say to them, 'Because the waters of the Jordan were cut off before the ark of the covenant of the LORD; when it crossed the Jordan, the waters of the Jordan were cut off.' So these stones shall become a memorial to the sons of Israel forever.'"
+        },
+        {
+          "pk": 837546,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 8,
+          "text": "Thus the sons of Israel did as Joshua commanded, and took up twelve stones from the middle of the Jordan, just as the LORD spoke to Joshua, according to the number of the tribes of the sons of Israel; and they carried them over with them to the lodging place and put them down there."
+        },
+        {
+          "pk": 837547,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 9,
+          "text": "Then Joshua set up twelve stones in the middle of the Jordan at the place where the feet of the priests who carried the ark of the covenant were standing, and they are there to this day."
+        },
+        {
+          "pk": 837548,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 10,
+          "text": "For the priests who carried the ark were standing in the middle of the Jordan until everything was completed that the LORD had commanded Joshua to speak to the people, according to all that Moses had commanded Joshua. And the people hurried and crossed;"
+        },
+        {
+          "pk": 837549,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 11,
+          "text": "and when all the people had finished crossing, the ark of the LORD and the priests crossed before the people."
+        },
+        {
+          "pk": 837550,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 12,
+          "text": "The sons of Reuben and the sons of Gad and the half-tribe of Manasseh crossed over in battle array before the sons of Israel, just as Moses had spoken to them;"
+        },
+        {
+          "pk": 837551,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 13,
+          "text": "about 40,000 equipped for war, crossed for battle before the LORD to the desert plains of Jericho."
+        },
+        {
+          "pk": 837552,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 14,
+          "text": "On that day the LORD exalted Joshua in the sight of all Israel; so that they revered him, just as they had revered Moses all the days of his life."
+        },
+        {
+          "pk": 837553,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 15,
+          "text": "Now the LORD said to Joshua,"
+        },
+        {
+          "pk": 837554,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 16,
+          "text": "'Command the priests who carry the ark of the testimony that they come up from the Jordan.'"
+        },
+        {
+          "pk": 837555,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 17,
+          "text": "So Joshua commanded the priests, saying, 'Come up from the Jordan.'"
+        },
+        {
+          "pk": 837556,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 18,
+          "text": "It came about when the priests who carried the ark of the covenant of the LORD had come up from the middle of the Jordan, and the soles of the priests' feet were lifted up to the dry ground, that the waters of the Jordan returned to their place, and went over all its banks as before."
+        },
+        {
+          "pk": 837557,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 19,
+          "text": "Now the people came up from the Jordan on the tenth of the first month and camped at Gilgal on the eastern edge of Jericho."
+        },
+        {
+          "pk": 837558,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 20,
+          "text": "Those twelve stones which they had taken from the Jordan, Joshua set up at Gilgal."
+        },
+        {
+          "pk": 837559,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 21,
+          "text": "He said to the sons of Israel, 'When your children ask their fathers in time to come, saying, 'What are these stones?'"
+        },
+        {
+          "pk": 837560,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 22,
+          "text": "then you shall inform your children, saying, 'Israel crossed this Jordan on dry ground.'"
+        },
+        {
+          "pk": 837561,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 23,
+          "text": "'For the LORD your God dried up the waters of the Jordan before you until you had crossed, just as the LORD your God had done to the Red Sea, which He dried up before us until we had crossed;"
+        },
+        {
+          "pk": 837562,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 4,
+          "verse": 24,
+          "text": "that all the peoples of the earth may know that the hand of the LORD is mighty, so that you may fear the LORD your God forever.'"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 837563,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Now it came about when all the kings of the Amorites who [were] beyond the Jordan to the west, and all the kings of the Canaanites who [were] by the sea, heard how the LORD had dried up the waters of the Jordan before the sons of Israel until they had crossed, that their hearts melted, and there was no spirit in them any longer because of the sons of Israel."
+        },
+        {
+          "pk": 837564,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 2,
+          "text": "At that time the LORD said to Joshua, 'Make for yourself flint knives and circumcise again the sons of Israel the second time.'"
+        },
+        {
+          "pk": 837565,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 3,
+          "text": "So Joshua made himself flint knives and circumcised the sons of Israel at Gibeath-haaraloth."
+        },
+        {
+          "pk": 837566,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 4,
+          "text": "This is the reason why Joshua circumcised them: all the people who came out of Egypt who were males, all the men of war, died in the wilderness along the way after they came out of Egypt."
+        },
+        {
+          "pk": 837567,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 5,
+          "text": "For all the people who came out were circumcised, but all the people who were born in the wilderness along the way as they came out of Egypt had not been circumcised."
+        },
+        {
+          "pk": 837568,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 6,
+          "text": "For the sons of Israel walked forty years in the wilderness, until all the nation, [that is], the men of war who came out of Egypt, perished because they did not listen to the voice of the LORD, to whom the LORD had sworn that He would not let them see the land which the LORD had sworn to their fathers to give us, a land flowing with milk and honey."
+        },
+        {
+          "pk": 837569,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 7,
+          "text": "Their children whom He raised up in their place, Joshua circumcised; for they were uncircumcised, because they had not circumcised them along the way."
+        },
+        {
+          "pk": 837570,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 8,
+          "text": "Now when they had finished circumcising all the nation, they remained in their places in the camp until they were healed."
+        },
+        {
+          "pk": 837571,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then the LORD said to Joshua, 'Today I have rolled away the reproach of Egypt from you.' So the name of that place is called Gilgal to this day."
+        },
+        {
+          "pk": 837572,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 10,
+          "text": "While the sons of Israel camped at Gilgal they observed the Passover on the evening of the fourteenth day of the month on the desert plains of Jericho."
+        },
+        {
+          "pk": 837573,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 11,
+          "text": "On the day after the Passover, on that very day, they ate some of the produce of the land, unleavened cakes and parched [grain]."
+        },
+        {
+          "pk": 837574,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 12,
+          "text": "The manna ceased on the day after they had eaten some of the produce of the land, so that the sons of Israel no longer had manna, but they ate some of the yield of the land of Canaan during that year."
+        },
+        {
+          "pk": 837575,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 13,
+          "text": "Now it came about when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, a man was standing opposite him with his sword drawn in his hand, and Joshua went to him and said to him, 'Are you for us or for our adversaries?'"
+        },
+        {
+          "pk": 837576,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 14,
+          "text": "He said, 'No; rather I indeed come now [as] captain of the host of the LORD.' And Joshua fell on his face to the earth, and bowed down, and said to him, 'What has my lord to say to his servant?'"
+        },
+        {
+          "pk": 837577,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 5,
+          "verse": 15,
+          "text": "The captain of the LORD'S host said to Joshua, 'Remove your sandals from your feet, for the place where you are standing is holy.' And Joshua did so."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 837578,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 1,
+          "text": "Now Jericho was tightly shut because of the sons of Israel; no one went out and no one came in."
+        },
+        {
+          "pk": 837579,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 2,
+          "text": "The LORD said to Joshua, 'See, I have given Jericho into your hand, with its king [and] the valiant warriors."
+        },
+        {
+          "pk": 837580,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 3,
+          "text": "'You shall march around the city, all the men of war circling the city once. You shall do so for six days."
+        },
+        {
+          "pk": 837581,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 4,
+          "text": "'Also seven priests shall carry seven trumpets of rams' horns before the ark; then on the seventh day you shall march around the city seven times, and the priests shall blow the trumpets."
+        },
+        {
+          "pk": 837582,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 5,
+          "text": "'It shall be that when they make a long blast with the ram's horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city will fall down flat, and the people will go up every man straight ahead.'"
+        },
+        {
+          "pk": 837583,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 6,
+          "text": "So Joshua the son of Nun called the priests and said to them, 'Take up the ark of the covenant, and let seven priests carry seven trumpets of rams' horns before the ark of the LORD.'"
+        },
+        {
+          "pk": 837584,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 7,
+          "text": "Then he said to the people, 'Go forward, and march around the city, and let the armed men go on before the ark of the LORD.'"
+        },
+        {
+          "pk": 837585,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 8,
+          "text": "And it was [so], that when Joshua had spoken to the people, the seven priests carrying the seven trumpets of rams' horns before the LORD went forward and blew the trumpets; and the ark of the covenant of the LORD followed them."
+        },
+        {
+          "pk": 837586,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 9,
+          "text": "The armed men went before the priests who blew the trumpets, and the rear guard came after the ark, while they continued to blow the trumpets."
+        },
+        {
+          "pk": 837587,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 10,
+          "text": "But Joshua commanded the people, saying, 'You shall not shout nor let your voice be heard nor let a word proceed out of your mouth, until the day I tell you, 'Shout!' Then you shall shout!'"
+        },
+        {
+          "pk": 837588,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 11,
+          "text": "So he had the ark of the LORD taken around the city, circling [it] once; then they came into the camp and spent the night in the camp."
+        },
+        {
+          "pk": 837589,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 12,
+          "text": "Now Joshua rose early in the morning, and the priests took up the ark of the LORD."
+        },
+        {
+          "pk": 837590,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 13,
+          "text": "The seven priests carrying the seven trumpets of rams' horns before the ark of the LORD went on continually, and blew the trumpets; and the armed men went before them and the rear guard came after the ark of the LORD, while they continued to blow the trumpets."
+        },
+        {
+          "pk": 837591,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 14,
+          "text": "Thus the second day they marched around the city once and returned to the camp; they did so for six days."
+        },
+        {
+          "pk": 837592,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 15,
+          "text": "Then on the seventh day they rose early at the dawning of the day and marched around the city in the same manner seven times; only on that day they marched around the city seven times."
+        },
+        {
+          "pk": 837593,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 16,
+          "text": "At the seventh time, when the priests blew the trumpets, Joshua said to the people, 'Shout! For the LORD has given you the city."
+        },
+        {
+          "pk": 837594,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 17,
+          "text": "'The city shall be under the ban, it and all that is in it belongs to the LORD; only Rahab the harlot and all who are with her in the house shall live, because she hid the messengers whom we sent."
+        },
+        {
+          "pk": 837595,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 18,
+          "text": "'But as for you, only keep yourselves from the things under the ban, so that you do not covet [them] and take some of the things under the ban, and make the camp of Israel accursed and bring trouble on it."
+        },
+        {
+          "pk": 837596,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 19,
+          "text": "'But all the silver and gold and articles of bronze and iron are holy to the LORD; they shall go into the treasury of the LORD.'"
+        },
+        {
+          "pk": 837597,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 20,
+          "text": "So the people shouted, and [priests] blew the trumpets; and when the people heard the sound of the trumpet, the people shouted with a great shout and the wall fell down flat, so that the people went up into the city, every man straight ahead, and they took the city."
+        },
+        {
+          "pk": 837598,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 21,
+          "text": "They utterly destroyed everything in the city, both man and woman, young and old, and ox and sheep and donkey, with the edge of the sword."
+        },
+        {
+          "pk": 837599,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 22,
+          "text": "Joshua said to the two men who had spied out the land, 'Go into the harlot's house and bring the woman and all she has out of there, as you have sworn to her.'"
+        },
+        {
+          "pk": 837600,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 23,
+          "text": "So the young men who were spies went in and brought out Rahab and her father and her mother and her brothers and all she had; they also brought out all her relatives and placed them outside the camp of Israel."
+        },
+        {
+          "pk": 837601,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 24,
+          "text": "They burned the city with fire, and all that was in it. Only the silver and gold, and articles of bronze and iron, they put into the treasury of the house of the LORD."
+        },
+        {
+          "pk": 837602,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 25,
+          "text": "However, Rahab the harlot and her father's household and all she had, Joshua spared; and she has lived in the midst of Israel to this day, for she hid the messengers whom Joshua sent to spy out Jericho."
+        },
+        {
+          "pk": 837603,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 26,
+          "text": "Then Joshua made them take an oath at that time, saying, 'Cursed before the LORD is the man who rises up and builds this city Jericho; with [the loss of] his firstborn he shall lay its foundation, and with [the loss of] his youngest son he shall set up its gates.'"
+        },
+        {
+          "pk": 837604,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 6,
+          "verse": 27,
+          "text": "So the LORD was with Joshua, and his fame was in all the land."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 837605,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 1,
+          "text": "But the sons of Israel acted unfaithfully in regard to the things under the ban, for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, from the tribe of Judah, took some of the things under the ban, therefore the anger of the LORD burned against the sons of Israel."
+        },
+        {
+          "pk": 837606,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 2,
+          "text": "Now Joshua sent men from Jericho to Ai, which is near Beth-aven, east of Bethel, and said to them, 'Go up and spy out the land.' So the men went up and spied out Ai."
+        },
+        {
+          "pk": 837607,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 3,
+          "text": "They returned to Joshua and said to him, 'Do not let all the people go up; [only] about two or three thousand men need go up to Ai; do not make all the people toil up there, for they are few.'"
+        },
+        {
+          "pk": 837608,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 4,
+          "text": "So about three thousand men from the people went up there, but they fled from the men of Ai."
+        },
+        {
+          "pk": 837609,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 5,
+          "text": "The men of Ai struck down about thirty-six of their men, and pursued them from the gate as far as Shebarim and struck them down on the descent, so the hearts of the people melted and became as water."
+        },
+        {
+          "pk": 837610,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 6,
+          "text": "Then Joshua tore his clothes and fell to the earth on his face before the ark of the LORD until the evening, [both] he and the elders of Israel; and they put dust on their heads."
+        },
+        {
+          "pk": 837611,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 7,
+          "text": "Joshua said, 'Alas, O Lord GOD, why did You ever bring this people over the Jordan, [only] to deliver us into the hand of the Amorites, to destroy us? If only we had been willing to dwell beyond the Jordan!"
+        },
+        {
+          "pk": 837612,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 8,
+          "text": "'O Lord, what can I say since Israel has turned [their] back before their enemies?"
+        },
+        {
+          "pk": 837613,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 9,
+          "text": "'For the Canaanites and all the inhabitants of the land will hear of it, and they will surround us and cut off our name from the earth. And what will You do for Your great name?'"
+        },
+        {
+          "pk": 837614,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 10,
+          "text": "So the LORD said to Joshua, 'Rise up! Why is it that you have fallen on your face?"
+        },
+        {
+          "pk": 837615,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 11,
+          "text": "'Israel has sinned, and they have also transgressed My covenant which I commanded them. And they have even taken some of the things under the ban and have both stolen and deceived. Moreover, they have also put [them] among their own things."
+        },
+        {
+          "pk": 837616,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 12,
+          "text": "'Therefore the sons of Israel cannot stand before their enemies; they turn [their] backs before their enemies, for they have become accursed. I will not be with you anymore unless you destroy the things under the ban from your midst."
+        },
+        {
+          "pk": 837617,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 13,
+          "text": "'Rise up! Consecrate the people and say, 'Consecrate yourselves for tomorrow, for thus the LORD, the God of Israel, has said, 'There are things under the ban in your midst, O Israel. You cannot stand before your enemies until you have removed the things under the ban from your midst.'"
+        },
+        {
+          "pk": 837618,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 14,
+          "text": "'In the morning then you shall come near by your tribes. And it shall be that the tribe which the LORD takes [by lot] shall come near by families, and the family which the LORD takes shall come near by households, and the household which the LORD takes shall come near man by man."
+        },
+        {
+          "pk": 837619,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 15,
+          "text": "'It shall be that the one who is taken with the things under the ban shall be burned with fire, he and all that belongs to him, because he has transgressed the covenant of the LORD, and because he has committed a disgraceful thing in Israel.''"
+        },
+        {
+          "pk": 837620,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 16,
+          "text": "So Joshua arose early in the morning and brought Israel near by tribes, and the tribe of Judah was taken."
+        },
+        {
+          "pk": 837621,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 17,
+          "text": "He brought the family of Judah near, and he took the family of the Zerahites; and he brought the family of the Zerahites near man by man, and Zabdi was taken."
+        },
+        {
+          "pk": 837622,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 18,
+          "text": "He brought his household near man by man; and Achan, son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, was taken."
+        },
+        {
+          "pk": 837623,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 19,
+          "text": "Then Joshua said to Achan, 'My son, I implore you, give glory to the LORD, the God of Israel, and give praise to Him; and tell me now what you have done. Do not hide it from me.'"
+        },
+        {
+          "pk": 837624,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 20,
+          "text": "So Achan answered Joshua and said, 'Truly, I have sinned against the LORD, the God of Israel, and this is what I did:"
+        },
+        {
+          "pk": 837625,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 21,
+          "text": "when I saw among the spoil a beautiful mantle from Shinar and two hundred shekels of silver and a bar of gold fifty shekels in weight, then I coveted them and took them; and behold, they are concealed in the earth inside my tent with the silver underneath it.'"
+        },
+        {
+          "pk": 837626,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 22,
+          "text": "So Joshua sent messengers, and they ran to the tent; and behold, it was concealed in his tent with the silver underneath it."
+        },
+        {
+          "pk": 837627,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 23,
+          "text": "They took them from inside the tent and brought them to Joshua and to all the sons of Israel, and they poured them out before the LORD."
+        },
+        {
+          "pk": 837628,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 24,
+          "text": "Then Joshua and all Israel with him, took Achan the son of Zerah, the silver, the mantle, the bar of gold, his sons, his daughters, his oxen, his donkeys, his sheep, his tent and all that belonged to him; and they brought them up to the valley of Achor."
+        },
+        {
+          "pk": 837629,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 25,
+          "text": "Joshua said, 'Why have you troubled us? The LORD will trouble you this day.' And all Israel stoned them with stones; and they burned them with fire after they had stoned them with stones."
+        },
+        {
+          "pk": 837630,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 7,
+          "verse": 26,
+          "text": "They raised over him a great heap of stones that stands to this day, and the LORD turned from the fierceness of His anger. Therefore the name of that place has been called the valley of Achor to this day."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 837631,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 1,
+          "text": "Now the LORD said to Joshua, 'Do not fear or be dismayed. Take all the people of war with you and arise, go up to Ai; see, I have given into your hand the king of Ai, his people, his city, and his land."
+        },
+        {
+          "pk": 837632,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 2,
+          "text": "'You shall do to Ai and its king just as you did to Jericho and its king; you shall take only its spoil and its cattle as plunder for yourselves. Set an ambush for the city behind it.'"
+        },
+        {
+          "pk": 837633,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 3,
+          "text": "So Joshua rose with all the people of war to go up to Ai; and Joshua chose 30,000 men, valiant warriors, and sent them out at night."
+        },
+        {
+          "pk": 837634,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 4,
+          "text": "He commanded them, saying, 'See, you are going to ambush the city from behind it. Do not go very far from the city, but all of you be ready."
+        },
+        {
+          "pk": 837635,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 5,
+          "text": "'Then I and all the people who are with me will approach the city. And when they come out to meet us as at the first, we will flee before them."
+        },
+        {
+          "pk": 837636,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 6,
+          "text": "'They will come out after us until we have drawn them away from the city, for they will say, '[They] are fleeing before us as at the first.' So we will flee before them."
+        },
+        {
+          "pk": 837637,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 7,
+          "text": "'And you shall rise from [your] ambush and take possession of the city, for the LORD your God will deliver it into your hand."
+        },
+        {
+          "pk": 837638,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 8,
+          "text": "'Then it will be when you have seized the city, that you shall set the city on fire. You shall do [it] according to the word of the LORD. See, I have commanded you.'"
+        },
+        {
+          "pk": 837639,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 9,
+          "text": "So Joshua sent them away, and they went to the place of ambush and remained between Bethel and Ai, on the west side of Ai; but Joshua spent that night among the people."
+        },
+        {
+          "pk": 837640,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 10,
+          "text": "Now Joshua rose early in the morning and mustered the people, and he went up with the elders of Israel before the people to Ai."
+        },
+        {
+          "pk": 837641,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 11,
+          "text": "Then all the people of war who [were] with him went up and drew near and arrived in front of the city, and camped on the north side of Ai. Now [there was] a valley between him and Ai."
+        },
+        {
+          "pk": 837642,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 12,
+          "text": "And he took about 5,000 men and set them in ambush between Bethel and Ai, on the west side of the city."
+        },
+        {
+          "pk": 837643,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 13,
+          "text": "So they stationed the people, all the army that was on the north side of the city, and its rear guard on the west side of the city, and Joshua spent that night in the midst of the valley."
+        },
+        {
+          "pk": 837644,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 14,
+          "text": "It came about when the king of Ai saw [it], that the men of the city hurried and rose up early and went out to meet Israel in battle, he and all his people at the appointed place before the desert plain. But he did not know that [there was] an ambush against him behind the city."
+        },
+        {
+          "pk": 837645,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 15,
+          "text": "Joshua and all Israel pretended to be beaten before them, and fled by the way of the wilderness."
+        },
+        {
+          "pk": 837646,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 16,
+          "text": "And all the people who were in the city were called together to pursue them, and they pursued Joshua and were drawn away from the city."
+        },
+        {
+          "pk": 837647,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 17,
+          "text": "So not a man was left in Ai or Bethel who had not gone out after Israel, and they left the city unguarded and pursued Israel."
+        },
+        {
+          "pk": 837648,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 18,
+          "text": "Then the LORD said to Joshua, 'Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.' So Joshua stretched out the javelin that was in his hand toward the city."
+        },
+        {
+          "pk": 837649,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 19,
+          "text": "The [men in] ambush rose quickly from their place, and when he had stretched out his hand, they ran and entered the city and captured it, and they quickly set the city on fire."
+        },
+        {
+          "pk": 837650,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 20,
+          "text": "When the men of Ai turned back and looked, behold, the smoke of the city ascended to the sky, and they had no place to flee this way or that, for the people who had been fleeing to the wilderness turned against the pursuers."
+        },
+        {
+          "pk": 837651,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 21,
+          "text": "When Joshua and all Israel saw that the [men in] ambush had captured the city and that the smoke of the city ascended, they turned back and slew the men of Ai."
+        },
+        {
+          "pk": 837652,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 22,
+          "text": "The others came out from the city to encounter them, so that they were [trapped] in the midst of Israel, some on this side and some on that side; and they slew them until no one was left of those who survived or escaped."
+        },
+        {
+          "pk": 837653,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 23,
+          "text": "But they took alive the king of Ai and brought him to Joshua."
+        },
+        {
+          "pk": 837654,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 24,
+          "text": "Now when Israel had finished killing all the inhabitants of Ai in the field in the wilderness where they pursued them, and all of them were fallen by the edge of the sword until they were destroyed, then all Israel returned to Ai and struck it with the edge of the sword."
+        },
+        {
+          "pk": 837655,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 25,
+          "text": "All who fell that day, both men and women, were 12,000-- all the people of Ai."
+        },
+        {
+          "pk": 837656,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 26,
+          "text": "For Joshua did not withdraw his hand with which he stretched out the javelin until he had utterly destroyed all the inhabitants of Ai."
+        },
+        {
+          "pk": 837657,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 27,
+          "text": "Israel took only the cattle and the spoil of that city as plunder for themselves, according to the word of the LORD which He had commanded Joshua."
+        },
+        {
+          "pk": 837658,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 28,
+          "text": "So Joshua burned Ai and made it a heap forever, a desolation until this day."
+        },
+        {
+          "pk": 837659,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 29,
+          "text": "He hanged the king of Ai on a tree until evening; and at sunset Joshua gave command and they took his body down from the tree and threw it at the entrance of the city gate, and raised over it a great heap of stones [that stands] to this day."
+        },
+        {
+          "pk": 837660,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 30,
+          "text": "Then Joshua built an altar to the LORD, the God of Israel, in Mount Ebal,"
+        },
+        {
+          "pk": 837661,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 31,
+          "text": "just as Moses the servant of the LORD had commanded the sons of Israel, as it is written in the book of the law of Moses, an altar of uncut stones on which no man had wielded an iron [tool]; and they offered burnt offerings on it to the LORD, and sacrificed peace offerings."
+        },
+        {
+          "pk": 837662,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 32,
+          "text": "He wrote there on the stones a copy of the law of Moses, which he had written, in the presence of the sons of Israel."
+        },
+        {
+          "pk": 837663,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 33,
+          "text": "All Israel with their elders and officers and their judges were standing on both sides of the ark before the Levitical priests who carried the ark of the covenant of the LORD, the stranger as well as the native. Half of them [stood] in front of Mount Gerizim and half of them in front of Mount Ebal, just as Moses the servant of the LORD had given command at first to bless the people of Israel."
+        },
+        {
+          "pk": 837664,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 34,
+          "text": "Then afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law."
+        },
+        {
+          "pk": 837665,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 8,
+          "verse": 35,
+          "text": "There was not a word of all that Moses had commanded which Joshua did not read before all the assembly of Israel with the women and the little ones and the strangers who were living among them."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 837666,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 1,
+          "text": "Now it came about when all the kings who were beyond the Jordan, in the hill country and in the lowland and on all the coast of the Great Sea toward Lebanon, the Hittite and the Amorite, the Canaanite, the Perizzite, the Hivite and the Jebusite, heard of it,"
+        },
+        {
+          "pk": 837667,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 2,
+          "text": "that they gathered themselves together with one accord to fight with Joshua and with Israel."
+        },
+        {
+          "pk": 837668,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 3,
+          "text": "When the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,"
+        },
+        {
+          "pk": 837669,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 4,
+          "text": "they also acted craftily and set out as envoys, and took worn-out sacks on their donkeys, and wineskins worn-out and torn and mended,"
+        },
+        {
+          "pk": 837670,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 5,
+          "text": "and worn-out and patched sandals on their feet, and worn-out clothes on themselves; and all the bread of their provision was dry [and] had become crumbled."
+        },
+        {
+          "pk": 837671,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 6,
+          "text": "They went to Joshua to the camp at Gilgal and said to him and to the men of Israel, 'We have come from a far country; now therefore, make a covenant with us.'"
+        },
+        {
+          "pk": 837672,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 7,
+          "text": "The men of Israel said to the Hivites, 'Perhaps you are living within our land; how then shall we make a covenant with you?'"
+        },
+        {
+          "pk": 837673,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 8,
+          "text": "But they said to Joshua, 'We are your servants.' Then Joshua said to them, 'Who are you and where do you come from?'"
+        },
+        {
+          "pk": 837674,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 9,
+          "text": "They said to him, 'Your servants have come from a very far country because of the fame of the LORD your God; for we have heard the report of Him and all that He did in Egypt,"
+        },
+        {
+          "pk": 837675,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 10,
+          "text": "and all that He did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan who was at Ashtaroth."
+        },
+        {
+          "pk": 837676,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 11,
+          "text": "'So our elders and all the inhabitants of our country spoke to us, saying, 'Take provisions in your hand for the journey, and go to meet them and say to them, 'We are your servants; now then, make a covenant with us.''"
+        },
+        {
+          "pk": 837677,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 12,
+          "text": "'This our bread [was] warm [when] we took it for our provisions out of our houses on the day that we left to come to you; but now behold, it is dry and has become crumbled."
+        },
+        {
+          "pk": 837678,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 13,
+          "text": "'These wineskins which we filled were new, and behold, they are torn; and these our clothes and our sandals are worn out because of the very long journey.'"
+        },
+        {
+          "pk": 837679,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 14,
+          "text": "So the men [of Israel] took some of their provisions, and did not ask for the counsel of the LORD."
+        },
+        {
+          "pk": 837680,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 15,
+          "text": "Joshua made peace with them and made a covenant with them, to let them live; and the leaders of the congregation swore [an oath] to them."
+        },
+        {
+          "pk": 837681,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 16,
+          "text": "It came about at the end of three days after they had made a covenant with them, that they heard that they were neighbors and that they were living within their land."
+        },
+        {
+          "pk": 837682,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 17,
+          "text": "Then the sons of Israel set out and came to their cities on the third day. Now their cities [were] Gibeon and Chephirah and Beeroth and Kiriath-jearim."
+        },
+        {
+          "pk": 837683,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 18,
+          "text": "The sons of Israel did not strike them because the leaders of the congregation had sworn to them by the LORD the God of Israel. And the whole congregation grumbled against the leaders."
+        },
+        {
+          "pk": 837684,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 19,
+          "text": "But all the leaders said to the whole congregation, 'We have sworn to them by the LORD, the God of Israel, and now we cannot touch them."
+        },
+        {
+          "pk": 837685,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 20,
+          "text": "'This we will do to them, even let them live, so that wrath will not be upon us for the oath which we swore to them.'"
+        },
+        {
+          "pk": 837686,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 21,
+          "text": "The leaders said to them, 'Let them live.' So they became hewers of wood and drawers of water for the whole congregation, just as the leaders had spoken to them."
+        },
+        {
+          "pk": 837687,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 22,
+          "text": "Then Joshua called for them and spoke to them, saying, 'Why have you deceived us, saying, 'We are very far from you,' when you are living within our land?"
+        },
+        {
+          "pk": 837688,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 23,
+          "text": "'Now therefore, you are cursed, and you shall never cease being slaves, both hewers of wood and drawers of water for the house of my God.'"
+        },
+        {
+          "pk": 837689,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 24,
+          "text": "So they answered Joshua and said, 'Because it was certainly told your servants that the LORD your God had commanded His servant Moses to give you all the land, and to destroy all the inhabitants of the land before you; therefore we feared greatly for our lives because of you, and have done this thing."
+        },
+        {
+          "pk": 837690,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 25,
+          "text": "'Now behold, we are in your hands; do as it seems good and right in your sight to do to us.'"
+        },
+        {
+          "pk": 837691,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 26,
+          "text": "Thus he did to them, and delivered them from the hands of the sons of Israel, and they did not kill them."
+        },
+        {
+          "pk": 837692,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 9,
+          "verse": 27,
+          "text": "But Joshua made them that day hewers of wood and drawers of water for the congregation and for the altar of the LORD, to this day, in the place which He would choose."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 837693,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 1,
+          "text": "Now it came about when Adoni-zedek king of Jerusalem heard that Joshua had captured Ai, and had utterly destroyed it (just as he had done to Jericho and its king, so he had done to Ai and its king), and that the inhabitants of Gibeon had made peace with Israel and were within their land,"
+        },
+        {
+          "pk": 837694,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 2,
+          "text": "that he feared greatly, because Gibeon [was] a great city, like one of the royal cities, and because it was greater than Ai, and all its men [were] mighty."
+        },
+        {
+          "pk": 837695,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 3,
+          "text": "Therefore Adoni-zedek king of Jerusalem sent [word] to Hoham king of Hebron and to Piram king of Jarmuth and to Japhia king of Lachish and to Debir king of Eglon, saying,"
+        },
+        {
+          "pk": 837696,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 4,
+          "text": "'Come up to me and help me, and let us attack Gibeon, for it has made peace with Joshua and with the sons of Israel.'"
+        },
+        {
+          "pk": 837697,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 5,
+          "text": "So the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, [and] the king of Eglon, gathered together and went up, they with all their armies, and camped by Gibeon and fought against it."
+        },
+        {
+          "pk": 837698,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 6,
+          "text": "Then the men of Gibeon sent [word] to Joshua to the camp at Gilgal, saying, 'Do not abandon your servants; come up to us quickly and save us and help us, for all the kings of the Amorites that live in the hill country have assembled against us.'"
+        },
+        {
+          "pk": 837699,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 7,
+          "text": "So Joshua went up from Gilgal, he and all the people of war with him and all the valiant warriors."
+        },
+        {
+          "pk": 837700,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 8,
+          "text": "The LORD said to Joshua, 'Do not fear them, for I have given them into your hands; not one of them shall stand before you.'"
+        },
+        {
+          "pk": 837701,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 9,
+          "text": "So Joshua came upon them suddenly by marching all night from Gilgal."
+        },
+        {
+          "pk": 837702,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 10,
+          "text": "And the LORD confounded them before Israel, and He slew them with a great slaughter at Gibeon, and pursued them by the way of the ascent of Beth-horon and struck them as far as Azekah and Makkedah."
+        },
+        {
+          "pk": 837703,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 11,
+          "text": "As they fled from before Israel, [while] they were at the descent of Beth-horon, the LORD threw large stones from heaven on them as far as Azekah, and they died; [there were] more who died from the hailstones than those whom the sons of Israel killed with the sword."
+        },
+        {
+          "pk": 837704,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 12,
+          "text": "Then Joshua spoke to the LORD in the day when the LORD delivered up the Amorites before the sons of Israel, and he said in the sight of Israel, 'O sun, stand still at Gibeon, And O moon in the valley of Aijalon.'"
+        },
+        {
+          "pk": 837705,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 13,
+          "text": "So the sun stood still, and the moon stopped, Until the nation avenged themselves of their enemies. Is it not written in the book of Jashar? And the sun stopped in the middle of the sky and did not hasten to go [down] for about a whole day."
+        },
+        {
+          "pk": 837706,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 14,
+          "text": "There was no day like that before it or after it, when the LORD listened to the voice of a man; for the LORD fought for Israel."
+        },
+        {
+          "pk": 837707,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 15,
+          "text": "Then Joshua and all Israel with him returned to the camp to Gilgal."
+        },
+        {
+          "pk": 837708,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 16,
+          "text": "Now these five kings had fled and hidden themselves in the cave at Makkedah."
+        },
+        {
+          "pk": 837709,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 17,
+          "text": "It was told Joshua, saying, 'The five kings have been found hidden in the cave at Makkedah.'"
+        },
+        {
+          "pk": 837710,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 18,
+          "text": "Joshua said, 'Roll large stones against the mouth of the cave, and assign men by it to guard them,"
+        },
+        {
+          "pk": 837711,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 19,
+          "text": "but do not stay [there] yourselves; pursue your enemies and attack them in the rear. Do not allow them to enter their cities, for the LORD your God has delivered them into your hand.'"
+        },
+        {
+          "pk": 837712,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 20,
+          "text": "It came about when Joshua and the sons of Israel had finished slaying them with a very great slaughter, until they were destroyed, and the survivors [who] remained of them had entered the fortified cities,"
+        },
+        {
+          "pk": 837713,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 21,
+          "text": "that all the people returned to the camp to Joshua at Makkedah in peace. No one uttered a word against any of the sons of Israel."
+        },
+        {
+          "pk": 837714,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 22,
+          "text": "Then Joshua said, 'Open the mouth of the cave and bring these five kings out to me from the cave.'"
+        },
+        {
+          "pk": 837715,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 23,
+          "text": "They did so, and brought these five kings out to him from the cave: the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, [and] the king of Eglon."
+        },
+        {
+          "pk": 837716,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 24,
+          "text": "When they brought these kings out to Joshua, Joshua called for all the men of Israel, and said to the chiefs of the men of war who had gone with him, 'Come near, put your feet on the necks of these kings.' So they came near and put their feet on their necks."
+        },
+        {
+          "pk": 837717,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 25,
+          "text": "Joshua then said to them, 'Do not fear or be dismayed! Be strong and courageous, for thus the LORD will do to all your enemies with whom you fight.'"
+        },
+        {
+          "pk": 837718,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 26,
+          "text": "So afterward Joshua struck them and put them to death, and he hanged them on five trees; and they hung on the trees until evening."
+        },
+        {
+          "pk": 837719,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 27,
+          "text": "It came about at sunset that Joshua gave a command, and they took them down from the trees and threw them into the cave where they had hidden themselves, and put large stones over the mouth of the cave, to this very day."
+        },
+        {
+          "pk": 837720,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 28,
+          "text": "Now Joshua captured Makkedah on that day, and struck it and its king with the edge of the sword; he utterly destroyed it and every person who was in it. He left no survivor. Thus he did to the king of Makkedah just as he had done to the king of Jericho."
+        },
+        {
+          "pk": 837721,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 29,
+          "text": "Then Joshua and all Israel with him passed on from Makkedah to Libnah, and fought against Libnah."
+        },
+        {
+          "pk": 837722,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 30,
+          "text": "The LORD gave it also with its king into the hands of Israel, and he struck it and every person who [was] in it with the edge of the sword. He left no survivor in it. Thus he did to its king just as he had done to the king of Jericho."
+        },
+        {
+          "pk": 837723,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 31,
+          "text": "And Joshua and all Israel with him passed on from Libnah to Lachish, and they camped by it and fought against it."
+        },
+        {
+          "pk": 837724,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 32,
+          "text": "The LORD gave Lachish into the hands of Israel; and he captured it on the second day, and struck it and every person who [was] in it with the edge of the sword, according to all that he had done to Libnah."
+        },
+        {
+          "pk": 837725,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 33,
+          "text": "Then Horam king of Gezer came up to help Lachish, and Joshua defeated him and his people until he had left him no survivor."
+        },
+        {
+          "pk": 837726,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 34,
+          "text": "And Joshua and all Israel with him passed on from Lachish to Eglon, and they camped by it and fought against it."
+        },
+        {
+          "pk": 837727,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 35,
+          "text": "They captured it on that day and struck it with the edge of the sword; and he utterly destroyed that day every person who [was] in it, according to all that he had done to Lachish."
+        },
+        {
+          "pk": 837728,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 36,
+          "text": "Then Joshua and all Israel with him went up from Eglon to Hebron, and they fought against it."
+        },
+        {
+          "pk": 837729,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 37,
+          "text": "They captured it and struck it and its king and all its cities and all the persons who [were] in it with the edge of the sword. He left no survivor, according to all that he had done to Eglon. And he utterly destroyed it and every person who [was] in it."
+        },
+        {
+          "pk": 837730,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 38,
+          "text": "Then Joshua and all Israel with him returned to Debir, and they fought against it."
+        },
+        {
+          "pk": 837731,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 39,
+          "text": "He captured it and its king and all its cities, and they struck them with the edge of the sword, and utterly destroyed every person [who was] in it. He left no survivor. Just as he had done to Hebron, so he did to Debir and its king, as he had also done to Libnah and its king."
+        },
+        {
+          "pk": 837732,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 40,
+          "text": "Thus Joshua struck all the land, the hill country and the Negev and the lowland and the slopes and all their kings. He left no survivor, but he utterly destroyed all who breathed, just as the LORD, the God of Israel, had commanded."
+        },
+        {
+          "pk": 837733,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 41,
+          "text": "Joshua struck them from Kadesh-barnea even as far as Gaza, and all the country of Goshen even as far as Gibeon."
+        },
+        {
+          "pk": 837734,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 42,
+          "text": "Joshua captured all these kings and their lands at one time, because the LORD, the God of Israel, fought for Israel."
+        },
+        {
+          "pk": 837735,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 10,
+          "verse": 43,
+          "text": "So Joshua and all Israel with him returned to the camp at Gilgal."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 837736,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 1,
+          "text": "Then it came about, when Jabin king of Hazor heard [of it], that he sent to Jobab king of Madon and to the king of Shimron and to the king of Achshaph,"
+        },
+        {
+          "pk": 837737,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 2,
+          "text": "and to the kings who were of the north in the hill country, and in the Arabah-- south of Chinneroth and in the lowland and on the heights of Dor on the west--"
+        },
+        {
+          "pk": 837738,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 3,
+          "text": "to the Canaanite on the east and on the west, and the Amorite and the Hittite and the Perizzite and the Jebusite in the hill country, and the Hivite at the foot of Hermon in the land of Mizpeh."
+        },
+        {
+          "pk": 837739,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 4,
+          "text": "They came out, they and all their armies with them, [as] many people as the sand that is on the seashore, with very many horses and chariots."
+        },
+        {
+          "pk": 837740,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 5,
+          "text": "So all of these kings having agreed to meet, came and encamped together at the waters of Merom, to fight against Israel."
+        },
+        {
+          "pk": 837741,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 6,
+          "text": "Then the LORD said to Joshua, 'Do not be afraid because of them, for tomorrow at this time I will deliver all of them slain before Israel; you shall hamstring their horses and burn their chariots with fire.'"
+        },
+        {
+          "pk": 837742,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 7,
+          "text": "So Joshua and all the people of war with him came upon them suddenly by the waters of Merom, and attacked them."
+        },
+        {
+          "pk": 837743,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 8,
+          "text": "The LORD delivered them into the hand of Israel, so that they defeated them, and pursued them as far as Great Sidon and Misrephoth-maim and the valley of Mizpeh to the east; and they struck them until no survivor was left to them."
+        },
+        {
+          "pk": 837744,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 9,
+          "text": "Joshua did to them as the LORD had told him; he hamstrung their horses and burned their chariots with fire."
+        },
+        {
+          "pk": 837745,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 10,
+          "text": "Then Joshua turned back at that time, and captured Hazor and struck its king with the sword; for Hazor formerly was the head of all these kingdoms."
+        },
+        {
+          "pk": 837746,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 11,
+          "text": "They struck every person who was in it with the edge of the sword, utterly destroying [them]; there was no one left who breathed. And he burned Hazor with fire."
+        },
+        {
+          "pk": 837747,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 12,
+          "text": "Joshua captured all the cities of these kings, and all their kings, and he struck them with the edge of the sword, [and] utterly destroyed them; just as Moses the servant of the LORD had commanded."
+        },
+        {
+          "pk": 837748,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 13,
+          "text": "However, Israel did not burn any cities that stood on their mounds, except Hazor alone, [which] Joshua burned."
+        },
+        {
+          "pk": 837749,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 14,
+          "text": "All the spoil of these cities and the cattle, the sons of Israel took as their plunder; but they struck every man with the edge of the sword, until they had destroyed them. They left no one who breathed."
+        },
+        {
+          "pk": 837750,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 15,
+          "text": "Just as the LORD had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did; he left nothing undone of all that the LORD had commanded Moses."
+        },
+        {
+          "pk": 837751,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 16,
+          "text": "Thus Joshua took all that land: the hill country and all the Negev, all that land of Goshen, the lowland, the Arabah, the hill country of Israel and its lowland"
+        },
+        {
+          "pk": 837752,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 17,
+          "text": "from Mount Halak, that rises toward Seir, even as far as Baal-gad in the valley of Lebanon at the foot of Mount Hermon. And he captured all their kings and struck them down and put them to death."
+        },
+        {
+          "pk": 837753,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 18,
+          "text": "Joshua waged war a long time with all these kings."
+        },
+        {
+          "pk": 837754,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 19,
+          "text": "There was not a city which made peace with the sons of Israel except the Hivites living in Gibeon; they took them all in battle."
+        },
+        {
+          "pk": 837755,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 20,
+          "text": "For it was of the LORD to harden their hearts, to meet Israel in battle in order that he might utterly destroy them, that they might receive no mercy, but that he might destroy them, just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 837756,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 21,
+          "text": "Then Joshua came at that time and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab and from all the hill country of Judah and from all the hill country of Israel. Joshua utterly destroyed them with their cities."
+        },
+        {
+          "pk": 837757,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 22,
+          "text": "There were no Anakim left in the land of the sons of Israel; only in Gaza, in Gath, and in Ashdod some remained."
+        },
+        {
+          "pk": 837758,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 11,
+          "verse": 23,
+          "text": "So Joshua took the whole land, according to all that the LORD had spoken to Moses, and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Thus the land had rest from war."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 837759,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 1,
+          "text": "Now these are the kings of the land whom the sons of Israel defeated, and whose land they possessed beyond the Jordan toward the sunrise, from the valley of the Arnon as far as Mount Hermon, and all the Arabah to the east:"
+        },
+        {
+          "pk": 837760,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 2,
+          "text": "Sihon king of the Amorites, who lived in Heshbon, [and] ruled from Aroer, which is on the edge of the valley of the Arnon, both the middle of the valley and half of Gilead, even as far as the brook Jabbok, the border of the sons of Ammon;"
+        },
+        {
+          "pk": 837761,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 3,
+          "text": "and the Arabah as far as the Sea of Chinneroth toward the east, and as far as the sea of the Arabah, [even] the Salt Sea, eastward toward Beth-jeshimoth, and on the south, at the foot of the slopes of Pisgah;"
+        },
+        {
+          "pk": 837762,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 4,
+          "text": "and the territory of Og king of Bashan, one of the remnant of Rephaim, who lived at Ashtaroth and at Edrei,"
+        },
+        {
+          "pk": 837763,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 5,
+          "text": "and ruled over Mount Hermon and Salecah and all Bashan, as far as the border of the Geshurites and the Maacathites, and half of Gilead, [as far as] the border of Sihon king of Heshbon."
+        },
+        {
+          "pk": 837764,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 6,
+          "text": "Moses the servant of the LORD and the sons of Israel defeated them; and Moses the servant of the LORD gave it to the Reubenites and the Gadites and the half-tribe of Manasseh as a possession."
+        },
+        {
+          "pk": 837765,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 7,
+          "text": "Now these are the kings of the land whom Joshua and the sons of Israel defeated beyond the Jordan toward the west, from Baal-gad in the valley of Lebanon even as far as Mount Halak, which rises toward Seir; and Joshua gave it to the tribes of Israel as a possession according to their divisions,"
+        },
+        {
+          "pk": 837766,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 8,
+          "text": "in the hill country, in the lowland, in the Arabah, on the slopes, and in the wilderness, and in the Negev; the Hittite, the Amorite and the Canaanite, the Perizzite, the Hivite and the Jebusite:"
+        },
+        {
+          "pk": 837767,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 9,
+          "text": "the king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+        },
+        {
+          "pk": 837768,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 10,
+          "text": "the king of Jerusalem, one; the king of Hebron, one;"
+        },
+        {
+          "pk": 837769,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 11,
+          "text": "the king of Jarmuth, one; the king of Lachish, one;"
+        },
+        {
+          "pk": 837770,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 12,
+          "text": "the king of Eglon, one; the king of Gezer, one;"
+        },
+        {
+          "pk": 837771,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 13,
+          "text": "the king of Debir, one; the king of Geder, one;"
+        },
+        {
+          "pk": 837772,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 14,
+          "text": "the king of Hormah, one; the king of Arad, one;"
+        },
+        {
+          "pk": 837773,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 15,
+          "text": "the king of Libnah, one; the king of Adullam, one;"
+        },
+        {
+          "pk": 837774,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 16,
+          "text": "the king of Makkedah, one; the king of Bethel, one;"
+        },
+        {
+          "pk": 837775,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 17,
+          "text": "the king of Tappuah, one; the king of Hepher, one;"
+        },
+        {
+          "pk": 837776,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 18,
+          "text": "the king of Aphek, one; the king of Lasharon, one;"
+        },
+        {
+          "pk": 837777,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 19,
+          "text": "the king of Madon, one; the king of Hazor, one;"
+        },
+        {
+          "pk": 837778,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 20,
+          "text": "the king of Shimron-meron, one; the king of Achshaph, one;"
+        },
+        {
+          "pk": 837779,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 21,
+          "text": "the king of Taanach, one; the king of Megiddo, one;"
+        },
+        {
+          "pk": 837780,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 22,
+          "text": "the king of Kedesh, one; the king of Jokneam in Carmel, one;"
+        },
+        {
+          "pk": 837781,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 23,
+          "text": "the king of Dor in the heights of Dor, one; the king of Goiim in Gilgal, one;"
+        },
+        {
+          "pk": 837782,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 12,
+          "verse": 24,
+          "text": "the king of Tirzah, one: in all, thirty-one kings."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 837783,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 1,
+          "text": "Now Joshua was old [and] advanced in years when the LORD said to him, 'You are old [and] advanced in years, and very much of the land remains to be possessed."
+        },
+        {
+          "pk": 837784,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 2,
+          "text": "'This is the land that remains: all the regions [of] the Philistines and all [those of] the Geshurites;"
+        },
+        {
+          "pk": 837785,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 3,
+          "text": "from the Shihor which is east of Egypt, even as far as the border of Ekron to the north (it is counted as Canaanite); the five lords of the Philistines: the Gazite, the Ashdodite, the Ashkelonite, the Gittite, the Ekronite; and the Avvite"
+        },
+        {
+          "pk": 837786,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 4,
+          "text": "to the south, all the land of the Canaanite, and Mearah that belongs to the Sidonians, as far as Aphek, to the border of the Amorite;"
+        },
+        {
+          "pk": 837787,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 5,
+          "text": "and the land of the Gebalite, and all of Lebanon, toward the east, from Baal-gad below Mount Hermon as far as Lebo-hamath."
+        },
+        {
+          "pk": 837788,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 6,
+          "text": "'All the inhabitants of the hill country from Lebanon as far as Misrephoth-maim, all the Sidonians, I will drive them out from before the sons of Israel; only allot it to Israel for an inheritance as I have commanded you."
+        },
+        {
+          "pk": 837789,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 7,
+          "text": "'Now therefore, apportion this land for an inheritance to the nine tribes and the half-tribe of Manasseh.'"
+        },
+        {
+          "pk": 837790,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 8,
+          "text": "With the other half-tribe, the Reubenites and the Gadites received their inheritance which Moses gave them beyond the Jordan to the east, just as Moses the servant of the LORD gave to them;"
+        },
+        {
+          "pk": 837791,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 9,
+          "text": "from Aroer, which is on the edge of the valley of the Arnon, with the city which is in the middle of the valley, and all the plain of Medeba, as far as Dibon;"
+        },
+        {
+          "pk": 837792,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 10,
+          "text": "and all the cities of Sihon king of the Amorites, who reigned in Heshbon, as far as the border of the sons of Ammon;"
+        },
+        {
+          "pk": 837793,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 11,
+          "text": "and Gilead, and the territory of the Geshurites and Maacathites, and all Mount Hermon, and all Bashan as far as Salecah;"
+        },
+        {
+          "pk": 837794,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 12,
+          "text": "all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei (he alone was left of the remnant of the Rephaim); for Moses struck them and dispossessed them."
+        },
+        {
+          "pk": 837795,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 13,
+          "text": "But the sons of Israel did not dispossess the Geshurites or the Maacathites; for Geshur and Maacath live among Israel until this day."
+        },
+        {
+          "pk": 837796,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 14,
+          "text": "Only to the tribe of Levi he did not give an inheritance; the offerings by fire to the LORD, the God of Israel, are their inheritance, as He spoke to him."
+        },
+        {
+          "pk": 837797,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 15,
+          "text": "So Moses gave [an inheritance] to the tribe of the sons of Reuben according to their families."
+        },
+        {
+          "pk": 837798,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 16,
+          "text": "Their territory was from Aroer, which is on the edge of the valley of the Arnon, with the city which is in the middle of the valley and all the plain by Medeba;"
+        },
+        {
+          "pk": 837799,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 17,
+          "text": "Heshbon, and all its cities which are on the plain: Dibon and Bamoth-baal and Beth-baal-meon,"
+        },
+        {
+          "pk": 837800,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 18,
+          "text": "and Jahaz and Kedemoth and Mephaath,"
+        },
+        {
+          "pk": 837801,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 19,
+          "text": "and Kiriathaim and Sibmah and Zereth-shahar on the hill of the valley,"
+        },
+        {
+          "pk": 837802,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 20,
+          "text": "and Beth-peor and the slopes of Pisgah and Beth-jeshimoth,"
+        },
+        {
+          "pk": 837803,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 21,
+          "text": "even all the cities of the plain and all the kingdom of Sihon king of the Amorites who reigned in Heshbon, whom Moses struck with the chiefs of Midian, Evi and Rekem and Zur and Hur and Reba, the princes of Sihon, who lived in the land."
+        },
+        {
+          "pk": 837804,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 22,
+          "text": "The sons of Israel also killed Balaam the son of Beor, the diviner, with the sword among [the rest of] their slain."
+        },
+        {
+          "pk": 837805,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 23,
+          "text": "The border of the sons of Reuben was the Jordan. This was the inheritance of the sons of Reuben according to their families, the cities and their villages."
+        },
+        {
+          "pk": 837806,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 24,
+          "text": "Moses also gave [an inheritance] to the tribe of Gad, to the sons of Gad, according to their families."
+        },
+        {
+          "pk": 837807,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 25,
+          "text": "Their territory was Jazer, and all the cities of Gilead, and half the land of the sons of Ammon, as far as Aroer which is before Rabbah;"
+        },
+        {
+          "pk": 837808,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 26,
+          "text": "and from Heshbon as far as Ramath-mizpeh and Betonim, and from Mahanaim as far as the border of Debir;"
+        },
+        {
+          "pk": 837809,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 27,
+          "text": "and in the valley, Beth-haram and Beth-nimrah and Succoth and Zaphon, the rest of the kingdom of Sihon king of Heshbon, with the Jordan as a border, as far as the [lower] end of the Sea of Chinnereth beyond the Jordan to the east."
+        },
+        {
+          "pk": 837810,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 28,
+          "text": "This is the inheritance of the sons of Gad according to their families, the cities and their villages."
+        },
+        {
+          "pk": 837811,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 29,
+          "text": "Moses also gave [an inheritance] to the half-tribe of Manasseh; and it was for the half-tribe of the sons of Manasseh according to their families."
+        },
+        {
+          "pk": 837812,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 30,
+          "text": "Their territory was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, sixty cities;"
+        },
+        {
+          "pk": 837813,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 31,
+          "text": "also half of Gilead, with Ashtaroth and Edrei, the cities of the kingdom of Og in Bashan, [were] for the sons of Machir the son of Manasseh, for half of the sons of Machir according to their families."
+        },
+        {
+          "pk": 837814,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 32,
+          "text": "These are [the territories] which Moses apportioned for an inheritance in the plains of Moab, beyond the Jordan at Jericho to the east."
+        },
+        {
+          "pk": 837815,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 13,
+          "verse": 33,
+          "text": "But to the tribe of Levi, Moses did not give an inheritance; the LORD, the God of Israel, is their inheritance, as He had promised to them."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "pk": 837816,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 1,
+          "text": "Now these are [the territories] which the sons of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the households of the tribes of the sons of Israel apportioned to them for an inheritance,"
+        },
+        {
+          "pk": 837817,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 2,
+          "text": "by the lot of their inheritance, as the LORD commanded through Moses, for the nine tribes and the half-tribe."
+        },
+        {
+          "pk": 837818,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 3,
+          "text": "For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan; but he did not give an inheritance to the Levites among them."
+        },
+        {
+          "pk": 837819,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 4,
+          "text": "For the sons of Joseph were two tribes, Manasseh and Ephraim, and they did not give a portion to the Levites in the land, except cities to live in, with their pasture lands for their livestock and for their property."
+        },
+        {
+          "pk": 837820,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 5,
+          "text": "Thus the sons of Israel did just as the LORD had commanded Moses, and they divided the land."
+        },
+        {
+          "pk": 837821,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 6,
+          "text": "Then the sons of Judah drew near to Joshua in Gilgal, and Caleb the son of Jephunneh the Kenizzite said to him, 'You know the word which the LORD spoke to Moses the man of God concerning you and me in Kadesh-barnea."
+        },
+        {
+          "pk": 837822,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 7,
+          "text": "'I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought word back to him as [it was] in my heart."
+        },
+        {
+          "pk": 837823,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 8,
+          "text": "'Nevertheless my brethren who went up with me made the heart of the people melt with fear; but I followed the LORD my God fully."
+        },
+        {
+          "pk": 837824,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 9,
+          "text": "'So Moses swore on that day, saying, 'Surely the land on which your foot has trodden will be an inheritance to you and to your children forever, because you have followed the LORD my God fully.'"
+        },
+        {
+          "pk": 837825,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 10,
+          "text": "'Now behold, the LORD has let me live, just as He spoke, these forty-five years, from the time that the LORD spoke this word to Moses, when Israel walked in the wilderness; and now behold, I am eighty-five years old today."
+        },
+        {
+          "pk": 837826,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 11,
+          "text": "'I am still as strong today as I was in the day Moses sent me; as my strength was then, so my strength is now, for war and for going out and coming in."
+        },
+        {
+          "pk": 837827,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 12,
+          "text": "'Now then, give me this hill country about which the LORD spoke on that day, for you heard on that day that Anakim [were] there, with great fortified cities; perhaps the LORD will be with me, and I will drive them out as the LORD has spoken.'"
+        },
+        {
+          "pk": 837828,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 13,
+          "text": "So Joshua blessed him and gave Hebron to Caleb the son of Jephunneh for an inheritance."
+        },
+        {
+          "pk": 837829,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 14,
+          "text": "Therefore, Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite until this day, because he followed the LORD God of Israel fully."
+        },
+        {
+          "pk": 837830,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 14,
+          "verse": 15,
+          "text": "Now the name of Hebron was formerly Kiriath-arba; [for Arba] was the greatest man among the Anakim. Then the land had rest from war."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "pk": 837831,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 1,
+          "text": "Now the lot for the tribe of the sons of Judah according to their families reached the border of Edom, southward to the wilderness of Zin at the extreme south."
+        },
+        {
+          "pk": 837832,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 2,
+          "text": "Their south border was from the lower end of the Salt Sea, from the bay that turns to the south."
+        },
+        {
+          "pk": 837833,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 3,
+          "text": "Then it proceeded southward to the ascent of Akrabbim and continued to Zin, then went up by the south of Kadesh-barnea and continued to Hezron, and went up to Addar and turned about to Karka."
+        },
+        {
+          "pk": 837834,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 4,
+          "text": "It continued to Azmon and proceeded to the brook of Egypt, and the border ended at the sea. This shall be your south border."
+        },
+        {
+          "pk": 837835,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 5,
+          "text": "The east border [was] the Salt Sea, as far as the mouth of the Jordan. And the border of the north side was from the bay of the sea at the mouth of the Jordan."
+        },
+        {
+          "pk": 837836,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 6,
+          "text": "Then the border went up to Beth-hoglah, and continued on the north of Beth-arabah, and the border went up to the stone of Bohan the son of Reuben."
+        },
+        {
+          "pk": 837837,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 7,
+          "text": "The border went up to Debir from the valley of Achor, and turned northward toward Gilgal which is opposite the ascent of Adummim, which is on the south of the valley; and the border continued to the waters of En-shemesh and it ended at En-rogel."
+        },
+        {
+          "pk": 837838,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 8,
+          "text": "Then the border went up the valley of Ben-hinnom to the slope of the Jebusite on the south (that is, Jerusalem); and the border went up to the top of the mountain which is before the valley of Hinnom to the west, which is at the end of the valley of Rephaim toward the north."
+        },
+        {
+          "pk": 837839,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 9,
+          "text": "From the top of the mountain the border curved to the spring of the waters of Nephtoah and proceeded to the cities of Mount Ephron, then the border curved to Baalah (that is, Kiriath-jearim)."
+        },
+        {
+          "pk": 837840,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 10,
+          "text": "The border turned about from Baalah westward to Mount Seir, and continued to the slope of Mount Jearim on the north (that is, Chesalon), and went down to Beth-shemesh and continued through Timnah."
+        },
+        {
+          "pk": 837841,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 11,
+          "text": "The border proceeded to the side of Ekron northward. Then the border curved to Shikkeron and continued to Mount Baalah and proceeded to Jabneel, and the border ended at the sea."
+        },
+        {
+          "pk": 837842,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 12,
+          "text": "The west border [was] at the Great Sea, even [its] coastline. This is the border around the sons of Judah according to their families."
+        },
+        {
+          "pk": 837843,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 13,
+          "text": "Now he gave to Caleb the son of Jephunneh a portion among the sons of Judah, according to the command of the LORD to Joshua, [namely], Kiriath-arba, [Arba being] the father of Anak (that is, Hebron)."
+        },
+        {
+          "pk": 837844,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 14,
+          "text": "Caleb drove out from there the three sons of Anak: Sheshai and Ahiman and Talmai, the children of Anak."
+        },
+        {
+          "pk": 837845,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 15,
+          "text": "Then he went up from there against the inhabitants of Debir; now the name of Debir formerly was Kiriath-sepher."
+        },
+        {
+          "pk": 837846,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 16,
+          "text": "And Caleb said, 'The one who attacks Kiriath-sepher and captures it, I will give him Achsah my daughter as a wife.'"
+        },
+        {
+          "pk": 837847,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 17,
+          "text": "Othniel the son of Kenaz, the brother of Caleb, captured it; so he gave him Achsah his daughter as a wife."
+        },
+        {
+          "pk": 837848,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 18,
+          "text": "It came about that when she came [to him], she persuaded him to ask her father for a field. So she alighted from the donkey, and Caleb said to her, 'What do you want?'"
+        },
+        {
+          "pk": 837849,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 19,
+          "text": "Then she said, 'Give me a blessing; since you have given me the land of the Negev, give me also springs of water.' So he gave her the upper springs and the lower springs."
+        },
+        {
+          "pk": 837850,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 20,
+          "text": "This is the inheritance of the tribe of the sons of Judah according to their families."
+        },
+        {
+          "pk": 837851,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 21,
+          "text": "Now the cities at the extremity of the tribe of the sons of Judah toward the border of Edom in the south were Kabzeel and Eder and Jagur,"
+        },
+        {
+          "pk": 837852,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 22,
+          "text": "and Kinah and Dimonah and Adadah,"
+        },
+        {
+          "pk": 837853,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 23,
+          "text": "and Kedesh and Hazor and Ithnan,"
+        },
+        {
+          "pk": 837854,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 24,
+          "text": "Ziph and Telem and Bealoth,"
+        },
+        {
+          "pk": 837855,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 25,
+          "text": "and Hazor-hadattah and Kerioth-hezron (that is, Hazor),"
+        },
+        {
+          "pk": 837856,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 26,
+          "text": "Amam and Shema and Moladah,"
+        },
+        {
+          "pk": 837857,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 27,
+          "text": "and Hazar-gaddah and Heshmon and Beth-pelet,"
+        },
+        {
+          "pk": 837858,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 28,
+          "text": "and Hazar-shual and Beersheba and Biziothiah,"
+        },
+        {
+          "pk": 837859,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 29,
+          "text": "Baalah and Iim and Ezem,"
+        },
+        {
+          "pk": 837860,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 30,
+          "text": "and Eltolad and Chesil and Hormah,"
+        },
+        {
+          "pk": 837861,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 31,
+          "text": "and Ziklag and Madmannah and Sansannah,"
+        },
+        {
+          "pk": 837862,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 32,
+          "text": "and Lebaoth and Shilhim and Ain and Rimmon; in all, twenty-nine cities with their villages."
+        },
+        {
+          "pk": 837863,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 33,
+          "text": "In the lowland: Eshtaol and Zorah and Ashnah,"
+        },
+        {
+          "pk": 837864,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 34,
+          "text": "and Zanoah and En-gannim, Tappuah and Enam,"
+        },
+        {
+          "pk": 837865,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 35,
+          "text": "Jarmuth and Adullam, Socoh and Azekah,"
+        },
+        {
+          "pk": 837866,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 36,
+          "text": "and Shaaraim and Adithaim and Gederah and Gederothaim; fourteen cities with their villages."
+        },
+        {
+          "pk": 837867,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 37,
+          "text": "Zenan and Hadashah and Migdal-gad,"
+        },
+        {
+          "pk": 837868,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 38,
+          "text": "and Dilean and Mizpeh and Joktheel,"
+        },
+        {
+          "pk": 837869,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 39,
+          "text": "Lachish and Bozkath and Eglon,"
+        },
+        {
+          "pk": 837870,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 40,
+          "text": "and Cabbon and Lahmas and Chitlish,"
+        },
+        {
+          "pk": 837871,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 41,
+          "text": "and Gederoth, Beth-dagon and Naamah and Makkedah; sixteen cities with their villages."
+        },
+        {
+          "pk": 837872,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 42,
+          "text": "Libnah and Ether and Ashan,"
+        },
+        {
+          "pk": 837873,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 43,
+          "text": "and Iphtah and Ashnah and Nezib,"
+        },
+        {
+          "pk": 837874,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 44,
+          "text": "and Keilah and Achzib and Mareshah; nine cities with their villages."
+        },
+        {
+          "pk": 837875,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 45,
+          "text": "Ekron, with its towns and its villages;"
+        },
+        {
+          "pk": 837876,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 46,
+          "text": "from Ekron even to the sea, all that were by the side of Ashdod, with their villages."
+        },
+        {
+          "pk": 837877,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 47,
+          "text": "Ashdod, its towns and its villages; Gaza, its towns and its villages; as far as the brook of Egypt and the Great Sea, even [its] coastline."
+        },
+        {
+          "pk": 837878,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 48,
+          "text": "In the hill country: Shamir and Jattir and Socoh,"
+        },
+        {
+          "pk": 837879,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 49,
+          "text": "and Dannah and Kiriath-sannah (that is, Debir),"
+        },
+        {
+          "pk": 837880,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 50,
+          "text": "and Anab and Eshtemoh and Anim,"
+        },
+        {
+          "pk": 837881,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 51,
+          "text": "and Goshen and Holon and Giloh; eleven cities with their villages."
+        },
+        {
+          "pk": 837882,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 52,
+          "text": "Arab and Dumah and Eshan,"
+        },
+        {
+          "pk": 837883,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 53,
+          "text": "and Janum and Beth-tappuah and Aphekah,"
+        },
+        {
+          "pk": 837884,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 54,
+          "text": "and Humtah and Kiriath-arba (that is, Hebron), and Zior; nine cities with their villages."
+        },
+        {
+          "pk": 837885,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 55,
+          "text": "Maon, Carmel and Ziph and Juttah,"
+        },
+        {
+          "pk": 837886,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 56,
+          "text": "and Jezreel and Jokdeam and Zanoah,"
+        },
+        {
+          "pk": 837887,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 57,
+          "text": "Kain, Gibeah and Timnah; ten cities with their villages."
+        },
+        {
+          "pk": 837888,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 58,
+          "text": "Halhul, Beth-zur and Gedor,"
+        },
+        {
+          "pk": 837889,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 59,
+          "text": "and Maarath and Beth-anoth and Eltekon; six cities with their villages."
+        },
+        {
+          "pk": 837890,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 60,
+          "text": "Kiriath-baal (that is, Kiriath-jearim), and Rabbah; two cities with their villages."
+        },
+        {
+          "pk": 837891,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 61,
+          "text": "In the wilderness: Beth-arabah, Middin and Secacah,"
+        },
+        {
+          "pk": 837892,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 62,
+          "text": "and Nibshan and the City of Salt and Engedi; six cities with their villages."
+        },
+        {
+          "pk": 837893,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 15,
+          "verse": 63,
+          "text": "Now as for the Jebusites, the inhabitants of Jerusalem, the sons of Judah could not drive them out; so the Jebusites live with the sons of Judah at Jerusalem until this day."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "pk": 837894,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 1,
+          "text": "Then the lot for the sons of Joseph went from the Jordan at Jericho to the waters of Jericho on the east into the wilderness, going up from Jericho through the hill country to Bethel."
+        },
+        {
+          "pk": 837895,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 2,
+          "text": "It went from Bethel to Luz, and continued to the border of the Archites at Ataroth."
+        },
+        {
+          "pk": 837896,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 3,
+          "text": "It went down westward to the territory of the Japhletites, as far as the territory of lower Beth-horon even to Gezer, and it ended at the sea."
+        },
+        {
+          "pk": 837897,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 4,
+          "text": "The sons of Joseph, Manasseh and Ephraim, received their inheritance."
+        },
+        {
+          "pk": 837898,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 5,
+          "text": "Now [this] was the territory of the sons of Ephraim according to their families: the border of their inheritance eastward was Ataroth-addar, as far as upper Beth-horon."
+        },
+        {
+          "pk": 837899,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 6,
+          "text": "Then the border went westward at Michmethath on the north, and the border turned about eastward to Taanath-shiloh and continued [beyond] it to the east of Janoah."
+        },
+        {
+          "pk": 837900,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 7,
+          "text": "It went down from Janoah to Ataroth and to Naarah, then reached Jericho and came out at the Jordan."
+        },
+        {
+          "pk": 837901,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 8,
+          "text": "From Tappuah the border continued westward to the brook of Kanah, and it ended at the sea. This is the inheritance of the tribe of the sons of Ephraim according to their families,"
+        },
+        {
+          "pk": 837902,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 9,
+          "text": "[together] with the cities which were set apart for the sons of Ephraim in the midst of the inheritance of the sons of Manasseh, all the cities with their villages."
+        },
+        {
+          "pk": 837903,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 16,
+          "verse": 10,
+          "text": "But they did not drive out the Canaanites who lived in Gezer, so the Canaanites live in the midst of Ephraim to this day, and they became forced laborers."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "pk": 837904,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 1,
+          "text": "Now [this] was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. To Machir the firstborn of Manasseh, the father of Gilead, were allotted Gilead and Bashan, because he was a man of war."
+        },
+        {
+          "pk": 837905,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 2,
+          "text": "So [the lot] was [made] for the rest of the sons of Manasseh according to their families: for the sons of Abiezer and for the sons of Helek and for the sons of Asriel and for the sons of Shechem and for the sons of Hepher and for the sons of Shemida; these [were] the male descendants of Manasseh the son of Joseph according to their families."
+        },
+        {
+          "pk": 837906,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 3,
+          "text": "However, Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, only daughters; and these are the names of his daughters: Mahlah and Noah, Hoglah, Milcah and Tirzah."
+        },
+        {
+          "pk": 837907,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 4,
+          "text": "They came near before Eleazar the priest and before Joshua the son of Nun and before the leaders, saying, 'The LORD commanded Moses to give us an inheritance among our brothers.' So according to the command of the LORD he gave them an inheritance among their father's brothers."
+        },
+        {
+          "pk": 837908,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 5,
+          "text": "Thus there fell ten portions to Manasseh, besides the land of Gilead and Bashan, which is beyond the Jordan,"
+        },
+        {
+          "pk": 837909,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 6,
+          "text": "because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh."
+        },
+        {
+          "pk": 837910,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 7,
+          "text": "The border of Manasseh ran from Asher to Michmethath which was east of Shechem; then the border went southward to the inhabitants of En-tappuah."
+        },
+        {
+          "pk": 837911,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 8,
+          "text": "The land of Tappuah belonged to Manasseh, but Tappuah on the border of Manasseh [belonged] to the sons of Ephraim."
+        },
+        {
+          "pk": 837912,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 9,
+          "text": "The border went down to the brook of Kanah, southward of the brook (these cities [belonged] to Ephraim among the cities of Manasseh), and the border of Manasseh [was] on the north side of the brook and it ended at the sea."
+        },
+        {
+          "pk": 837913,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 10,
+          "text": "The south side [belonged] to Ephraim and the north side to Manasseh, and the sea was their border; and they reached to Asher on the north and to Issachar on the east."
+        },
+        {
+          "pk": 837914,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 11,
+          "text": "In Issachar and in Asher, Manasseh had Beth-shean and its towns and Ibleam and its towns, and the inhabitants of Dor and its towns, and the inhabitants of En-dor and its towns, and the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns, the third is Napheth."
+        },
+        {
+          "pk": 837915,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 12,
+          "text": "But the sons of Manasseh could not take possession of these cities, because the Canaanites persisted in living in that land."
+        },
+        {
+          "pk": 837916,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 13,
+          "text": "It came about when the sons of Israel became strong, they put the Canaanites to forced labor, but they did not drive them out completely."
+        },
+        {
+          "pk": 837917,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 14,
+          "text": "Then the sons of Joseph spoke to Joshua, saying, 'Why have you given me only one lot and one portion for an inheritance, since I am a numerous people whom the LORD has thus far blessed?'"
+        },
+        {
+          "pk": 837918,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 15,
+          "text": "Joshua said to them, 'If you are a numerous people, go up to the forest and clear a place for yourself there in the land of the Perizzites and of the Rephaim, since the hill country of Ephraim is too narrow for you.'"
+        },
+        {
+          "pk": 837919,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 16,
+          "text": "The sons of Joseph said, 'The hill country is not enough for us, and all the Canaanites who live in the valley land have chariots of iron, both those who are in Beth-shean and its towns and those who are in the valley of Jezreel.'"
+        },
+        {
+          "pk": 837920,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 17,
+          "text": "Joshua spoke to the house of Joseph, to Ephraim and Manasseh, saying, 'You are a numerous people and have great power; you shall not have one lot [only],"
+        },
+        {
+          "pk": 837921,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 17,
+          "verse": 18,
+          "text": "but the hill country shall be yours. For though it is a forest, you shall clear it, and to its farthest borders it shall be yours; for you shall drive out the Canaanites, even though they have chariots of iron [and] though they are strong.'"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "pk": 837922,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 1,
+          "text": "Then the whole congregation of the sons of Israel assembled themselves at Shiloh, and set up the tent of meeting there; and the land was subdued before them."
+        },
+        {
+          "pk": 837923,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 2,
+          "text": "There remained among the sons of Israel seven tribes who had not divided their inheritance."
+        },
+        {
+          "pk": 837924,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 3,
+          "text": "So Joshua said to the sons of Israel, 'How long will you put off entering to take possession of the land which the LORD, the God of your fathers, has given you?"
+        },
+        {
+          "pk": 837925,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 4,
+          "text": "'Provide for yourselves three men from each tribe that I may send them, and that they may arise and walk through the land and write a description of it according to their inheritance; then they shall return to me."
+        },
+        {
+          "pk": 837926,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 5,
+          "text": "'They shall divide it into seven portions; Judah shall stay in its territory on the south, and the house of Joseph shall stay in their territory on the north."
+        },
+        {
+          "pk": 837927,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 6,
+          "text": "'You shall describe the land in seven divisions, and bring [the description] here to me. I will cast lots for you here before the LORD our God."
+        },
+        {
+          "pk": 837928,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 7,
+          "text": "'For the Levites have no portion among you, because the priesthood of the LORD is their inheritance. Gad and Reuben and the half-tribe of Manasseh also have received their inheritance eastward beyond the Jordan, which Moses the servant of the LORD gave them.'"
+        },
+        {
+          "pk": 837929,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 8,
+          "text": "Then the men arose and went, and Joshua commanded those who went to describe the land, saying, 'Go and walk through the land and describe it, and return to me; then I will cast lots for you here before the LORD in Shiloh.'"
+        },
+        {
+          "pk": 837930,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 9,
+          "text": "So the men went and passed through the land, and described it by cities in seven divisions in a book; and they came to Joshua to the camp at Shiloh."
+        },
+        {
+          "pk": 837931,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 10,
+          "text": "And Joshua cast lots for them in Shiloh before the LORD, and there Joshua divided the land to the sons of Israel according to their divisions."
+        },
+        {
+          "pk": 837932,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 11,
+          "text": "Now the lot of the tribe of the sons of Benjamin came up according to their families, and the territory of their lot lay between the sons of Judah and the sons of Joseph."
+        },
+        {
+          "pk": 837933,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 12,
+          "text": "Their border on the north side was from the Jordan, then the border went up to the side of Jericho on the north, and went up through the hill country westward, and it ended at the wilderness of Beth-aven."
+        },
+        {
+          "pk": 837934,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 13,
+          "text": "From there the border continued to Luz, to the side of Luz (that is, Bethel) southward; and the border went down to Ataroth-addar, near the hill which [lies] on the south of lower Beth-horon."
+        },
+        {
+          "pk": 837935,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 14,
+          "text": "The border extended [from there] and turned round on the west side southward, from the hill which [lies] before Beth-horon southward; and it ended at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This [was] the west side."
+        },
+        {
+          "pk": 837936,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 15,
+          "text": "Then the south side [was] from the edge of Kiriath-jearim, and the border went westward and went to the fountain of the waters of Nephtoah."
+        },
+        {
+          "pk": 837937,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 16,
+          "text": "The border went down to the edge of the hill which is in the valley of Ben-hinnom, which is in the valley of Rephaim northward; and it went down to the valley of Hinnom, to the slope of the Jebusite southward, and went down to En-rogel."
+        },
+        {
+          "pk": 837938,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 17,
+          "text": "It extended northward and went to En-shemesh and went to Geliloth, which is opposite the ascent of Adummim, and it went down to the stone of Bohan the son of Reuben."
+        },
+        {
+          "pk": 837939,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 18,
+          "text": "It continued to the side in front of the Arabah northward and went down to the Arabah."
+        },
+        {
+          "pk": 837940,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 19,
+          "text": "The border continued to the side of Beth-hoglah northward; and the border ended at the north bay of the Salt Sea, at the south end of the Jordan. This [was] the south border."
+        },
+        {
+          "pk": 837941,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 20,
+          "text": "Moreover, the Jordan was its border on the east side. This [was] the inheritance of the sons of Benjamin, according to their families [and] according to its borders all around."
+        },
+        {
+          "pk": 837942,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 21,
+          "text": "Now the cities of the tribe of the sons of Benjamin according to their families were Jericho and Beth-hoglah and Emek-keziz,"
+        },
+        {
+          "pk": 837943,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 22,
+          "text": "and Beth-arabah and Zemaraim and Bethel,"
+        },
+        {
+          "pk": 837944,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 23,
+          "text": "and Avvim and Parah and Ophrah,"
+        },
+        {
+          "pk": 837945,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 24,
+          "text": "and Chephar-ammoni and Ophni and Geba; twelve cities with their villages."
+        },
+        {
+          "pk": 837946,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 25,
+          "text": "Gibeon and Ramah and Beeroth,"
+        },
+        {
+          "pk": 837947,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 26,
+          "text": "and Mizpeh and Chephirah and Mozah,"
+        },
+        {
+          "pk": 837948,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 27,
+          "text": "and Rekem and Irpeel and Taralah,"
+        },
+        {
+          "pk": 837949,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 18,
+          "verse": 28,
+          "text": "and Zelah, Haeleph and the Jebusite (that is, Jerusalem), Gibeah, Kiriath; fourteen cities with their villages. This is the inheritance of the sons of Benjamin according to their families."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "pk": 837950,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 1,
+          "text": "Then the second lot fell to Simeon, to the tribe of the sons of Simeon according to their families, and their inheritance was in the midst of the inheritance of the sons of Judah."
+        },
+        {
+          "pk": 837951,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 2,
+          "text": "So they had as their inheritance Beersheba or Sheba and Moladah,"
+        },
+        {
+          "pk": 837952,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 3,
+          "text": "and Hazar-shual and Balah and Ezem,"
+        },
+        {
+          "pk": 837953,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 4,
+          "text": "and Eltolad and Bethul and Hormah,"
+        },
+        {
+          "pk": 837954,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 5,
+          "text": "and Ziklag and Beth-marcaboth and Hazar-susah,"
+        },
+        {
+          "pk": 837955,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 6,
+          "text": "and Beth-lebaoth and Sharuhen; thirteen cities with their villages;"
+        },
+        {
+          "pk": 837956,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 7,
+          "text": "Ain, Rimmon and Ether and Ashan; four cities with their villages;"
+        },
+        {
+          "pk": 837957,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 8,
+          "text": "and all the villages which [were] around these cities as far as Baalath-beer, Ramah of the Negev. This [was] the inheritance of the tribe of the sons of Simeon according to their families."
+        },
+        {
+          "pk": 837958,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 9,
+          "text": "The inheritance of the sons of Simeon [was taken] from the portion of the sons of Judah, for the share of the sons of Judah was too large for them; so the sons of Simeon received [an] inheritance in the midst of Judah's inheritance."
+        },
+        {
+          "pk": 837959,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 10,
+          "text": "Now the third lot came up for the sons of Zebulun according to their families. And the territory of their inheritance was as far as Sarid."
+        },
+        {
+          "pk": 837960,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 11,
+          "text": "Then their border went up to the west and to Maralah, it then touched Dabbesheth and reached to the brook that is before Jokneam."
+        },
+        {
+          "pk": 837961,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 12,
+          "text": "Then it turned from Sarid to the east toward the sunrise as far as the border of Chisloth-tabor, and it proceeded to Daberath and up to Japhia."
+        },
+        {
+          "pk": 837962,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 13,
+          "text": "From there it continued eastward toward the sunrise to Gath-hepher, to Eth-kazin, and it proceeded to Rimmon which stretches to Neah."
+        },
+        {
+          "pk": 837963,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 14,
+          "text": "The border circled around it on the north to Hannathon, and it ended at the valley of Iphtahel."
+        },
+        {
+          "pk": 837964,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 15,
+          "text": "[Included] also [were] Kattah and Nahalal and Shimron and Idalah and Bethlehem; twelve cities with their villages."
+        },
+        {
+          "pk": 837965,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 16,
+          "text": "This [was] the inheritance of the sons of Zebulun according to their families, these cities with their villages."
+        },
+        {
+          "pk": 837966,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 17,
+          "text": "The fourth lot fell to Issachar, to the sons of Issachar according to their families."
+        },
+        {
+          "pk": 837967,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 18,
+          "text": "Their territory was to Jezreel and [included] Chesulloth and Shunem,"
+        },
+        {
+          "pk": 837968,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 19,
+          "text": "and Hapharaim and Shion and Anaharath,"
+        },
+        {
+          "pk": 837969,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 20,
+          "text": "and Rabbith and Kishion and Ebez,"
+        },
+        {
+          "pk": 837970,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 21,
+          "text": "and Remeth and En-gannim and En-haddah and Beth-pazzez."
+        },
+        {
+          "pk": 837971,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 22,
+          "text": "The border reached to Tabor and Shahazumah and Beth-shemesh, and their border ended at the Jordan; sixteen cities with their villages."
+        },
+        {
+          "pk": 837972,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 23,
+          "text": "This [was] the inheritance of the tribe of the sons of Issachar according to their families, the cities with their villages."
+        },
+        {
+          "pk": 837973,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 24,
+          "text": "Now the fifth lot fell to the tribe of the sons of Asher according to their families."
+        },
+        {
+          "pk": 837974,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 25,
+          "text": "Their territory was Helkath and Hali and Beten and Achshaph,"
+        },
+        {
+          "pk": 837975,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 26,
+          "text": "and Allammelech and Amad and Mishal; and it reached to Carmel on the west and to Shihor-libnath."
+        },
+        {
+          "pk": 837976,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 27,
+          "text": "It turned toward the east to Beth-dagon and reached to Zebulun, and to the valley of Iphtahel northward to Beth-emek and Neiel; then it proceeded on north to Cabul,"
+        },
+        {
+          "pk": 837977,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 28,
+          "text": "and Ebron and Rehob and Hammon and Kanah, as far as Great Sidon."
+        },
+        {
+          "pk": 837978,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 29,
+          "text": "The border turned to Ramah and to the fortified city of Tyre; then the border turned to Hosah, and it ended at the sea by the region of Achzib."
+        },
+        {
+          "pk": 837979,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 30,
+          "text": "[Included] also [were] Ummah, and Aphek and Rehob; twenty-two cities with their villages."
+        },
+        {
+          "pk": 837980,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 31,
+          "text": "This [was] the inheritance of the tribe of the sons of Asher according to their families, these cities with their villages."
+        },
+        {
+          "pk": 837981,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 32,
+          "text": "The sixth lot fell to the sons of Naphtali; to the sons of Naphtali according to their families."
+        },
+        {
+          "pk": 837982,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 33,
+          "text": "Their border was from Heleph, from the oak in Zaanannim and Adami-nekeb and Jabneel, as far as Lakkum, and it ended at the Jordan."
+        },
+        {
+          "pk": 837983,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 34,
+          "text": "Then the border turned westward to Aznoth-tabor and proceeded from there to Hukkok; and it reached to Zebulun on the south and touched Asher on the west, and to Judah at the Jordan toward the east."
+        },
+        {
+          "pk": 837984,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 35,
+          "text": "The fortified cities [were] Ziddim, Zer and Hammath, Rakkath and Chinnereth,"
+        },
+        {
+          "pk": 837985,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 36,
+          "text": "and Adamah and Ramah and Hazor,"
+        },
+        {
+          "pk": 837986,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 37,
+          "text": "and Kedesh and Edrei and En-hazor,"
+        },
+        {
+          "pk": 837987,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 38,
+          "text": "and Yiron and Migdal-el, Horem and Beth-anath and Beth-shemesh; nineteen cities with their villages."
+        },
+        {
+          "pk": 837988,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 39,
+          "text": "This [was] the inheritance of the tribe of the sons of Naphtali according to their families, the cities with their villages."
+        },
+        {
+          "pk": 837989,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 40,
+          "text": "The seventh lot fell to the tribe of the sons of Dan according to their families."
+        },
+        {
+          "pk": 837990,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 41,
+          "text": "The territory of their inheritance was Zorah and Eshtaol and Ir-shemesh,"
+        },
+        {
+          "pk": 837991,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 42,
+          "text": "and Shaalabbin and Aijalon and Ithlah,"
+        },
+        {
+          "pk": 837992,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 43,
+          "text": "and Elon and Timnah and Ekron,"
+        },
+        {
+          "pk": 837993,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 44,
+          "text": "and Eltekeh and Gibbethon and Baalath,"
+        },
+        {
+          "pk": 837994,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 45,
+          "text": "and Jehud and Bene-berak and Gath-rimmon,"
+        },
+        {
+          "pk": 837995,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 46,
+          "text": "and Me-jarkon and Rakkon, with the territory over against Joppa."
+        },
+        {
+          "pk": 837996,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 47,
+          "text": "The territory of the sons of Dan proceeded beyond them; for the sons of Dan went up and fought with Leshem and captured it. Then they struck it with the edge of the sword and possessed it and settled in it; and they called Leshem Dan after the name of Dan their father."
+        },
+        {
+          "pk": 837997,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 48,
+          "text": "This [was] the inheritance of the tribe of the sons of Dan according to their families, these cities with their villages."
+        },
+        {
+          "pk": 837998,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 49,
+          "text": "When they finished apportioning the land for inheritance by its borders, the sons of Israel gave an inheritance in their midst to Joshua the son of Nun."
+        },
+        {
+          "pk": 837999,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 50,
+          "text": "In accordance with the command of the LORD they gave him the city for which he asked, Timnath-serah in the hill country of Ephraim. So he built the city and settled in it."
+        },
+        {
+          "pk": 838000,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 19,
+          "verse": 51,
+          "text": "These are the inheritances which Eleazar the priest, and Joshua the son of Nun, and the heads of the households of the tribes of the sons of Israel distributed by lot in Shiloh before the LORD at the doorway of the tent of meeting. So they finished dividing the land."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "pk": 838001,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 1,
+          "text": "Then the LORD spoke to Joshua, saying,"
+        },
+        {
+          "pk": 838002,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel, saying, 'Designate the cities of refuge, of which I spoke to you through Moses,"
+        },
+        {
+          "pk": 838003,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 3,
+          "text": "that the manslayer who kills any person unintentionally, without premeditation, may flee there, and they shall become your refuge from the avenger of blood."
+        },
+        {
+          "pk": 838004,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 4,
+          "text": "'He shall flee to one of these cities, and shall stand at the entrance of the gate of the city and state his case in the hearing of the elders of that city; and they shall take him into the city to them and give him a place, so that he may dwell among them."
+        },
+        {
+          "pk": 838005,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 5,
+          "text": "'Now if the avenger of blood pursues him, then they shall not deliver the manslayer into his hand, because he struck his neighbor without premeditation and did not hate him beforehand."
+        },
+        {
+          "pk": 838006,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 6,
+          "text": "'He shall dwell in that city until he stands before the congregation for judgment, until the death of the one who is high priest in those days. Then the manslayer shall return to his own city and to his own house, to the city from which he fled.''"
+        },
+        {
+          "pk": 838007,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 7,
+          "text": "So they set apart Kedesh in Galilee in the hill country of Naphtali and Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah."
+        },
+        {
+          "pk": 838008,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 8,
+          "text": "Beyond the Jordan east of Jericho, they designated Bezer in the wilderness on the plain from the tribe of Reuben, and Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh."
+        },
+        {
+          "pk": 838009,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 20,
+          "verse": 9,
+          "text": "These were the appointed cities for all the sons of Israel and for the stranger who sojourns among them, that whoever kills any person unintentionally may flee there, and not die by the hand of the avenger of blood until he stands before the congregation."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "pk": 838010,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 1,
+          "text": "Then the heads of households of the Levites approached Eleazar the priest, and Joshua the son of Nun, and the heads of households of the tribes of the sons of Israel."
+        },
+        {
+          "pk": 838011,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 2,
+          "text": "They spoke to them at Shiloh in the land of Canaan, saying, 'The LORD commanded through Moses to give us cities to live in, with their pasture lands for our cattle.'"
+        },
+        {
+          "pk": 838012,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 3,
+          "text": "So the sons of Israel gave the Levites from their inheritance these cities with their pasture lands, according to the command of the LORD."
+        },
+        {
+          "pk": 838013,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 4,
+          "text": "Then the lot came out for the families of the Kohathites. And the sons of Aaron the priest, who were of the Levites, received thirteen cities by lot from the tribe of Judah and from the tribe of the Simeonites and from the tribe of Benjamin."
+        },
+        {
+          "pk": 838014,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 5,
+          "text": "The rest of the sons of Kohath received ten cities by lot from the families of the tribe of Ephraim and from the tribe of Dan and from the half-tribe of Manasseh."
+        },
+        {
+          "pk": 838015,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 6,
+          "text": "The sons of Gershon received thirteen cities by lot from the families of the tribe of Issachar and from the tribe of Asher and from the tribe of Naphtali and from the half-tribe of Manasseh in Bashan."
+        },
+        {
+          "pk": 838016,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 7,
+          "text": "The sons of Merari according to their families received twelve cities from the tribe of Reuben and from the tribe of Gad and from the tribe of Zebulun."
+        },
+        {
+          "pk": 838017,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 8,
+          "text": "Now the sons of Israel gave by lot to the Levites these cities with their pasture lands, as the LORD had commanded through Moses."
+        },
+        {
+          "pk": 838018,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 9,
+          "text": "They gave these cities which are [here] mentioned by name from the tribe of the sons of Judah and from the tribe of the sons of Simeon;"
+        },
+        {
+          "pk": 838019,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 10,
+          "text": "and they were for the sons of Aaron, one of the families of the Kohathites, of the sons of Levi, for the lot was theirs first."
+        },
+        {
+          "pk": 838020,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 11,
+          "text": "Thus they gave them Kiriath-arba, [Arba being] the father of Anak (that is, Hebron), in the hill country of Judah, with its surrounding pasture lands."
+        },
+        {
+          "pk": 838021,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 12,
+          "text": "But the fields of the city and its villages they gave to Caleb the son of Jephunneh as his possession."
+        },
+        {
+          "pk": 838022,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 13,
+          "text": "So to the sons of Aaron the priest they gave Hebron, the city of refuge for the manslayer, with its pasture lands, and Libnah with its pasture lands,"
+        },
+        {
+          "pk": 838023,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 14,
+          "text": "and Jattir with its pasture lands and Eshtemoa with its pasture lands,"
+        },
+        {
+          "pk": 838024,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 15,
+          "text": "and Holon with its pasture lands and Debir with its pasture lands,"
+        },
+        {
+          "pk": 838025,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 16,
+          "text": "and Ain with its pasture lands and Juttah with its pasture lands [and] Beth-shemesh with its pasture lands; nine cities from these two tribes."
+        },
+        {
+          "pk": 838026,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 17,
+          "text": "From the tribe of Benjamin, Gibeon with its pasture lands, Geba with its pasture lands,"
+        },
+        {
+          "pk": 838027,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 18,
+          "text": "Anathoth with its pasture lands and Almon with its pasture lands; four cities."
+        },
+        {
+          "pk": 838028,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 19,
+          "text": "All the cities of the sons of Aaron, the priests, were thirteen cities with their pasture lands."
+        },
+        {
+          "pk": 838029,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 20,
+          "text": "Then the cities from the tribe of Ephraim were allotted to the families of the sons of Kohath, the Levites, [even to] the rest of the sons of Kohath."
+        },
+        {
+          "pk": 838030,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 21,
+          "text": "They gave them Shechem, the city of refuge for the manslayer, with its pasture lands, in the hill country of Ephraim, and Gezer with its pasture lands,"
+        },
+        {
+          "pk": 838031,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 22,
+          "text": "and Kibzaim with its pasture lands and Beth-horon with its pasture lands; four cities."
+        },
+        {
+          "pk": 838032,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 23,
+          "text": "From the tribe of Dan, Elteke with its pasture lands, Gibbethon with its pasture lands,"
+        },
+        {
+          "pk": 838033,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 24,
+          "text": "Aijalon with its pasture lands, Gath-rimmon with its pasture lands; four cities."
+        },
+        {
+          "pk": 838034,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 25,
+          "text": "From the half-tribe of Manasseh, [they allotted] Taanach with its pasture lands and Gath-rimmon with its pasture lands; two cities."
+        },
+        {
+          "pk": 838035,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 26,
+          "text": "All the cities with their pasture lands for the families of the rest of the sons of Kohath were ten."
+        },
+        {
+          "pk": 838036,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 27,
+          "text": "To the sons of Gershon, one of the families of the Levites, from the half-tribe of Manasseh, [they gave] Golan in Bashan, the city of refuge for the manslayer, with its pasture lands, and Be-eshterah with its pasture lands; two cities."
+        },
+        {
+          "pk": 838037,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 28,
+          "text": "From the tribe of Issachar, [they gave] Kishion with its pasture lands, Daberath with its pasture lands,"
+        },
+        {
+          "pk": 838038,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 29,
+          "text": "Jarmuth with its pasture lands, En-gannim with its pasture lands; four cities."
+        },
+        {
+          "pk": 838039,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 30,
+          "text": "From the tribe of Asher, [they gave] Mishal with its pasture lands, Abdon with its pasture lands,"
+        },
+        {
+          "pk": 838040,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 31,
+          "text": "Helkath with its pasture lands and Rehob with its pasture lands; four cities."
+        },
+        {
+          "pk": 838041,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 32,
+          "text": "From the tribe of Naphtali, [they gave] Kedesh in Galilee, the city of refuge for the manslayer, with its pasture lands and Hammoth-dor with its pasture lands and Kartan with its pasture lands; three cities."
+        },
+        {
+          "pk": 838042,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 33,
+          "text": "All the cities of the Gershonites according to their families were thirteen cities with their pasture lands."
+        },
+        {
+          "pk": 838043,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 34,
+          "text": "To the families of the sons of Merari, the rest of the Levites, [they gave] from the tribe of Zebulun, Jokneam with its pasture lands and Kartah with its pasture lands."
+        },
+        {
+          "pk": 838044,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 35,
+          "text": "Dimnah with its pasture lands, Nahalal with its pasture lands; four cities."
+        },
+        {
+          "pk": 838045,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 36,
+          "text": "From the tribe of Reuben, [they gave] Bezer with its pasture lands and Jahaz with its pasture lands,"
+        },
+        {
+          "pk": 838046,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 37,
+          "text": "Kedemoth with its pasture lands and Mephaath with its pasture lands; four cities."
+        },
+        {
+          "pk": 838047,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 38,
+          "text": "From the tribe of Gad, [they gave] Ramoth in Gilead, the city of refuge for the manslayer, with its pasture lands and Mahanaim with its pasture lands,"
+        },
+        {
+          "pk": 838048,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 39,
+          "text": "Heshbon with its pasture lands, Jazer with its pasture lands; four cities in all."
+        },
+        {
+          "pk": 838049,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 40,
+          "text": "All [these were] the cities of the sons of Merari according to their families, the rest of the families of the Levites; and their lot was twelve cities."
+        },
+        {
+          "pk": 838050,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 41,
+          "text": "All the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight cities with their pasture lands."
+        },
+        {
+          "pk": 838051,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 42,
+          "text": "These cities each had its surrounding pasture lands; thus [it was] with all these cities."
+        },
+        {
+          "pk": 838052,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 43,
+          "text": "So the LORD gave Israel all the land which He had sworn to give to their fathers, and they possessed it and lived in it."
+        },
+        {
+          "pk": 838053,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 44,
+          "text": "And the LORD gave them rest on every side, according to all that He had sworn to their fathers, and no one of all their enemies stood before them; the LORD gave all their enemies into their hand."
+        },
+        {
+          "pk": 838054,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 21,
+          "verse": 45,
+          "text": "Not one of the good promises which the LORD had made to the house of Israel failed; all came to pass."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "pk": 838055,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 1,
+          "text": "Then Joshua summoned the Reubenites and the Gadites and the half-tribe of Manasseh,"
+        },
+        {
+          "pk": 838056,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 2,
+          "text": "and said to them, 'You have kept all that Moses the servant of the LORD commanded you, and have listened to my voice in all that I commanded you."
+        },
+        {
+          "pk": 838057,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 3,
+          "text": "'You have not forsaken your brothers these many days to this day, but have kept the charge of the commandment of the LORD your God."
+        },
+        {
+          "pk": 838058,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 4,
+          "text": "'And now the LORD your God has given rest to your brothers, as He spoke to them; therefore turn now and go to your tents, to the land of your possession, which Moses the servant of the LORD gave you beyond the Jordan."
+        },
+        {
+          "pk": 838059,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 5,
+          "text": "'Only be very careful to observe the commandment and the law which Moses the servant of the LORD commanded you, to love the LORD your God and walk in all His ways and keep His commandments and hold fast to Him and serve Him with all your heart and with all your soul.'"
+        },
+        {
+          "pk": 838060,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 6,
+          "text": "So Joshua blessed them and sent them away, and they went to their tents."
+        },
+        {
+          "pk": 838061,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 7,
+          "text": "Now to the one half-tribe of Manasseh Moses had given [a possession] in Bashan, but to the other half Joshua gave [a possession] among their brothers westward beyond the Jordan. So when Joshua sent them away to their tents, he blessed them,"
+        },
+        {
+          "pk": 838062,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 8,
+          "text": "and said to them, 'Return to your tents with great riches and with very much livestock, with silver, gold, bronze, iron, and with very many clothes; divide the spoil of your enemies with your brothers.'"
+        },
+        {
+          "pk": 838063,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 9,
+          "text": "The sons of Reuben and the sons of Gad and the half-tribe of Manasseh returned [home] and departed from the sons of Israel at Shiloh which is in the land of Canaan, to go to the land of Gilead, to the land of their possession which they had possessed, according to the command of the LORD through Moses."
+        },
+        {
+          "pk": 838064,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 10,
+          "text": "When they came to the region of the Jordan which is in the land of Canaan, the sons of Reuben and the sons of Gad and the half-tribe of Manasseh built an altar there by the Jordan, a large altar in appearance."
+        },
+        {
+          "pk": 838065,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 11,
+          "text": "And the sons of Israel heard [it] said, 'Behold, the sons of Reuben and the sons of Gad and the half-tribe of Manasseh have built an altar at the frontier of the land of Canaan, in the region of the Jordan, on the side [belonging to] the sons of Israel.'"
+        },
+        {
+          "pk": 838066,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 12,
+          "text": "When the sons of Israel heard [of it], the whole congregation of the sons of Israel gathered themselves at Shiloh to go up against them in war."
+        },
+        {
+          "pk": 838067,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 13,
+          "text": "Then the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half-tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest,"
+        },
+        {
+          "pk": 838068,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 14,
+          "text": "and with him ten chiefs, one chief for each father's household from each of the tribes of Israel; and each one of them [was] the head of his father's household among the thousands of Israel."
+        },
+        {
+          "pk": 838069,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 15,
+          "text": "They came to the sons of Reuben and to the sons of Gad and to the half-tribe of Manasseh, to the land of Gilead, and they spoke with them saying,"
+        },
+        {
+          "pk": 838070,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 16,
+          "text": "'Thus says the whole congregation of the LORD, 'What is this unfaithful act which you have committed against the God of Israel, turning away from following the LORD this day, by building yourselves an altar, to rebel against the LORD this day?"
+        },
+        {
+          "pk": 838071,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 17,
+          "text": "'Is not the iniquity of Peor enough for us, from which we have not cleansed ourselves to this day, although a plague came on the congregation of the LORD,"
+        },
+        {
+          "pk": 838072,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 18,
+          "text": "that you must turn away this day from following the LORD? If you rebel against the LORD today, He will be angry with the whole congregation of Israel tomorrow."
+        },
+        {
+          "pk": 838073,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 19,
+          "text": "'If, however, the land of your possession is unclean, then cross into the land of the possession of the LORD, where the LORD'S tabernacle stands, and take possession among us. Only do not rebel against the LORD, or rebel against us by building an altar for yourselves, besides the altar of the LORD our God."
+        },
+        {
+          "pk": 838074,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 20,
+          "text": "'Did not Achan the son of Zerah act unfaithfully in the things under the ban, and wrath fall on all the congregation of Israel? And that man did not perish alone in his iniquity.''"
+        },
+        {
+          "pk": 838075,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 21,
+          "text": "Then the sons of Reuben and the sons of Gad and the half-tribe of Manasseh answered and spoke to the heads of the families of Israel."
+        },
+        {
+          "pk": 838076,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 22,
+          "text": "'The Mighty One, God, the LORD, the Mighty One, God, the LORD! He knows, and may Israel itself know. If [it was] in rebellion, or if in an unfaithful act against the LORD do not save us this day!"
+        },
+        {
+          "pk": 838077,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 23,
+          "text": "'If we have built us an altar to turn away from following the LORD, or if to offer a burnt offering or grain offering on it, or if to offer sacrifices of peace offerings on it, may the LORD Himself require it."
+        },
+        {
+          "pk": 838078,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 24,
+          "text": "'But truly we have done this out of concern, for a reason, saying, 'In time to come your sons may say to our sons, 'What have you to do with the LORD, the God of Israel?"
+        },
+        {
+          "pk": 838079,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 25,
+          "text": "'For the LORD has made the Jordan a border between us and you, [you] sons of Reuben and sons of Gad; you have no portion in the LORD.' So your sons may make our sons stop fearing the LORD.'"
+        },
+        {
+          "pk": 838080,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 26,
+          "text": "'Therefore we said, 'Let us build an altar, not for burnt offering or for sacrifice;"
+        },
+        {
+          "pk": 838081,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 27,
+          "text": "rather it shall be a witness between us and you and between our generations after us, that we are to perform the service of the LORD before Him with our burnt offerings, and with our sacrifices and with our peace offerings, so that your sons will not say to our sons in time to come, 'You have no portion in the LORD.''"
+        },
+        {
+          "pk": 838082,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 28,
+          "text": "'Therefore we said, 'It shall also come about if they say [this] to us or to our generations in time to come, then we shall say, 'See the copy of the altar of the LORD which our fathers made, not for burnt offering or for sacrifice; rather it is a witness between us and you.''"
+        },
+        {
+          "pk": 838083,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 29,
+          "text": "'Far be it from us that we should rebel against the LORD and turn away from following the LORD this day, by building an altar for burnt offering, for grain offering or for sacrifice, besides the altar of the LORD our God which is before His tabernacle.'"
+        },
+        {
+          "pk": 838084,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 30,
+          "text": "So when Phinehas the priest and the leaders of the congregation, even the heads of the families of Israel who [were] with him, heard the words which the sons of Reuben and the sons of Gad and the sons of Manasseh spoke, it pleased them."
+        },
+        {
+          "pk": 838085,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 31,
+          "text": "And Phinehas the son of Eleazar the priest said to the sons of Reuben and to the sons of Gad and to the sons of Manasseh, 'Today we know that the LORD is in our midst, because you have not committed this unfaithful act against the LORD; now you have delivered the sons of Israel from the hand of the LORD.'"
+        },
+        {
+          "pk": 838086,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 32,
+          "text": "Then Phinehas the son of Eleazar the priest and the leaders returned from the sons of Reuben and from the sons of Gad, from the land of Gilead to the land of Canaan, to the sons of Israel, and brought back word to them."
+        },
+        {
+          "pk": 838087,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 33,
+          "text": "The word pleased the sons of Israel, and the sons of Israel blessed God; and they did not speak of going up against them in war to destroy the land in which the sons of Reuben and the sons of Gad were living."
+        },
+        {
+          "pk": 838088,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 22,
+          "verse": 34,
+          "text": "The sons of Reuben and the sons of Gad called the altar [Witness]; 'For,' [they said], 'it is a witness between us that the LORD is God.'"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "pk": 838089,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 1,
+          "text": "Now it came about after many days, when the LORD had given rest to Israel from all their enemies on every side, and Joshua was old, advanced in years,"
+        },
+        {
+          "pk": 838090,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 2,
+          "text": "that Joshua called for all Israel, for their elders and their heads and their judges and their officers, and said to them, 'I am old, advanced in years."
+        },
+        {
+          "pk": 838091,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 3,
+          "text": "'And you have seen all that the LORD your God has done to all these nations because of you, for the LORD your God is He who has been fighting for you."
+        },
+        {
+          "pk": 838092,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 4,
+          "text": "'See, I have apportioned to you these nations which remain as an inheritance for your tribes, with all the nations which I have cut off, from the Jordan even to the Great Sea toward the setting of the sun."
+        },
+        {
+          "pk": 838093,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 5,
+          "text": "'The LORD your God, He will thrust them out from before you and drive them from before you; and you will possess their land, just as the LORD your God promised you."
+        },
+        {
+          "pk": 838094,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 6,
+          "text": "'Be very firm, then, to keep and do all that is written in the book of the law of Moses, so that you may not turn aside from it to the right hand or to the left,"
+        },
+        {
+          "pk": 838095,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 7,
+          "text": "so that you will not associate with these nations, these which remain among you, or mention the name of their gods, or make [anyone] swear [by them], or serve them, or bow down to them."
+        },
+        {
+          "pk": 838096,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 8,
+          "text": "'But you are to cling to the LORD your God, as you have done to this day."
+        },
+        {
+          "pk": 838097,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 9,
+          "text": "'For the LORD has driven out great and strong nations from before you; and as for you, no man has stood before you to this day."
+        },
+        {
+          "pk": 838098,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 10,
+          "text": "'One of your men puts to flight a thousand, for the LORD your God is He who fights for you, just as He promised you."
+        },
+        {
+          "pk": 838099,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 11,
+          "text": "'So take diligent heed to yourselves to love the LORD your God."
+        },
+        {
+          "pk": 838100,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 12,
+          "text": "'For if you ever go back and cling to the rest of these nations, these which remain among you, and intermarry with them, so that you associate with them and they with you,"
+        },
+        {
+          "pk": 838101,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 13,
+          "text": "know with certainty that the LORD your God will not continue to drive these nations out from before you; but they will be a snare and a trap to you, and a whip on your sides and thorns in your eyes, until you perish from off this good land which the LORD your God has given you."
+        },
+        {
+          "pk": 838102,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 14,
+          "text": "'Now behold, today I am going the way of all the earth, and you know in all your hearts and in all your souls that not one word of all the good words which the LORD your God spoke concerning you has failed; all have been fulfilled for you, not one of them has failed."
+        },
+        {
+          "pk": 838103,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 15,
+          "text": "'It shall come about that just as all the good words which the LORD your God spoke to you have come upon you, so the LORD will bring upon you all the threats, until He has destroyed you from off this good land which the LORD your God has given you."
+        },
+        {
+          "pk": 838104,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 23,
+          "verse": 16,
+          "text": "'When you transgress the covenant of the LORD your God, which He commanded you, and go and serve other gods and bow down to them, then the anger of the LORD will burn against you, and you will perish quickly from off the good land which He has given you.'"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "pk": 838105,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 1,
+          "text": "Then Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel and for their heads and their judges and their officers; and they presented themselves before God."
+        },
+        {
+          "pk": 838106,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 2,
+          "text": "Joshua said to all the people, 'Thus says the LORD, the God of Israel, 'From ancient times your fathers lived beyond the River, [namely], Terah, the father of Abraham and the father of Nahor, and they served other gods."
+        },
+        {
+          "pk": 838107,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 3,
+          "text": "'Then I took your father Abraham from beyond the River, and led him through all the land of Canaan, and multiplied his descendants and gave him Isaac."
+        },
+        {
+          "pk": 838108,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 4,
+          "text": "'To Isaac I gave Jacob and Esau, and to Esau I gave Mount Seir to possess it; but Jacob and his sons went down to Egypt."
+        },
+        {
+          "pk": 838109,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 5,
+          "text": "'Then I sent Moses and Aaron, and I plagued Egypt by what I did in its midst; and afterward I brought you out."
+        },
+        {
+          "pk": 838110,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 6,
+          "text": "'I brought your fathers out of Egypt, and you came to the sea; and Egypt pursued your fathers with chariots and horsemen to the Red Sea."
+        },
+        {
+          "pk": 838111,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 7,
+          "text": "'But when they cried out to the LORD, He put darkness between you and the Egyptians, and brought the sea upon them and covered them; and your own eyes saw what I did in Egypt. And you lived in the wilderness for a long time."
+        },
+        {
+          "pk": 838112,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 8,
+          "text": "'Then I brought you into the land of the Amorites who lived beyond the Jordan, and they fought with you; and I gave them into your hand, and you took possession of their land when I destroyed them before you."
+        },
+        {
+          "pk": 838113,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 9,
+          "text": "'Then Balak the son of Zippor, king of Moab, arose and fought against Israel, and he sent and summoned Balaam the son of Beor to curse you."
+        },
+        {
+          "pk": 838114,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 10,
+          "text": "'But I was not willing to listen to Balaam. So he had to bless you, and I delivered you from his hand."
+        },
+        {
+          "pk": 838115,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 11,
+          "text": "'You crossed the Jordan and came to Jericho; and the citizens of Jericho fought against you, [and] the Amorite and the Perizzite and the Canaanite and the Hittite and the Girgashite, the Hivite and the Jebusite. Thus I gave them into your hand."
+        },
+        {
+          "pk": 838116,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 12,
+          "text": "'Then I sent the hornet before you and it drove out the two kings of the Amorites from before you, [but] not by your sword or your bow."
+        },
+        {
+          "pk": 838117,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 13,
+          "text": "'I gave you a land on which you had not labored, and cities which you had not built, and you have lived in them; you are eating of vineyards and olive groves which you did not plant.'"
+        },
+        {
+          "pk": 838118,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 14,
+          "text": "'Now, therefore, fear the LORD and serve Him in sincerity and truth; and put away the gods which your fathers served beyond the River and in Egypt, and serve the LORD."
+        },
+        {
+          "pk": 838119,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 15,
+          "text": "'If it is disagreeable in your sight to serve the LORD, choose for yourselves today whom you will serve: whether the gods which your fathers served which were beyond the River, or the gods of the Amorites in whose land you are living; but as for me and my house, we will serve the LORD.'"
+        },
+        {
+          "pk": 838120,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 16,
+          "text": "The people answered and said, 'Far be it from us that we should forsake the LORD to serve other gods;"
+        },
+        {
+          "pk": 838121,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 17,
+          "text": "for the LORD our God is He who brought us and our fathers up out of the land of Egypt, from the house of bondage, and who did these great signs in our sight and preserved us through all the way in which we went and among all the peoples through whose midst we passed."
+        },
+        {
+          "pk": 838122,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 18,
+          "text": "'The LORD drove out from before us all the peoples, even the Amorites who lived in the land. We also will serve the LORD, for He is our God.'"
+        },
+        {
+          "pk": 838123,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 19,
+          "text": "Then Joshua said to the people, 'You will not be able to serve the LORD, for He is a holy God. He is a jealous God; He will not forgive your transgression or your sins."
+        },
+        {
+          "pk": 838124,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 20,
+          "text": "'If you forsake the LORD and serve foreign gods, then He will turn and do you harm and consume you after He has done good to you.'"
+        },
+        {
+          "pk": 838125,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 21,
+          "text": "The people said to Joshua, 'No, but we will serve the LORD.'"
+        },
+        {
+          "pk": 838126,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 22,
+          "text": "Joshua said to the people, 'You are witnesses against yourselves that you have chosen for yourselves the LORD, to serve Him.' And they said, 'We are witnesses.'"
+        },
+        {
+          "pk": 838127,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 23,
+          "text": "'Now therefore, put away the foreign gods which are in your midst, and incline your hearts to the LORD, the God of Israel.'"
+        },
+        {
+          "pk": 838128,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 24,
+          "text": "The people said to Joshua, 'We will serve the LORD our God and we will obey His voice.'"
+        },
+        {
+          "pk": 838129,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 25,
+          "text": "So Joshua made a covenant with the people that day, and made for them a statute and an ordinance in Shechem."
+        },
+        {
+          "pk": 838130,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 26,
+          "text": "And Joshua wrote these words in the book of the law of God; and he took a large stone and set it up there under the oak that was by the sanctuary of the LORD."
+        },
+        {
+          "pk": 838131,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 27,
+          "text": "Joshua said to all the people, 'Behold, this stone shall be for a witness against us, for it has heard all the words of the LORD which He spoke to us; thus it shall be for a witness against you, so that you do not deny your God.'"
+        },
+        {
+          "pk": 838132,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 28,
+          "text": "Then Joshua dismissed the people, each to his inheritance."
+        },
+        {
+          "pk": 838133,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 29,
+          "text": "It came about after these things that Joshua the son of Nun, the servant of the LORD, died, being one hundred and ten years old."
+        },
+        {
+          "pk": 838134,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 30,
+          "text": "And they buried him in the territory of his inheritance in Timnath-serah, which is in the hill country of Ephraim, on the north of Mount Gaash."
+        },
+        {
+          "pk": 838135,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 31,
+          "text": "Israel served the LORD all the days of Joshua and all the days of the elders who survived Joshua, and had known all the deeds of the LORD which He had done for Israel."
+        },
+        {
+          "pk": 838136,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 32,
+          "text": "Now they buried the bones of Joseph, which the sons of Israel brought up from Egypt, at Shechem, in the piece of ground which Jacob had bought from the sons of Hamor the father of Shechem for one hundred pieces of money; and they became the inheritance of Joseph's sons."
+        },
+        {
+          "pk": 838137,
+          "translation": "NASB",
+          "book": 6,
+          "chapter": 24,
+          "verse": 33,
+          "text": "And Eleazar the son of Aaron died; and they buried him at Gibeah of Phinehas his son, which was given him in the hill country of Ephraim."
+        }
+      ]
+    }
+  ]
+};

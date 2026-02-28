@@ -1,0 +1,139 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/38/09"] = [
+  {
+    "pk": 854628,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 1,
+    "text": "The burden of the word of the LORD is against the land of Hadrach, with Damascus as its resting place (for the eyes of men, especially of all the tribes of Israel, are toward the LORD),"
+  },
+  {
+    "pk": 854629,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 2,
+    "text": "And Hamath also, which borders on it; Tyre and Sidon, though they are very wise."
+  },
+  {
+    "pk": 854630,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 3,
+    "text": "For Tyre built herself a fortress And piled up silver like dust, And gold like the mire of the streets."
+  },
+  {
+    "pk": 854631,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 4,
+    "text": "Behold, the Lord will dispossess her And cast her wealth into the sea; And she will be consumed with fire."
+  },
+  {
+    "pk": 854632,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 5,
+    "text": "Ashkelon will see [it] and be afraid. Gaza too will writhe in great pain; Also Ekron, for her expectation has been confounded. Moreover, the king will perish from Gaza, And Ashkelon will not be inhabited."
+  },
+  {
+    "pk": 854633,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 6,
+    "text": "And a mongrel race will dwell in Ashdod, And I will cut off the pride of the Philistines."
+  },
+  {
+    "pk": 854634,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 7,
+    "text": "And I will remove their blood from their mouth And their detestable things from between their teeth. Then they also will be a remnant for our God, And be like a clan in Judah, And Ekron like a Jebusite."
+  },
+  {
+    "pk": 854635,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 8,
+    "text": "But I will camp around My house because of an army, Because of him who passes by and returns; And no oppressor will pass over them anymore, For now I have seen with My eyes."
+  },
+  {
+    "pk": 854636,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 9,
+    "text": "Rejoice greatly, O daughter of Zion! Shout [in triumph], O daughter of Jerusalem! Behold, your king is coming to you; He is just and endowed with salvation, Humble, and mounted on a donkey, Even on a colt, the foal of a donkey."
+  },
+  {
+    "pk": 854637,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 10,
+    "text": "I will cut off the chariot from Ephraim And the horse from Jerusalem; And the bow of war will be cut off. And He will speak peace to the nations; And His dominion will be from sea to sea, And from the River to the ends of the earth."
+  },
+  {
+    "pk": 854638,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 11,
+    "text": "As for you also, because of the blood of [My] covenant with you, I have set your prisoners free from the waterless pit."
+  },
+  {
+    "pk": 854639,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 12,
+    "text": "Return to the stronghold, O prisoners who have the hope; This very day I am declaring that I will restore double to you."
+  },
+  {
+    "pk": 854640,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 13,
+    "text": "For I will bend Judah as My bow, I will fill the bow with Ephraim. And I will stir up your sons, O Zion, against your sons, O Greece; And I will make you like a warrior's sword."
+  },
+  {
+    "pk": 854641,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 14,
+    "text": "Then the LORD will appear over them, And His arrow will go forth like lightning; And the Lord GOD will blow the trumpet, And will march in the storm winds of the south."
+  },
+  {
+    "pk": 854642,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 15,
+    "text": "The LORD of hosts will defend them. And they will devour and trample on the sling stones; And they will drink [and] be boisterous as with wine; And they will be filled like a [sacrificial] basin, [Drenched] like the corners of the altar."
+  },
+  {
+    "pk": 854643,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 16,
+    "text": "And the LORD their God will save them in that day As the flock of His people; For [they are as] the stones of a crown, Sparkling in His land."
+  },
+  {
+    "pk": 854644,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 9,
+    "verse": 17,
+    "text": "For what comeliness and beauty [will be] theirs! Grain will make the young men flourish, and new wine the virgins."
+  }
+];

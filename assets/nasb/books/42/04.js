@@ -1,0 +1,355 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/42/04"] = [
+  {
+    "pk": 856692,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 1,
+    "text": "Jesus, full of the Holy Spirit, returned from the Jordan and was led around by the Spirit in the wilderness"
+  },
+  {
+    "pk": 856693,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 2,
+    "text": "for forty days, being tempted by the devil. And He ate nothing during those days, and when they had ended, He became hungry."
+  },
+  {
+    "pk": 856694,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 3,
+    "text": "And the devil said to Him, 'If You are the Son of God, tell this stone to become bread.'"
+  },
+  {
+    "pk": 856695,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 4,
+    "text": "And Jesus answered him, 'It is written, 'MAN SHALL NOT LIVE ON BREAD ALONE.''"
+  },
+  {
+    "pk": 856696,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 5,
+    "text": "And he led Him up and showed Him all the kingdoms of the world in a moment of time."
+  },
+  {
+    "pk": 856697,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 6,
+    "text": "And the devil said to Him, 'I will give You all this domain and its glory; for it has been handed over to me, and I give it to whomever I wish."
+  },
+  {
+    "pk": 856698,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 7,
+    "text": "'Therefore if You worship before me, it shall all be Yours.'"
+  },
+  {
+    "pk": 856699,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 8,
+    "text": "Jesus answered him, 'It is written, 'YOU SHALL WORSHIP THE LORD YOUR GOD AND SERVE HIM ONLY.''"
+  },
+  {
+    "pk": 856700,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 9,
+    "text": "And he led Him to Jerusalem and had Him stand on the pinnacle of the temple, and said to Him, 'If You are the Son of God, throw Yourself down from here;"
+  },
+  {
+    "pk": 856701,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 10,
+    "text": "for it is written, 'HE WILL COMMAND HIS ANGELS CONCERNING YOU TO GUARD YOU,'"
+  },
+  {
+    "pk": 856702,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 11,
+    "text": "and, 'ON [their] HANDS THEY WILL BEAR YOU UP, SO THAT YOU WILL NOT STRIKE YOUR FOOT AGAINST A STONE.''"
+  },
+  {
+    "pk": 856703,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 12,
+    "text": "And Jesus answered and said to him, 'It is said, 'YOU SHALL NOT PUT THE LORD YOUR GOD TO THE TEST.''"
+  },
+  {
+    "pk": 856704,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 13,
+    "text": "When the devil had finished every temptation, he left Him until an opportune time."
+  },
+  {
+    "pk": 856705,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 14,
+    "text": "And Jesus returned to Galilee in the power of the Spirit, and news about Him spread through all the surrounding district."
+  },
+  {
+    "pk": 856706,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 15,
+    "text": "And He [began] teaching in their synagogues and was praised by all."
+  },
+  {
+    "pk": 856707,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 16,
+    "text": "And He came to Nazareth, where He had been brought up; and as was His custom, He entered the synagogue on the Sabbath, and stood up to read."
+  },
+  {
+    "pk": 856708,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 17,
+    "text": "And the book of the prophet Isaiah was handed to Him. And He opened the book and found the place where it was written,"
+  },
+  {
+    "pk": 856709,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 18,
+    "text": "'THE SPIRIT OF THE LORD IS UPON ME, BECAUSE HE ANOINTED ME TO PREACH THE GOSPEL TO THE POOR. HE HAS SENT ME TO PROCLAIM RELEASE TO THE CAPTIVES, AND RECOVERY OF SIGHT TO THE BLIND, TO SET FREE THOSE WHO ARE OPPRESSED,"
+  },
+  {
+    "pk": 856710,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 19,
+    "text": "TO PROCLAIM THE FAVORABLE YEAR OF THE LORD.'"
+  },
+  {
+    "pk": 856711,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 20,
+    "text": "And He closed the book, gave it back to the attendant and sat down; and the eyes of all in the synagogue were fixed on Him."
+  },
+  {
+    "pk": 856712,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 21,
+    "text": "And He began to say to them, 'Today this Scripture has been fulfilled in your hearing.'"
+  },
+  {
+    "pk": 856713,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 22,
+    "text": "And all were speaking well of Him, and wondering at the gracious words which were falling from His lips; and they were saying, 'Is this not Joseph's son?'"
+  },
+  {
+    "pk": 856714,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 23,
+    "text": "And He said to them, 'No doubt you will quote this proverb to Me, 'Physician, heal yourself! Whatever we heard was done at Capernaum, do here in your hometown as well.''"
+  },
+  {
+    "pk": 856715,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 24,
+    "text": "And He said, 'Truly I say to you, no prophet is welcome in his hometown."
+  },
+  {
+    "pk": 856716,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 25,
+    "text": "'But I say to you in truth, there were many widows in Israel in the days of Elijah, when the sky was shut up for three years and six months, when a great famine came over all the land;"
+  },
+  {
+    "pk": 856717,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 26,
+    "text": "and yet Elijah was sent to none of them, but only to Zarephath, [in the land] of Sidon, to a woman who was a widow."
+  },
+  {
+    "pk": 856718,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 27,
+    "text": "'And there were many lepers in Israel in the time of Elisha the prophet; and none of them was cleansed, but only Naaman the Syrian.'"
+  },
+  {
+    "pk": 856719,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 28,
+    "text": "And all [the people] in the synagogue were filled with rage as they heard these things;"
+  },
+  {
+    "pk": 856720,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 29,
+    "text": "and they got up and drove Him out of the city, and led Him to the brow of the hill on which their city had been built, in order to throw Him down the cliff."
+  },
+  {
+    "pk": 856721,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 30,
+    "text": "But passing through their midst, He went His way."
+  },
+  {
+    "pk": 856722,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 31,
+    "text": "And He came down to Capernaum, a city of Galilee, and He was teaching them on the Sabbath;"
+  },
+  {
+    "pk": 856723,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 32,
+    "text": "and they were amazed at His teaching, for His message was with authority."
+  },
+  {
+    "pk": 856724,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 33,
+    "text": "In the synagogue there was a man possessed by the spirit of an unclean demon, and he cried out with a loud voice,"
+  },
+  {
+    "pk": 856725,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 34,
+    "text": "'Let us alone! What business do we have with each other, Jesus of Nazareth? Have You come to destroy us? I know who You are-- the Holy One of God!'"
+  },
+  {
+    "pk": 856726,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 35,
+    "text": "But Jesus rebuked him, saying, 'Be quiet and come out of him!' And when the demon had thrown him down in the midst [of the people], he came out of him without doing him any harm."
+  },
+  {
+    "pk": 856727,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 36,
+    "text": "And amazement came upon them all, and they [began] talking with one another saying, 'What is this message? For with authority and power He commands the unclean spirits and they come out.'"
+  },
+  {
+    "pk": 856728,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 37,
+    "text": "And the report about Him was spreading into every locality in the surrounding district."
+  },
+  {
+    "pk": 856729,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 38,
+    "text": "Then He got up and [left] the synagogue, and entered Simon's home. Now Simon's mother-in-law was suffering from a high fever, and they asked Him to help her."
+  },
+  {
+    "pk": 856730,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 39,
+    "text": "And standing over her, He rebuked the fever, and it left her; and she immediately got up and waited on them."
+  },
+  {
+    "pk": 856731,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 40,
+    "text": "While the sun was setting, all those who had any [who were] sick with various diseases brought them to Him; and laying His hands on each one of them, He was healing them."
+  },
+  {
+    "pk": 856732,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 41,
+    "text": "Demons also were coming out of many, shouting, 'You are the Son of God!' But rebuking them, He would not allow them to speak, because they knew Him to be the Christ."
+  },
+  {
+    "pk": 856733,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 42,
+    "text": "When day came, Jesus left and went to a secluded place; and the crowds were searching for Him, and came to Him and tried to keep Him from going away from them."
+  },
+  {
+    "pk": 856734,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 43,
+    "text": "But He said to them, 'I must preach the kingdom of God to the other cities also, for I was sent for this purpose.'"
+  },
+  {
+    "pk": 856735,
+    "translation": "NASB",
+    "book": 42,
+    "chapter": 4,
+    "verse": 44,
+    "text": "So He kept on preaching in the synagogues of Judea."
+  }
+];

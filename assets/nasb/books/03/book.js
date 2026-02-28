@@ -1,0 +1,7014 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/03/book"] = {
+  "translation": "NASB",
+  "book": 3,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 834374,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 1,
+          "text": "Then the LORD called to Moses and spoke to him from the tent of meeting, saying,"
+        },
+        {
+          "pk": 834375,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel and say to them, 'When any man of you brings an offering to the LORD, you shall bring your offering of animals from the herd or the flock."
+        },
+        {
+          "pk": 834376,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 3,
+          "text": "'If his offering is a burnt offering from the herd, he shall offer it, a male without defect; he shall offer it at the doorway of the tent of meeting, that he may be accepted before the LORD."
+        },
+        {
+          "pk": 834377,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 4,
+          "text": "'He shall lay his hand on the head of the burnt offering, that it may be accepted for him to make atonement on his behalf."
+        },
+        {
+          "pk": 834378,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 5,
+          "text": "'He shall slay the young bull before the LORD; and Aaron's sons the priests shall offer up the blood and sprinkle the blood around on the altar that is at the doorway of the tent of meeting."
+        },
+        {
+          "pk": 834379,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 6,
+          "text": "'He shall then skin the burnt offering and cut it into its pieces."
+        },
+        {
+          "pk": 834380,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 7,
+          "text": "'The sons of Aaron the priest shall put fire on the altar and arrange wood on the fire."
+        },
+        {
+          "pk": 834381,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 8,
+          "text": "'Then Aaron's sons the priests shall arrange the pieces, the head and the suet over the wood which is on the fire that is on the altar."
+        },
+        {
+          "pk": 834382,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 9,
+          "text": "'Its entrails, however, and its legs he shall wash with water. And the priest shall offer up in smoke all of it on the altar for a burnt offering, an offering by fire of a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834383,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 10,
+          "text": "'But if his offering is from the flock, of the sheep or of the goats, for a burnt offering, he shall offer it a male without defect."
+        },
+        {
+          "pk": 834384,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 11,
+          "text": "'He shall slay it on the side of the altar northward before the LORD, and Aaron's sons the priests shall sprinkle its blood around on the altar."
+        },
+        {
+          "pk": 834385,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 12,
+          "text": "'He shall then cut it into its pieces with its head and its suet, and the priest shall arrange them on the wood which is on the fire that is on the altar."
+        },
+        {
+          "pk": 834386,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 13,
+          "text": "'The entrails, however, and the legs he shall wash with water. And the priest shall offer all of it, and offer it up in smoke on the altar; it is a burnt offering, an offering by fire of a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834387,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 14,
+          "text": "'But if his offering to the LORD is a burnt offering of birds, then he shall bring his offering from the turtledoves or from young pigeons."
+        },
+        {
+          "pk": 834388,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 15,
+          "text": "'The priest shall bring it to the altar, and wring off its head and offer it up in smoke on the altar; and its blood is to be drained out on the side of the altar."
+        },
+        {
+          "pk": 834389,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 16,
+          "text": "'He shall also take away its crop with its feathers and cast it beside the altar eastward, to the place of the ashes."
+        },
+        {
+          "pk": 834390,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 1,
+          "verse": 17,
+          "text": "'Then he shall tear it by its wings, [but] shall not sever [it]. And the priest shall offer it up in smoke on the altar on the wood which is on the fire; it is a burnt offering, an offering by fire of a soothing aroma to the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 834391,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 1,
+          "text": "'Now when anyone presents a grain offering as an offering to the LORD, his offering shall be of fine flour, and he shall pour oil on it and put frankincense on it."
+        },
+        {
+          "pk": 834392,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 2,
+          "text": "'He shall then bring it to Aaron's sons the priests; and shall take from it his handful of its fine flour and of its oil with all of its frankincense. And the priest shall offer [it] up in smoke [as] its memorial portion on the altar, an offering by fire of a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834393,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 3,
+          "text": "'The remainder of the grain offering belongs to Aaron and his sons: a thing most holy, of the offerings to the LORD by fire."
+        },
+        {
+          "pk": 834394,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 4,
+          "text": "'Now when you bring an offering of a grain offering baked in an oven, [it shall be] unleavened cakes of fine flour mixed with oil, or unleavened wafers spread with oil."
+        },
+        {
+          "pk": 834395,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 5,
+          "text": "'If your offering is a grain offering [made] on the griddle, [it shall be] of fine flour, unleavened, mixed with oil;"
+        },
+        {
+          "pk": 834396,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 6,
+          "text": "you shall break it into bits and pour oil on it; it is a grain offering."
+        },
+        {
+          "pk": 834397,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 7,
+          "text": "'Now if your offering is a grain offering [made] in a pan, it shall be made of fine flour with oil."
+        },
+        {
+          "pk": 834398,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 8,
+          "text": "'When you bring in the grain offering which is made of these things to the LORD, it shall be presented to the priest and he shall bring it to the altar."
+        },
+        {
+          "pk": 834399,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 9,
+          "text": "'The priest then shall take up from the grain offering its memorial portion, and shall offer [it] up in smoke on the altar [as] an offering by fire of a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834400,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 10,
+          "text": "'The remainder of the grain offering belongs to Aaron and his sons: a thing most holy of the offerings to the LORD by fire."
+        },
+        {
+          "pk": 834401,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 11,
+          "text": "'No grain offering, which you bring to the LORD, shall be made with leaven, for you shall not offer up in smoke any leaven or any honey as an offering by fire to the LORD."
+        },
+        {
+          "pk": 834402,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 12,
+          "text": "'As an offering of first fruits you shall bring them to the LORD, but they shall not ascend for a soothing aroma on the altar."
+        },
+        {
+          "pk": 834403,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 13,
+          "text": "'Every grain offering of yours, moreover, you shall season with salt, so that the salt of the covenant of your God shall not be lacking from your grain offering; with all your offerings you shall offer salt."
+        },
+        {
+          "pk": 834404,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 14,
+          "text": "'Also if you bring a grain offering of early ripened things to the LORD, you shall bring fresh heads of grain roasted in the fire, grits of new growth, for the grain offering of your early ripened things."
+        },
+        {
+          "pk": 834405,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 15,
+          "text": "'You shall then put oil on it and lay incense on it; it is a grain offering."
+        },
+        {
+          "pk": 834406,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 2,
+          "verse": 16,
+          "text": "'The priest shall offer up in smoke its memorial portion, part of its grits and its oil with all its incense as an offering by fire to the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 834407,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 1,
+          "text": "'Now if his offering is a sacrifice of peace offerings, if he is going to offer out of the herd, whether male or female, he shall offer it without defect before the LORD."
+        },
+        {
+          "pk": 834408,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 2,
+          "text": "'He shall lay his hand on the head of his offering and slay it at the doorway of the tent of meeting, and Aaron's sons the priests shall sprinkle the blood around on the altar."
+        },
+        {
+          "pk": 834409,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 3,
+          "text": "'From the sacrifice of the peace offerings he shall present an offering by fire to the LORD, the fat that covers the entrails and all the fat that is on the entrails,"
+        },
+        {
+          "pk": 834410,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 4,
+          "text": "and the two kidneys with the fat that is on them, which is on the loins, and the lobe of the liver, which he shall remove with the kidneys."
+        },
+        {
+          "pk": 834411,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 5,
+          "text": "'Then Aaron's sons shall offer [it] up in smoke on the altar on the burnt offering, which is on the wood that is on the fire; it is an offering by fire of a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834412,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 6,
+          "text": "'But if his offering for a sacrifice of peace offerings to the LORD is from the flock, he shall offer it, male or female, without defect."
+        },
+        {
+          "pk": 834413,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 7,
+          "text": "'If he is going to offer a lamb for his offering, then he shall offer it before the LORD,"
+        },
+        {
+          "pk": 834414,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 8,
+          "text": "and he shall lay his hand on the head of his offering and slay it before the tent of meeting, and Aaron's sons shall sprinkle its blood around on the altar."
+        },
+        {
+          "pk": 834415,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 9,
+          "text": "'From the sacrifice of peace offerings he shall bring as an offering by fire to the LORD, its fat, the entire fat tail which he shall remove close to the backbone, and the fat that covers the entrails and all the fat that is on the entrails,"
+        },
+        {
+          "pk": 834416,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 10,
+          "text": "and the two kidneys with the fat that is on them, which is on the loins, and the lobe of the liver, which he shall remove with the kidneys."
+        },
+        {
+          "pk": 834417,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 11,
+          "text": "'Then the priest shall offer [it] up in smoke on the altar [as] food, an offering by fire to the LORD."
+        },
+        {
+          "pk": 834418,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 12,
+          "text": "'Moreover, if his offering is a goat, then he shall offer it before the LORD,"
+        },
+        {
+          "pk": 834419,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 13,
+          "text": "and he shall lay his hand on its head and slay it before the tent of meeting, and the sons of Aaron shall sprinkle its blood around on the altar."
+        },
+        {
+          "pk": 834420,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 14,
+          "text": "'From it he shall present his offering as an offering by fire to the LORD, the fat that covers the entrails and all the fat that is on the entrails,"
+        },
+        {
+          "pk": 834421,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 15,
+          "text": "and the two kidneys with the fat that is on them, which is on the loins, and the lobe of the liver, which he shall remove with the kidneys."
+        },
+        {
+          "pk": 834422,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 16,
+          "text": "'The priest shall offer them up in smoke on the altar [as] food, an offering by fire for a soothing aroma; all fat is the LORD'S."
+        },
+        {
+          "pk": 834423,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 3,
+          "verse": 17,
+          "text": "'It is a perpetual statute throughout your generations in all your dwellings: you shall not eat any fat or any blood.''"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 834424,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834425,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel, saying, 'If a person sins unintentionally in any of the things which the LORD has commanded not to be done, and commits any of them,"
+        },
+        {
+          "pk": 834426,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 3,
+          "text": "if the anointed priest sins so as to bring guilt on the people, then let him offer to the LORD a bull without defect as a sin offering for the sin he has committed."
+        },
+        {
+          "pk": 834427,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 4,
+          "text": "'He shall bring the bull to the doorway of the tent of meeting before the LORD, and he shall lay his hand on the head of the bull and slay the bull before the LORD."
+        },
+        {
+          "pk": 834428,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 5,
+          "text": "'Then the anointed priest is to take some of the blood of the bull and bring it to the tent of meeting,"
+        },
+        {
+          "pk": 834429,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 6,
+          "text": "and the priest shall dip his finger in the blood and sprinkle some of the blood seven times before the LORD, in front of the veil of the sanctuary."
+        },
+        {
+          "pk": 834430,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 7,
+          "text": "'The priest shall also put some of the blood on the horns of the altar of fragrant incense which is before the LORD in the tent of meeting; and all the blood of the bull he shall pour out at the base of the altar of burnt offering which is at the doorway of the tent of meeting."
+        },
+        {
+          "pk": 834431,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 8,
+          "text": "'He shall remove from it all the fat of the bull of the sin offering: the fat that covers the entrails, and all the fat which is on the entrails,"
+        },
+        {
+          "pk": 834432,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 9,
+          "text": "and the two kidneys with the fat that is on them, which is on the loins, and the lobe of the liver, which he shall remove with the kidneys"
+        },
+        {
+          "pk": 834433,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 10,
+          "text": "(just as it is removed from the ox of the sacrifice of peace offerings), and the priest is to offer them up in smoke on the altar of burnt offering."
+        },
+        {
+          "pk": 834434,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 11,
+          "text": "'But the hide of the bull and all its flesh with its head and its legs and its entrails and its refuse,"
+        },
+        {
+          "pk": 834435,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 12,
+          "text": "that is, all [the rest of] the bull, he is to bring out to a clean place outside the camp where the ashes are poured out, and burn it on wood with fire; where the ashes are poured out it shall be burned."
+        },
+        {
+          "pk": 834436,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 13,
+          "text": "'Now if the whole congregation of Israel commits error and the matter escapes the notice of the assembly, and they commit any of the things which the LORD has commanded not to be done, and they become guilty;"
+        },
+        {
+          "pk": 834437,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 14,
+          "text": "when the sin which they have committed becomes known, then the assembly shall offer a bull of the herd for a sin offering and bring it before the tent of meeting."
+        },
+        {
+          "pk": 834438,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 15,
+          "text": "'Then the elders of the congregation shall lay their hands on the head of the bull before the LORD, and the bull shall be slain before the LORD."
+        },
+        {
+          "pk": 834439,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 16,
+          "text": "'Then the anointed priest is to bring some of the blood of the bull to the tent of meeting;"
+        },
+        {
+          "pk": 834440,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 17,
+          "text": "and the priest shall dip his finger in the blood and sprinkle [it] seven times before the LORD, in front of the veil."
+        },
+        {
+          "pk": 834441,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 18,
+          "text": "'He shall put some of the blood on the horns of the altar which is before the LORD in the tent of meeting; and all the blood he shall pour out at the base of the altar of burnt offering which is at the doorway of the tent of meeting."
+        },
+        {
+          "pk": 834442,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 19,
+          "text": "'He shall remove all its fat from it and offer it up in smoke on the altar."
+        },
+        {
+          "pk": 834443,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 20,
+          "text": "'He shall also do with the bull just as he did with the bull of the sin offering; thus he shall do with it. So the priest shall make atonement for them, and they will be forgiven."
+        },
+        {
+          "pk": 834444,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 21,
+          "text": "'Then he is to bring out the bull to [a place] outside the camp and burn it as he burned the first bull; it is the sin offering for the assembly."
+        },
+        {
+          "pk": 834445,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 22,
+          "text": "'When a leader sins and unintentionally does any one of all the things which the LORD his God has commanded not to be done, and he becomes guilty,"
+        },
+        {
+          "pk": 834446,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 23,
+          "text": "if his sin which he has committed is made known to him, he shall bring for his offering a goat, a male without defect."
+        },
+        {
+          "pk": 834447,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 24,
+          "text": "'He shall lay his hand on the head of the male goat and slay it in the place where they slay the burnt offering before the LORD; it is a sin offering."
+        },
+        {
+          "pk": 834448,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 25,
+          "text": "'Then the priest is to take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering; and [the rest of] its blood he shall pour out at the base of the altar of burnt offering."
+        },
+        {
+          "pk": 834449,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 26,
+          "text": "'All its fat he shall offer up in smoke on the altar as [in the case of] the fat of the sacrifice of peace offerings. Thus the priest shall make atonement for him in regard to his sin, and he will be forgiven."
+        },
+        {
+          "pk": 834450,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 27,
+          "text": "'Now if anyone of the common people sins unintentionally in doing any of the things which the LORD has commanded not to be done, and becomes guilty,"
+        },
+        {
+          "pk": 834451,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 28,
+          "text": "if his sin which he has committed is made known to him, then he shall bring for his offering a goat, a female without defect, for his sin which he has committed."
+        },
+        {
+          "pk": 834452,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 29,
+          "text": "'He shall lay his hand on the head of the sin offering and slay the sin offering at the place of the burnt offering."
+        },
+        {
+          "pk": 834453,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 30,
+          "text": "'The priest shall take some of its blood with his finger and put it on the horns of the altar of burnt offering; and all [the rest of] its blood he shall pour out at the base of the altar."
+        },
+        {
+          "pk": 834454,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 31,
+          "text": "'Then he shall remove all its fat, just as the fat was removed from the sacrifice of peace offerings; and the priest shall offer it up in smoke on the altar for a soothing aroma to the LORD. Thus the priest shall make atonement for him, and he will be forgiven."
+        },
+        {
+          "pk": 834455,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 32,
+          "text": "'But if he brings a lamb as his offering for a sin offering, he shall bring it, a female without defect."
+        },
+        {
+          "pk": 834456,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 33,
+          "text": "'He shall lay his hand on the head of the sin offering and slay it for a sin offering in the place where they slay the burnt offering."
+        },
+        {
+          "pk": 834457,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 34,
+          "text": "'The priest is to take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and all [the rest of] its blood he shall pour out at the base of the altar."
+        },
+        {
+          "pk": 834458,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 4,
+          "verse": 35,
+          "text": "'Then he shall remove all its fat, just as the fat of the lamb is removed from the sacrifice of the peace offerings, and the priest shall offer them up in smoke on the altar, on the offerings by fire to the LORD. Thus the priest shall make atonement for him in regard to his sin which he has committed, and he will be forgiven."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 834459,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 1,
+          "text": "'Now if a person sins after he hears a public adjuration [to testify] when he is a witness, whether he has seen or [otherwise] known, if he does not tell [it], then he will bear his guilt."
+        },
+        {
+          "pk": 834460,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 2,
+          "text": "'Or if a person touches any unclean thing, whether a carcass of an unclean beast or the carcass of unclean cattle or a carcass of unclean swarming things, though it is hidden from him and he is unclean, then he will be guilty."
+        },
+        {
+          "pk": 834461,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 3,
+          "text": "'Or if he touches human uncleanness, of whatever [sort] his uncleanness [may] be with which he becomes unclean, and it is hidden from him, and then he comes to know [it], he will be guilty."
+        },
+        {
+          "pk": 834462,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 4,
+          "text": "'Or if a person swears thoughtlessly with his lips to do evil or to do good, in whatever matter a man may speak thoughtlessly with an oath, and it is hidden from him, and then he comes to know [it], he will be guilty in one of these."
+        },
+        {
+          "pk": 834463,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 5,
+          "text": "'So it shall be when he becomes guilty in one of these, that he shall confess that in which he has sinned."
+        },
+        {
+          "pk": 834464,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 6,
+          "text": "'He shall also bring his guilt offering to the LORD for his sin which he has committed, a female from the flock, a lamb or a goat as a sin offering. So the priest shall make atonement on his behalf for his sin."
+        },
+        {
+          "pk": 834465,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 7,
+          "text": "'But if he cannot afford a lamb, then he shall bring to the LORD his guilt offering for that in which he has sinned, two turtledoves or two young pigeons, one for a sin offering and the other for a burnt offering."
+        },
+        {
+          "pk": 834466,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 8,
+          "text": "'He shall bring them to the priest, who shall offer first that which is for the sin offering and shall nip its head at the front of its neck, but he shall not sever [it]."
+        },
+        {
+          "pk": 834467,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 9,
+          "text": "'He shall also sprinkle some of the blood of the sin offering on the side of the altar, while the rest of the blood shall be drained out at the base of the altar: it is a sin offering."
+        },
+        {
+          "pk": 834468,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 10,
+          "text": "'The second he shall then prepare as a burnt offering according to the ordinance. So the priest shall make atonement on his behalf for his sin which he has committed, and it will be forgiven him."
+        },
+        {
+          "pk": 834469,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 11,
+          "text": "'But if his means are insufficient for two turtledoves or two young pigeons, then for his offering for that which he has sinned, he shall bring the tenth of an ephah of fine flour for a sin offering; he shall not put oil on it or place incense on it, for it is a sin offering."
+        },
+        {
+          "pk": 834470,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 12,
+          "text": "'He shall bring it to the priest, and the priest shall take his handful of it as its memorial portion and offer [it] up in smoke on the altar, with the offerings of the LORD by fire: it is a sin offering."
+        },
+        {
+          "pk": 834471,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 13,
+          "text": "'So the priest shall make atonement for him concerning his sin which he has committed from one of these, and it will be forgiven him; then [the rest] shall become the priest's, like the grain offering.''"
+        },
+        {
+          "pk": 834472,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 14,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834473,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 15,
+          "text": "'If a person acts unfaithfully and sins unintentionally against the LORD'S holy things, then he shall bring his guilt offering to the LORD: a ram without defect from the flock, according to your valuation in silver by shekels, in [terms of] the shekel of the sanctuary, for a guilt offering."
+        },
+        {
+          "pk": 834474,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 16,
+          "text": "'He shall make restitution for that which he has sinned against the holy thing, and shall add to it a fifth part of it and give it to the priest. The priest shall then make atonement for him with the ram of the guilt offering, and it will be forgiven him."
+        },
+        {
+          "pk": 834475,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 17,
+          "text": "'Now if a person sins and does any of the things which the LORD has commanded not to be done, though he was unaware, still he is guilty and shall bear his punishment."
+        },
+        {
+          "pk": 834476,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 18,
+          "text": "'He is then to bring to the priest a ram without defect from the flock, according to your valuation, for a guilt offering. So the priest shall make atonement for him concerning his error in which he sinned unintentionally and did not know [it], and it will be forgiven him."
+        },
+        {
+          "pk": 834477,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 5,
+          "verse": 19,
+          "text": "'It is a guilt offering; he was certainly guilty before the LORD.'"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 834478,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834479,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 2,
+          "text": "'When a person sins and acts unfaithfully against the LORD, and deceives his companion in regard to a deposit or a security entrusted [to him], or through robbery, or [if] he has extorted from his companion,"
+        },
+        {
+          "pk": 834480,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 3,
+          "text": "or has found what was lost and lied about it and sworn falsely, so that he sins in regard to any one of the things a man may do;"
+        },
+        {
+          "pk": 834481,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 4,
+          "text": "then it shall be, when he sins and becomes guilty, that he shall restore what he took by robbery or what he got by extortion, or the deposit which was entrusted to him or the lost thing which he found,"
+        },
+        {
+          "pk": 834482,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 5,
+          "text": "or anything about which he swore falsely; he shall make restitution for it in full and add to it one-fifth more. He shall give it to the one to whom it belongs on the day [he presents] his guilt offering."
+        },
+        {
+          "pk": 834483,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 6,
+          "text": "'Then he shall bring to the priest his guilt offering to the LORD, a ram without defect from the flock, according to your valuation, for a guilt offering,"
+        },
+        {
+          "pk": 834484,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 7,
+          "text": "and the priest shall make atonement for him before the LORD, and he will be forgiven for any one of the things which he may have done to incur guilt.'"
+        },
+        {
+          "pk": 834485,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 8,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834486,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 9,
+          "text": "'Command Aaron and his sons, saying, 'This is the law for the burnt offering: the burnt offering itself [shall remain] on the hearth on the altar all night until the morning, and the fire on the altar is to be kept burning on it."
+        },
+        {
+          "pk": 834487,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 10,
+          "text": "'The priest is to put on his linen robe, and he shall put on undergarments next to his flesh; and he shall take up the ashes [to] which the fire reduces the burnt offering on the altar and place them beside the altar."
+        },
+        {
+          "pk": 834488,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 11,
+          "text": "'Then he shall take off his garments and put on other garments, and carry the ashes outside the camp to a clean place."
+        },
+        {
+          "pk": 834489,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 12,
+          "text": "'The fire on the altar shall be kept burning on it. It shall not go out, but the priest shall burn wood on it every morning; and he shall lay out the burnt offering on it, and offer up in smoke the fat portions of the peace offerings on it."
+        },
+        {
+          "pk": 834490,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 13,
+          "text": "'Fire shall be kept burning continually on the altar; it is not to go out."
+        },
+        {
+          "pk": 834491,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 14,
+          "text": "'Now this is the law of the grain offering: the sons of Aaron shall present it before the LORD in front of the altar."
+        },
+        {
+          "pk": 834492,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 15,
+          "text": "'Then one [of them] shall lift up from it a handful of the fine flour of the grain offering, with its oil and all the incense that is on the grain offering, and he shall offer [it] up in smoke on the altar, a soothing aroma, as its memorial offering to the LORD."
+        },
+        {
+          "pk": 834493,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 16,
+          "text": "'What is left of it Aaron and his sons are to eat. It shall be eaten as unleavened cakes in a holy place; they are to eat it in the court of the tent of meeting."
+        },
+        {
+          "pk": 834494,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 17,
+          "text": "'It shall not be baked with leaven. I have given it as their share from My offerings by fire; it is most holy, like the sin offering and the guilt offering."
+        },
+        {
+          "pk": 834495,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 18,
+          "text": "'Every male among the sons of Aaron may eat it; it is a permanent ordinance throughout your generations, from the offerings by fire to the LORD. Whoever touches them will become consecrated.''"
+        },
+        {
+          "pk": 834496,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 19,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834497,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 20,
+          "text": "'This is the offering which Aaron and his sons are to present to the LORD on the day when he is anointed; the tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half of it in the evening."
+        },
+        {
+          "pk": 834498,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 21,
+          "text": "'It shall be prepared with oil on a griddle. When it is [well] stirred, you shall bring it. You shall present the grain offering in baked pieces as a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834499,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 22,
+          "text": "'The anointed priest who will be in his place among his sons shall offer it. By a permanent ordinance it shall be entirely offered up in smoke to the LORD."
+        },
+        {
+          "pk": 834500,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 23,
+          "text": "'So every grain offering of the priest shall be burned entirely. It shall not be eaten.'"
+        },
+        {
+          "pk": 834501,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 24,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834502,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 25,
+          "text": "'Speak to Aaron and to his sons, saying, 'This is the law of the sin offering: in the place where the burnt offering is slain the sin offering shall be slain before the LORD; it is most holy."
+        },
+        {
+          "pk": 834503,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 26,
+          "text": "'The priest who offers it for sin shall eat it. It shall be eaten in a holy place, in the court of the tent of meeting."
+        },
+        {
+          "pk": 834504,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 27,
+          "text": "'Anyone who touches its flesh will become consecrated; and when any of its blood splashes on a garment, in a holy place you shall wash what was splashed on."
+        },
+        {
+          "pk": 834505,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 28,
+          "text": "'Also the earthenware vessel in which it was boiled shall be broken; and if it was boiled in a bronze vessel, then it shall be scoured and rinsed in water."
+        },
+        {
+          "pk": 834506,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 29,
+          "text": "'Every male among the priests may eat of it; it is most holy."
+        },
+        {
+          "pk": 834507,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 6,
+          "verse": 30,
+          "text": "'But no sin offering of which any of the blood is brought into the tent of meeting to make atonement in the holy place shall be eaten; it shall be burned with fire."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 834508,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 1,
+          "text": "'Now this is the law of the guilt offering; it is most holy."
+        },
+        {
+          "pk": 834509,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 2,
+          "text": "'In the place where they slay the burnt offering they are to slay the guilt offering, and he shall sprinkle its blood around on the altar."
+        },
+        {
+          "pk": 834510,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 3,
+          "text": "'Then he shall offer from it all its fat: the fat tail and the fat that covers the entrails,"
+        },
+        {
+          "pk": 834511,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 4,
+          "text": "and the two kidneys with the fat that is on them, which is on the loins, and the lobe on the liver he shall remove with the kidneys."
+        },
+        {
+          "pk": 834512,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 5,
+          "text": "'The priest shall offer them up in smoke on the altar as an offering by fire to the LORD; it is a guilt offering."
+        },
+        {
+          "pk": 834513,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 6,
+          "text": "'Every male among the priests may eat of it. It shall be eaten in a holy place; it is most holy."
+        },
+        {
+          "pk": 834514,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 7,
+          "text": "'The guilt offering is like the sin offering, there is one law for them; the priest who makes atonement with it shall have it."
+        },
+        {
+          "pk": 834515,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 8,
+          "text": "'Also the priest who presents any man's burnt offering, that priest shall have for himself the skin of the burnt offering which he has presented."
+        },
+        {
+          "pk": 834516,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 9,
+          "text": "'Likewise, every grain offering that is baked in the oven and everything prepared in a pan or on a griddle shall belong to the priest who presents it."
+        },
+        {
+          "pk": 834517,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 10,
+          "text": "'Every grain offering, mixed with oil or dry, shall belong to all the sons of Aaron, to all alike."
+        },
+        {
+          "pk": 834518,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 11,
+          "text": "'Now this is the law of the sacrifice of peace offerings which shall be presented to the LORD."
+        },
+        {
+          "pk": 834519,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 12,
+          "text": "'If he offers it by way of thanksgiving, then along with the sacrifice of thanksgiving he shall offer unleavened cakes mixed with oil, and unleavened wafers spread with oil, and cakes [of well] stirred fine flour mixed with oil."
+        },
+        {
+          "pk": 834520,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 13,
+          "text": "'With the sacrifice of his peace offerings for thanksgiving, he shall present his offering with cakes of leavened bread."
+        },
+        {
+          "pk": 834521,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 14,
+          "text": "'Of this he shall present one of every offering as a contribution to the LORD; it shall belong to the priest who sprinkles the blood of the peace offerings."
+        },
+        {
+          "pk": 834522,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 15,
+          "text": "'Now [as for] the flesh of the sacrifice of his thanksgiving peace offerings, it shall be eaten on the day of his offering; he shall not leave any of it over until morning."
+        },
+        {
+          "pk": 834523,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 16,
+          "text": "'But if the sacrifice of his offering is a votive or a freewill offering, it shall be eaten on the day that he offers his sacrifice, and on the next day what is left of it may be eaten;"
+        },
+        {
+          "pk": 834524,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 17,
+          "text": "but what is left over from the flesh of the sacrifice on the third day shall be burned with fire."
+        },
+        {
+          "pk": 834525,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 18,
+          "text": "'So if any of the flesh of the sacrifice of his peace offerings should [ever] be eaten on the third day, he who offers it will not be accepted, [and] it will not be reckoned to his [benefit]. It shall be an offensive thing, and the person who eats of it will bear his [own] iniquity."
+        },
+        {
+          "pk": 834526,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 19,
+          "text": "'Also the flesh that touches anything unclean shall not be eaten; it shall be burned with fire. As for [other] flesh, anyone who is clean may eat [such] flesh."
+        },
+        {
+          "pk": 834527,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 20,
+          "text": "'But the person who eats the flesh of the sacrifice of peace offerings which belong to the LORD, in his uncleanness, that person shall be cut off from his people."
+        },
+        {
+          "pk": 834528,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 21,
+          "text": "'When anyone touches anything unclean, whether human uncleanness, or an unclean animal, or any unclean detestable thing, and eats of the flesh of the sacrifice of peace offerings which belong to the LORD, that person shall be cut off from his people.''"
+        },
+        {
+          "pk": 834529,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 22,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834530,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 23,
+          "text": "'Speak to the sons of Israel, saying, 'You shall not eat any fat [from] an ox, a sheep or a goat."
+        },
+        {
+          "pk": 834531,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 24,
+          "text": "'Also the fat of [an animal] which dies and the fat of an animal torn [by beasts] may be put to any other use, but you must certainly not eat it."
+        },
+        {
+          "pk": 834532,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 25,
+          "text": "'For whoever eats the fat of the animal from which an offering by fire is offered to the LORD, even the person who eats shall be cut off from his people."
+        },
+        {
+          "pk": 834533,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 26,
+          "text": "'You are not to eat any blood, either of bird or animal, in any of your dwellings."
+        },
+        {
+          "pk": 834534,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 27,
+          "text": "'Any person who eats any blood, even that person shall be cut off from his people.''"
+        },
+        {
+          "pk": 834535,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 28,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834536,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 29,
+          "text": "'Speak to the sons of Israel, saying, 'He who offers the sacrifice of his peace offerings to the LORD shall bring his offering to the LORD from the sacrifice of his peace offerings."
+        },
+        {
+          "pk": 834537,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 30,
+          "text": "'His own hands are to bring offerings by fire to the LORD. He shall bring the fat with the breast, that the breast may be presented as a wave offering before the LORD."
+        },
+        {
+          "pk": 834538,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 31,
+          "text": "'The priest shall offer up the fat in smoke on the altar, but the breast shall belong to Aaron and his sons."
+        },
+        {
+          "pk": 834539,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 32,
+          "text": "'You shall give the right thigh to the priest as a contribution from the sacrifices of your peace offerings."
+        },
+        {
+          "pk": 834540,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 33,
+          "text": "'The one among the sons of Aaron who offers the blood of the peace offerings and the fat, the right thigh shall be his as [his] portion."
+        },
+        {
+          "pk": 834541,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 34,
+          "text": "'For I have taken the breast of the wave offering and the thigh of the contribution from the sons of Israel from the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons as [their] due forever from the sons of Israel."
+        },
+        {
+          "pk": 834542,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 35,
+          "text": "'This is that which is consecrated to Aaron and that which is consecrated to his sons from the offerings by fire to the LORD, in that day when he presented them to serve as priests to the LORD."
+        },
+        {
+          "pk": 834543,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 36,
+          "text": "'These the LORD had commanded to be given them from the sons of Israel in the day that He anointed them. It is [their] due forever throughout their generations.''"
+        },
+        {
+          "pk": 834544,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 37,
+          "text": "This is the law of the burnt offering, the grain offering and the sin offering and the guilt offering and the ordination offering and the sacrifice of peace offerings,"
+        },
+        {
+          "pk": 834545,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 7,
+          "verse": 38,
+          "text": "which the LORD commanded Moses at Mount Sinai in the day that He commanded the sons of Israel to present their offerings to the LORD in the wilderness of Sinai."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 834546,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834547,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 2,
+          "text": "'Take Aaron and his sons with him, and the garments and the anointing oil and the bull of the sin offering, and the two rams and the basket of unleavened bread,"
+        },
+        {
+          "pk": 834548,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 3,
+          "text": "and assemble all the congregation at the doorway of the tent of meeting.'"
+        },
+        {
+          "pk": 834549,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 4,
+          "text": "So Moses did just as the LORD commanded him. When the congregation was assembled at the doorway of the tent of meeting,"
+        },
+        {
+          "pk": 834550,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 5,
+          "text": "Moses said to the congregation, 'This is the thing which the LORD has commanded to do.'"
+        },
+        {
+          "pk": 834551,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 6,
+          "text": "Then Moses had Aaron and his sons come near and washed them with water."
+        },
+        {
+          "pk": 834552,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 7,
+          "text": "He put the tunic on him and girded him with the sash, and clothed him with the robe and put the ephod on him; and he girded him with the artistic band of the ephod, with which he tied [it] to him."
+        },
+        {
+          "pk": 834553,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 8,
+          "text": "He then placed the breastpiece on him, and in the breastpiece he put the Urim and the Thummim."
+        },
+        {
+          "pk": 834554,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 9,
+          "text": "He also placed the turban on his head, and on the turban, at its front, he placed the golden plate, the holy crown, just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 834555,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 10,
+          "text": "Moses then took the anointing oil and anointed the tabernacle and all that was in it, and consecrated them."
+        },
+        {
+          "pk": 834556,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 11,
+          "text": "He sprinkled some of it on the altar seven times and anointed the altar and all its utensils, and the basin and its stand, to consecrate them."
+        },
+        {
+          "pk": 834557,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 12,
+          "text": "Then he poured some of the anointing oil on Aaron's head and anointed him, to consecrate him."
+        },
+        {
+          "pk": 834558,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 13,
+          "text": "Next Moses had Aaron's sons come near and clothed them with tunics, and girded them with sashes and bound caps on them, just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 834559,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 14,
+          "text": "Then he brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering."
+        },
+        {
+          "pk": 834560,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 15,
+          "text": "Next Moses slaughtered [it] and took the blood and with his finger put [some of it] around on the horns of the altar, and purified the altar. Then he poured out [the rest of] the blood at the base of the altar and consecrated it, to make atonement for it."
+        },
+        {
+          "pk": 834561,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 16,
+          "text": "He also took all the fat that was on the entrails and the lobe of the liver, and the two kidneys and their fat; and Moses offered it up in smoke on the altar."
+        },
+        {
+          "pk": 834562,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 17,
+          "text": "But the bull and its hide and its flesh and its refuse he burned in the fire outside the camp, just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 834563,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 18,
+          "text": "Then he presented the ram of the burnt offering, and Aaron and his sons laid their hands on the head of the ram."
+        },
+        {
+          "pk": 834564,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 19,
+          "text": "Moses slaughtered [it] and sprinkled the blood around on the altar."
+        },
+        {
+          "pk": 834565,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 20,
+          "text": "When he had cut the ram into its pieces, Moses offered up the head and the pieces and the suet in smoke."
+        },
+        {
+          "pk": 834566,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 21,
+          "text": "After he had washed the entrails and the legs with water, Moses offered up the whole ram in smoke on the altar. It was a burnt offering for a soothing aroma; it was an offering by fire to the LORD, just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 834567,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 22,
+          "text": "Then he presented the second ram, the ram of ordination, and Aaron and his sons laid their hands on the head of the ram."
+        },
+        {
+          "pk": 834568,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 23,
+          "text": "Moses slaughtered [it] and took some of its blood and put it on the lobe of Aaron's right ear, and on the thumb of his right hand and on the big toe of his right foot."
+        },
+        {
+          "pk": 834569,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 24,
+          "text": "He also had Aaron's sons come near; and Moses put some of the blood on the lobe of their right ear, and on the thumb of their right hand and on the big toe of their right foot. Moses then sprinkled [the rest of] the blood around on the altar."
+        },
+        {
+          "pk": 834570,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 25,
+          "text": "He took the fat, and the fat tail, and all the fat that was on the entrails, and the lobe of the liver and the two kidneys and their fat and the right thigh."
+        },
+        {
+          "pk": 834571,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 26,
+          "text": "From the basket of unleavened bread that was before the LORD, he took one unleavened cake and one cake of bread [mixed with] oil and one wafer, and placed [them] on the portions of fat and on the right thigh."
+        },
+        {
+          "pk": 834572,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 27,
+          "text": "He then put all [these] on the hands of Aaron and on the hands of his sons and presented them as a wave offering before the LORD."
+        },
+        {
+          "pk": 834573,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 28,
+          "text": "Then Moses took them from their hands and offered them up in smoke on the altar with the burnt offering. They were an ordination offering for a soothing aroma; it was an offering by fire to the LORD."
+        },
+        {
+          "pk": 834574,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 29,
+          "text": "Moses also took the breast and presented it for a wave offering before the LORD; it was Moses' portion of the ram of ordination, just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 834575,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 30,
+          "text": "So Moses took some of the anointing oil and some of the blood which was on the altar and sprinkled it on Aaron, on his garments, on his sons, and on the garments of his sons with him; and he consecrated Aaron, his garments, and his sons, and the garments of his sons with him."
+        },
+        {
+          "pk": 834576,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 31,
+          "text": "Then Moses said to Aaron and to his sons, 'Boil the flesh at the doorway of the tent of meeting, and eat it there together with the bread which is in the basket of the ordination offering, just as I commanded, saying, 'Aaron and his sons shall eat it.'"
+        },
+        {
+          "pk": 834577,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 32,
+          "text": "'The remainder of the flesh and of the bread you shall burn in the fire."
+        },
+        {
+          "pk": 834578,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 33,
+          "text": "'You shall not go outside the doorway of the tent of meeting for seven days, until the day that the period of your ordination is fulfilled; for he will ordain you through seven days."
+        },
+        {
+          "pk": 834579,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 34,
+          "text": "'The LORD has commanded to do as has been done this day, to make atonement on your behalf."
+        },
+        {
+          "pk": 834580,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 35,
+          "text": "'At the doorway of the tent of meeting, moreover, you shall remain day and night for seven days and keep the charge of the LORD, so that you will not die, for so I have been commanded.'"
+        },
+        {
+          "pk": 834581,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 8,
+          "verse": 36,
+          "text": "Thus Aaron and his sons did all the things which the LORD had commanded through Moses."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 834582,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 1,
+          "text": "Now it came about on the eighth day that Moses called Aaron and his sons and the elders of Israel;"
+        },
+        {
+          "pk": 834583,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 2,
+          "text": "and he said to Aaron, 'Take for yourself a calf, a bull, for a sin offering and a ram for a burnt offering, [both] without defect, and offer [them] before the LORD."
+        },
+        {
+          "pk": 834584,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 3,
+          "text": "'Then to the sons of Israel you shall speak, saying, 'Take a male goat for a sin offering, and a calf and a lamb, both one year old, without defect, for a burnt offering,"
+        },
+        {
+          "pk": 834585,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 4,
+          "text": "and an ox and a ram for peace offerings, to sacrifice before the LORD, and a grain offering mixed with oil; for today the LORD will appear to you.''"
+        },
+        {
+          "pk": 834586,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 5,
+          "text": "So they took what Moses had commanded to the front of the tent of meeting, and the whole congregation came near and stood before the LORD."
+        },
+        {
+          "pk": 834587,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 6,
+          "text": "Moses said, 'This is the thing which the LORD has commanded you to do, that the glory of the LORD may appear to you.'"
+        },
+        {
+          "pk": 834588,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 7,
+          "text": "Moses then said to Aaron, 'Come near to the altar and offer your sin offering and your burnt offering, that you may make atonement for yourself and for the people; then make the offering for the people, that you may make atonement for them, just as the LORD has commanded.'"
+        },
+        {
+          "pk": 834589,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 8,
+          "text": "So Aaron came near to the altar and slaughtered the calf of the sin offering which was for himself."
+        },
+        {
+          "pk": 834590,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 9,
+          "text": "Aaron's sons presented the blood to him; and he dipped his finger in the blood and put [some] on the horns of the altar, and poured out [the rest of] the blood at the base of the altar."
+        },
+        {
+          "pk": 834591,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 10,
+          "text": "The fat and the kidneys and the lobe of the liver of the sin offering, he then offered up in smoke on the altar just as the LORD had commanded Moses."
+        },
+        {
+          "pk": 834592,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 11,
+          "text": "The flesh and the skin, however, he burned with fire outside the camp."
+        },
+        {
+          "pk": 834593,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 12,
+          "text": "Then he slaughtered the burnt offering; and Aaron's sons handed the blood to him and he sprinkled it around on the altar."
+        },
+        {
+          "pk": 834594,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 13,
+          "text": "They handed the burnt offering to him in pieces, with the head, and he offered [them] up in smoke on the altar."
+        },
+        {
+          "pk": 834595,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 14,
+          "text": "He also washed the entrails and the legs, and offered [them] up in smoke with the burnt offering on the altar."
+        },
+        {
+          "pk": 834596,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 15,
+          "text": "Then he presented the people's offering, and took the goat of the sin offering which was for the people, and slaughtered it and offered it for sin, like the first."
+        },
+        {
+          "pk": 834597,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 16,
+          "text": "He also presented the burnt offering, and offered it according to the ordinance."
+        },
+        {
+          "pk": 834598,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 17,
+          "text": "Next he presented the grain offering, and filled his hand with some of it and offered [it] up in smoke on the altar, besides the burnt offering of the morning."
+        },
+        {
+          "pk": 834599,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 18,
+          "text": "Then he slaughtered the ox and the ram, the sacrifice of peace offerings which was for the people; and Aaron's sons handed the blood to him and he sprinkled it around on the altar."
+        },
+        {
+          "pk": 834600,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 19,
+          "text": "As for the portions of fat from the ox and from the ram, the fat tail, and the [fat] covering, and the kidneys and the lobe of the liver,"
+        },
+        {
+          "pk": 834601,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 20,
+          "text": "they now placed the portions of fat on the breasts; and he offered them up in smoke on the altar."
+        },
+        {
+          "pk": 834602,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 21,
+          "text": "But the breasts and the right thigh Aaron presented as a wave offering before the LORD, just as Moses had commanded."
+        },
+        {
+          "pk": 834603,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 22,
+          "text": "Then Aaron lifted up his hands toward the people and blessed them, and he stepped down after making the sin offering and the burnt offering and the peace offerings."
+        },
+        {
+          "pk": 834604,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 23,
+          "text": "Moses and Aaron went into the tent of meeting. When they came out and blessed the people, the glory of the LORD appeared to all the people."
+        },
+        {
+          "pk": 834605,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 9,
+          "verse": 24,
+          "text": "Then fire came out from before the LORD and consumed the burnt offering and the portions of fat on the altar; and when all the people saw [it], they shouted and fell on their faces."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 834606,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 1,
+          "text": "Now Nadab and Abihu, the sons of Aaron, took their respective firepans, and after putting fire in them, placed incense on it and offered strange fire before the LORD, which He had not commanded them."
+        },
+        {
+          "pk": 834607,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 2,
+          "text": "And fire came out from the presence of the LORD and consumed them, and they died before the LORD."
+        },
+        {
+          "pk": 834608,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 3,
+          "text": "Then Moses said to Aaron, 'It is what the LORD spoke, saying, 'By those who come near Me I will be treated as holy, And before all the people I will be honored.'' So Aaron, therefore, kept silent."
+        },
+        {
+          "pk": 834609,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 4,
+          "text": "Moses called also to Mishael and Elzaphan, the sons of Aaron's uncle Uzziel, and said to them, 'Come forward, carry your relatives away from the front of the sanctuary to the outside of the camp.'"
+        },
+        {
+          "pk": 834610,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 5,
+          "text": "So they came forward and carried them still in their tunics to the outside of the camp, as Moses had said."
+        },
+        {
+          "pk": 834611,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 6,
+          "text": "Then Moses said to Aaron and to his sons Eleazar and Ithamar, 'Do not uncover your heads nor tear your clothes, so that you will not die and that He will not become wrathful against all the congregation. But your kinsmen, the whole house of Israel, shall bewail the burning which the LORD has brought about."
+        },
+        {
+          "pk": 834612,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 7,
+          "text": "'You shall not even go out from the doorway of the tent of meeting, or you will die; for the LORD'S anointing oil is upon you.' So they did according to the word of Moses."
+        },
+        {
+          "pk": 834613,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 8,
+          "text": "The LORD then spoke to Aaron, saying,"
+        },
+        {
+          "pk": 834614,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 9,
+          "text": "'Do not drink wine or strong drink, neither you nor your sons with you, when you come into the tent of meeting, so that you will not die-- it is a perpetual statute throughout your generations--"
+        },
+        {
+          "pk": 834615,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 10,
+          "text": "and so as to make a distinction between the holy and the profane, and between the unclean and the clean,"
+        },
+        {
+          "pk": 834616,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 11,
+          "text": "and so as to teach the sons of Israel all the statutes which the LORD has spoken to them through Moses.'"
+        },
+        {
+          "pk": 834617,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 12,
+          "text": "Then Moses spoke to Aaron, and to his surviving sons, Eleazar and Ithamar, 'Take the grain offering that is left over from the LORD'S offerings by fire and eat it unleavened beside the altar, for it is most holy."
+        },
+        {
+          "pk": 834618,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 13,
+          "text": "'You shall eat it, moreover, in a holy place, because it is your due and your sons' due out of the LORD'S offerings by fire; for thus I have been commanded."
+        },
+        {
+          "pk": 834619,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 14,
+          "text": "'The breast of the wave offering, however, and the thigh of the offering you may eat in a clean place, you and your sons and your daughters with you; for they have been given as your due and your sons' due out of the sacrifices of the peace offerings of the sons of Israel."
+        },
+        {
+          "pk": 834620,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 15,
+          "text": "'The thigh offered by lifting up and the breast offered by waving they shall bring along with the offerings by fire of the portions of fat, to present as a wave offering before the LORD; so it shall be a thing perpetually due you and your sons with you, just as the LORD has commanded.'"
+        },
+        {
+          "pk": 834621,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 16,
+          "text": "But Moses searched carefully for the goat of the sin offering, and behold, it had been burned up! So he was angry with Aaron's surviving sons Eleazar and Ithamar, saying,"
+        },
+        {
+          "pk": 834622,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 17,
+          "text": "'Why did you not eat the sin offering at the holy place? For it is most holy, and He gave it to you to bear away the guilt of the congregation, to make atonement for them before the LORD."
+        },
+        {
+          "pk": 834623,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 18,
+          "text": "'Behold, since its blood had not been brought inside, into the sanctuary, you should certainly have eaten it in the sanctuary, just as I commanded.'"
+        },
+        {
+          "pk": 834624,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 19,
+          "text": "But Aaron spoke to Moses, 'Behold, this very day they presented their sin offering and their burnt offering before the LORD. When things like these happened to me, if I had eaten a sin offering today, would it have been good in the sight of the LORD?'"
+        },
+        {
+          "pk": 834625,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 10,
+          "verse": 20,
+          "text": "When Moses heard [that], it seemed good in his sight."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 834626,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 1,
+          "text": "The LORD spoke again to Moses and to Aaron, saying to them,"
+        },
+        {
+          "pk": 834627,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel, saying, 'These are the creatures which you may eat from all the animals that are on the earth."
+        },
+        {
+          "pk": 834628,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 3,
+          "text": "'Whatever divides a hoof, thus making split hoofs, [and] chews the cud, among the animals, that you may eat."
+        },
+        {
+          "pk": 834629,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 4,
+          "text": "'Nevertheless, you are not to eat of these, among those which chew the cud, or among those which divide the hoof: the camel, for though it chews cud, it does not divide the hoof, it is unclean to you."
+        },
+        {
+          "pk": 834630,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 5,
+          "text": "'Likewise, the shaphan, for though it chews cud, it does not divide the hoof, it is unclean to you;"
+        },
+        {
+          "pk": 834631,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 6,
+          "text": "the rabbit also, for though it chews cud, it does not divide the hoof, it is unclean to you;"
+        },
+        {
+          "pk": 834632,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 7,
+          "text": "and the pig, for though it divides the hoof, thus making a split hoof, it does not chew cud, it is unclean to you."
+        },
+        {
+          "pk": 834633,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 8,
+          "text": "'You shall not eat of their flesh nor touch their carcasses; they are unclean to you."
+        },
+        {
+          "pk": 834634,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 9,
+          "text": "'These you may eat, whatever is in the water: all that have fins and scales, those in the water, in the seas or in the rivers, you may eat."
+        },
+        {
+          "pk": 834635,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 10,
+          "text": "'But whatever is in the seas and in the rivers that does not have fins and scales among all the teeming life of the water, and among all the living creatures that are in the water, they are detestable things to you,"
+        },
+        {
+          "pk": 834636,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 11,
+          "text": "and they shall be abhorrent to you; you may not eat of their flesh, and their carcasses you shall detest."
+        },
+        {
+          "pk": 834637,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 12,
+          "text": "'Whatever in the water does not have fins and scales is abhorrent to you."
+        },
+        {
+          "pk": 834638,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 13,
+          "text": "'These, moreover, you shall detest among the birds; they are abhorrent, not to be eaten: the eagle and the vulture and the buzzard,"
+        },
+        {
+          "pk": 834639,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 14,
+          "text": "and the kite and the falcon in its kind,"
+        },
+        {
+          "pk": 834640,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 15,
+          "text": "every raven in its kind,"
+        },
+        {
+          "pk": 834641,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 16,
+          "text": "and the ostrich and the owl and the sea gull and the hawk in its kind,"
+        },
+        {
+          "pk": 834642,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 17,
+          "text": "and the little owl and the cormorant and the great owl,"
+        },
+        {
+          "pk": 834643,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 18,
+          "text": "and the white owl and the pelican and the carrion vulture,"
+        },
+        {
+          "pk": 834644,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 19,
+          "text": "and the stork, the heron in its kinds, and the hoopoe, and the bat."
+        },
+        {
+          "pk": 834645,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 20,
+          "text": "'All the winged insects that walk on [all] fours are detestable to you."
+        },
+        {
+          "pk": 834646,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 21,
+          "text": "'Yet these you may eat among all the winged insects which walk on [all] fours: those which have above their feet jointed legs with which to jump on the earth."
+        },
+        {
+          "pk": 834647,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 22,
+          "text": "'These of them you may eat: the locust in its kinds, and the devastating locust in its kinds, and the cricket in its kinds, and the grasshopper in its kinds."
+        },
+        {
+          "pk": 834648,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 23,
+          "text": "'But all other winged insects which are four-footed are detestable to you."
+        },
+        {
+          "pk": 834649,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 24,
+          "text": "'By these, moreover, you will be made unclean: whoever touches their carcasses becomes unclean until evening,"
+        },
+        {
+          "pk": 834650,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 25,
+          "text": "and whoever picks up any of their carcasses shall wash his clothes and be unclean until evening."
+        },
+        {
+          "pk": 834651,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 26,
+          "text": "'Concerning all the animals which divide the hoof but do not make a split [hoof], or which do not chew cud, they are unclean to you: whoever touches them becomes unclean."
+        },
+        {
+          "pk": 834652,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 27,
+          "text": "'Also whatever walks on its paws, among all the creatures that walk on [all] fours, are unclean to you; whoever touches their carcasses becomes unclean until evening,"
+        },
+        {
+          "pk": 834653,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 28,
+          "text": "and the one who picks up their carcasses shall wash his clothes and be unclean until evening; they are unclean to you."
+        },
+        {
+          "pk": 834654,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 29,
+          "text": "'Now these are to you the unclean among the swarming things which swarm on the earth: the mole, and the mouse, and the great lizard in its kinds,"
+        },
+        {
+          "pk": 834655,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 30,
+          "text": "and the gecko, and the crocodile, and the lizard, and the sand reptile, and the chameleon."
+        },
+        {
+          "pk": 834656,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 31,
+          "text": "'These are to you the unclean among all the swarming things; whoever touches them when they are dead becomes unclean until evening."
+        },
+        {
+          "pk": 834657,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 32,
+          "text": "'Also anything on which one of them may fall when they are dead becomes unclean, including any wooden article, or clothing, or a skin, or a sack-- any article of which use is made-- it shall be put in the water and be unclean until evening, then it becomes clean."
+        },
+        {
+          "pk": 834658,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 33,
+          "text": "'As for any earthenware vessel into which one of them may fall, whatever is in it becomes unclean and you shall break the vessel."
+        },
+        {
+          "pk": 834659,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 34,
+          "text": "'Any of the food which may be eaten, on which water comes, shall become unclean, and any liquid which may be drunk in every vessel shall become unclean."
+        },
+        {
+          "pk": 834660,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 35,
+          "text": "'Everything, moreover, on which part of their carcass may fall becomes unclean; an oven or a stove shall be smashed; they are unclean and shall continue as unclean to you."
+        },
+        {
+          "pk": 834661,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 36,
+          "text": "'Nevertheless a spring or a cistern collecting water shall be clean, though the one who touches their carcass shall be unclean."
+        },
+        {
+          "pk": 834662,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 37,
+          "text": "'If a part of their carcass falls on any seed for sowing which is to be sown, it is clean."
+        },
+        {
+          "pk": 834663,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 38,
+          "text": "'Though if water is put on the seed and a part of their carcass falls on it, it is unclean to you."
+        },
+        {
+          "pk": 834664,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 39,
+          "text": "'Also if one of the animals dies which you have for food, the one who touches its carcass becomes unclean until evening."
+        },
+        {
+          "pk": 834665,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 40,
+          "text": "'He too, who eats some of its carcass shall wash his clothes and be unclean until evening, and the one who picks up its carcass shall wash his clothes and be unclean until evening."
+        },
+        {
+          "pk": 834666,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 41,
+          "text": "'Now every swarming thing that swarms on the earth is detestable, not to be eaten."
+        },
+        {
+          "pk": 834667,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 42,
+          "text": "'Whatever crawls on its belly, and whatever walks on [all] fours, whatever has many feet, in respect to every swarming thing that swarms on the earth, you shall not eat them, for they are detestable."
+        },
+        {
+          "pk": 834668,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 43,
+          "text": "'Do not render yourselves detestable through any of the swarming things that swarm; and you shall not make yourselves unclean with them so that you become unclean."
+        },
+        {
+          "pk": 834669,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 44,
+          "text": "'For I am the LORD your God. Consecrate yourselves therefore, and be holy, for I am holy. And you shall not make yourselves unclean with any of the swarming things that swarm on the earth."
+        },
+        {
+          "pk": 834670,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 45,
+          "text": "'For I am the LORD who brought you up from the land of Egypt to be your God; thus you shall be holy, for I am holy.''"
+        },
+        {
+          "pk": 834671,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 46,
+          "text": "This is the law regarding the animal and the bird, and every living thing that moves in the waters and everything that swarms on the earth,"
+        },
+        {
+          "pk": 834672,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 11,
+          "verse": 47,
+          "text": "to make a distinction between the unclean and the clean, and between the edible creature and the creature which is not to be eaten."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 834673,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834674,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel, saying: 'When a woman gives birth and bears a male [child], then she shall be unclean for seven days, as in the days of her menstruation she shall be unclean."
+        },
+        {
+          "pk": 834675,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 3,
+          "text": "'On the eighth day the flesh of his foreskin shall be circumcised."
+        },
+        {
+          "pk": 834676,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 4,
+          "text": "'Then she shall remain in the blood of [her] purification for thirty-three days; she shall not touch any consecrated thing, nor enter the sanctuary until the days of her purification are completed."
+        },
+        {
+          "pk": 834677,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 5,
+          "text": "'But if she bears a female [child], then she shall be unclean for two weeks, as in her menstruation; and she shall remain in the blood of [her] purification for sixty-six days."
+        },
+        {
+          "pk": 834678,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 6,
+          "text": "'When the days of her purification are completed, for a son or for a daughter, she shall bring to the priest at the doorway of the tent of meeting a one year old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering."
+        },
+        {
+          "pk": 834679,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 7,
+          "text": "'Then he shall offer it before the LORD and make atonement for her, and she shall be cleansed from the flow of her blood. This is the law for her who bears [a child, whether] a male or a female."
+        },
+        {
+          "pk": 834680,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 12,
+          "verse": 8,
+          "text": "'But if she cannot afford a lamb, then she shall take two turtledoves or two young pigeons, the one for a burnt offering and the other for a sin offering; and the priest shall make atonement for her, and she will be clean.''"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 834681,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses and to Aaron, saying,"
+        },
+        {
+          "pk": 834682,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 2,
+          "text": "'When a man has on the skin of his body a swelling or a scab or a bright spot, and it becomes an infection of leprosy on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests."
+        },
+        {
+          "pk": 834683,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 3,
+          "text": "'The priest shall look at the mark on the skin of the body, and if the hair in the infection has turned white and the infection appears to be deeper than the skin of his body, it is an infection of leprosy; when the priest has looked at him, he shall pronounce him unclean."
+        },
+        {
+          "pk": 834684,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 4,
+          "text": "'But if the bright spot is white on the skin of his body, and it does not appear to be deeper than the skin, and the hair on it has not turned white, then the priest shall isolate [him who has] the infection for seven days."
+        },
+        {
+          "pk": 834685,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 5,
+          "text": "'The priest shall look at him on the seventh day, and if in his eyes the infection has not changed [and] the infection has not spread on the skin, then the priest shall isolate him for seven more days."
+        },
+        {
+          "pk": 834686,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 6,
+          "text": "'The priest shall look at him again on the seventh day, and if the infection has faded and the mark has not spread on the skin, then the priest shall pronounce him clean; it is [only] a scab. And he shall wash his clothes and be clean."
+        },
+        {
+          "pk": 834687,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 7,
+          "text": "'But if the scab spreads farther on the skin after he has shown himself to the priest for his cleansing, he shall appear again to the priest."
+        },
+        {
+          "pk": 834688,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 8,
+          "text": "'The priest shall look, and if the scab has spread on the skin, then the priest shall pronounce him unclean; it is leprosy."
+        },
+        {
+          "pk": 834689,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 9,
+          "text": "'When the infection of leprosy is on a man, then he shall be brought to the priest."
+        },
+        {
+          "pk": 834690,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 10,
+          "text": "'The priest shall then look, and if there is a white swelling in the skin, and it has turned the hair white, and there is quick raw flesh in the swelling,"
+        },
+        {
+          "pk": 834691,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 11,
+          "text": "it is a chronic leprosy on the skin of his body, and the priest shall pronounce him unclean; he shall not isolate him, for he is unclean."
+        },
+        {
+          "pk": 834692,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 12,
+          "text": "'If the leprosy breaks out farther on the skin, and the leprosy covers all the skin of [him who has] the infection from his head even to his feet, as far as the priest can see,"
+        },
+        {
+          "pk": 834693,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 13,
+          "text": "then the priest shall look, and behold, [if] the leprosy has covered all his body, he shall pronounce clean [him who has] the infection; it has all turned white [and] he is clean."
+        },
+        {
+          "pk": 834694,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 14,
+          "text": "'But whenever raw flesh appears on him, he shall be unclean."
+        },
+        {
+          "pk": 834695,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 15,
+          "text": "'The priest shall look at the raw flesh, and he shall pronounce him unclean; the raw flesh is unclean, it is leprosy."
+        },
+        {
+          "pk": 834696,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 16,
+          "text": "'Or if the raw flesh turns again and is changed to white, then he shall come to the priest,"
+        },
+        {
+          "pk": 834697,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 17,
+          "text": "and the priest shall look at him, and behold, [if] the infection has turned to white, then the priest shall pronounce clean [him who has] the infection; he is clean."
+        },
+        {
+          "pk": 834698,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 18,
+          "text": "'When the body has a boil on its skin and it is healed,"
+        },
+        {
+          "pk": 834699,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 19,
+          "text": "and in the place of the boil there is a white swelling or a reddish-white, bright spot, then it shall be shown to the priest;"
+        },
+        {
+          "pk": 834700,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 20,
+          "text": "and the priest shall look, and behold, [if] it appears to be lower than the skin, and the hair on it has turned white, then the priest shall pronounce him unclean; it is the infection of leprosy, it has broken out in the boil."
+        },
+        {
+          "pk": 834701,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 21,
+          "text": "'But if the priest looks at it, and behold, there are no white hairs in it and it is not lower than the skin and is faded, then the priest shall isolate him for seven days;"
+        },
+        {
+          "pk": 834702,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 22,
+          "text": "and if it spreads farther on the skin, then the priest shall pronounce him unclean; it is an infection."
+        },
+        {
+          "pk": 834703,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 23,
+          "text": "'But if the bright spot remains in its place and does not spread, it is [only] the scar of the boil; and the priest shall pronounce him clean."
+        },
+        {
+          "pk": 834704,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 24,
+          "text": "'Or if the body sustains in its skin a burn by fire, and the raw [flesh] of the burn becomes a bright spot, reddish-white, or white,"
+        },
+        {
+          "pk": 834705,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 25,
+          "text": "then the priest shall look at it. And if the hair in the bright spot has turned white and it appears to be deeper than the skin, it is leprosy; it has broken out in the burn. Therefore, the priest shall pronounce him unclean; it is an infection of leprosy."
+        },
+        {
+          "pk": 834706,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 26,
+          "text": "'But if the priest looks at it, and indeed, there is no white hair in the bright spot and it is no deeper than the skin, but is dim, then the priest shall isolate him for seven days;"
+        },
+        {
+          "pk": 834707,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 27,
+          "text": "and the priest shall look at him on the seventh day. If it spreads farther in the skin, then the priest shall pronounce him unclean; it is an infection of leprosy."
+        },
+        {
+          "pk": 834708,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 28,
+          "text": "'But if the bright spot remains in its place and has not spread in the skin, but is dim, it is the swelling from the burn; and the priest shall pronounce him clean, for it is [only] the scar of the burn."
+        },
+        {
+          "pk": 834709,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 29,
+          "text": "'Now if a man or woman has an infection on the head or on the beard,"
+        },
+        {
+          "pk": 834710,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 30,
+          "text": "then the priest shall look at the infection, and if it appears to be deeper than the skin and there is thin yellowish hair in it, then the priest shall pronounce him unclean; it is a scale, it is leprosy of the head or of the beard."
+        },
+        {
+          "pk": 834711,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 31,
+          "text": "'But if the priest looks at the infection of the scale, and indeed, it appears to be no deeper than the skin and there is no black hair in it, then the priest shall isolate [the person] with the scaly infection for seven days."
+        },
+        {
+          "pk": 834712,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 32,
+          "text": "'On the seventh day the priest shall look at the infection, and if the scale has not spread and no yellowish hair has grown in it, and the appearance of the scale is no deeper than the skin,"
+        },
+        {
+          "pk": 834713,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 33,
+          "text": "then he shall shave himself, but he shall not shave the scale; and the priest shall isolate [the person] with the scale seven more days."
+        },
+        {
+          "pk": 834714,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 34,
+          "text": "'Then on the seventh day the priest shall look at the scale, and if the scale has not spread in the skin and it appears to be no deeper than the skin, the priest shall pronounce him clean; and he shall wash his clothes and be clean."
+        },
+        {
+          "pk": 834715,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 35,
+          "text": "'But if the scale spreads farther in the skin after his cleansing,"
+        },
+        {
+          "pk": 834716,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 36,
+          "text": "then the priest shall look at him, and if the scale has spread in the skin, the priest need not seek for the yellowish hair; he is unclean."
+        },
+        {
+          "pk": 834717,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 37,
+          "text": "'If in his sight the scale has remained, however, and black hair has grown in it, the scale has healed, he is clean; and the priest shall pronounce him clean."
+        },
+        {
+          "pk": 834718,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 38,
+          "text": "'When a man or a woman has bright spots on the skin of the body, [even] white bright spots,"
+        },
+        {
+          "pk": 834719,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 39,
+          "text": "then the priest shall look, and if the bright spots on the skin of their bodies are a faint white, it is eczema that has broken out on the skin; he is clean."
+        },
+        {
+          "pk": 834720,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 40,
+          "text": "'Now if a man loses the hair of his head, he is bald; he is clean."
+        },
+        {
+          "pk": 834721,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 41,
+          "text": "'If his head becomes bald at the front and sides, he is bald on the forehead; he is clean."
+        },
+        {
+          "pk": 834722,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 42,
+          "text": "'But if on the bald head or the bald forehead, there occurs a reddish-white infection, it is leprosy breaking out on his bald head or on his bald forehead."
+        },
+        {
+          "pk": 834723,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 43,
+          "text": "'Then the priest shall look at him; and if the swelling of the infection is reddish-white on his bald head or on his bald forehead, like the appearance of leprosy in the skin of the body,"
+        },
+        {
+          "pk": 834724,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 44,
+          "text": "he is a leprous man, he is unclean. The priest shall surely pronounce him unclean; his infection is on his head."
+        },
+        {
+          "pk": 834725,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 45,
+          "text": "'As for the leper who has the infection, his clothes shall be torn, and the hair of his head shall be uncovered, and he shall cover his mustache and cry, 'Unclean! Unclean!'"
+        },
+        {
+          "pk": 834726,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 46,
+          "text": "'He shall remain unclean all the days during which he has the infection; he is unclean. He shall live alone; his dwelling shall be outside the camp."
+        },
+        {
+          "pk": 834727,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 47,
+          "text": "'When a garment has a mark of leprosy in it, whether it is a wool garment or a linen garment,"
+        },
+        {
+          "pk": 834728,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 48,
+          "text": "whether in warp or woof, of linen or of wool, whether in leather or in any article made of leather,"
+        },
+        {
+          "pk": 834729,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 49,
+          "text": "if the mark is greenish or reddish in the garment or in the leather, or in the warp or in the woof, or in any article of leather, it is a leprous mark and shall be shown to the priest."
+        },
+        {
+          "pk": 834730,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 50,
+          "text": "'Then the priest shall look at the mark and shall quarantine the article with the mark for seven days."
+        },
+        {
+          "pk": 834731,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 51,
+          "text": "'He shall then look at the mark on the seventh day; if the mark has spread in the garment, whether in the warp or in the woof, or in the leather, whatever the purpose for which the leather is used, the mark is a leprous malignancy, it is unclean."
+        },
+        {
+          "pk": 834732,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 52,
+          "text": "'So he shall burn the garment, whether the warp or the woof, in wool or in linen, or any article of leather in which the mark occurs, for it is a leprous malignancy; it shall be burned in the fire."
+        },
+        {
+          "pk": 834733,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 53,
+          "text": "'But if the priest shall look, and indeed the mark has not spread in the garment, either in the warp or in the woof, or in any article of leather,"
+        },
+        {
+          "pk": 834734,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 54,
+          "text": "then the priest shall order them to wash the thing in which the mark occurs and he shall quarantine it for seven more days."
+        },
+        {
+          "pk": 834735,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 55,
+          "text": "'After the article with the mark has been washed, the priest shall again look, and if the mark has not changed its appearance, even though the mark has not spread, it is unclean; you shall burn it in the fire, whether an eating away has produced bareness on the top or on the front of it."
+        },
+        {
+          "pk": 834736,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 56,
+          "text": "'Then if the priest looks, and if the mark has faded after it has been washed, then he shall tear it out of the garment or out of the leather, whether from the warp or from the woof;"
+        },
+        {
+          "pk": 834737,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 57,
+          "text": "and if it appears again in the garment, whether in the warp or in the woof, or in any article of leather, it is an outbreak; the article with the mark shall be burned in the fire."
+        },
+        {
+          "pk": 834738,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 58,
+          "text": "'The garment, whether the warp or the woof, or any article of leather from which the mark has departed when you washed it, it shall then be washed a second time and will be clean.'"
+        },
+        {
+          "pk": 834739,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 13,
+          "verse": 59,
+          "text": "This is the law for the mark of leprosy in a garment of wool or linen, whether in the warp or in the woof, or in any article of leather, for pronouncing it clean or unclean."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "pk": 834740,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834741,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 2,
+          "text": "'This shall be the law of the leper in the day of his cleansing. Now he shall be brought to the priest,"
+        },
+        {
+          "pk": 834742,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 3,
+          "text": "and the priest shall go out to the outside of the camp. Thus the priest shall look, and if the infection of leprosy has been healed in the leper,"
+        },
+        {
+          "pk": 834743,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 4,
+          "text": "then the priest shall give orders to take two live clean birds and cedar wood and a scarlet string and hyssop for the one who is to be cleansed."
+        },
+        {
+          "pk": 834744,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 5,
+          "text": "'The priest shall also give orders to slay the one bird in an earthenware vessel over running water."
+        },
+        {
+          "pk": 834745,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 6,
+          "text": "'[As for] the live bird, he shall take it together with the cedar wood and the scarlet string and the hyssop, and shall dip them and the live bird in the blood of the bird that was slain over the running water."
+        },
+        {
+          "pk": 834746,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 7,
+          "text": "'He shall then sprinkle seven times the one who is to be cleansed from the leprosy and shall pronounce him clean, and shall let the live bird go free over the open field."
+        },
+        {
+          "pk": 834747,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 8,
+          "text": "'The one to be cleansed shall then wash his clothes and shave off all his hair and bathe in water and be clean. Now afterward, he may enter the camp, but he shall stay outside his tent for seven days."
+        },
+        {
+          "pk": 834748,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 9,
+          "text": "'It will be on the seventh day that he shall shave off all his hair: he shall shave his head and his beard and his eyebrows, even all his hair. He shall then wash his clothes and bathe his body in water and be clean."
+        },
+        {
+          "pk": 834749,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 10,
+          "text": "'Now on the eighth day he is to take two male lambs without defect, and a yearling ewe lamb without defect, and three-tenths [of an] [ephah] of fine flour mixed with oil for a grain offering, and one log of oil;"
+        },
+        {
+          "pk": 834750,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 11,
+          "text": "and the priest who pronounces him clean shall present the man to be cleansed and the aforesaid before the LORD at the doorway of the tent of meeting."
+        },
+        {
+          "pk": 834751,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 12,
+          "text": "'Then the priest shall take the one male lamb and bring it for a guilt offering, with the log of oil, and present them as a wave offering before the LORD."
+        },
+        {
+          "pk": 834752,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 13,
+          "text": "'Next he shall slaughter the male lamb in the place where they slaughter the sin offering and the burnt offering, at the place of the sanctuary-- for the guilt offering, like the sin offering, belongs to the priest; it is most holy."
+        },
+        {
+          "pk": 834753,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 14,
+          "text": "'The priest shall then take some of the blood of the guilt offering, and the priest shall put [it] on the lobe of the right ear of the one to be cleansed, and on the thumb of his right hand and on the big toe of his right foot."
+        },
+        {
+          "pk": 834754,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 15,
+          "text": "'The priest shall also take some of the log of oil, and pour [it] into his left palm;"
+        },
+        {
+          "pk": 834755,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 16,
+          "text": "the priest shall then dip his right-hand finger into the oil that is in his left palm, and with his finger sprinkle some of the oil seven times before the LORD."
+        },
+        {
+          "pk": 834756,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 17,
+          "text": "'Of the remaining oil which is in his palm, the priest shall put some on the right ear lobe of the one to be cleansed, and on the thumb of his right hand, and on the big toe of his right foot, on the blood of the guilt offering;"
+        },
+        {
+          "pk": 834757,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 18,
+          "text": "while the rest of the oil that is in the priest's palm, he shall put on the head of the one to be cleansed. So the priest shall make atonement on his behalf before the LORD."
+        },
+        {
+          "pk": 834758,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 19,
+          "text": "'The priest shall next offer the sin offering and make atonement for the one to be cleansed from his uncleanness. Then afterward, he shall slaughter the burnt offering."
+        },
+        {
+          "pk": 834759,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 20,
+          "text": "'The priest shall offer up the burnt offering and the grain offering on the altar. Thus the priest shall make atonement for him, and he will be clean."
+        },
+        {
+          "pk": 834760,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 21,
+          "text": "'But if he is poor and his means are insufficient, then he is to take one male lamb for a guilt offering as a wave offering to make atonement for him, and one-tenth [of an] [ephah] of fine flour mixed with oil for a grain offering, and a log of oil,"
+        },
+        {
+          "pk": 834761,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 22,
+          "text": "and two turtledoves or two young pigeons which are within his means, the one shall be a sin offering and the other a burnt offering."
+        },
+        {
+          "pk": 834762,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 23,
+          "text": "'Then the eighth day he shall bring them for his cleansing to the priest, at the doorway of the tent of meeting, before the LORD."
+        },
+        {
+          "pk": 834763,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 24,
+          "text": "'The priest shall take the lamb of the guilt offering and the log of oil, and the priest shall offer them for a wave offering before the LORD."
+        },
+        {
+          "pk": 834764,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 25,
+          "text": "'Next he shall slaughter the lamb of the guilt offering; and the priest is to take some of the blood of the guilt offering and put [it] on the lobe of the right ear of the one to be cleansed and on the thumb of his right hand and on the big toe of his right foot."
+        },
+        {
+          "pk": 834765,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 26,
+          "text": "'The priest shall also pour some of the oil into his left palm;"
+        },
+        {
+          "pk": 834766,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 27,
+          "text": "and with his right-hand finger the priest shall sprinkle some of the oil that is in his left palm seven times before the LORD."
+        },
+        {
+          "pk": 834767,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 28,
+          "text": "'The priest shall then put some of the oil that is in his palm on the lobe of the right ear of the one to be cleansed, and on the thumb of his right hand and on the big toe of his right foot, on the place of the blood of the guilt offering."
+        },
+        {
+          "pk": 834768,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 29,
+          "text": "'Moreover, the rest of the oil that is in the priest's palm he shall put on the head of the one to be cleansed, to make atonement on his behalf before the LORD."
+        },
+        {
+          "pk": 834769,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 30,
+          "text": "'He shall then offer one of the turtledoves or young pigeons, which are within his means."
+        },
+        {
+          "pk": 834770,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 31,
+          "text": "'[He shall offer] what he can afford, the one for a sin offering and the other for a burnt offering, together with the grain offering. So the priest shall make atonement before the LORD on behalf of the one to be cleansed."
+        },
+        {
+          "pk": 834771,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 32,
+          "text": "'This is the law [for him] in whom there is an infection of leprosy, whose means are limited for his cleansing.'"
+        },
+        {
+          "pk": 834772,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 33,
+          "text": "The LORD further spoke to Moses and to Aaron, saying:"
+        },
+        {
+          "pk": 834773,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 34,
+          "text": "'When you enter the land of Canaan, which I give you for a possession, and I put a mark of leprosy on a house in the land of your possession,"
+        },
+        {
+          "pk": 834774,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 35,
+          "text": "then the one who owns the house shall come and tell the priest, saying, '[Something] like a mark [of leprosy] has become visible to me in the house.'"
+        },
+        {
+          "pk": 834775,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 36,
+          "text": "'The priest shall then command that they empty the house before the priest goes in to look at the mark, so that everything in the house need not become unclean; and afterward the priest shall go in to look at the house."
+        },
+        {
+          "pk": 834776,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 37,
+          "text": "'So he shall look at the mark, and if the mark on the walls of the house has greenish or reddish depressions and appears deeper than the surface,"
+        },
+        {
+          "pk": 834777,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 38,
+          "text": "then the priest shall come out of the house, to the doorway, and quarantine the house for seven days."
+        },
+        {
+          "pk": 834778,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 39,
+          "text": "'The priest shall return on the seventh day and make an inspection. If the mark has indeed spread in the walls of the house,"
+        },
+        {
+          "pk": 834779,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 40,
+          "text": "then the priest shall order them to tear out the stones with the mark in them and throw them away at an unclean place outside the city."
+        },
+        {
+          "pk": 834780,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 41,
+          "text": "'He shall have the house scraped all around inside, and they shall dump the plaster that they scrape off at an unclean place outside the city."
+        },
+        {
+          "pk": 834781,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 42,
+          "text": "'Then they shall take other stones and replace [those] stones, and he shall take other plaster and replaster the house."
+        },
+        {
+          "pk": 834782,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 43,
+          "text": "'If, however, the mark breaks out again in the house after he has torn out the stones and scraped the house, and after it has been replastered,"
+        },
+        {
+          "pk": 834783,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 44,
+          "text": "then the priest shall come in and make an inspection. If he sees that the mark has indeed spread in the house, it is a malignant mark in the house; it is unclean."
+        },
+        {
+          "pk": 834784,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 45,
+          "text": "'He shall therefore tear down the house, its stones, and its timbers, and all the plaster of the house, and he shall take [them] outside the city to an unclean place."
+        },
+        {
+          "pk": 834785,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 46,
+          "text": "'Moreover, whoever goes into the house during the time that he has quarantined it, becomes unclean until evening."
+        },
+        {
+          "pk": 834786,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 47,
+          "text": "'Likewise, whoever lies down in the house shall wash his clothes, and whoever eats in the house shall wash his clothes."
+        },
+        {
+          "pk": 834787,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 48,
+          "text": "'If, on the other hand, the priest comes in and makes an inspection and the mark has not indeed spread in the house after the house has been replastered, then the priest shall pronounce the house clean because the mark has not reappeared."
+        },
+        {
+          "pk": 834788,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 49,
+          "text": "'To cleanse the house then, he shall take two birds and cedar wood and a scarlet string and hyssop,"
+        },
+        {
+          "pk": 834789,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 50,
+          "text": "and he shall slaughter the one bird in an earthenware vessel over running water."
+        },
+        {
+          "pk": 834790,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 51,
+          "text": "'Then he shall take the cedar wood and the hyssop and the scarlet string, with the live bird, and dip them in the blood of the slain bird as well as in the running water, and sprinkle the house seven times."
+        },
+        {
+          "pk": 834791,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 52,
+          "text": "'He shall thus cleanse the house with the blood of the bird and with the running water, along with the live bird and with the cedar wood and with the hyssop and with the scarlet string."
+        },
+        {
+          "pk": 834792,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 53,
+          "text": "'However, he shall let the live bird go free outside the city into the open field. So he shall make atonement for the house, and it will be clean.'"
+        },
+        {
+          "pk": 834793,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 54,
+          "text": "This is the law for any mark of leprosy-- even for a scale,"
+        },
+        {
+          "pk": 834794,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 55,
+          "text": "and for the leprous garment or house,"
+        },
+        {
+          "pk": 834795,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 56,
+          "text": "and for a swelling, and for a scab, and for a bright spot--"
+        },
+        {
+          "pk": 834796,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 14,
+          "verse": 57,
+          "text": "to teach when they are unclean and when they are clean. This is the law of leprosy."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "pk": 834797,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 1,
+          "text": "The LORD also spoke to Moses and to Aaron, saying,"
+        },
+        {
+          "pk": 834798,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel, and say to them, 'When any man has a discharge from his body, his discharge is unclean."
+        },
+        {
+          "pk": 834799,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 3,
+          "text": "'This, moreover, shall be his uncleanness in his discharge: it is his uncleanness whether his body allows its discharge to flow or whether his body obstructs its discharge."
+        },
+        {
+          "pk": 834800,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 4,
+          "text": "'Every bed on which the person with the discharge lies becomes unclean, and everything on which he sits becomes unclean."
+        },
+        {
+          "pk": 834801,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 5,
+          "text": "'Anyone, moreover, who touches his bed shall wash his clothes and bathe in water and be unclean until evening;"
+        },
+        {
+          "pk": 834802,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 6,
+          "text": "and whoever sits on the thing on which the man with the discharge has been sitting, shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834803,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 7,
+          "text": "'Also whoever touches the person with the discharge shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834804,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 8,
+          "text": "'Or if the man with the discharge spits on one who is clean, he too shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834805,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 9,
+          "text": "'Every saddle on which the person with the discharge rides becomes unclean."
+        },
+        {
+          "pk": 834806,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 10,
+          "text": "'Whoever then touches any of the things which were under him shall be unclean until evening, and he who carries them shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834807,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 11,
+          "text": "'Likewise, whomever the one with the discharge touches without having rinsed his hands in water shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834808,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 12,
+          "text": "'However, an earthenware vessel which the person with the discharge touches shall be broken, and every wooden vessel shall be rinsed in water."
+        },
+        {
+          "pk": 834809,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 13,
+          "text": "'Now when the man with the discharge becomes cleansed from his discharge, then he shall count off for himself seven days for his cleansing; he shall then wash his clothes and bathe his body in running water and will become clean."
+        },
+        {
+          "pk": 834810,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 14,
+          "text": "'Then on the eighth day he shall take for himself two turtledoves or two young pigeons, and come before the LORD to the doorway of the tent of meeting and give them to the priest;"
+        },
+        {
+          "pk": 834811,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 15,
+          "text": "and the priest shall offer them, one for a sin offering and the other for a burnt offering. So the priest shall make atonement on his behalf before the LORD because of his discharge."
+        },
+        {
+          "pk": 834812,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 16,
+          "text": "'Now if a man has a seminal emission, he shall bathe all his body in water and be unclean until evening."
+        },
+        {
+          "pk": 834813,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 17,
+          "text": "'As for any garment or any leather on which there is seminal emission, it shall be washed with water and be unclean until evening."
+        },
+        {
+          "pk": 834814,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 18,
+          "text": "'If a man lies with a woman [so that] there is a seminal emission, they shall both bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834815,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 19,
+          "text": "'When a woman has a discharge, [if] her discharge in her body is blood, she shall continue in her menstrual impurity for seven days; and whoever touches her shall be unclean until evening."
+        },
+        {
+          "pk": 834816,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 20,
+          "text": "'Everything also on which she lies during her menstrual impurity shall be unclean, and everything on which she sits shall be unclean."
+        },
+        {
+          "pk": 834817,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 21,
+          "text": "'Anyone who touches her bed shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834818,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 22,
+          "text": "'Whoever touches any thing on which she sits shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834819,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 23,
+          "text": "'Whether it be on the bed or on the thing on which she is sitting, when he touches it, he shall be unclean until evening."
+        },
+        {
+          "pk": 834820,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 24,
+          "text": "'If a man actually lies with her so that her menstrual impurity is on him, he shall be unclean seven days, and every bed on which he lies shall be unclean."
+        },
+        {
+          "pk": 834821,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 25,
+          "text": "'Now if a woman has a discharge of her blood many days, not at the period of her menstrual impurity, or if she has a discharge beyond that period, all the days of her impure discharge she shall continue as though in her menstrual impurity; she is unclean."
+        },
+        {
+          "pk": 834822,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 26,
+          "text": "'Any bed on which she lies all the days of her discharge shall be to her like her bed at menstruation; and every thing on which she sits shall be unclean, like her uncleanness at that time."
+        },
+        {
+          "pk": 834823,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 27,
+          "text": "'Likewise, whoever touches them shall be unclean and shall wash his clothes and bathe in water and be unclean until evening."
+        },
+        {
+          "pk": 834824,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 28,
+          "text": "'When she becomes clean from her discharge, she shall count off for herself seven days; and afterward she will be clean."
+        },
+        {
+          "pk": 834825,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 29,
+          "text": "'Then on the eighth day she shall take for herself two turtledoves or two young pigeons and bring them in to the priest, to the doorway of the tent of meeting."
+        },
+        {
+          "pk": 834826,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 30,
+          "text": "'The priest shall offer the one for a sin offering and the other for a burnt offering. So the priest shall make atonement on her behalf before the LORD because of her impure discharge.'"
+        },
+        {
+          "pk": 834827,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 31,
+          "text": "'Thus you shall keep the sons of Israel separated from their uncleanness, so that they will not die in their uncleanness by their defiling My tabernacle that is among them.'"
+        },
+        {
+          "pk": 834828,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 32,
+          "text": "This is the law for the one with a discharge, and for the man who has a seminal emission so that he is unclean by it,"
+        },
+        {
+          "pk": 834829,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 15,
+          "verse": 33,
+          "text": "and for the woman who is ill because of menstrual impurity, and for the one who has a discharge, whether a male or a female, or a man who lies with an unclean woman."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "pk": 834830,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 1,
+          "text": "Now the LORD spoke to Moses after the death of the two sons of Aaron, when they had approached the presence of the LORD and died."
+        },
+        {
+          "pk": 834831,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 2,
+          "text": "The LORD said to Moses: 'Tell your brother Aaron that he shall not enter at any time into the holy place inside the veil, before the mercy seat which is on the ark, or he will die; for I will appear in the cloud over the mercy seat."
+        },
+        {
+          "pk": 834832,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 3,
+          "text": "'Aaron shall enter the holy place with this: with a bull for a sin offering and a ram for a burnt offering."
+        },
+        {
+          "pk": 834833,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 4,
+          "text": "'He shall put on the holy linen tunic, and the linen undergarments shall be next to his body, and he shall be girded with the linen sash and attired with the linen turban (these are holy garments). Then he shall bathe his body in water and put them on."
+        },
+        {
+          "pk": 834834,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 5,
+          "text": "'He shall take from the congregation of the sons of Israel two male goats for a sin offering and one ram for a burnt offering."
+        },
+        {
+          "pk": 834835,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 6,
+          "text": "'Then Aaron shall offer the bull for the sin offering which is for himself, that he may make atonement for himself and for his household."
+        },
+        {
+          "pk": 834836,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 7,
+          "text": "'He shall take the two goats and present them before the LORD at the doorway of the tent of meeting."
+        },
+        {
+          "pk": 834837,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 8,
+          "text": "'Aaron shall cast lots for the two goats, one lot for the LORD and the other lot for the scapegoat."
+        },
+        {
+          "pk": 834838,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 9,
+          "text": "'Then Aaron shall offer the goat on which the lot for the LORD fell, and make it a sin offering."
+        },
+        {
+          "pk": 834839,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 10,
+          "text": "'But the goat on which the lot for the scapegoat fell shall be presented alive before the LORD, to make atonement upon it, to send it into the wilderness as the scapegoat."
+        },
+        {
+          "pk": 834840,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 11,
+          "text": "'Then Aaron shall offer the bull of the sin offering which is for himself and make atonement for himself and for his household, and he shall slaughter the bull of the sin offering which is for himself."
+        },
+        {
+          "pk": 834841,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 12,
+          "text": "'He shall take a firepan full of coals of fire from upon the altar before the LORD and two handfuls of finely ground sweet incense, and bring [it] inside the veil."
+        },
+        {
+          "pk": 834842,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 13,
+          "text": "'He shall put the incense on the fire before the LORD, that the cloud of incense may cover the mercy seat that is on [the ark of] the testimony, otherwise he will die."
+        },
+        {
+          "pk": 834843,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 14,
+          "text": "'Moreover, he shall take some of the blood of the bull and sprinkle [it] with his finger on the mercy seat on the east [side]; also in front of the mercy seat he shall sprinkle some of the blood with his finger seven times."
+        },
+        {
+          "pk": 834844,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 15,
+          "text": "'Then he shall slaughter the goat of the sin offering which is for the people, and bring its blood inside the veil and do with its blood as he did with the blood of the bull, and sprinkle it on the mercy seat and in front of the mercy seat."
+        },
+        {
+          "pk": 834845,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 16,
+          "text": "'He shall make atonement for the holy place, because of the impurities of the sons of Israel and because of their transgressions in regard to all their sins; and thus he shall do for the tent of meeting which abides with them in the midst of their impurities."
+        },
+        {
+          "pk": 834846,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 17,
+          "text": "'When he goes in to make atonement in the holy place, no one shall be in the tent of meeting until he comes out, that he may make atonement for himself and for his household and for all the assembly of Israel."
+        },
+        {
+          "pk": 834847,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 18,
+          "text": "'Then he shall go out to the altar that is before the LORD and make atonement for it, and shall take some of the blood of the bull and of the blood of the goat and put it on the horns of the altar on all sides."
+        },
+        {
+          "pk": 834848,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 19,
+          "text": "'With his finger he shall sprinkle some of the blood on it seven times and cleanse it, and from the impurities of the sons of Israel consecrate it."
+        },
+        {
+          "pk": 834849,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 20,
+          "text": "'When he finishes atoning for the holy place and the tent of meeting and the altar, he shall offer the live goat."
+        },
+        {
+          "pk": 834850,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 21,
+          "text": "'Then Aaron shall lay both of his hands on the head of the live goat, and confess over it all the iniquities of the sons of Israel and all their transgressions in regard to all their sins; and he shall lay them on the head of the goat and send [it] away into the wilderness by the hand of a man who [stands] in readiness."
+        },
+        {
+          "pk": 834851,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 22,
+          "text": "'The goat shall bear on itself all their iniquities to a solitary land; and he shall release the goat in the wilderness."
+        },
+        {
+          "pk": 834852,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 23,
+          "text": "'Then Aaron shall come into the tent of meeting and take off the linen garments which he put on when he went into the holy place, and shall leave them there."
+        },
+        {
+          "pk": 834853,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 24,
+          "text": "'He shall bathe his body with water in a holy place and put on his clothes, and come forth and offer his burnt offering and the burnt offering of the people and make atonement for himself and for the people."
+        },
+        {
+          "pk": 834854,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 25,
+          "text": "'Then he shall offer up in smoke the fat of the sin offering on the altar."
+        },
+        {
+          "pk": 834855,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 26,
+          "text": "'The one who released the goat as the scapegoat shall wash his clothes and bathe his body with water; then afterward he shall come into the camp."
+        },
+        {
+          "pk": 834856,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 27,
+          "text": "'But the bull of the sin offering and the goat of the sin offering, whose blood was brought in to make atonement in the holy place, shall be taken outside the camp, and they shall burn their hides, their flesh, and their refuse in the fire."
+        },
+        {
+          "pk": 834857,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 28,
+          "text": "'Then the one who burns them shall wash his clothes and bathe his body with water, then afterward he shall come into the camp."
+        },
+        {
+          "pk": 834858,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 29,
+          "text": "'[This] shall be a permanent statute for you: in the seventh month, on the tenth day of the month, you shall humble your souls and not do any work, whether the native, or the alien who sojourns among you;"
+        },
+        {
+          "pk": 834859,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 30,
+          "text": "for it is on this day that atonement shall be made for you to cleanse you; you will be clean from all your sins before the LORD."
+        },
+        {
+          "pk": 834860,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 31,
+          "text": "'It is to be a sabbath of solemn rest for you, that you may humble your souls; it is a permanent statute."
+        },
+        {
+          "pk": 834861,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 32,
+          "text": "'So the priest who is anointed and ordained to serve as priest in his father's place shall make atonement: he shall thus put on the linen garments, the holy garments,"
+        },
+        {
+          "pk": 834862,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 33,
+          "text": "and make atonement for the holy sanctuary, and he shall make atonement for the tent of meeting and for the altar. He shall also make atonement for the priests and for all the people of the assembly."
+        },
+        {
+          "pk": 834863,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 16,
+          "verse": 34,
+          "text": "'Now you shall have this as a permanent statute, to make atonement for the sons of Israel for all their sins once every year.' And just as the LORD had commanded Moses, [so] he did."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "pk": 834864,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834865,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 2,
+          "text": "'Speak to Aaron and to his sons and to all the sons of Israel and say to them, 'This is what the LORD has commanded, saying,"
+        },
+        {
+          "pk": 834866,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 3,
+          "text": "'Any man from the house of Israel who slaughters an ox or a lamb or a goat in the camp, or who slaughters it outside the camp,"
+        },
+        {
+          "pk": 834867,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 4,
+          "text": "and has not brought it to the doorway of the tent of meeting to present [it] as an offering to the LORD before the tabernacle of the LORD, bloodguiltiness is to be reckoned to that man. He has shed blood and that man shall be cut off from among his people."
+        },
+        {
+          "pk": 834868,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 5,
+          "text": "'The reason is so that the sons of Israel may bring their sacrifices which they were sacrificing in the open field, that they may bring them in to the LORD, at the doorway of the tent of meeting to the priest, and sacrifice them as sacrifices of peace offerings to the LORD."
+        },
+        {
+          "pk": 834869,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 6,
+          "text": "'The priest shall sprinkle the blood on the altar of the LORD at the doorway of the tent of meeting, and offer up the fat in smoke as a soothing aroma to the LORD."
+        },
+        {
+          "pk": 834870,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 7,
+          "text": "'They shall no longer sacrifice their sacrifices to the goat demons with which they play the harlot. This shall be a permanent statute to them throughout their generations.''"
+        },
+        {
+          "pk": 834871,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 8,
+          "text": "'Then you shall say to them, 'Any man from the house of Israel, or from the aliens who sojourn among them, who offers a burnt offering or sacrifice,"
+        },
+        {
+          "pk": 834872,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 9,
+          "text": "and does not bring it to the doorway of the tent of meeting to offer it to the LORD, that man also shall be cut off from his people."
+        },
+        {
+          "pk": 834873,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 10,
+          "text": "'And any man from the house of Israel, or from the aliens who sojourn among them, who eats any blood, I will set My face against that person who eats blood and will cut him off from among his people."
+        },
+        {
+          "pk": 834874,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 11,
+          "text": "'For the life of the flesh is in the blood, and I have given it to you on the altar to make atonement for your souls; for it is the blood by reason of the life that makes atonement.'"
+        },
+        {
+          "pk": 834875,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 12,
+          "text": "'Therefore I said to the sons of Israel, 'No person among you may eat blood, nor may any alien who sojourns among you eat blood.'"
+        },
+        {
+          "pk": 834876,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 13,
+          "text": "'So when any man from the sons of Israel, or from the aliens who sojourn among them, in hunting catches a beast or a bird which may be eaten, he shall pour out its blood and cover it with earth."
+        },
+        {
+          "pk": 834877,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 14,
+          "text": "'For [as for the] life of all flesh, its blood is [identified] with its life. Therefore I said to the sons of Israel, 'You are not to eat the blood of any flesh, for the life of all flesh is its blood; whoever eats it shall be cut off.'"
+        },
+        {
+          "pk": 834878,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 15,
+          "text": "'When any person eats [an animal] which dies or is torn [by beasts], whether he is a native or an alien, he shall wash his clothes and bathe in water, and remain unclean until evening; then he will become clean."
+        },
+        {
+          "pk": 834879,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 17,
+          "verse": 16,
+          "text": "'But if he does not wash [them] or bathe his body, then he shall bear his guilt.'"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "pk": 834880,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834881,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel and say to them, 'I am the LORD your God."
+        },
+        {
+          "pk": 834882,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 3,
+          "text": "'You shall not do what is done in the land of Egypt where you lived, nor are you to do what is done in the land of Canaan where I am bringing you; you shall not walk in their statutes."
+        },
+        {
+          "pk": 834883,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 4,
+          "text": "'You are to perform My judgments and keep My statutes, to live in accord with them; I am the LORD your God."
+        },
+        {
+          "pk": 834884,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 5,
+          "text": "'So you shall keep My statutes and My judgments, by which a man may live if he does them; I am the LORD."
+        },
+        {
+          "pk": 834885,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 6,
+          "text": "'None of you shall approach any blood relative of his to uncover nakedness; I am the LORD."
+        },
+        {
+          "pk": 834886,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 7,
+          "text": "'You shall not uncover the nakedness of your father, that is, the nakedness of your mother. She is your mother; you are not to uncover her nakedness."
+        },
+        {
+          "pk": 834887,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 8,
+          "text": "'You shall not uncover the nakedness of your father's wife; it is your father's nakedness."
+        },
+        {
+          "pk": 834888,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 9,
+          "text": "'The nakedness of your sister, [either] your father's daughter or your mother's daughter, whether born at home or born outside, their nakedness you shall not uncover."
+        },
+        {
+          "pk": 834889,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 10,
+          "text": "'The nakedness of your son's daughter or your daughter's daughter, their nakedness you shall not uncover; for their nakedness is yours."
+        },
+        {
+          "pk": 834890,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 11,
+          "text": "'The nakedness of your father's wife's daughter, born to your father, she is your sister, you shall not uncover her nakedness."
+        },
+        {
+          "pk": 834891,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 12,
+          "text": "'You shall not uncover the nakedness of your father's sister; she is your father's blood relative."
+        },
+        {
+          "pk": 834892,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 13,
+          "text": "'You shall not uncover the nakedness of your mother's sister, for she is your mother's blood relative."
+        },
+        {
+          "pk": 834893,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 14,
+          "text": "'You shall not uncover the nakedness of your father's brother; you shall not approach his wife, she is your aunt."
+        },
+        {
+          "pk": 834894,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 15,
+          "text": "'You shall not uncover the nakedness of your daughter-in-law; she is your son's wife, you shall not uncover her nakedness."
+        },
+        {
+          "pk": 834895,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 16,
+          "text": "'You shall not uncover the nakedness of your brother's wife; it is your brother's nakedness."
+        },
+        {
+          "pk": 834896,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 17,
+          "text": "'You shall not uncover the nakedness of a woman and of her daughter, nor shall you take her son's daughter or her daughter's daughter, to uncover her nakedness; they are blood relatives. It is lewdness."
+        },
+        {
+          "pk": 834897,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 18,
+          "text": "'You shall not marry a woman in addition to her sister as a rival while she is alive, to uncover her nakedness."
+        },
+        {
+          "pk": 834898,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 19,
+          "text": "'Also you shall not approach a woman to uncover her nakedness during her menstrual impurity."
+        },
+        {
+          "pk": 834899,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 20,
+          "text": "'You shall not have intercourse with your neighbor's wife, to be defiled with her."
+        },
+        {
+          "pk": 834900,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 21,
+          "text": "'You shall not give any of your offspring to offer them to Molech, nor shall you profane the name of your God; I am the LORD."
+        },
+        {
+          "pk": 834901,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 22,
+          "text": "'You shall not lie with a male as one lies with a female; it is an abomination."
+        },
+        {
+          "pk": 834902,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 23,
+          "text": "'Also you shall not have intercourse with any animal to be defiled with it, nor shall any woman stand before an animal to mate with it; it is a perversion."
+        },
+        {
+          "pk": 834903,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 24,
+          "text": "'Do not defile yourselves by any of these things; for by all these the nations which I am casting out before you have become defiled."
+        },
+        {
+          "pk": 834904,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 25,
+          "text": "'For the land has become defiled, therefore I have brought its punishment upon it, so the land has spewed out its inhabitants."
+        },
+        {
+          "pk": 834905,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 26,
+          "text": "'But as for you, you are to keep My statutes and My judgments and shall not do any of these abominations, [neither] the native, nor the alien who sojourns among you"
+        },
+        {
+          "pk": 834906,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 27,
+          "text": "(for the men of the land who have been before you have done all these abominations, and the land has become defiled);"
+        },
+        {
+          "pk": 834907,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 28,
+          "text": "so that the land will not spew you out, should you defile it, as it has spewed out the nation which has been before you."
+        },
+        {
+          "pk": 834908,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 29,
+          "text": "'For whoever does any of these abominations, those persons who do [so] shall be cut off from among their people."
+        },
+        {
+          "pk": 834909,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 18,
+          "verse": 30,
+          "text": "'Thus you are to keep My charge, that you do not practice any of the abominable customs which have been practiced before you, so as not to defile yourselves with them; I am the LORD your God.''"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "pk": 834910,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying:"
+        },
+        {
+          "pk": 834911,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 2,
+          "text": "'Speak to all the congregation of the sons of Israel and say to them, 'You shall be holy, for I the LORD your God am holy."
+        },
+        {
+          "pk": 834912,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 3,
+          "text": "'Every one of you shall reverence his mother and his father, and you shall keep My sabbaths; I am the LORD your God."
+        },
+        {
+          "pk": 834913,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 4,
+          "text": "'Do not turn to idols or make for yourselves molten gods; I am the LORD your God."
+        },
+        {
+          "pk": 834914,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 5,
+          "text": "'Now when you offer a sacrifice of peace offerings to the LORD, you shall offer it so that you may be accepted."
+        },
+        {
+          "pk": 834915,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 6,
+          "text": "'It shall be eaten the same day you offer [it], and the next day; but what remains until the third day shall be burned with fire."
+        },
+        {
+          "pk": 834916,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 7,
+          "text": "'So if it is eaten at all on the third day, it is an offense; it will not be accepted."
+        },
+        {
+          "pk": 834917,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 8,
+          "text": "'Everyone who eats it will bear his iniquity, for he has profaned the holy thing of the LORD; and that person shall be cut off from his people."
+        },
+        {
+          "pk": 834918,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 9,
+          "text": "'Now when you reap the harvest of your land, you shall not reap to the very corners of your field, nor shall you gather the gleanings of your harvest."
+        },
+        {
+          "pk": 834919,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 10,
+          "text": "'Nor shall you glean your vineyard, nor shall you gather the fallen fruit of your vineyard; you shall leave them for the needy and for the stranger. I am the LORD your God."
+        },
+        {
+          "pk": 834920,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 11,
+          "text": "'You shall not steal, nor deal falsely, nor lie to one another."
+        },
+        {
+          "pk": 834921,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 12,
+          "text": "'You shall not swear falsely by My name, so as to profane the name of your God; I am the LORD."
+        },
+        {
+          "pk": 834922,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 13,
+          "text": "'You shall not oppress your neighbor, nor rob [him]. The wages of a hired man are not to remain with you all night until morning."
+        },
+        {
+          "pk": 834923,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 14,
+          "text": "'You shall not curse a deaf man, nor place a stumbling block before the blind, but you shall revere your God; I am the LORD."
+        },
+        {
+          "pk": 834924,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 15,
+          "text": "'You shall do no injustice in judgment; you shall not be partial to the poor nor defer to the great, but you are to judge your neighbor fairly."
+        },
+        {
+          "pk": 834925,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 16,
+          "text": "'You shall not go about as a slanderer among your people, and you are not to act against the life of your neighbor; I am the LORD."
+        },
+        {
+          "pk": 834926,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 17,
+          "text": "'You shall not hate your fellow countryman in your heart; you may surely reprove your neighbor, but shall not incur sin because of him."
+        },
+        {
+          "pk": 834927,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 18,
+          "text": "'You shall not take vengeance, nor bear any grudge against the sons of your people, but you shall love your neighbor as yourself; I am the LORD."
+        },
+        {
+          "pk": 834928,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 19,
+          "text": "'You are to keep My statutes. You shall not breed together two kinds of your cattle; you shall not sow your field with two kinds of seed, nor wear a garment upon you of two kinds of material mixed together."
+        },
+        {
+          "pk": 834929,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 20,
+          "text": "'Now if a man lies carnally with a woman who is a slave acquired for [another] man, but who has in no way been redeemed nor given her freedom, there shall be punishment; they shall not, [however], be put to death, because she was not free."
+        },
+        {
+          "pk": 834930,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 21,
+          "text": "'He shall bring his guilt offering to the LORD to the doorway of the tent of meeting, a ram for a guilt offering."
+        },
+        {
+          "pk": 834931,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 22,
+          "text": "'The priest shall also make atonement for him with the ram of the guilt offering before the LORD for his sin which he has committed, and the sin which he has committed will be forgiven him."
+        },
+        {
+          "pk": 834932,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 23,
+          "text": "'When you enter the land and plant all kinds of trees for food, then you shall count their fruit as forbidden. Three years it shall be forbidden to you; [it] shall not be eaten."
+        },
+        {
+          "pk": 834933,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 24,
+          "text": "'But in the fourth year all its fruit shall be holy, an offering of praise to the LORD."
+        },
+        {
+          "pk": 834934,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 25,
+          "text": "'In the fifth year you are to eat of its fruit, that its yield may increase for you; I am the LORD your God."
+        },
+        {
+          "pk": 834935,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 26,
+          "text": "'You shall not eat [anything] with the blood, nor practice divination or soothsaying."
+        },
+        {
+          "pk": 834936,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 27,
+          "text": "'You shall not round off the side-growth of your heads nor harm the edges of your beard."
+        },
+        {
+          "pk": 834937,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 28,
+          "text": "'You shall not make any cuts in your body for the dead nor make any tattoo marks on yourselves: I am the LORD."
+        },
+        {
+          "pk": 834938,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 29,
+          "text": "'Do not profane your daughter by making her a harlot, so that the land will not fall to harlotry and the land become full of lewdness."
+        },
+        {
+          "pk": 834939,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 30,
+          "text": "'You shall keep My sabbaths and revere My sanctuary; I am the LORD."
+        },
+        {
+          "pk": 834940,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 31,
+          "text": "'Do not turn to mediums or spiritists; do not seek them out to be defiled by them. I am the LORD your God."
+        },
+        {
+          "pk": 834941,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 32,
+          "text": "'You shall rise up before the grayheaded and honor the aged, and you shall revere your God; I am the LORD."
+        },
+        {
+          "pk": 834942,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 33,
+          "text": "'When a stranger resides with you in your land, you shall not do him wrong."
+        },
+        {
+          "pk": 834943,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 34,
+          "text": "'The stranger who resides with you shall be to you as the native among you, and you shall love him as yourself, for you were aliens in the land of Egypt; I am the LORD your God."
+        },
+        {
+          "pk": 834944,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 35,
+          "text": "'You shall do no wrong in judgment, in measurement of weight, or capacity."
+        },
+        {
+          "pk": 834945,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 36,
+          "text": "'You shall have just balances, just weights, a just ephah, and a just hin; I am the LORD your God, who brought you out from the land of Egypt."
+        },
+        {
+          "pk": 834946,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 19,
+          "verse": 37,
+          "text": "'You shall thus observe all My statutes and all My ordinances and do them; I am the LORD.''"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "pk": 834947,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834948,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 2,
+          "text": "'You shall also say to the sons of Israel: 'Any man from the sons of Israel or from the aliens sojourning in Israel who gives any of his offspring to Molech, shall surely be put to death; the people of the land shall stone him with stones."
+        },
+        {
+          "pk": 834949,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 3,
+          "text": "'I will also set My face against that man and will cut him off from among his people, because he has given some of his offspring to Molech, so as to defile My sanctuary and to profane My holy name."
+        },
+        {
+          "pk": 834950,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 4,
+          "text": "'If the people of the land, however, should ever disregard that man when he gives any of his offspring to Molech, so as not to put him to death,"
+        },
+        {
+          "pk": 834951,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 5,
+          "text": "then I Myself will set My face against that man and against his family, and I will cut off from among their people both him and all those who play the harlot after him, by playing the harlot after Molech."
+        },
+        {
+          "pk": 834952,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 6,
+          "text": "'As for the person who turns to mediums and to spiritists, to play the harlot after them, I will also set My face against that person and will cut him off from among his people."
+        },
+        {
+          "pk": 834953,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 7,
+          "text": "'You shall consecrate yourselves therefore and be holy, for I am the LORD your God."
+        },
+        {
+          "pk": 834954,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 8,
+          "text": "'You shall keep My statutes and practice them; I am the LORD who sanctifies you."
+        },
+        {
+          "pk": 834955,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 9,
+          "text": "'If [there is] anyone who curses his father or his mother, he shall surely be put to death; he has cursed his father or his mother, his bloodguiltiness is upon him."
+        },
+        {
+          "pk": 834956,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 10,
+          "text": "'If [there is] a man who commits adultery with another man's wife, one who commits adultery with his friend's wife, the adulterer and the adulteress shall surely be put to death."
+        },
+        {
+          "pk": 834957,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 11,
+          "text": "'If [there is] a man who lies with his father's wife, he has uncovered his father's nakedness; both of them shall surely be put to death, their bloodguiltiness is upon them."
+        },
+        {
+          "pk": 834958,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 12,
+          "text": "'If [there is] a man who lies with his daughter-in-law, both of them shall surely be put to death; they have committed incest, their bloodguiltiness is upon them."
+        },
+        {
+          "pk": 834959,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 13,
+          "text": "'If [there is] a man who lies with a male as those who lie with a woman, both of them have committed a detestable act; they shall surely be put to death. Their bloodguiltiness is upon them."
+        },
+        {
+          "pk": 834960,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 14,
+          "text": "'If [there is] a man who marries a woman and her mother, it is immorality; both he and they shall be burned with fire, so that there will be no immorality in your midst."
+        },
+        {
+          "pk": 834961,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 15,
+          "text": "'If [there is] a man who lies with an animal, he shall surely be put to death; you shall also kill the animal."
+        },
+        {
+          "pk": 834962,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 16,
+          "text": "'If [there is] a woman who approaches any animal to mate with it, you shall kill the woman and the animal; they shall surely be put to death. Their bloodguiltiness is upon them."
+        },
+        {
+          "pk": 834963,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 17,
+          "text": "'If [there is] a man who takes his sister, his father's daughter or his mother's daughter, so that he sees her nakedness and she sees his nakedness, it is a disgrace; and they shall be cut off in the sight of the sons of their people. He has uncovered his sister's nakedness; he bears his guilt."
+        },
+        {
+          "pk": 834964,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 18,
+          "text": "'If [there is] a man who lies with a menstruous woman and uncovers her nakedness, he has laid bare her flow, and she has exposed the flow of her blood; thus both of them shall be cut off from among their people."
+        },
+        {
+          "pk": 834965,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 19,
+          "text": "'You shall also not uncover the nakedness of your mother's sister or of your father's sister, for such a one has made naked his blood relative; they will bear their guilt."
+        },
+        {
+          "pk": 834966,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 20,
+          "text": "'If [there is] a man who lies with his uncle's wife he has uncovered his uncle's nakedness; they will bear their sin. They will die childless."
+        },
+        {
+          "pk": 834967,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 21,
+          "text": "'If [there is] a man who takes his brother's wife, it is abhorrent; he has uncovered his brother's nakedness. They will be childless."
+        },
+        {
+          "pk": 834968,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 22,
+          "text": "'You are therefore to keep all My statutes and all My ordinances and do them, so that the land to which I am bringing you to live will not spew you out."
+        },
+        {
+          "pk": 834969,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 23,
+          "text": "'Moreover, you shall not follow the customs of the nation which I will drive out before you, for they did all these things, and therefore I have abhorred them."
+        },
+        {
+          "pk": 834970,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 24,
+          "text": "'Hence I have said to you, 'You are to possess their land, and I Myself will give it to you to possess it, a land flowing with milk and honey.' I am the LORD your God, who has separated you from the peoples."
+        },
+        {
+          "pk": 834971,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 25,
+          "text": "'You are therefore to make a distinction between the clean animal and the unclean, and between the unclean bird and the clean; and you shall not make yourselves detestable by animal or by bird or by anything that creeps on the ground, which I have separated for you as unclean."
+        },
+        {
+          "pk": 834972,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 26,
+          "text": "'Thus you are to be holy to Me, for I the LORD am holy; and I have set you apart from the peoples to be Mine."
+        },
+        {
+          "pk": 834973,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 20,
+          "verse": 27,
+          "text": "'Now a man or a woman who is a medium or a spiritist shall surely be put to death. They shall be stoned with stones, their bloodguiltiness is upon them.''"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "pk": 834974,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 1,
+          "text": "Then the LORD said to Moses, 'Speak to the priests, the sons of Aaron, and say to them: 'No one shall defile himself for a [dead] person among his people,"
+        },
+        {
+          "pk": 834975,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 2,
+          "text": "except for his relatives who are nearest to him, his mother and his father and his son and his daughter and his brother,"
+        },
+        {
+          "pk": 834976,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 3,
+          "text": "also for his virgin sister, who is near to him because she has had no husband; for her he may defile himself."
+        },
+        {
+          "pk": 834977,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 4,
+          "text": "'He shall not defile himself as a relative by marriage among his people, and so profane himself."
+        },
+        {
+          "pk": 834978,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 5,
+          "text": "'They shall not make any baldness on their heads, nor shave off the edges of their beards, nor make any cuts in their flesh."
+        },
+        {
+          "pk": 834979,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 6,
+          "text": "'They shall be holy to their God and not profane the name of their God, for they present the offerings by fire to the LORD, the food of their God; so they shall be holy."
+        },
+        {
+          "pk": 834980,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 7,
+          "text": "'They shall not take a woman who is profaned by harlotry, nor shall they take a woman divorced from her husband; for he is holy to his God."
+        },
+        {
+          "pk": 834981,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 8,
+          "text": "'You shall consecrate him, therefore, for he offers the food of your God; he shall be holy to you; for I the LORD, who sanctifies you, am holy."
+        },
+        {
+          "pk": 834982,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 9,
+          "text": "'Also the daughter of any priest, if she profanes herself by harlotry, she profanes her father; she shall be burned with fire."
+        },
+        {
+          "pk": 834983,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 10,
+          "text": "'The priest who is the highest among his brothers, on whose head the anointing oil has been poured and who has been consecrated to wear the garments, shall not uncover his head nor tear his clothes;"
+        },
+        {
+          "pk": 834984,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 11,
+          "text": "nor shall he approach any dead person, nor defile himself [even] for his father or his mother;"
+        },
+        {
+          "pk": 834985,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 12,
+          "text": "nor shall he go out of the sanctuary nor profane the sanctuary of his God, for the consecration of the anointing oil of his God is on him; I am the LORD."
+        },
+        {
+          "pk": 834986,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 13,
+          "text": "'He shall take a wife in her virginity."
+        },
+        {
+          "pk": 834987,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 14,
+          "text": "'A widow, or a divorced woman, or one who is profaned by harlotry, these he may not take; but rather he is to marry a virgin of his own people,"
+        },
+        {
+          "pk": 834988,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 15,
+          "text": "so that he will not profane his offspring among his people; for I am the LORD who sanctifies him.''"
+        },
+        {
+          "pk": 834989,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 16,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834990,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 17,
+          "text": "'Speak to Aaron, saying, 'No man of your offspring throughout their generations who has a defect shall approach to offer the food of his God."
+        },
+        {
+          "pk": 834991,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 18,
+          "text": "'For no one who has a defect shall approach: a blind man, or a lame man, or he who has a disfigured [face], or any deformed [limb],"
+        },
+        {
+          "pk": 834992,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 19,
+          "text": "or a man who has a broken foot or broken hand,"
+        },
+        {
+          "pk": 834993,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 20,
+          "text": "or a hunchback or a dwarf, or [one who has] a defect in his eye or eczema or scabs or crushed testicles."
+        },
+        {
+          "pk": 834994,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 21,
+          "text": "'No man among the descendants of Aaron the priest who has a defect is to come near to offer the LORD'S offerings by fire; [since] he has a defect, he shall not come near to offer the food of his God."
+        },
+        {
+          "pk": 834995,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 22,
+          "text": "'He may eat the food of his God, [both] of the most holy and of the holy,"
+        },
+        {
+          "pk": 834996,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 23,
+          "text": "only he shall not go in to the veil or come near the altar because he has a defect, so that he will not profane My sanctuaries. For I am the LORD who sanctifies them.''"
+        },
+        {
+          "pk": 834997,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 21,
+          "verse": 24,
+          "text": "So Moses spoke to Aaron and to his sons and to all the sons of Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "pk": 834998,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 834999,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 2,
+          "text": "'Tell Aaron and his sons to be careful with the holy [gifts] of the sons of Israel, which they dedicate to Me, so as not to profane My holy name; I am the LORD."
+        },
+        {
+          "pk": 835000,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 3,
+          "text": "'Say to them, 'If any man among all your descendants throughout your generations approaches the holy [gifts] which the sons of Israel dedicate to the LORD, while he has an uncleanness, that person shall be cut off from before Me; I am the LORD."
+        },
+        {
+          "pk": 835001,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 4,
+          "text": "'No man of the descendants of Aaron, who is a leper or who has a discharge, may eat of the holy [gifts] until he is clean. And if one touches anything made unclean by a corpse or if a man has a seminal emission,"
+        },
+        {
+          "pk": 835002,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 5,
+          "text": "or if a man touches any teeming things by which he is made unclean, or any man by whom he is made unclean, whatever his uncleanness;"
+        },
+        {
+          "pk": 835003,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 6,
+          "text": "a person who touches any such shall be unclean until evening, and shall not eat of the holy [gifts] unless he has bathed his body in water."
+        },
+        {
+          "pk": 835004,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 7,
+          "text": "'But when the sun sets, he will be clean, and afterward he shall eat of the holy [gifts], for it is his food."
+        },
+        {
+          "pk": 835005,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 8,
+          "text": "'He shall not eat [an animal] which dies or is torn [by beasts], becoming unclean by it; I am the LORD."
+        },
+        {
+          "pk": 835006,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 9,
+          "text": "'They shall therefore keep My charge, so that they will not bear sin because of it and die thereby because they profane it; I am the LORD who sanctifies them."
+        },
+        {
+          "pk": 835007,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 10,
+          "text": "'No layman, however, is to eat the holy [gift]; a sojourner with the priest or a hired man shall not eat of the holy [gift]."
+        },
+        {
+          "pk": 835008,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 11,
+          "text": "'But if a priest buys a slave as [his] property with his money, that one may eat of it, and those who are born in his house may eat of his food."
+        },
+        {
+          "pk": 835009,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 12,
+          "text": "'If a priest's daughter is married to a layman, she shall not eat of the offering of the [gifts]."
+        },
+        {
+          "pk": 835010,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 13,
+          "text": "'But if a priest's daughter becomes a widow or divorced, and has no child and returns to her father's house as in her youth, she shall eat of her father's food; but no layman shall eat of it."
+        },
+        {
+          "pk": 835011,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 14,
+          "text": "'But if a man eats a holy [gift] unintentionally, then he shall add to it a fifth of it and shall give the holy [gift] to the priest."
+        },
+        {
+          "pk": 835012,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 15,
+          "text": "'They shall not profane the holy [gifts] of the sons of Israel which they offer to the LORD,"
+        },
+        {
+          "pk": 835013,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 16,
+          "text": "and [so] cause them to bear punishment for guilt by eating their holy [gifts]; for I am the LORD who sanctifies them.''"
+        },
+        {
+          "pk": 835014,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 17,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835015,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 18,
+          "text": "'Speak to Aaron and to his sons and to all the sons of Israel and say to them, 'Any man of the house of Israel or of the aliens in Israel who presents his offering, whether it is any of their votive or any of their freewill offerings, which they present to the LORD for a burnt offering--"
+        },
+        {
+          "pk": 835016,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 19,
+          "text": "for you to be accepted-- [it must be] a male without defect from the cattle, the sheep, or the goats."
+        },
+        {
+          "pk": 835017,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 20,
+          "text": "'Whatever has a defect, you shall not offer, for it will not be accepted for you."
+        },
+        {
+          "pk": 835018,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 21,
+          "text": "'When a man offers a sacrifice of peace offerings to the LORD to fulfill a special vow or for a freewill offering, of the herd or of the flock, it must be perfect to be accepted; there shall be no defect in it."
+        },
+        {
+          "pk": 835019,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 22,
+          "text": "'Those [that are] blind or fractured or maimed or having a running sore or eczema or scabs, you shall not offer to the LORD, nor make of them an offering by fire on the altar to the LORD."
+        },
+        {
+          "pk": 835020,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 23,
+          "text": "'In respect to an ox or a lamb which has an overgrown or stunted [member], you may present it for a freewill offering, but for a vow it will not be accepted."
+        },
+        {
+          "pk": 835021,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 24,
+          "text": "'Also anything [with its testicles] bruised or crushed or torn or cut, you shall not offer to the LORD, or sacrifice in your land,"
+        },
+        {
+          "pk": 835022,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 25,
+          "text": "nor shall you accept any such from the hand of a foreigner for offering as the food of your God; for their corruption is in them, they have a defect, they shall not be accepted for you.''"
+        },
+        {
+          "pk": 835023,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 26,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835024,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 27,
+          "text": "'When an ox or a sheep or a goat is born, it shall remain seven days with its mother, and from the eighth day on it shall be accepted as a sacrifice of an offering by fire to the LORD."
+        },
+        {
+          "pk": 835025,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 28,
+          "text": "'But, [whether] it is an ox or a sheep, you shall not kill [both] it and its young in one day."
+        },
+        {
+          "pk": 835026,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 29,
+          "text": "'When you sacrifice a sacrifice of thanksgiving to the LORD, you shall sacrifice it so that you may be accepted."
+        },
+        {
+          "pk": 835027,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 30,
+          "text": "'It shall be eaten on the same day, you shall leave none of it until morning; I am the LORD."
+        },
+        {
+          "pk": 835028,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 31,
+          "text": "'So you shall keep My commandments, and do them; I am the LORD."
+        },
+        {
+          "pk": 835029,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 32,
+          "text": "'You shall not profane My holy name, but I will be sanctified among the sons of Israel; I am the LORD who sanctifies you,"
+        },
+        {
+          "pk": 835030,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 22,
+          "verse": 33,
+          "text": "who brought you out from the land of Egypt, to be your God; I am the LORD.'"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "pk": 835031,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 1,
+          "text": "The LORD spoke again to Moses, saying,"
+        },
+        {
+          "pk": 835032,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel and say to them, 'The LORD'S appointed times which you shall proclaim as holy convocations-- My appointed times are these:"
+        },
+        {
+          "pk": 835033,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 3,
+          "text": "'For six days work may be done, but on the seventh day there is a sabbath of complete rest, a holy convocation. You shall not do any work; it is a sabbath to the LORD in all your dwellings."
+        },
+        {
+          "pk": 835034,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 4,
+          "text": "'These are the appointed times of the LORD, holy convocations which you shall proclaim at the times appointed for them."
+        },
+        {
+          "pk": 835035,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 5,
+          "text": "'In the first month, on the fourteenth day of the month at twilight is the LORD'S Passover."
+        },
+        {
+          "pk": 835036,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 6,
+          "text": "'Then on the fifteenth day of the same month there is the Feast of Unleavened Bread to the LORD; for seven days you shall eat unleavened bread."
+        },
+        {
+          "pk": 835037,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 7,
+          "text": "'On the first day you shall have a holy convocation; you shall not do any laborious work."
+        },
+        {
+          "pk": 835038,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 8,
+          "text": "'But for seven days you shall present an offering by fire to the LORD. On the seventh day is a holy convocation; you shall not do any laborious work.''"
+        },
+        {
+          "pk": 835039,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 9,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835040,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 10,
+          "text": "'Speak to the sons of Israel and say to them, 'When you enter the land which I am going to give to you and reap its harvest, then you shall bring in the sheaf of the first fruits of your harvest to the priest."
+        },
+        {
+          "pk": 835041,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 11,
+          "text": "'He shall wave the sheaf before the LORD for you to be accepted; on the day after the sabbath the priest shall wave it."
+        },
+        {
+          "pk": 835042,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 12,
+          "text": "'Now on the day when you wave the sheaf, you shall offer a male lamb one year old without defect for a burnt offering to the LORD."
+        },
+        {
+          "pk": 835043,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 13,
+          "text": "'Its grain offering shall then be two-tenths [of an ephah] of fine flour mixed with oil, an offering by fire to the LORD [for] a soothing aroma, with its drink offering, a fourth of a hin of wine."
+        },
+        {
+          "pk": 835044,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 14,
+          "text": "'Until this same day, until you have brought in the offering of your God, you shall eat neither bread nor roasted grain nor new growth. It is to be a perpetual statute throughout your generations in all your dwelling places."
+        },
+        {
+          "pk": 835045,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 15,
+          "text": "'You shall also count for yourselves from the day after the sabbath, from the day when you brought in the sheaf of the wave offering; there shall be seven complete sabbaths."
+        },
+        {
+          "pk": 835046,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 16,
+          "text": "'You shall count fifty days to the day after the seventh sabbath; then you shall present a new grain offering to the LORD."
+        },
+        {
+          "pk": 835047,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 17,
+          "text": "'You shall bring in from your dwelling places two [loaves] of bread for a wave offering, made of two-tenths [of an] [ephah]; they shall be of a fine flour, baked with leaven as first fruits to the LORD."
+        },
+        {
+          "pk": 835048,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 18,
+          "text": "'Along with the bread you shall present seven one year old male lambs without defect, and a bull of the herd and two rams; they are to be a burnt offering to the LORD, with their grain offering and their drink offerings, an offering by fire of a soothing aroma to the LORD."
+        },
+        {
+          "pk": 835049,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 19,
+          "text": "'You shall also offer one male goat for a sin offering and two male lambs one year old for a sacrifice of peace offerings."
+        },
+        {
+          "pk": 835050,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 20,
+          "text": "'The priest shall then wave them with the bread of the first fruits for a wave offering with two lambs before the LORD; they are to be holy to the LORD for the priest."
+        },
+        {
+          "pk": 835051,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 21,
+          "text": "'On this same day you shall make a proclamation as well; you are to have a holy convocation. You shall do no laborious work. It is to be a perpetual statute in all your dwelling places throughout your generations."
+        },
+        {
+          "pk": 835052,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 22,
+          "text": "'When you reap the harvest of your land, moreover, you shall not reap to the very corners of your field nor gather the gleaning of your harvest; you are to leave them for the needy and the alien. I am the LORD your God.''"
+        },
+        {
+          "pk": 835053,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 23,
+          "text": "Again the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835054,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 24,
+          "text": "'Speak to the sons of Israel, saying, 'In the seventh month on the first of the month you shall have a rest, a reminder by blowing [of trumpets], a holy convocation."
+        },
+        {
+          "pk": 835055,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 25,
+          "text": "'You shall not do any laborious work, but you shall present an offering by fire to the LORD.''"
+        },
+        {
+          "pk": 835056,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 26,
+          "text": "The LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835057,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 27,
+          "text": "'On exactly the tenth day of this seventh month is the day of atonement; it shall be a holy convocation for you, and you shall humble your souls and present an offering by fire to the LORD."
+        },
+        {
+          "pk": 835058,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 28,
+          "text": "'You shall not do any work on this same day, for it is a day of atonement, to make atonement on your behalf before the LORD your God."
+        },
+        {
+          "pk": 835059,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 29,
+          "text": "'If there is any person who will not humble himself on this same day, he shall be cut off from his people."
+        },
+        {
+          "pk": 835060,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 30,
+          "text": "'As for any person who does any work on this same day, that person I will destroy from among his people."
+        },
+        {
+          "pk": 835061,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 31,
+          "text": "'You shall do no work at all. It is to be a perpetual statute throughout your generations in all your dwelling places."
+        },
+        {
+          "pk": 835062,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 32,
+          "text": "'It is to be a sabbath of complete rest to you, and you shall humble your souls; on the ninth of the month at evening, from evening until evening you shall keep your sabbath.'"
+        },
+        {
+          "pk": 835063,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 33,
+          "text": "Again the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835064,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 34,
+          "text": "'Speak to the sons of Israel, saying, 'On the fifteenth of this seventh month is the Feast of Booths for seven days to the LORD."
+        },
+        {
+          "pk": 835065,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 35,
+          "text": "'On the first day is a holy convocation; you shall do no laborious work of any kind."
+        },
+        {
+          "pk": 835066,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 36,
+          "text": "'For seven days you shall present an offering by fire to the LORD. On the eighth day you shall have a holy convocation and present an offering by fire to the LORD; it is an assembly. You shall do no laborious work."
+        },
+        {
+          "pk": 835067,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 37,
+          "text": "'These are the appointed times of the LORD which you shall proclaim as holy convocations, to present offerings by fire to the LORD-- burnt offerings and grain offerings, sacrifices and drink offerings, [each] day's matter on its own day--"
+        },
+        {
+          "pk": 835068,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 38,
+          "text": "besides [those of] the sabbaths of the LORD, and besides your gifts and besides all your votive and freewill offerings, which you give to the LORD."
+        },
+        {
+          "pk": 835069,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 39,
+          "text": "'On exactly the fifteenth day of the seventh month, when you have gathered in the crops of the land, you shall celebrate the feast of the LORD for seven days, with a rest on the first day and a rest on the eighth day."
+        },
+        {
+          "pk": 835070,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 40,
+          "text": "'Now on the first day you shall take for yourselves the foliage of beautiful trees, palm branches and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God for seven days."
+        },
+        {
+          "pk": 835071,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 41,
+          "text": "'You shall thus celebrate it [as] a feast to the LORD for seven days in the year. It [shall be] a perpetual statute throughout your generations; you shall celebrate it in the seventh month."
+        },
+        {
+          "pk": 835072,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 42,
+          "text": "'You shall live in booths for seven days; all the native-born in Israel shall live in booths,"
+        },
+        {
+          "pk": 835073,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 43,
+          "text": "so that your generations may know that I had the sons of Israel live in booths when I brought them out from the land of Egypt. I am the LORD your God.''"
+        },
+        {
+          "pk": 835074,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 23,
+          "verse": 44,
+          "text": "So Moses declared to the sons of Israel the appointed times of the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "pk": 835075,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 1,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835076,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 2,
+          "text": "'Command the sons of Israel that they bring to you clear oil from beaten olives for the light, to make a lamp burn continually."
+        },
+        {
+          "pk": 835077,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 3,
+          "text": "'Outside the veil of testimony in the tent of meeting, Aaron shall keep it in order from evening to morning before the LORD continually; [it shall be] a perpetual statute throughout your generations."
+        },
+        {
+          "pk": 835078,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 4,
+          "text": "'He shall keep the lamps in order on the pure [gold] lampstand before the LORD continually."
+        },
+        {
+          "pk": 835079,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 5,
+          "text": "'Then you shall take fine flour and bake twelve cakes with it; two-tenths [of an ephah] shall be [in] each cake."
+        },
+        {
+          "pk": 835080,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 6,
+          "text": "'You shall set them [in] two rows, six [to] a row, on the pure [gold] table before the LORD."
+        },
+        {
+          "pk": 835081,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 7,
+          "text": "'You shall put pure frankincense on each row that it may be a memorial portion for the bread, [even] an offering by fire to the LORD."
+        },
+        {
+          "pk": 835082,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 8,
+          "text": "'Every sabbath day he shall set it in order before the LORD continually; it is an everlasting covenant for the sons of Israel."
+        },
+        {
+          "pk": 835083,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 9,
+          "text": "'It shall be for Aaron and his sons, and they shall eat it in a holy place; for it is most holy to him from the LORD'S offerings by fire, [his] portion forever.'"
+        },
+        {
+          "pk": 835084,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 10,
+          "text": "Now the son of an Israelite woman, whose father was an Egyptian, went out among the sons of Israel; and the Israelite woman's son and a man of Israel struggled with each other in the camp."
+        },
+        {
+          "pk": 835085,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 11,
+          "text": "The son of the Israelite woman blasphemed the Name and cursed. So they brought him to Moses. (Now his mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan.)"
+        },
+        {
+          "pk": 835086,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 12,
+          "text": "They put him in custody so that the command of the LORD might be made clear to them."
+        },
+        {
+          "pk": 835087,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 13,
+          "text": "Then the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835088,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 14,
+          "text": "'Bring the one who has cursed outside the camp, and let all who heard him lay their hands on his head; then let all the congregation stone him."
+        },
+        {
+          "pk": 835089,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 15,
+          "text": "'You shall speak to the sons of Israel, saying, 'If anyone curses his God, then he will bear his sin."
+        },
+        {
+          "pk": 835090,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 16,
+          "text": "'Moreover, the one who blasphemes the name of the LORD shall surely be put to death; all the congregation shall certainly stone him. The alien as well as the native, when he blasphemes the Name, shall be put to death."
+        },
+        {
+          "pk": 835091,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 17,
+          "text": "'If a man takes the life of any human being, he shall surely be put to death."
+        },
+        {
+          "pk": 835092,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 18,
+          "text": "'The one who takes the life of an animal shall make it good, life for life."
+        },
+        {
+          "pk": 835093,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 19,
+          "text": "'If a man injures his neighbor, just as he has done, so it shall be done to him:"
+        },
+        {
+          "pk": 835094,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 20,
+          "text": "fracture for fracture, eye for eye, tooth for tooth; just as he has injured a man, so it shall be inflicted on him."
+        },
+        {
+          "pk": 835095,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 21,
+          "text": "'Thus the one who kills an animal shall make it good, but the one who kills a man shall be put to death."
+        },
+        {
+          "pk": 835096,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 22,
+          "text": "'There shall be one standard for you; it shall be for the stranger as well as the native, for I am the LORD your God.''"
+        },
+        {
+          "pk": 835097,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 24,
+          "verse": 23,
+          "text": "Then Moses spoke to the sons of Israel, and they brought the one who had cursed outside the camp and stoned him with stones. Thus the sons of Israel did, just as the LORD had commanded Moses."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "pk": 835098,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 1,
+          "text": "The LORD then spoke to Moses at Mount Sinai, saying,"
+        },
+        {
+          "pk": 835099,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel and say to them, 'When you come into the land which I shall give you, then the land shall have a sabbath to the LORD."
+        },
+        {
+          "pk": 835100,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 3,
+          "text": "'Six years you shall sow your field, and six years you shall prune your vineyard and gather in its crop,"
+        },
+        {
+          "pk": 835101,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 4,
+          "text": "but during the seventh year the land shall have a sabbath rest, a sabbath to the LORD; you shall not sow your field nor prune your vineyard."
+        },
+        {
+          "pk": 835102,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 5,
+          "text": "'Your harvest's aftergrowth you shall not reap, and your grapes of untrimmed vines you shall not gather; the land shall have a sabbatical year."
+        },
+        {
+          "pk": 835103,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 6,
+          "text": "'All of you shall have the sabbath [products] of the land for food; yourself, and your male and female slaves, and your hired man and your foreign resident, those who live as aliens with you."
+        },
+        {
+          "pk": 835104,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 7,
+          "text": "'Even your cattle and the animals that are in your land shall have all its crops to eat."
+        },
+        {
+          "pk": 835105,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 8,
+          "text": "'You are also to count off seven sabbaths of years for yourself, seven times seven years, so that you have the time of the seven sabbaths of years, [namely], forty-nine years."
+        },
+        {
+          "pk": 835106,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 9,
+          "text": "'You shall then sound a ram's horn abroad on the tenth day of the seventh month; on the day of atonement you shall sound a horn all through your land."
+        },
+        {
+          "pk": 835107,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 10,
+          "text": "'You shall thus consecrate the fiftieth year and proclaim a release through the land to all its inhabitants. It shall be a jubilee for you, and each of you shall return to his own property, and each of you shall return to his family."
+        },
+        {
+          "pk": 835108,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 11,
+          "text": "'You shall have the fiftieth year as a jubilee; you shall not sow, nor reap its aftergrowth, nor gather in [from] its untrimmed vines."
+        },
+        {
+          "pk": 835109,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 12,
+          "text": "'For it is a jubilee; it shall be holy to you. You shall eat its crops out of the field."
+        },
+        {
+          "pk": 835110,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 13,
+          "text": "'On this year of jubilee each of you shall return to his own property."
+        },
+        {
+          "pk": 835111,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 14,
+          "text": "'If you make a sale, moreover, to your friend or buy from your friend's hand, you shall not wrong one another."
+        },
+        {
+          "pk": 835112,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 15,
+          "text": "'Corresponding to the number of years after the jubilee, you shall buy from your friend; he is to sell to you according to the number of years of crops."
+        },
+        {
+          "pk": 835113,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 16,
+          "text": "'In proportion to the extent of the years you shall increase its price, and in proportion to the fewness of the years you shall diminish its price, for [it is] a number of crops he is selling to you."
+        },
+        {
+          "pk": 835114,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 17,
+          "text": "'So you shall not wrong one another, but you shall fear your God; for I am the LORD your God."
+        },
+        {
+          "pk": 835115,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 18,
+          "text": "'You shall thus observe My statutes and keep My judgments, so as to carry them out, that you may live securely on the land."
+        },
+        {
+          "pk": 835116,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 19,
+          "text": "'Then the land will yield its produce, so that you can eat your fill and live securely on it."
+        },
+        {
+          "pk": 835117,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 20,
+          "text": "'But if you say, 'What are we going to eat on the seventh year if we do not sow or gather in our crops?'"
+        },
+        {
+          "pk": 835118,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 21,
+          "text": "then I will so order My blessing for you in the sixth year that it will bring forth the crop for three years."
+        },
+        {
+          "pk": 835119,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 22,
+          "text": "'When you are sowing the eighth year, you can still eat old things from the crop, eating [the old] until the ninth year when its crop comes in."
+        },
+        {
+          "pk": 835120,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 23,
+          "text": "'The land, moreover, shall not be sold permanently, for the land is Mine; for you are [but] aliens and sojourners with Me."
+        },
+        {
+          "pk": 835121,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 24,
+          "text": "'Thus for every piece of your property, you are to provide for the redemption of the land."
+        },
+        {
+          "pk": 835122,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 25,
+          "text": "'If a fellow countryman of yours becomes so poor he has to sell part of his property, then his nearest kinsman is to come and buy back what his relative has sold."
+        },
+        {
+          "pk": 835123,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 26,
+          "text": "'Or in case a man has no kinsman, but so recovers his means as to find sufficient for its redemption,"
+        },
+        {
+          "pk": 835124,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 27,
+          "text": "then he shall calculate the years since its sale and refund the balance to the man to whom he sold it, and so return to his property."
+        },
+        {
+          "pk": 835125,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 28,
+          "text": "'But if he has not found sufficient means to get it back for himself, then what he has sold shall remain in the hands of its purchaser until the year of jubilee; but at the jubilee it shall revert, that he may return to his property."
+        },
+        {
+          "pk": 835126,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 29,
+          "text": "'Likewise, if a man sells a dwelling house in a walled city, then his redemption right remains valid until a full year from its sale; his right of redemption lasts a full year."
+        },
+        {
+          "pk": 835127,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 30,
+          "text": "'But if it is not bought back for him within the space of a full year, then the house that is in the walled city passes permanently to its purchaser throughout his generations; it does not revert in the jubilee."
+        },
+        {
+          "pk": 835128,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 31,
+          "text": "'The houses of the villages, however, which have no surrounding wall shall be considered as open fields; they have redemption rights and revert in the jubilee."
+        },
+        {
+          "pk": 835129,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 32,
+          "text": "'As for cities of the Levites, the Levites have a permanent right of redemption for the houses of the cities which are their possession."
+        },
+        {
+          "pk": 835130,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 33,
+          "text": "'What, therefore, belongs to the Levites may be redeemed and a house sale in the city of this possession reverts in the jubilee, for the houses of the cities of the Levites are their possession among the sons of Israel."
+        },
+        {
+          "pk": 835131,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 34,
+          "text": "'But pasture fields of their cities shall not be sold, for that is their perpetual possession."
+        },
+        {
+          "pk": 835132,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 35,
+          "text": "'Now in case a countryman of yours becomes poor and his means with regard to you falter, then you are to sustain him, like a stranger or a sojourner, that he may live with you."
+        },
+        {
+          "pk": 835133,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 36,
+          "text": "'Do not take usurious interest from him, but revere your God, that your countryman may live with you."
+        },
+        {
+          "pk": 835134,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 37,
+          "text": "'You shall not give him your silver at interest, nor your food for gain."
+        },
+        {
+          "pk": 835135,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 38,
+          "text": "'I am the LORD your God, who brought you out of the land of Egypt to give you the land of Canaan [and] to be your God."
+        },
+        {
+          "pk": 835136,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 39,
+          "text": "'If a countryman of yours becomes so poor with regard to you that he sells himself to you, you shall not subject him to a slave's service."
+        },
+        {
+          "pk": 835137,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 40,
+          "text": "'He shall be with you as a hired man, as if he were a sojourner; he shall serve with you until the year of jubilee."
+        },
+        {
+          "pk": 835138,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 41,
+          "text": "'He shall then go out from you, he and his sons with him, and shall go back to his family, that he may return to the property of his forefathers."
+        },
+        {
+          "pk": 835139,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 42,
+          "text": "'For they are My servants whom I brought out from the land of Egypt; they are not to be sold [in] a slave sale."
+        },
+        {
+          "pk": 835140,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 43,
+          "text": "'You shall not rule over him with severity, but are to revere your God."
+        },
+        {
+          "pk": 835141,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 44,
+          "text": "'As for your male and female slaves whom you may have-- you may acquire male and female slaves from the pagan nations that are around you."
+        },
+        {
+          "pk": 835142,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 45,
+          "text": "'Then, too, [it is] out of the sons of the sojourners who live as aliens among you that you may gain acquisition, and out of their families who are with you, whom they will have produced in your land; they also may become your possession."
+        },
+        {
+          "pk": 835143,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 46,
+          "text": "'You may even bequeath them to your sons after you, to receive as a possession; you can use them as permanent slaves. But in respect to your countrymen, the sons of Israel, you shall not rule with severity over one another."
+        },
+        {
+          "pk": 835144,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 47,
+          "text": "'Now if the means of a stranger or of a sojourner with you becomes sufficient, and a countryman of yours becomes so poor with regard to him as to sell himself to a stranger who is sojourning with you, or to the descendants of a stranger's family,"
+        },
+        {
+          "pk": 835145,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 48,
+          "text": "then he shall have redemption right after he has been sold. One of his brothers may redeem him,"
+        },
+        {
+          "pk": 835146,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 49,
+          "text": "or his uncle, or his uncle's son, may redeem him, or one of his blood relatives from his family may redeem him; or if he prospers, he may redeem himself."
+        },
+        {
+          "pk": 835147,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 50,
+          "text": "'He then with his purchaser shall calculate from the year when he sold himself to him up to the year of jubilee; and the price of his sale shall correspond to the number of years. [It is] like the days of a hired man [that] he shall be with him."
+        },
+        {
+          "pk": 835148,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 51,
+          "text": "'If there are still many years, he shall refund part of his purchase price in proportion to them for his own redemption;"
+        },
+        {
+          "pk": 835149,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 52,
+          "text": "and if few years remain until the year of jubilee, he shall so calculate with him. In proportion to his years he is to refund [the amount for] his redemption."
+        },
+        {
+          "pk": 835150,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 53,
+          "text": "'Like a man hired year by year he shall be with him; he shall not rule over him with severity in your sight."
+        },
+        {
+          "pk": 835151,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 54,
+          "text": "'Even if he is not redeemed by these [means], he shall still go out in the year of jubilee, he and his sons with him."
+        },
+        {
+          "pk": 835152,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 25,
+          "verse": 55,
+          "text": "'For the sons of Israel are My servants; they are My servants whom I brought out from the land of Egypt. I am the LORD your God."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "pk": 835153,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 1,
+          "text": "'You shall not make for yourselves idols, nor shall you set up for yourselves an image or a [sacred] pillar, nor shall you place a figured stone in your land to bow down to it; for I am the LORD your God."
+        },
+        {
+          "pk": 835154,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 2,
+          "text": "'You shall keep My sabbaths and reverence My sanctuary; I am the LORD."
+        },
+        {
+          "pk": 835155,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 3,
+          "text": "'If you walk in My statutes and keep My commandments so as to carry them out,"
+        },
+        {
+          "pk": 835156,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 4,
+          "text": "then I shall give you rains in their season, so that the land will yield its produce and the trees of the field will bear their fruit."
+        },
+        {
+          "pk": 835157,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 5,
+          "text": "'Indeed, your threshing will last for you until grape gathering, and grape gathering will last until sowing time. You will thus eat your food to the full and live securely in your land."
+        },
+        {
+          "pk": 835158,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 6,
+          "text": "'I shall also grant peace in the land, so that you may lie down with no one making [you] tremble. I shall also eliminate harmful beasts from the land, and no sword will pass through your land."
+        },
+        {
+          "pk": 835159,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 7,
+          "text": "'But you will chase your enemies and they will fall before you by the sword;"
+        },
+        {
+          "pk": 835160,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 8,
+          "text": "five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall before you by the sword."
+        },
+        {
+          "pk": 835161,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 9,
+          "text": "'So I will turn toward you and make you fruitful and multiply you, and I will confirm My covenant with you."
+        },
+        {
+          "pk": 835162,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 10,
+          "text": "'You will eat the old supply and clear out the old because of the new."
+        },
+        {
+          "pk": 835163,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 11,
+          "text": "'Moreover, I will make My dwelling among you, and My soul will not reject you."
+        },
+        {
+          "pk": 835164,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 12,
+          "text": "'I will also walk among you and be your God, and you shall be My people."
+        },
+        {
+          "pk": 835165,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 13,
+          "text": "'I am the LORD your God, who brought you out of the land of Egypt so that [you] would not be their slaves, and I broke the bars of your yoke and made you walk erect."
+        },
+        {
+          "pk": 835166,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 14,
+          "text": "'But if you do not obey Me and do not carry out all these commandments,"
+        },
+        {
+          "pk": 835167,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 15,
+          "text": "if, instead, you reject My statutes, and if your soul abhors My ordinances so as not to carry out all My commandments, [and] so break My covenant,"
+        },
+        {
+          "pk": 835168,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 16,
+          "text": "I, in turn, will do this to you: I will appoint over you a sudden terror, consumption and fever that will waste away the eyes and cause the soul to pine away; also, you will sow your seed uselessly, for your enemies will eat it up."
+        },
+        {
+          "pk": 835169,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 17,
+          "text": "'I will set My face against you so that you will be struck down before your enemies; and those who hate you will rule over you, and you will flee when no one is pursuing you."
+        },
+        {
+          "pk": 835170,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 18,
+          "text": "'If also after these things you do not obey Me, then I will punish you seven times more for your sins."
+        },
+        {
+          "pk": 835171,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 19,
+          "text": "'I will also break down your pride of power; I will also make your sky like iron and your earth like bronze."
+        },
+        {
+          "pk": 835172,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 20,
+          "text": "'Your strength will be spent uselessly, for your land will not yield its produce and the trees of the land will not yield their fruit."
+        },
+        {
+          "pk": 835173,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 21,
+          "text": "'If then, you act with hostility against Me and are unwilling to obey Me, I will increase the plague on you seven times according to your sins."
+        },
+        {
+          "pk": 835174,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 22,
+          "text": "'I will let loose among you the beasts of the field, which will bereave you of your children and destroy your cattle and reduce your number so that your roads lie deserted."
+        },
+        {
+          "pk": 835175,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 23,
+          "text": "'And if by these things you are not turned to Me, but act with hostility against Me,"
+        },
+        {
+          "pk": 835176,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 24,
+          "text": "then I will act with hostility against you; and I, even I, will strike you seven times for your sins."
+        },
+        {
+          "pk": 835177,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 25,
+          "text": "'I will also bring upon you a sword which will execute vengeance for the covenant; and when you gather together into your cities, I will send pestilence among you, so that you shall be delivered into enemy hands."
+        },
+        {
+          "pk": 835178,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 26,
+          "text": "'When I break your staff of bread, ten women will bake your bread in one oven, and they will bring back your bread in rationed amounts, so that you will eat and not be satisfied."
+        },
+        {
+          "pk": 835179,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 27,
+          "text": "'Yet if in spite of this you do not obey Me, but act with hostility against Me,"
+        },
+        {
+          "pk": 835180,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 28,
+          "text": "then I will act with wrathful hostility against you, and I, even I, will punish you seven times for your sins."
+        },
+        {
+          "pk": 835181,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 29,
+          "text": "'Further, you will eat the flesh of your sons and the flesh of your daughters you will eat."
+        },
+        {
+          "pk": 835182,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 30,
+          "text": "'I then will destroy your high places, and cut down your incense altars, and heap your remains on the remains of your idols, for My soul shall abhor you."
+        },
+        {
+          "pk": 835183,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 31,
+          "text": "'I will lay waste your cities as well and will make your sanctuaries desolate, and I will not smell your soothing aromas."
+        },
+        {
+          "pk": 835184,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 32,
+          "text": "'I will make the land desolate so that your enemies who settle in it will be appalled over it."
+        },
+        {
+          "pk": 835185,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 33,
+          "text": "'You, however, I will scatter among the nations and will draw out a sword after you, as your land becomes desolate and your cities become waste."
+        },
+        {
+          "pk": 835186,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 34,
+          "text": "'Then the land will enjoy its sabbaths all the days of the desolation, while you are in your enemies' land; then the land will rest and enjoy its sabbaths."
+        },
+        {
+          "pk": 835187,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 35,
+          "text": "'All the days of [its] desolation it will observe the rest which it did not observe on your sabbaths, while you were living on it."
+        },
+        {
+          "pk": 835188,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 36,
+          "text": "'As for those of you who may be left, I will also bring weakness into their hearts in the lands of their enemies. And the sound of a driven leaf will chase them, and even when no one is pursuing they will flee as though from the sword, and they will fall."
+        },
+        {
+          "pk": 835189,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 37,
+          "text": "'They will therefore stumble over each other as if [running] from the sword, although no one is pursuing; and you will have [no strength] to stand up before your enemies."
+        },
+        {
+          "pk": 835190,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 38,
+          "text": "'But you will perish among the nations, and your enemies' land will consume you."
+        },
+        {
+          "pk": 835191,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 39,
+          "text": "'So those of you who may be left will rot away because of their iniquity in the lands of your enemies; and also because of the iniquities of their forefathers they will rot away with them."
+        },
+        {
+          "pk": 835192,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 40,
+          "text": "'If they confess their iniquity and the iniquity of their forefathers, in their unfaithfulness which they committed against Me, and also in their acting with hostility against Me--"
+        },
+        {
+          "pk": 835193,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 41,
+          "text": "I also was acting with hostility against them, to bring them into the land of their enemies-- or if their uncircumcised heart becomes humbled so that they then make amends for their iniquity,"
+        },
+        {
+          "pk": 835194,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 42,
+          "text": "then I will remember My covenant with Jacob, and I will remember also My covenant with Isaac, and My covenant with Abraham as well, and I will remember the land."
+        },
+        {
+          "pk": 835195,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 43,
+          "text": "'For the land will be abandoned by them, and will make up for its sabbaths while it is made desolate without them. They, meanwhile, will be making amends for their iniquity, because they rejected My ordinances and their soul abhorred My statutes."
+        },
+        {
+          "pk": 835196,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 44,
+          "text": "'Yet in spite of this, when they are in the land of their enemies, I will not reject them, nor will I so abhor them as to destroy them, breaking My covenant with them; for I am the LORD their God."
+        },
+        {
+          "pk": 835197,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 45,
+          "text": "'But I will remember for them the covenant with their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.''"
+        },
+        {
+          "pk": 835198,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 26,
+          "verse": 46,
+          "text": "These are the statutes and ordinances and laws which the LORD established between Himself and the sons of Israel through Moses at Mount Sinai."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "pk": 835199,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 1,
+          "text": "Again, the LORD spoke to Moses, saying,"
+        },
+        {
+          "pk": 835200,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 2,
+          "text": "'Speak to the sons of Israel and say to them, 'When a man makes a difficult vow, he [shall be valued] according to your valuation of persons belonging to the LORD."
+        },
+        {
+          "pk": 835201,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 3,
+          "text": "'If your valuation is of the male from twenty years even to sixty years old, then your valuation shall be fifty shekels of silver, after the shekel of the sanctuary."
+        },
+        {
+          "pk": 835202,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 4,
+          "text": "'Or if it is a female, then your valuation shall be thirty shekels."
+        },
+        {
+          "pk": 835203,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 5,
+          "text": "'If it be from five years even to twenty years old then your valuation for the male shall be twenty shekels and for the female ten shekels."
+        },
+        {
+          "pk": 835204,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 6,
+          "text": "'But if [they are] from a month even up to five years old, then your valuation shall be five shekels of silver for the male, and for the female your valuation shall be three shekels of silver."
+        },
+        {
+          "pk": 835205,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 7,
+          "text": "'If [they are] from sixty years old and upward, if it is a male, then your valuation shall be fifteen shekels, and for the female ten shekels."
+        },
+        {
+          "pk": 835206,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 8,
+          "text": "'But if he is poorer than your valuation, then he shall be placed before the priest and the priest shall value him; according to the means of the one who vowed, the priest shall value him."
+        },
+        {
+          "pk": 835207,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 9,
+          "text": "'Now if it is an animal of the kind which men can present as an offering to the LORD, any such that one gives to the LORD shall be holy."
+        },
+        {
+          "pk": 835208,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 10,
+          "text": "'He shall not replace it or exchange it, a good for a bad, or a bad for a good; or if he does exchange animal for animal, then both it and its substitute shall become holy."
+        },
+        {
+          "pk": 835209,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 11,
+          "text": "'If, however, it is any unclean animal of the kind which men do not present as an offering to the LORD, then he shall place the animal before the priest."
+        },
+        {
+          "pk": 835210,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 12,
+          "text": "'The priest shall value it as either good or bad; as you, the priest, value it, so it shall be."
+        },
+        {
+          "pk": 835211,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 13,
+          "text": "'But if he should ever [wish to] redeem it, then he shall add one-fifth of it to your valuation."
+        },
+        {
+          "pk": 835212,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 14,
+          "text": "'Now if a man consecrates his house as holy to the LORD, then the priest shall value it as either good or bad; as the priest values it, so it shall stand."
+        },
+        {
+          "pk": 835213,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 15,
+          "text": "'Yet if the one who consecrates it should [wish to] redeem his house, then he shall add one-fifth of your valuation price to it, so that it may be his."
+        },
+        {
+          "pk": 835214,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 16,
+          "text": "'Again, if a man consecrates to the LORD part of the fields of his own property, then your valuation shall be proportionate to the seed needed for it: a homer of barley seed at fifty shekels of silver."
+        },
+        {
+          "pk": 835215,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 17,
+          "text": "'If he consecrates his field as of the year of jubilee, according to your valuation it shall stand."
+        },
+        {
+          "pk": 835216,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 18,
+          "text": "'If he consecrates his field after the jubilee, however, then the priest shall calculate the price for him proportionate to the years that are left until the year of jubilee; and it shall be deducted from your valuation."
+        },
+        {
+          "pk": 835217,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 19,
+          "text": "'If the one who consecrates it should ever wish to redeem the field, then he shall add one-fifth of your valuation price to it, so that it may pass to him."
+        },
+        {
+          "pk": 835218,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 20,
+          "text": "'Yet if he will not redeem the field, but has sold the field to another man, it may no longer be redeemed;"
+        },
+        {
+          "pk": 835219,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 21,
+          "text": "and when it reverts in the jubilee, the field shall be holy to the LORD, like a field set apart; it shall be for the priest as his property."
+        },
+        {
+          "pk": 835220,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 22,
+          "text": "'Or if he consecrates to the LORD a field which he has bought, which is not a part of the field of his own property,"
+        },
+        {
+          "pk": 835221,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 23,
+          "text": "then the priest shall calculate for him the amount of your valuation up to the year of jubilee; and he shall on that day give your valuation as holy to the LORD."
+        },
+        {
+          "pk": 835222,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 24,
+          "text": "'In the year of jubilee the field shall return to the one from whom he bought it, to whom the possession of the land belongs."
+        },
+        {
+          "pk": 835223,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 25,
+          "text": "'Every valuation of yours, moreover, shall be after the shekel of the sanctuary. The shekel shall be twenty gerahs."
+        },
+        {
+          "pk": 835224,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 26,
+          "text": "'However, a firstborn among animals, which as a firstborn belongs to the LORD, no man may consecrate it; whether ox or sheep, it is the LORD'S."
+        },
+        {
+          "pk": 835225,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 27,
+          "text": "'But if [it is] among the unclean animals, then he shall redeem it according to your valuation and add to it one-fifth of it; and if it is not redeemed, then it shall be sold according to your valuation."
+        },
+        {
+          "pk": 835226,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 28,
+          "text": "'Nevertheless, anything which a man sets apart to the LORD out of all that he has, of man or animal or of the fields of his own property, shall not be sold or redeemed. Anything devoted to destruction is most holy to the LORD."
+        },
+        {
+          "pk": 835227,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 29,
+          "text": "'No one who may have been set apart among men shall be ransomed; he shall surely be put to death."
+        },
+        {
+          "pk": 835228,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 30,
+          "text": "'Thus all the tithe of the land, of the seed of the land or of the fruit of the tree, is the LORD'S; it is holy to the LORD."
+        },
+        {
+          "pk": 835229,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 31,
+          "text": "'If, therefore, a man wishes to redeem part of his tithe, he shall add to it one-fifth of it."
+        },
+        {
+          "pk": 835230,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 32,
+          "text": "'For every tenth part of herd or flock, whatever passes under the rod, the tenth one shall be holy to the LORD."
+        },
+        {
+          "pk": 835231,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 33,
+          "text": "'He is not to be concerned whether [it is] good or bad, nor shall he exchange it; or if he does exchange it, then both it and its substitute shall become holy. It shall not be redeemed.''"
+        },
+        {
+          "pk": 835232,
+          "translation": "NASB",
+          "book": 3,
+          "chapter": 27,
+          "verse": 34,
+          "text": "These are the commandments which the LORD commanded Moses for the sons of Israel at Mount Sinai."
+        }
+      ]
+    }
+  ]
+};

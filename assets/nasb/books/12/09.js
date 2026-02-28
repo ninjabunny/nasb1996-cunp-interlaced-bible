@@ -1,0 +1,299 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/12/09"] = [
+  {
+    "pk": 841385,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 1,
+    "text": "Now Elisha the prophet called one of the sons of the prophets and said to him, 'Gird up your loins, and take this flask of oil in your hand and go to Ramoth-gilead."
+  },
+  {
+    "pk": 841386,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 2,
+    "text": "'When you arrive there, search out Jehu the son of Jehoshaphat the son of Nimshi, and go in and bid him arise from among his brothers, and bring him to an inner room."
+  },
+  {
+    "pk": 841387,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 3,
+    "text": "'Then take the flask of oil and pour it on his head and say, 'Thus says the LORD, 'I have anointed you king over Israel.'' Then open the door and flee and do not wait.'"
+  },
+  {
+    "pk": 841388,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 4,
+    "text": "So the young man, the servant of the prophet, went to Ramoth-gilead."
+  },
+  {
+    "pk": 841389,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 5,
+    "text": "When he came, behold, the captains of the army were sitting, and he said, 'I have a word for you, O captain.' And Jehu said, 'For which [one] of us?' And he said, 'For you, O captain.'"
+  },
+  {
+    "pk": 841390,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 6,
+    "text": "He arose and went into the house, and he poured the oil on his head and said to him, 'Thus says the LORD, the God of Israel, 'I have anointed you king over the people of the LORD, [even] over Israel."
+  },
+  {
+    "pk": 841391,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 7,
+    "text": "'You shall strike the house of Ahab your master, that I may avenge the blood of My servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel."
+  },
+  {
+    "pk": 841392,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 8,
+    "text": "'For the whole house of Ahab shall perish, and I will cut off from Ahab every male person both bond and free in Israel."
+  },
+  {
+    "pk": 841393,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 9,
+    "text": "'I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah."
+  },
+  {
+    "pk": 841394,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 10,
+    "text": "'The dogs shall eat Jezebel in the territory of Jezreel, and none shall bury [her].'' Then he opened the door and fled."
+  },
+  {
+    "pk": 841395,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 11,
+    "text": "Now Jehu came out to the servants of his master, and one said to him, 'Is all well? Why did this mad fellow come to you?' And he said to them, 'You know [very well] the man and his talk.'"
+  },
+  {
+    "pk": 841396,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 12,
+    "text": "They said, 'It is a lie, tell us now.' And he said, 'Thus and thus he said to me, 'Thus says the LORD, 'I have anointed you king over Israel.'''"
+  },
+  {
+    "pk": 841397,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 13,
+    "text": "Then they hurried and each man took his garment and placed it under him on the bare steps, and blew the trumpet, saying, 'Jehu is king!'"
+  },
+  {
+    "pk": 841398,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 14,
+    "text": "So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. Now Joram with all Israel was defending Ramoth-gilead against Hazael king of Aram,"
+  },
+  {
+    "pk": 841399,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 15,
+    "text": "but King Joram had returned to Jezreel to be healed of the wounds which the Arameans had inflicted on him when he fought with Hazael king of Aram. So Jehu said, 'If this is your mind, [then] let no one escape [or] leave the city to go tell [it] in Jezreel.'"
+  },
+  {
+    "pk": 841400,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 16,
+    "text": "Then Jehu rode in a chariot and went to Jezreel, for Joram was lying there. Ahaziah king of Judah had come down to see Joram."
+  },
+  {
+    "pk": 841401,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 17,
+    "text": "Now the watchman was standing on the tower in Jezreel and he saw the company of Jehu as he came, and said, 'I see a company.' And Joram said, 'Take a horseman and send him to meet them and let him say, 'Is it peace?''"
+  },
+  {
+    "pk": 841402,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 18,
+    "text": "So a horseman went to meet him and said, 'Thus says the king, 'Is it peace?'' And Jehu said, 'What have you to do with peace? Turn behind me.' And the watchman reported, 'The messenger came to them, but he did not return.'"
+  },
+  {
+    "pk": 841403,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 19,
+    "text": "Then he sent out a second horseman, who came to them and said, 'Thus says the king, 'Is it peace?'' And Jehu answered, 'What have you to do with peace? Turn behind me.'"
+  },
+  {
+    "pk": 841404,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 20,
+    "text": "The watchman reported, 'He came even to them, and he did not return; and the driving is like the driving of Jehu the son of Nimshi, for he drives furiously.'"
+  },
+  {
+    "pk": 841405,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 21,
+    "text": "Then Joram said, 'Get ready.' And they made his chariot ready. Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out to meet Jehu and found him in the property of Naboth the Jezreelite."
+  },
+  {
+    "pk": 841406,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 22,
+    "text": "When Joram saw Jehu, he said, 'Is it peace, Jehu?' And he answered, 'What peace, so long as the harlotries of your mother Jezebel and her witchcrafts are so many?'"
+  },
+  {
+    "pk": 841407,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 23,
+    "text": "So Joram reined about and fled and said to Ahaziah, '[There is] treachery, O Ahaziah!'"
+  },
+  {
+    "pk": 841408,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 24,
+    "text": "And Jehu drew his bow with his full strength and shot Joram between his arms; and the arrow went through his heart and he sank in his chariot."
+  },
+  {
+    "pk": 841409,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 25,
+    "text": "Then [Jehu] said to Bidkar his officer, 'Take [him] up and cast him into the property of the field of Naboth the Jezreelite, for I remember when you and I were riding together after Ahab his father, that the LORD laid this oracle against him:"
+  },
+  {
+    "pk": 841410,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 26,
+    "text": "'Surely I have seen yesterday the blood of Naboth and the blood of his sons,' says the LORD, 'and I will repay you in this property,' says the LORD. Now then, take and cast him into the property, according to the word of the LORD.'"
+  },
+  {
+    "pk": 841411,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 27,
+    "text": "When Ahaziah the king of Judah saw [this], he fled by the way of the garden house. And Jehu pursued him and said, 'Shoot him too, in the chariot.' [So they shot him] at the ascent of Gur, which is at Ibleam. But he fled to Megiddo and died there."
+  },
+  {
+    "pk": 841412,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 28,
+    "text": "Then his servants carried him in a chariot to Jerusalem and buried him in his grave with his fathers in the city of David."
+  },
+  {
+    "pk": 841413,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 29,
+    "text": "Now in the eleventh year of Joram, the son of Ahab, Ahaziah became king over Judah."
+  },
+  {
+    "pk": 841414,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 30,
+    "text": "When Jehu came to Jezreel, Jezebel heard [of it], and she painted her eyes and adorned her head and looked out the window."
+  },
+  {
+    "pk": 841415,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 31,
+    "text": "As Jehu entered the gate, she said, 'Is it well, Zimri, your master's murderer?'"
+  },
+  {
+    "pk": 841416,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 32,
+    "text": "Then he lifted up his face to the window and said, 'Who is on my side? Who?' And two or three officials looked down at him."
+  },
+  {
+    "pk": 841417,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 33,
+    "text": "He said, 'Throw her down.' So they threw her down, and some of her blood was sprinkled on the wall and on the horses, and he trampled her under foot."
+  },
+  {
+    "pk": 841418,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 34,
+    "text": "When he came in, he ate and drank; and he said, 'See now to this cursed woman and bury her, for she is a king's daughter.'"
+  },
+  {
+    "pk": 841419,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 35,
+    "text": "They went to bury her, but they found nothing more of her than the skull and the feet and the palms of her hands."
+  },
+  {
+    "pk": 841420,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 36,
+    "text": "Therefore they returned and told him. And he said, 'This is the word of the LORD, which He spoke by His servant Elijah the Tishbite, saying, 'In the property of Jezreel the dogs shall eat the flesh of Jezebel;"
+  },
+  {
+    "pk": 841421,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 9,
+    "verse": 37,
+    "text": "and the corpse of Jezebel will be as dung on the face of the field in the property of Jezreel, so they cannot say, 'This is Jezebel.'''"
+  }
+];

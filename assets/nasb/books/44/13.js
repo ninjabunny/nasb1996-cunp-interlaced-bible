@@ -1,0 +1,419 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/44/13"] = [
+  {
+    "pk": 858991,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 1,
+    "text": "Now there were at Antioch, in the church that was [there], prophets and teachers: Barnabas, and Simeon who was called Niger, and Lucius of Cyrene, and Manaen who had been brought up with Herod the tetrarch, and Saul."
+  },
+  {
+    "pk": 858992,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 2,
+    "text": "While they were ministering to the Lord and fasting, the Holy Spirit said, 'Set apart for Me Barnabas and Saul for the work to which I have called them.'"
+  },
+  {
+    "pk": 858993,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 3,
+    "text": "Then, when they had fasted and prayed and laid their hands on them, they sent them away."
+  },
+  {
+    "pk": 858994,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 4,
+    "text": "So, being sent out by the Holy Spirit, they went down to Seleucia and from there they sailed to Cyprus."
+  },
+  {
+    "pk": 858995,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 5,
+    "text": "When they reached Salamis, they [began] to proclaim the word of God in the synagogues of the Jews; and they also had John as their helper."
+  },
+  {
+    "pk": 858996,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 6,
+    "text": "When they had gone through the whole island as far as Paphos, they found a magician, a Jewish false prophet whose name was Bar-Jesus,"
+  },
+  {
+    "pk": 858997,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 7,
+    "text": "who was with the proconsul, Sergius Paulus, a man of intelligence. This man summoned Barnabas and Saul and sought to hear the word of God."
+  },
+  {
+    "pk": 858998,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 8,
+    "text": "But Elymas the magician (for so his name is translated) was opposing them, seeking to turn the proconsul away from the faith."
+  },
+  {
+    "pk": 858999,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 9,
+    "text": "But Saul, who was also [known as] Paul, filled with the Holy Spirit, fixed his gaze on him,"
+  },
+  {
+    "pk": 859000,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 10,
+    "text": "and said, 'You who are full of all deceit and fraud, you son of the devil, you enemy of all righteousness, will you not cease to make crooked the straight ways of the Lord?"
+  },
+  {
+    "pk": 859001,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 11,
+    "text": "'Now, behold, the hand of the Lord is upon you, and you will be blind and not see the sun for a time.' And immediately a mist and a darkness fell upon him, and he went about seeking those who would lead him by the hand."
+  },
+  {
+    "pk": 859002,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 12,
+    "text": "Then the proconsul believed when he saw what had happened, being amazed at the teaching of the Lord."
+  },
+  {
+    "pk": 859003,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 13,
+    "text": "Now Paul and his companions put out to sea from Paphos and came to Perga in Pamphylia; but John left them and returned to Jerusalem."
+  },
+  {
+    "pk": 859004,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 14,
+    "text": "But going on from Perga, they arrived at Pisidian Antioch, and on the Sabbath day they went into the synagogue and sat down."
+  },
+  {
+    "pk": 859005,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 15,
+    "text": "After the reading of the Law and the Prophets the synagogue officials sent to them, saying, 'Brethren, if you have any word of exhortation for the people, say it.'"
+  },
+  {
+    "pk": 859006,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 16,
+    "text": "Paul stood up, and motioning with his hand said, 'Men of Israel, and you who fear God, listen:"
+  },
+  {
+    "pk": 859007,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 17,
+    "text": "'The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with an uplifted arm He led them out from it."
+  },
+  {
+    "pk": 859008,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 18,
+    "text": "'For a period of about forty years He put up with them in the wilderness."
+  },
+  {
+    "pk": 859009,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 19,
+    "text": "'When He had destroyed seven nations in the land of Canaan, He distributed their land as an inheritance-- [all of which took] about four hundred and fifty years."
+  },
+  {
+    "pk": 859010,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 20,
+    "text": "'After these things He gave [them] judges until Samuel the prophet."
+  },
+  {
+    "pk": 859011,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 21,
+    "text": "'Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years."
+  },
+  {
+    "pk": 859012,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 22,
+    "text": "'After He had removed him, He raised up David to be their king, concerning whom He also testified and said, 'I HAVE FOUND DAVID the son of Jesse, A MAN AFTER MY HEART, who will do all My will.'"
+  },
+  {
+    "pk": 859013,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 23,
+    "text": "'From the descendants of this man, according to promise, God has brought to Israel a Savior, Jesus,"
+  },
+  {
+    "pk": 859014,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 24,
+    "text": "after John had proclaimed before His coming a baptism of repentance to all the people of Israel."
+  },
+  {
+    "pk": 859015,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 25,
+    "text": "'And while John was completing his course, he kept saying, 'What do you suppose that I am? I am not [He]. But behold, one is coming after me the sandals of whose feet I am not worthy to untie.'"
+  },
+  {
+    "pk": 859016,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 26,
+    "text": "'Brethren, sons of Abraham's family, and those among you who fear God, to us the message of this salvation has been sent."
+  },
+  {
+    "pk": 859017,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 27,
+    "text": "'For those who live in Jerusalem, and their rulers, recognizing neither Him nor the utterances of the prophets which are read every Sabbath, fulfilled [these] by condemning [Him]."
+  },
+  {
+    "pk": 859018,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 28,
+    "text": "'And though they found no ground for [putting Him to] death, they asked Pilate that He be executed."
+  },
+  {
+    "pk": 859019,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 29,
+    "text": "'When they had carried out all that was written concerning Him, they took Him down from the cross and laid Him in a tomb."
+  },
+  {
+    "pk": 859020,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 30,
+    "text": "'But God raised Him from the dead;"
+  },
+  {
+    "pk": 859021,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 31,
+    "text": "and for many days He appeared to those who came up with Him from Galilee to Jerusalem, the very ones who are now His witnesses to the people."
+  },
+  {
+    "pk": 859022,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 32,
+    "text": "'And we preach to you the good news of the promise made to the fathers,"
+  },
+  {
+    "pk": 859023,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 33,
+    "text": "that God has fulfilled this [promise] to our children in that He raised up Jesus, as it is also written in the second Psalm, 'YOU ARE MY SON; TODAY I HAVE BEGOTTEN YOU.'"
+  },
+  {
+    "pk": 859024,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 34,
+    "text": "'[As for the fact] that He raised Him up from the dead, no longer to return to decay, He has spoken in this way: 'I WILL GIVE YOU THE HOLY [and] SURE [blessings] OF DAVID.'"
+  },
+  {
+    "pk": 859025,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 35,
+    "text": "'Therefore He also says in another [Psalm], 'YOU WILL NOT ALLOW YOUR HOLY ONE TO UNDERGO DECAY.'"
+  },
+  {
+    "pk": 859026,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 36,
+    "text": "'For David, after he had served the purpose of God in his own generation, fell asleep, and was laid among his fathers and underwent decay;"
+  },
+  {
+    "pk": 859027,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 37,
+    "text": "but He whom God raised did not undergo decay."
+  },
+  {
+    "pk": 859028,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 38,
+    "text": "'Therefore let it be known to you, brethren, that through Him forgiveness of sins is proclaimed to you,"
+  },
+  {
+    "pk": 859029,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 39,
+    "text": "and through Him everyone who believes is freed from all things, from which you could not be freed through the Law of Moses."
+  },
+  {
+    "pk": 859030,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 40,
+    "text": "'Therefore take heed, so that the thing spoken of in the Prophets may not come upon [you]:"
+  },
+  {
+    "pk": 859031,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 41,
+    "text": "'BEHOLD, YOU SCOFFERS, AND MARVEL, AND PERISH; FOR I AM ACCOMPLISHING A WORK IN YOUR DAYS, A WORK WHICH YOU WILL NEVER BELIEVE, THOUGH SOMEONE SHOULD DESCRIBE IT TO YOU.''"
+  },
+  {
+    "pk": 859032,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 42,
+    "text": "As Paul and Barnabas were going out, the people kept begging that these things might be spoken to them the next Sabbath."
+  },
+  {
+    "pk": 859033,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 43,
+    "text": "Now when [the meeting of] the synagogue had broken up, many of the Jews and of the God-fearing proselytes followed Paul and Barnabas, who, speaking to them, were urging them to continue in the grace of God."
+  },
+  {
+    "pk": 859034,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 44,
+    "text": "The next Sabbath nearly the whole city assembled to hear the word of the Lord."
+  },
+  {
+    "pk": 859035,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 45,
+    "text": "But when the Jews saw the crowds, they were filled with jealousy and [began] contradicting the things spoken by Paul, and were blaspheming."
+  },
+  {
+    "pk": 859036,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 46,
+    "text": "Paul and Barnabas spoke out boldly and said, 'It was necessary that the word of God be spoken to you first; since you repudiate it and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles."
+  },
+  {
+    "pk": 859037,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 47,
+    "text": "'For so the Lord has commanded us, 'I HAVE PLACED YOU AS A LIGHT FOR THE GENTILES, THAT YOU MAY BRING SALVATION TO THE END OF THE EARTH.''"
+  },
+  {
+    "pk": 859038,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 48,
+    "text": "When the Gentiles heard this, they [began] rejoicing and glorifying the word of the Lord; and as many as had been appointed to eternal life believed."
+  },
+  {
+    "pk": 859039,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 49,
+    "text": "And the word of the Lord was being spread through the whole region."
+  },
+  {
+    "pk": 859040,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 50,
+    "text": "But the Jews incited the devout women of prominence and the leading men of the city, and instigated a persecution against Paul and Barnabas, and drove them out of their district."
+  },
+  {
+    "pk": 859041,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 51,
+    "text": "But they shook off the dust of their feet [in protest] against them and went to Iconium."
+  },
+  {
+    "pk": 859042,
+    "translation": "NASB",
+    "book": 44,
+    "chapter": 13,
+    "verse": 52,
+    "text": "And the disciples were continually filled with joy and with the Holy Spirit."
+  }
+];

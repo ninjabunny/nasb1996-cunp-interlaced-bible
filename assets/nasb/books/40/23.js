@@ -1,0 +1,315 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/40/23"] = [
+  {
+    "pk": 855547,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 1,
+    "text": "Then Jesus spoke to the crowds and to His disciples,"
+  },
+  {
+    "pk": 855548,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 2,
+    "text": "saying: 'The scribes and the Pharisees have seated themselves in the chair of Moses;"
+  },
+  {
+    "pk": 855549,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 3,
+    "text": "therefore all that they tell you, do and observe, but do not do according to their deeds; for they say [things] and do not do [them]."
+  },
+  {
+    "pk": 855550,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 4,
+    "text": "'They tie up heavy burdens and lay them on men's shoulders, but they themselves are unwilling to move them with [so much as] a finger."
+  },
+  {
+    "pk": 855551,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 5,
+    "text": "'But they do all their deeds to be noticed by men; for they broaden their phylacteries and lengthen the tassels [of their garments]."
+  },
+  {
+    "pk": 855552,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 6,
+    "text": "'They love the place of honor at banquets and the chief seats in the synagogues,"
+  },
+  {
+    "pk": 855553,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 7,
+    "text": "and respectful greetings in the market places, and being called Rabbi by men."
+  },
+  {
+    "pk": 855554,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 8,
+    "text": "'But do not be called Rabbi; for One is your Teacher, and you are all brothers."
+  },
+  {
+    "pk": 855555,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 9,
+    "text": "'Do not call [anyone] on earth your father; for One is your Father, He who is in heaven."
+  },
+  {
+    "pk": 855556,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 10,
+    "text": "'Do not be called leaders; for One is your Leader, [that is], Christ."
+  },
+  {
+    "pk": 855557,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 11,
+    "text": "'But the greatest among you shall be your servant."
+  },
+  {
+    "pk": 855558,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 12,
+    "text": "'Whoever exalts himself shall be humbled; and whoever humbles himself shall be exalted."
+  },
+  {
+    "pk": 855559,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 13,
+    "text": "'But woe to you, scribes and Pharisees, hypocrites, because you shut off the kingdom of heaven from people; for you do not enter in yourselves, nor do you allow those who are entering to go in."
+  },
+  {
+    "pk": 855560,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 14,
+    "text": "['Woe to you, scribes and Pharisees, hypocrites, because you devour widows' houses, and for a pretense you make long prayers; therefore you will receive greater condemnation]."
+  },
+  {
+    "pk": 855561,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 15,
+    "text": "'Woe to you, scribes and Pharisees, hypocrites, because you travel around on sea and land to make one proselyte; and when he becomes one, you make him twice as much a son of hell as yourselves."
+  },
+  {
+    "pk": 855562,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 16,
+    "text": "'Woe to you, blind guides, who say, 'Whoever swears by the temple, [that] is nothing; but whoever swears by the gold of the temple is obligated.'"
+  },
+  {
+    "pk": 855563,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 17,
+    "text": "'You fools and blind men! Which is more important, the gold or the temple that sanctified the gold?"
+  },
+  {
+    "pk": 855564,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 18,
+    "text": "'And, 'Whoever swears by the altar, [that] is nothing, but whoever swears by the offering on it, he is obligated.'"
+  },
+  {
+    "pk": 855565,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 19,
+    "text": "'You blind men, which is more important, the offering, or the altar that sanctifies the offering?"
+  },
+  {
+    "pk": 855566,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 20,
+    "text": "'Therefore, whoever swears by the altar, swears [both] by the altar and by everything on it."
+  },
+  {
+    "pk": 855567,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 21,
+    "text": "'And whoever swears by the temple, swears [both] by the temple and by Him who dwells within it."
+  },
+  {
+    "pk": 855568,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 22,
+    "text": "'And whoever swears by heaven, swears [both] by the throne of God and by Him who sits upon it."
+  },
+  {
+    "pk": 855569,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 23,
+    "text": "'Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cummin, and have neglected the weightier provisions of the law: justice and mercy and faithfulness; but these are the things you should have done without neglecting the others."
+  },
+  {
+    "pk": 855570,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 24,
+    "text": "'You blind guides, who strain out a gnat and swallow a camel!"
+  },
+  {
+    "pk": 855571,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 25,
+    "text": "'Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the dish, but inside they are full of robbery and self-indulgence."
+  },
+  {
+    "pk": 855572,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 26,
+    "text": "'You blind Pharisee, first clean the inside of the cup and of the dish, so that the outside of it may become clean also."
+  },
+  {
+    "pk": 855573,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 27,
+    "text": "'Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which on the outside appear beautiful, but inside they are full of dead men's bones and all uncleanness."
+  },
+  {
+    "pk": 855574,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 28,
+    "text": "'So you, too, outwardly appear righteous to men, but inwardly you are full of hypocrisy and lawlessness."
+  },
+  {
+    "pk": 855575,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 29,
+    "text": "'Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets and adorn the monuments of the righteous,"
+  },
+  {
+    "pk": 855576,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 30,
+    "text": "and say, 'If we had been [living] in the days of our fathers, we would not have been partners with them in [shedding] the blood of the prophets.'"
+  },
+  {
+    "pk": 855577,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 31,
+    "text": "'So you testify against yourselves, that you are sons of those who murdered the prophets."
+  },
+  {
+    "pk": 855578,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 32,
+    "text": "'Fill up, then, the measure [of the guilt] of your fathers."
+  },
+  {
+    "pk": 855579,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 33,
+    "text": "'You serpents, you brood of vipers, how will you escape the sentence of hell?"
+  },
+  {
+    "pk": 855580,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 34,
+    "text": "'Therefore, behold, I am sending you prophets and wise men and scribes; some of them you will kill and crucify, and some of them you will scourge in your synagogues, and persecute from city to city,"
+  },
+  {
+    "pk": 855581,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 35,
+    "text": "so that upon you may fall [the guilt of] all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah, the son of Berechiah, whom you murdered between the temple and the altar."
+  },
+  {
+    "pk": 855582,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 36,
+    "text": "'Truly I say to you, all these things will come upon this generation."
+  },
+  {
+    "pk": 855583,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 37,
+    "text": "'Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, the way a hen gathers her chicks under her wings, and you were unwilling."
+  },
+  {
+    "pk": 855584,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 38,
+    "text": "'Behold, your house is being left to you desolate!"
+  },
+  {
+    "pk": 855585,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 23,
+    "verse": 39,
+    "text": "'For I say to you, from now on you will not see Me until you say, 'BLESSED IS HE WHO COMES IN THE NAME OF THE LORD!''"
+  }
+];

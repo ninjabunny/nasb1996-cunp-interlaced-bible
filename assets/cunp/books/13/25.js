@@ -1,0 +1,254 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/13/25"] = [
+  {
+    "pk": 3494427,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 1,
+    "text": "<e>大衛</e>和眾首領分派<e>亞薩</e>、<e>希幔</e>，並<e>耶杜頓</e>的子孫彈琴、鼓瑟、敲鈸、唱歌<sup>〔「唱歌」原文作「說預言」。本章同。〕</sup>。他們供職的人數記在下面：",
+    "comment": "<a href='/CUNP/13/6/33'>代上 6:33</a>, <a href='/CUNP/13/6/39'>39</a>, <a href='/CUNP/13/6/44'>44</a> 供職的人和他們的子孫記在下面：<u>哥轄</u>的子孫中有歌唱的<u>希幔</u>。<u>希幔</u>是<u>約珥</u>的兒子；<u>約珥</u>是<u>撒母耳</u>的兒子；……<u>希幔</u>的族兄<u>亞薩</u>是<u>比利家</u>的兒子，<u>亞薩</u>在<u>希幔</u>右邊供職。<u>比利家</u>是<u>示米亞</u>的兒子；……他們的族弟兄<u>米拉利</u>的子孫，在他們左邊供職的有<u>以探</u>。<u>以探</u>是<u>基示</u>的兒子；<u>基示</u>是<u>亞伯底</u>的兒子；<u>亞伯底</u>是<u>瑪鹿</u>的兒子；"
+  },
+  {
+    "pk": 3494428,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 2,
+    "text": "<e>亞薩</e>的兒子<e>撒刻</e>、<e>約瑟</e>、<e>尼探雅</e>、<e>亞薩利拉</e>都歸<e>亞薩</e>指教，遵王的旨意唱歌。"
+  },
+  {
+    "pk": 3494429,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 3,
+    "text": "<e>耶杜頓</e>的兒子<e>基大利</e>、<e>西利</e>、<e>耶篩亞</e>、<e>哈沙比雅</e>、<e>瑪他提雅</e>、<e>示每</e>共六人，都歸他們父親<e>耶杜頓</e>指教，彈琴，唱歌，稱謝，頌讚耶和華。"
+  },
+  {
+    "pk": 3494430,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 4,
+    "text": "<e>希幔</e>的兒子<e>布基雅</e>、<e>瑪探雅</e>、<e>烏薛</e>、<e>細布業</e>、<e>耶利摩</e>、<e>哈拿尼雅</e>、<e>哈拿尼</e>、<e>以利亞他</e>、<e>基大利提</e>、<e>羅幔提‧以謝</e>、<e>約施比加沙</e>、<e>瑪羅提</e>、<e>何提</e>、<e>瑪哈秀</e>；"
+  },
+  {
+    "pk": 3494431,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 5,
+    "text": "這都是<e>希幔</e>的兒子，吹角頌讚。<e>希幔</e>奉神之命作王的先見。神賜給<e>希幔</e>十四個兒子，三個女兒，"
+  },
+  {
+    "pk": 3494432,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 6,
+    "text": "都歸他們父親指教，在耶和華的殿唱歌、敲鈸、彈琴、鼓瑟，辦神殿的事務。<e>亞薩</e>、<e>耶杜頓</e>、<e>希幔</e>都是王所命定的。",
+    "comment": "<a href='/CUNP/13/25/2'>代上 25:2</a> <u>亞薩</u>的兒子<u>撒刻</u>、<u>約瑟</u>、<u>尼探雅</u>、<u>亞薩利拉</u>都歸<u>亞薩</u>指教，遵王的旨意唱歌。"
+  },
+  {
+    "pk": 3494433,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 7,
+    "text": "他們和他們的弟兄學習頌讚耶和華；善於歌唱的共有二百八十八人。"
+  },
+  {
+    "pk": 3494434,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 8,
+    "text": "這些人無論大小，為師的、為徒的，都一同掣籤分了班次。",
+    "comment": "<a href='/CUNP/14/23/13'>代下 23:13</a> 看見王站在<na>殿</na>門的柱旁，百夫長和吹號的人侍立在王左右，國民都歡樂吹號，又有歌唱的，用各樣的樂器領人歌唱讚美；<u>亞她利雅</u>就撕裂衣服，喊叫說：「反了！反了！」"
+  },
+  {
+    "pk": 3494435,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 9,
+    "text": "掣籤的時候，第一掣出來的是<e>亞薩</e>的兒子<e>約瑟</e>。第二是<e>基大利</e>；他和他弟兄並兒子共十二人。"
+  },
+  {
+    "pk": 3494436,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 10,
+    "text": "第三是<e>撒刻</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494437,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 11,
+    "text": "第四是<e>伊洗利</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494438,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 12,
+    "text": "第五是<e>尼探雅</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494439,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 13,
+    "text": "第六是<e>布基雅</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494440,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 14,
+    "text": "第七是<e>耶薩利拉</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494441,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 15,
+    "text": "第八是<e>耶篩亞</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494442,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 16,
+    "text": "第九是<e>瑪探雅</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494443,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 17,
+    "text": "第十是<e>示每</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494444,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 18,
+    "text": "第十一是<e>亞薩烈</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494445,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 19,
+    "text": "第十二是<e>哈沙比雅</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494446,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 20,
+    "text": "第十三是<e>書巴業</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494447,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 21,
+    "text": "第十四是<e>瑪他提雅</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494448,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 22,
+    "text": "第十五是<e>耶利摩</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494449,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 23,
+    "text": "第十六是<e>哈拿尼雅</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494450,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 24,
+    "text": "第十七是<e>約施比加沙</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494451,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 25,
+    "text": "第十八是<e>哈拿尼</e>；他和他兒子並弟兄<sup>〔「弟兄」指「本國人」說。下同。〕</sup>共十二人。"
+  },
+  {
+    "pk": 3494452,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 26,
+    "text": "第十九是<e>瑪羅提</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494453,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 27,
+    "text": "第二十是<e>以利亞他</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494454,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 28,
+    "text": "第二十一是<e>何提</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494455,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 29,
+    "text": "第二十二是<e>基大利提</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494456,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 30,
+    "text": "第二十三是<e>瑪哈秀</e>；他和他兒子並弟兄共十二人。"
+  },
+  {
+    "pk": 3494457,
+    "translation": "CUNP",
+    "book": 13,
+    "chapter": 25,
+    "verse": 31,
+    "text": "第二十四是<e>羅幔提‧以謝</e>；他和他兒子並弟兄共十二人。"
+  }
+];

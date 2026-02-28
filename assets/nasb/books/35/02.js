@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/35/02"] = [
+  {
+    "pk": 854377,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 1,
+    "text": "I will stand on my guard post And station myself on the rampart; And I will keep watch to see what He will speak to me, And how I may reply when I am reproved."
+  },
+  {
+    "pk": 854378,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 2,
+    "text": "Then the LORD answered me and said, 'Record the vision And inscribe [it] on tablets, That the one who reads it may run."
+  },
+  {
+    "pk": 854379,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 3,
+    "text": "'For the vision is yet for the appointed time; It hastens toward the goal and it will not fail. Though it tarries, wait for it; For it will certainly come, it will not delay."
+  },
+  {
+    "pk": 854380,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 4,
+    "text": "'Behold, as for the proud one, His soul is not right within him; But the righteous will live by his faith."
+  },
+  {
+    "pk": 854381,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 5,
+    "text": "'Furthermore, wine betrays the haughty man, So that he does not stay at home. He enlarges his appetite like Sheol, And he is like death, never satisfied. He also gathers to himself all nations And collects to himself all peoples."
+  },
+  {
+    "pk": 854382,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 6,
+    "text": "'Will not all of these take up a taunt-song against him, Even mockery [and] insinuations against him And say, 'Woe to him who increases what is not his-- For how long-- And makes himself rich with loans?'"
+  },
+  {
+    "pk": 854383,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 7,
+    "text": "'Will not your creditors rise up suddenly, And those who collect from you awaken? Indeed, you will become plunder for them."
+  },
+  {
+    "pk": 854384,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 8,
+    "text": "'Because you have looted many nations, All the remainder of the peoples will loot you-- Because of human bloodshed and violence done to the land, To the town and all its inhabitants."
+  },
+  {
+    "pk": 854385,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 9,
+    "text": "'Woe to him who gets evil gain for his house To put his nest on high, To be delivered from the hand of calamity!"
+  },
+  {
+    "pk": 854386,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 10,
+    "text": "'You have devised a shameful thing for your house By cutting off many peoples; So you are sinning against yourself."
+  },
+  {
+    "pk": 854387,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 11,
+    "text": "'Surely the stone will cry out from the wall, And the rafter will answer it from the framework."
+  },
+  {
+    "pk": 854388,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 12,
+    "text": "'Woe to him who builds a city with bloodshed And founds a town with violence!"
+  },
+  {
+    "pk": 854389,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 13,
+    "text": "'Is it not indeed from the LORD of hosts That peoples toil for fire, And nations grow weary for nothing?"
+  },
+  {
+    "pk": 854390,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 14,
+    "text": "'For the earth will be filled With the knowledge of the glory of the LORD, As the waters cover the sea."
+  },
+  {
+    "pk": 854391,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 15,
+    "text": "'Woe to you who make your neighbors drink, Who mix in your venom even to make [them] drunk So as to look on their nakedness!"
+  },
+  {
+    "pk": 854392,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 16,
+    "text": "'You will be filled with disgrace rather than honor. Now you yourself drink and expose your [own] nakedness. The cup in the LORD'S right hand will come around to you, And utter disgrace [will come] upon your glory."
+  },
+  {
+    "pk": 854393,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 17,
+    "text": "'For the violence done to Lebanon will overwhelm you, And the devastation of [its] beasts by which you terrified them, Because of human bloodshed and violence done to the land, To the town and all its inhabitants."
+  },
+  {
+    "pk": 854394,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 18,
+    "text": "'What profit is the idol when its maker has carved it, [Or] an image, a teacher of falsehood? For [its] maker trusts in his [own] handiwork When he fashions speechless idols."
+  },
+  {
+    "pk": 854395,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 19,
+    "text": "'Woe to him who says to a [piece of] wood, 'Awake!' To a mute stone, 'Arise!' [And] that is [your] teacher? Behold, it is overlaid with gold and silver, And there is no breath at all inside it."
+  },
+  {
+    "pk": 854396,
+    "translation": "NASB",
+    "book": 35,
+    "chapter": 2,
+    "verse": 20,
+    "text": "'But the LORD is in His holy temple. Let all the earth be silent before Him.'"
+  }
+];

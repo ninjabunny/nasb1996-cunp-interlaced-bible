@@ -1,0 +1,99 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/36"] = [
+  {
+    "pk": 846067,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 1,
+    "text": "For the choir director. [A Psalm] of David the servant of the LORD. Transgression speaks to the ungodly within his heart; There is no fear of God before his eyes."
+  },
+  {
+    "pk": 846068,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 2,
+    "text": "For it flatters him in his [own] eyes Concerning the discovery of his iniquity [and] the hatred [of it]."
+  },
+  {
+    "pk": 846069,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 3,
+    "text": "The words of his mouth are wickedness and deceit; He has ceased to be wise [and] to do good."
+  },
+  {
+    "pk": 846070,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 4,
+    "text": "He plans wickedness upon his bed; He sets himself on a path that is not good; He does not despise evil."
+  },
+  {
+    "pk": 846071,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 5,
+    "text": "Your lovingkindness, O LORD, extends to the heavens, Your faithfulness [reaches] to the skies."
+  },
+  {
+    "pk": 846072,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 6,
+    "text": "Your righteousness is like the mountains of God; Your judgments are [like] a great deep. O LORD, You preserve man and beast."
+  },
+  {
+    "pk": 846073,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 7,
+    "text": "How precious is Your lovingkindness, O God! And the children of men take refuge in the shadow of Your wings."
+  },
+  {
+    "pk": 846074,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 8,
+    "text": "They drink their fill of the abundance of Your house; And You give them to drink of the river of Your delights."
+  },
+  {
+    "pk": 846075,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 9,
+    "text": "For with You is the fountain of life; In Your light we see light."
+  },
+  {
+    "pk": 846076,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 10,
+    "text": "O continue Your lovingkindness to those who know You, And Your righteousness to the upright in heart."
+  },
+  {
+    "pk": 846077,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 11,
+    "text": "Let not the foot of pride come upon me, And let not the hand of the wicked drive me away."
+  },
+  {
+    "pk": 846078,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 36,
+    "verse": 12,
+    "text": "There the doers of iniquity have fallen; They have been thrust down and cannot rise."
+  }
+];

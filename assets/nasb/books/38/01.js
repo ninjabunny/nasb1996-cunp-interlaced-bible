@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/38/01"] = [
+  {
+    "pk": 854507,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the eighth month of the second year of Darius, the word of the LORD came to Zechariah the prophet, the son of Berechiah, the son of Iddo saying,"
+  },
+  {
+    "pk": 854508,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 2,
+    "text": "'The LORD was very angry with your fathers."
+  },
+  {
+    "pk": 854509,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 3,
+    "text": "'Therefore say to them, 'Thus says the LORD of hosts, 'Return to Me,' declares the LORD of hosts, 'that I may return to you,' says the LORD of hosts."
+  },
+  {
+    "pk": 854510,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 4,
+    "text": "'Do not be like your fathers, to whom the former prophets proclaimed, saying, 'Thus says the LORD of hosts, 'Return now from your evil ways and from your evil deeds.'' But they did not listen or give heed to Me,' declares the LORD."
+  },
+  {
+    "pk": 854511,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 5,
+    "text": "'Your fathers, where are they? And the prophets, do they live forever?"
+  },
+  {
+    "pk": 854512,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 6,
+    "text": "'But did not My words and My statutes, which I commanded My servants the prophets, overtake your fathers? Then they repented and said, 'As the LORD of hosts purposed to do to us in accordance with our ways and our deeds, so He has dealt with us.''''"
+  },
+  {
+    "pk": 854513,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 7,
+    "text": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius, the word of the LORD came to Zechariah the prophet, the son of Berechiah, the son of Iddo, as follows:"
+  },
+  {
+    "pk": 854514,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 8,
+    "text": "I saw at night, and behold, a man was riding on a red horse, and he was standing among the myrtle trees which were in the ravine, with red, sorrel and white horses behind him."
+  },
+  {
+    "pk": 854515,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 9,
+    "text": "Then I said, 'My lord, what are these?' And the angel who was speaking with me said to me, 'I will show you what these are.'"
+  },
+  {
+    "pk": 854516,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And the man who was standing among the myrtle trees answered and said, 'These are those whom the LORD has sent to patrol the earth.'"
+  },
+  {
+    "pk": 854517,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 11,
+    "text": "So they answered the angel of the LORD who was standing among the myrtle trees and said, 'We have patrolled the earth, and behold, all the earth is peaceful and quiet.'"
+  },
+  {
+    "pk": 854518,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 12,
+    "text": "Then the angel of the LORD said, 'O LORD of hosts, how long will You have no compassion for Jerusalem and the cities of Judah, with which You have been indignant these seventy years?'"
+  },
+  {
+    "pk": 854519,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 13,
+    "text": "The LORD answered the angel who was speaking with me with gracious words, comforting words."
+  },
+  {
+    "pk": 854520,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 14,
+    "text": "So the angel who was speaking with me said to me, 'Proclaim, saying, 'Thus says the LORD of hosts, 'I am exceedingly jealous for Jerusalem and Zion."
+  },
+  {
+    "pk": 854521,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 15,
+    "text": "'But I am very angry with the nations who are at ease; for while I was only a little angry, they furthered the disaster.'"
+  },
+  {
+    "pk": 854522,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 16,
+    "text": "'Therefore thus says the LORD, 'I will return to Jerusalem with compassion; My house will be built in it,' declares the LORD of hosts, 'and a measuring line will be stretched over Jerusalem.''"
+  },
+  {
+    "pk": 854523,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 17,
+    "text": "'Again, proclaim, saying, 'Thus says the LORD of hosts, 'My cities will again overflow with prosperity, and the LORD will again comfort Zion and again choose Jerusalem.'''"
+  },
+  {
+    "pk": 854524,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 18,
+    "text": "Then I lifted up my eyes and looked, and behold, [there were] four horns."
+  },
+  {
+    "pk": 854525,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 19,
+    "text": "So I said to the angel who was speaking with me, 'What are these?' And he answered me, 'These are the horns which have scattered Judah, Israel and Jerusalem.'"
+  },
+  {
+    "pk": 854526,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 20,
+    "text": "Then the LORD showed me four craftsmen."
+  },
+  {
+    "pk": 854527,
+    "translation": "NASB",
+    "book": 38,
+    "chapter": 1,
+    "verse": 21,
+    "text": "I said, 'What are these coming to do?' And he said, 'These are the horns which have scattered Judah so that no man lifts up his head; but these [craftsmen] have come to terrify them, to throw down the horns of the nations who have lifted up [their] horns against the land of Judah in order to scatter it.'"
+  }
+];

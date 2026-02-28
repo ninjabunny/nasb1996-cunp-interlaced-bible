@@ -1,0 +1,243 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/06"] = [
+  {
+    "pk": 844607,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 1,
+    "text": "Then Job answered,"
+  },
+  {
+    "pk": 844608,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 2,
+    "text": "'Oh that my grief were actually weighed And laid in the balances together with my calamity!"
+  },
+  {
+    "pk": 844609,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 3,
+    "text": "'For then it would be heavier than the sand of the seas; Therefore my words have been rash."
+  },
+  {
+    "pk": 844610,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 4,
+    "text": "'For the arrows of the Almighty are within me, Their poison my spirit drinks; The terrors of God are arrayed against me."
+  },
+  {
+    "pk": 844611,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 5,
+    "text": "'Does the wild donkey bray over [his] grass, Or does the ox low over his fodder?"
+  },
+  {
+    "pk": 844612,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 6,
+    "text": "'Can something tasteless be eaten without salt, Or is there any taste in the white of an egg?"
+  },
+  {
+    "pk": 844613,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 7,
+    "text": "'My soul refuses to touch [them]; They are like loathsome food to me."
+  },
+  {
+    "pk": 844614,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 8,
+    "text": "'Oh that my request might come to pass, And that God would grant my longing!"
+  },
+  {
+    "pk": 844615,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 9,
+    "text": "'Would that God were willing to crush me, That He would loose His hand and cut me off!"
+  },
+  {
+    "pk": 844616,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 10,
+    "text": "'But it is still my consolation, And I rejoice in unsparing pain, That I have not denied the words of the Holy One."
+  },
+  {
+    "pk": 844617,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 11,
+    "text": "'What is my strength, that I should wait? And what is my end, that I should endure?"
+  },
+  {
+    "pk": 844618,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 12,
+    "text": "'Is my strength the strength of stones, Or is my flesh bronze?"
+  },
+  {
+    "pk": 844619,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 13,
+    "text": "'Is it that my help is not within me, And that deliverance is driven from me?"
+  },
+  {
+    "pk": 844620,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 14,
+    "text": "'For the despairing man [there should be] kindness from his friend; So that he does not forsake the fear of the Almighty."
+  },
+  {
+    "pk": 844621,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 15,
+    "text": "'My brothers have acted deceitfully like a wadi, Like the torrents of wadis which vanish,"
+  },
+  {
+    "pk": 844622,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 16,
+    "text": "Which are turbid because of ice [And] into which the snow melts."
+  },
+  {
+    "pk": 844623,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 17,
+    "text": "'When they become waterless, they are silent, When it is hot, they vanish from their place."
+  },
+  {
+    "pk": 844624,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 18,
+    "text": "'The paths of their course wind along, They go up into nothing and perish."
+  },
+  {
+    "pk": 844625,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 19,
+    "text": "'The caravans of Tema looked, The travelers of Sheba hoped for them."
+  },
+  {
+    "pk": 844626,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 20,
+    "text": "'They were disappointed for they had trusted, They came there and were confounded."
+  },
+  {
+    "pk": 844627,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 21,
+    "text": "'Indeed, you have now become such, You see a terror and are afraid."
+  },
+  {
+    "pk": 844628,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 22,
+    "text": "'Have I said, 'Give me [something],' Or, 'Offer a bribe for me from your wealth,'"
+  },
+  {
+    "pk": 844629,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 23,
+    "text": "Or, 'Deliver me from the hand of the adversary,' Or, 'Redeem me from the hand of the tyrants '?"
+  },
+  {
+    "pk": 844630,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 24,
+    "text": "'Teach me, and I will be silent; And show me how I have erred."
+  },
+  {
+    "pk": 844631,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 25,
+    "text": "'How painful are honest words! But what does your argument prove?"
+  },
+  {
+    "pk": 844632,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 26,
+    "text": "'Do you intend to reprove [my] words, When the words of one in despair belong to the wind?"
+  },
+  {
+    "pk": 844633,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 27,
+    "text": "'You would even cast [lots] for the orphans And barter over your friend."
+  },
+  {
+    "pk": 844634,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 28,
+    "text": "'Now please look at me, And [see] if I lie to your face."
+  },
+  {
+    "pk": 844635,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 29,
+    "text": "'Desist now, let there be no injustice; Even desist, my righteousness is yet in it."
+  },
+  {
+    "pk": 844636,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 6,
+    "verse": 30,
+    "text": "'Is there injustice on my tongue? Cannot my palate discern calamities?"
+  }
+];

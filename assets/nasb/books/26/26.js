@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/26/26"] = [
+  {
+    "pk": 852729,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 1,
+    "text": "Now in the eleventh year, on the first of the month, the word of the LORD came to me saying,"
+  },
+  {
+    "pk": 852730,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 2,
+    "text": "'Son of man, because Tyre has said concerning Jerusalem, 'Aha, the gateway of the peoples is broken; it has opened to me. I shall be filled, [now that] she is laid waste,'"
+  },
+  {
+    "pk": 852731,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 3,
+    "text": "therefore thus says the Lord GOD, 'Behold, I am against you, O Tyre, and I will bring up many nations against you, as the sea brings up its waves."
+  },
+  {
+    "pk": 852732,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 4,
+    "text": "'They will destroy the walls of Tyre and break down her towers; and I will scrape her debris from her and make her a bare rock."
+  },
+  {
+    "pk": 852733,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 5,
+    "text": "'She will be a place for the spreading of nets in the midst of the sea, for I have spoken,' declares the Lord GOD, 'and she will become spoil for the nations."
+  },
+  {
+    "pk": 852734,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 6,
+    "text": "'Also her daughters who are on the mainland will be slain by the sword, and they will know that I am the LORD.''"
+  },
+  {
+    "pk": 852735,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 7,
+    "text": "For thus says the Lord GOD, 'Behold, I will bring upon Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses, chariots, cavalry and a great army."
+  },
+  {
+    "pk": 852736,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 8,
+    "text": "'He will slay your daughters on the mainland with the sword; and he will make siege walls against you, cast up a ramp against you and raise up a large shield against you."
+  },
+  {
+    "pk": 852737,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 9,
+    "text": "'The blow of his battering rams he will direct against your walls, and with his axes he will break down your towers."
+  },
+  {
+    "pk": 852738,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 10,
+    "text": "'Because of the multitude of his horses, the dust [raised by] them will cover you; your walls will shake at the noise of cavalry and wagons and chariots when he enters your gates as men enter a city that is breached."
+  },
+  {
+    "pk": 852739,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 11,
+    "text": "'With the hoofs of his horses he will trample all your streets. He will slay your people with the sword; and your strong pillars will come down to the ground."
+  },
+  {
+    "pk": 852740,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 12,
+    "text": "'Also they will make a spoil of your riches and a prey of your merchandise, break down your walls and destroy your pleasant houses, and throw your stones and your timbers and your debris into the water."
+  },
+  {
+    "pk": 852741,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 13,
+    "text": "'So I will silence the sound of your songs, and the sound of your harps will be heard no more."
+  },
+  {
+    "pk": 852742,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 14,
+    "text": "'I will make you a bare rock; you will be a place for the spreading of nets. You will be built no more, for I the LORD have spoken,' declares the Lord GOD."
+  },
+  {
+    "pk": 852743,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 15,
+    "text": "Thus says the Lord GOD to Tyre, 'Shall not the coastlands shake at the sound of your fall when the wounded groan, when the slaughter occurs in your midst?"
+  },
+  {
+    "pk": 852744,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 16,
+    "text": "'Then all the princes of the sea will go down from their thrones, remove their robes and strip off their embroidered garments. They will clothe themselves with trembling; they will sit on the ground, tremble every moment and be appalled at you."
+  },
+  {
+    "pk": 852745,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 17,
+    "text": "'They will take up a lamentation over you and say to you, 'How you have perished, O inhabited one, From the seas, O renowned city, Which was mighty on the sea, She and her inhabitants, Who imposed her terror On all her inhabitants!"
+  },
+  {
+    "pk": 852746,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 18,
+    "text": "'Now the coastlands will tremble On the day of your fall; Yes, the coastlands which are by the sea Will be terrified at your passing.''"
+  },
+  {
+    "pk": 852747,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 19,
+    "text": "For thus says the Lord GOD, 'When I make you a desolate city, like the cities which are not inhabited, when I bring up the deep over you and the great waters cover you,"
+  },
+  {
+    "pk": 852748,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 20,
+    "text": "then I will bring you down with those who go down to the pit, to the people of old, and I will make you dwell in the lower parts of the earth, like the ancient waste places, with those who go down to the pit, so that you will not be inhabited; but I will set glory in the land of the living."
+  },
+  {
+    "pk": 852749,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 26,
+    "verse": 21,
+    "text": "'I will bring terrors on you and you will be no more; though you will be sought, you will never be found again,' declares the Lord GOD."
+  }
+];

@@ -1,0 +1,339 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/43/19"] = [
+  {
+    "pk": 858454,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 1,
+    "text": "Pilate then took Jesus and scourged Him."
+  },
+  {
+    "pk": 858455,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 2,
+    "text": "And the soldiers twisted together a crown of thorns and put it on His head, and put a purple robe on Him;"
+  },
+  {
+    "pk": 858456,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 3,
+    "text": "and they [began] to come up to Him and say, 'Hail, King of the Jews!' and to give Him slaps [in the face]."
+  },
+  {
+    "pk": 858457,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 4,
+    "text": "Pilate came out again and said to them, 'Behold, I am bringing Him out to you so that you may know that I find no guilt in Him.'"
+  },
+  {
+    "pk": 858458,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 5,
+    "text": "Jesus then came out, wearing the crown of thorns and the purple robe. [Pilate] said to them, 'Behold, the Man!'"
+  },
+  {
+    "pk": 858459,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 6,
+    "text": "So when the chief priests and the officers saw Him, they cried out saying, 'Crucify, crucify!' Pilate said to them, 'Take Him yourselves and crucify Him, for I find no guilt in Him.'"
+  },
+  {
+    "pk": 858460,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 7,
+    "text": "The Jews answered him, 'We have a law, and by that law He ought to die because He made Himself out [to] [be] the Son of God.'"
+  },
+  {
+    "pk": 858461,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 8,
+    "text": "Therefore when Pilate heard this statement, he was [even] more afraid;"
+  },
+  {
+    "pk": 858462,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 9,
+    "text": "and he entered into the Praetorium again and said to Jesus, 'Where are You from?' But Jesus gave him no answer."
+  },
+  {
+    "pk": 858463,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 10,
+    "text": "So Pilate said to Him, 'You do not speak to me? Do You not know that I have authority to release You, and I have authority to crucify You?'"
+  },
+  {
+    "pk": 858464,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 11,
+    "text": "Jesus answered, 'You would have no authority over Me, unless it had been given you from above; for this reason he who delivered Me to you has [the] greater sin.'"
+  },
+  {
+    "pk": 858465,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 12,
+    "text": "As a result of this Pilate made efforts to release Him, but the Jews cried out saying, 'If you release this Man, you are no friend of Caesar; everyone who makes himself out [to be] a king opposes Caesar.'"
+  },
+  {
+    "pk": 858466,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 13,
+    "text": "Therefore when Pilate heard these words, he brought Jesus out, and sat down on the judgment seat at a place called The Pavement, but in Hebrew, Gabbatha."
+  },
+  {
+    "pk": 858467,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 14,
+    "text": "Now it was the day of preparation for the Passover; it was about the sixth hour. And he said to the Jews, 'Behold, your King!'"
+  },
+  {
+    "pk": 858468,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 15,
+    "text": "So they cried out, 'Away with [Him], away with [Him], crucify Him!' Pilate said to them, 'Shall I crucify your King?' The chief priests answered, 'We have no king but Caesar.'"
+  },
+  {
+    "pk": 858469,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 16,
+    "text": "So he then handed Him over to them to be crucified."
+  },
+  {
+    "pk": 858470,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 17,
+    "text": "They took Jesus, therefore, and He went out, bearing His own cross, to the place called the Place of a Skull, which is called in Hebrew, Golgotha."
+  },
+  {
+    "pk": 858471,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 18,
+    "text": "There they crucified Him, and with Him two other men, one on either side, and Jesus in between."
+  },
+  {
+    "pk": 858472,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 19,
+    "text": "Pilate also wrote an inscription and put it on the cross. It was written, 'JESUS THE NAZARENE, THE KING OF THE JEWS.'"
+  },
+  {
+    "pk": 858473,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 20,
+    "text": "Therefore many of the Jews read this inscription, for the place where Jesus was crucified was near the city; and it was written in Hebrew, Latin [and] in Greek."
+  },
+  {
+    "pk": 858474,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 21,
+    "text": "So the chief priests of the Jews were saying to Pilate, 'Do not write, 'The King of the Jews'; but that He said, 'I am King of the Jews.''"
+  },
+  {
+    "pk": 858475,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 22,
+    "text": "Pilate answered, 'What I have written I have written.'"
+  },
+  {
+    "pk": 858476,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 23,
+    "text": "Then the soldiers, when they had crucified Jesus, took His outer garments and made four parts, a part to every soldier and [also] the tunic; now the tunic was seamless, woven in one piece."
+  },
+  {
+    "pk": 858477,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 24,
+    "text": "So they said to one another, 'Let us not tear it, but cast lots for it, [to decide] whose it shall be'; [this was] to fulfill the Scripture: 'THEY DIVIDED MY OUTER GARMENTS AMONG THEM, AND FOR MY CLOTHING THEY CAST LOTS.'"
+  },
+  {
+    "pk": 858478,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 25,
+    "text": "Therefore the soldiers did these things. But standing by the cross of Jesus were His mother, and His mother's sister, Mary the [wife] of Clopas, and Mary Magdalene."
+  },
+  {
+    "pk": 858479,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 26,
+    "text": "When Jesus then saw His mother, and the disciple whom He loved standing nearby, He said to His mother, 'Woman, behold, your son!'"
+  },
+  {
+    "pk": 858480,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 27,
+    "text": "Then He said to the disciple, 'Behold, your mother!' From that hour the disciple took her into his own [household]."
+  },
+  {
+    "pk": 858481,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 28,
+    "text": "After this, Jesus, knowing that all things had already been accomplished, to fulfill the Scripture, said, 'I am thirsty.'"
+  },
+  {
+    "pk": 858482,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 29,
+    "text": "A jar full of sour wine was standing there; so they put a sponge full of the sour wine upon [a branch] [of] hyssop and brought it up to His mouth."
+  },
+  {
+    "pk": 858483,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 30,
+    "text": "Therefore when Jesus had received the sour wine, He said, 'It is finished!' And He bowed His head and gave up His spirit."
+  },
+  {
+    "pk": 858484,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 31,
+    "text": "Then the Jews, because it was the day of preparation, so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), asked Pilate that their legs might be broken, and [that] they might be taken away."
+  },
+  {
+    "pk": 858485,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 32,
+    "text": "So the soldiers came, and broke the legs of the first man and of the other who was crucified with Him;"
+  },
+  {
+    "pk": 858486,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 33,
+    "text": "but coming to Jesus, when they saw that He was already dead, they did not break His legs."
+  },
+  {
+    "pk": 858487,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 34,
+    "text": "But one of the soldiers pierced His side with a spear, and immediately blood and water came out."
+  },
+  {
+    "pk": 858488,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 35,
+    "text": "And he who has seen has testified, and his testimony is true; and he knows that he is telling the truth, so that you also may believe."
+  },
+  {
+    "pk": 858489,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 36,
+    "text": "For these things came to pass to fulfill the Scripture, 'NOT A BONE OF HIM SHALL BE BROKEN.'"
+  },
+  {
+    "pk": 858490,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 37,
+    "text": "And again another Scripture says, 'THEY SHALL LOOK ON HIM WHOM THEY PIERCED.'"
+  },
+  {
+    "pk": 858491,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 38,
+    "text": "After these things Joseph of Arimathea, being a disciple of Jesus, but a secret [one] for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate granted permission. So he came and took away His body."
+  },
+  {
+    "pk": 858492,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 39,
+    "text": "Nicodemus, who had first come to Him by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds [weight]."
+  },
+  {
+    "pk": 858493,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 40,
+    "text": "So they took the body of Jesus and bound it in linen wrappings with the spices, as is the burial custom of the Jews."
+  },
+  {
+    "pk": 858494,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 41,
+    "text": "Now in the place where He was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid."
+  },
+  {
+    "pk": 858495,
+    "translation": "NASB",
+    "book": 43,
+    "chapter": 19,
+    "verse": 42,
+    "text": "Therefore because of the Jewish day of preparation, since the tomb was nearby, they laid Jesus there."
+  }
+];

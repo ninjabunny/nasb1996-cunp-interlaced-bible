@@ -1,0 +1,75 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/113"] = [
+  {
+    "pk": 847442,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 1,
+    "text": "Praise the LORD! Praise, O servants of the LORD, Praise the name of the LORD."
+  },
+  {
+    "pk": 847443,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 2,
+    "text": "Blessed be the name of the LORD From this time forth and forever."
+  },
+  {
+    "pk": 847444,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 3,
+    "text": "From the rising of the sun to its setting The name of the LORD is to be praised."
+  },
+  {
+    "pk": 847445,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 4,
+    "text": "The LORD is high above all nations; His glory is above the heavens."
+  },
+  {
+    "pk": 847446,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 5,
+    "text": "Who is like the LORD our God, Who is enthroned on high,"
+  },
+  {
+    "pk": 847447,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 6,
+    "text": "Who humbles Himself to behold [The things that are] in heaven and in the earth?"
+  },
+  {
+    "pk": 847448,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 7,
+    "text": "He raises the poor from the dust And lifts the needy from the ash heap,"
+  },
+  {
+    "pk": 847449,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 8,
+    "text": "To make [them] sit with princes, With the princes of His people."
+  },
+  {
+    "pk": 847450,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 113,
+    "verse": 9,
+    "text": "He makes the barren woman abide in the house [As] a joyful mother of children. Praise the LORD!"
+  }
+];

@@ -1,0 +1,195 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/62/03"] = [
+  {
+    "pk": 862208,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 1,
+    "text": "See how great a love the Father has bestowed on us, that we would be called children of God; and [such] we are. For this reason the world does not know us, because it did not know Him."
+  },
+  {
+    "pk": 862209,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 2,
+    "text": "Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is."
+  },
+  {
+    "pk": 862210,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 3,
+    "text": "And everyone who has this hope [fixed] on Him purifies himself, just as He is pure."
+  },
+  {
+    "pk": 862211,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 4,
+    "text": "Everyone who practices sin also practices lawlessness; and sin is lawlessness."
+  },
+  {
+    "pk": 862212,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 5,
+    "text": "You know that He appeared in order to take away sins; and in Him there is no sin."
+  },
+  {
+    "pk": 862213,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 6,
+    "text": "No one who abides in Him sins; no one who sins has seen Him or knows Him."
+  },
+  {
+    "pk": 862214,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 7,
+    "text": "Little children, make sure no one deceives you; the one who practices righteousness is righteous, just as He is righteous;"
+  },
+  {
+    "pk": 862215,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 8,
+    "text": "the one who practices sin is of the devil; for the devil has sinned from the beginning. The Son of God appeared for this purpose, to destroy the works of the devil."
+  },
+  {
+    "pk": 862216,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 9,
+    "text": "No one who is born of God practices sin, because His seed abides in him; and he cannot sin, because he is born of God."
+  },
+  {
+    "pk": 862217,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 10,
+    "text": "By this the children of God and the children of the devil are obvious: anyone who does not practice righteousness is not of God, nor the one who does not love his brother."
+  },
+  {
+    "pk": 862218,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 11,
+    "text": "For this is the message which you have heard from the beginning, that we should love one another;"
+  },
+  {
+    "pk": 862219,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 12,
+    "text": "not as Cain, [who] was of the evil one and slew his brother. And for what reason did he slay him? Because his deeds were evil, and his brother's were righteous."
+  },
+  {
+    "pk": 862220,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 13,
+    "text": "Do not be surprised, brethren, if the world hates you."
+  },
+  {
+    "pk": 862221,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 14,
+    "text": "We know that we have passed out of death into life, because we love the brethren. He who does not love abides in death."
+  },
+  {
+    "pk": 862222,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 15,
+    "text": "Everyone who hates his brother is a murderer; and you know that no murderer has eternal life abiding in him."
+  },
+  {
+    "pk": 862223,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 16,
+    "text": "We know love by this, that He laid down His life for us; and we ought to lay down our lives for the brethren."
+  },
+  {
+    "pk": 862224,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 17,
+    "text": "But whoever has the world's goods, and sees his brother in need and closes his heart against him, how does the love of God abide in him?"
+  },
+  {
+    "pk": 862225,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 18,
+    "text": "Little children, let us not love with word or with tongue, but in deed and truth."
+  },
+  {
+    "pk": 862226,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 19,
+    "text": "We will know by this that we are of the truth, and will assure our heart before Him"
+  },
+  {
+    "pk": 862227,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 20,
+    "text": "in whatever our heart condemns us; for God is greater than our heart and knows all things."
+  },
+  {
+    "pk": 862228,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 21,
+    "text": "Beloved, if our heart does not condemn us, we have confidence before God;"
+  },
+  {
+    "pk": 862229,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 22,
+    "text": "and whatever we ask we receive from Him, because we keep His commandments and do the things that are pleasing in His sight."
+  },
+  {
+    "pk": 862230,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 23,
+    "text": "This is His commandment, that we believe in the name of His Son Jesus Christ, and love one another, just as He commanded us."
+  },
+  {
+    "pk": 862231,
+    "translation": "NASB",
+    "book": 62,
+    "chapter": 3,
+    "verse": 24,
+    "text": "The one who keeps His commandments abides in Him, and He in him. We know by this that He abides in us, by the Spirit whom He has given us."
+  }
+];

@@ -1,0 +1,227 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/20/25"] = [
+  {
+    "pk": 848742,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 1,
+    "text": "These also are proverbs of Solomon which the men of Hezekiah, king of Judah, transcribed."
+  },
+  {
+    "pk": 848743,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 2,
+    "text": "It is the glory of God to conceal a matter, But the glory of kings is to search out a matter."
+  },
+  {
+    "pk": 848744,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 3,
+    "text": "[As] the heavens for height and the earth for depth, So the heart of kings is unsearchable."
+  },
+  {
+    "pk": 848745,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 4,
+    "text": "Take away the dross from the silver, And there comes out a vessel for the smith;"
+  },
+  {
+    "pk": 848746,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 5,
+    "text": "Take away the wicked before the king, And his throne will be established in righteousness."
+  },
+  {
+    "pk": 848747,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 6,
+    "text": "Do not claim honor in the presence of the king, And do not stand in the place of great men;"
+  },
+  {
+    "pk": 848748,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 7,
+    "text": "For it is better that it be said to you, 'Come up here,' Than for you to be placed lower in the presence of the prince, Whom your eyes have seen."
+  },
+  {
+    "pk": 848749,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 8,
+    "text": "Do not go out hastily to argue [your case]; Otherwise, what will you do in the end, When your neighbor humiliates you?"
+  },
+  {
+    "pk": 848750,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 9,
+    "text": "Argue your case with your neighbor, And do not reveal the secret of another,"
+  },
+  {
+    "pk": 848751,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 10,
+    "text": "Or he who hears [it] will reproach you, And the evil report about you will not pass away."
+  },
+  {
+    "pk": 848752,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 11,
+    "text": "[Like] apples of gold in settings of silver Is a word spoken in right circumstances."
+  },
+  {
+    "pk": 848753,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 12,
+    "text": "[Like] an earring of gold and an ornament of fine gold Is a wise reprover to a listening ear."
+  },
+  {
+    "pk": 848754,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 13,
+    "text": "Like the cold of snow in the time of harvest Is a faithful messenger to those who send him, For he refreshes the soul of his masters."
+  },
+  {
+    "pk": 848755,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 14,
+    "text": "[Like] clouds and wind without rain Is a man who boasts of his gifts falsely."
+  },
+  {
+    "pk": 848756,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 15,
+    "text": "By forbearance a ruler may be persuaded, And a soft tongue breaks the bone."
+  },
+  {
+    "pk": 848757,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 16,
+    "text": "Have you found honey? Eat [only] what you need, That you not have it in excess and vomit it."
+  },
+  {
+    "pk": 848758,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 17,
+    "text": "Let your foot rarely be in your neighbor's house, Or he will become weary of you and hate you."
+  },
+  {
+    "pk": 848759,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 18,
+    "text": "[Like] a club and a sword and a sharp arrow Is a man who bears false witness against his neighbor."
+  },
+  {
+    "pk": 848760,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 19,
+    "text": "[Like] a bad tooth and an unsteady foot Is confidence in a faithless man in time of trouble."
+  },
+  {
+    "pk": 848761,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 20,
+    "text": "[Like] one who takes off a garment on a cold day, [or like] vinegar on soda, Is he who sings songs to a troubled heart."
+  },
+  {
+    "pk": 848762,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 21,
+    "text": "If your enemy is hungry, give him food to eat; And if he is thirsty, give him water to drink;"
+  },
+  {
+    "pk": 848763,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 22,
+    "text": "For you will heap burning coals on his head, And the LORD will reward you."
+  },
+  {
+    "pk": 848764,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 23,
+    "text": "The north wind brings forth rain, And a backbiting tongue, an angry countenance."
+  },
+  {
+    "pk": 848765,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 24,
+    "text": "It is better to live in a corner of the roof Than in a house shared with a contentious woman."
+  },
+  {
+    "pk": 848766,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 25,
+    "text": "[Like] cold water to a weary soul, So is good news from a distant land."
+  },
+  {
+    "pk": 848767,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 26,
+    "text": "[Like] a trampled spring and a polluted well Is a righteous man who gives way before the wicked."
+  },
+  {
+    "pk": 848768,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 27,
+    "text": "It is not good to eat much honey, Nor is it glory to search out one's own glory."
+  },
+  {
+    "pk": 848769,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 25,
+    "verse": 28,
+    "text": "[Like] a city that is broken into [and] without walls Is a man who has no control over his spirit."
+  }
+];

@@ -1,0 +1,203 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/12/13"] = [
+  {
+    "pk": 841500,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 1,
+    "text": "In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu became king over Israel at Samaria, [and he reigned] seventeen years."
+  },
+  {
+    "pk": 841501,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 2,
+    "text": "He did evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, with which he made Israel sin; he did not turn from them."
+  },
+  {
+    "pk": 841502,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 3,
+    "text": "So the anger of the LORD was kindled against Israel, and He gave them continually into the hand of Hazael king of Aram, and into the hand of Ben-hadad the son of Hazael."
+  },
+  {
+    "pk": 841503,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 4,
+    "text": "Then Jehoahaz entreated the favor of the LORD, and the LORD listened to him; for He saw the oppression of Israel, how the king of Aram oppressed them."
+  },
+  {
+    "pk": 841504,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 5,
+    "text": "The LORD gave Israel a deliverer, so that they escaped from under the hand of the Arameans; and the sons of Israel lived in their tents as formerly."
+  },
+  {
+    "pk": 841505,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 6,
+    "text": "Nevertheless they did not turn away from the sins of the house of Jeroboam, with which he made Israel sin, but walked in them; and the Asherah also remained standing in Samaria."
+  },
+  {
+    "pk": 841506,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 7,
+    "text": "For he left to Jehoahaz of the army not more than fifty horsemen and ten chariots and 10,000 footmen, for the king of Aram had destroyed them and made them like the dust at threshing."
+  },
+  {
+    "pk": 841507,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 8,
+    "text": "Now the rest of the acts of Jehoahaz, and all that he did and his might, are they not written in the Book of the Chronicles of the Kings of Israel?"
+  },
+  {
+    "pk": 841508,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 9,
+    "text": "And Jehoahaz slept with his fathers, and they buried him in Samaria; and Joash his son became king in his place."
+  },
+  {
+    "pk": 841509,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 10,
+    "text": "In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz became king over Israel in Samaria, [and reigned] sixteen years."
+  },
+  {
+    "pk": 841510,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 11,
+    "text": "He did evil in the sight of the LORD; he did not turn away from all the sins of Jeroboam the son of Nebat, with which he made Israel sin, but he walked in them."
+  },
+  {
+    "pk": 841511,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 12,
+    "text": "Now the rest of the acts of Joash and all that he did and his might with which he fought against Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?"
+  },
+  {
+    "pk": 841512,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 13,
+    "text": "So Joash slept with his fathers, and Jeroboam sat on his throne; and Joash was buried in Samaria with the kings of Israel."
+  },
+  {
+    "pk": 841513,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 14,
+    "text": "When Elisha became sick with the illness of which he was to die, Joash the king of Israel came down to him and wept over him and said, 'My father, my father, the chariots of Israel and its horsemen!'"
+  },
+  {
+    "pk": 841514,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 15,
+    "text": "Elisha said to him, 'Take a bow and arrows.' So he took a bow and arrows."
+  },
+  {
+    "pk": 841515,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 16,
+    "text": "Then he said to the king of Israel, 'Put your hand on the bow.' And he put his hand [on it], then Elisha laid his hands on the king's hands."
+  },
+  {
+    "pk": 841516,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 17,
+    "text": "He said, 'Open the window toward the east,' and he opened [it]. Then Elisha said, 'Shoot!' And he shot. And he said, 'The LORD'S arrow of victory, even the arrow of victory over Aram; for you will defeat the Arameans at Aphek until you have destroyed [them].'"
+  },
+  {
+    "pk": 841517,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 18,
+    "text": "Then he said, 'Take the arrows,' and he took them. And he said to the king of Israel, 'Strike the ground,' and he struck [it] three times and stopped."
+  },
+  {
+    "pk": 841518,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 19,
+    "text": "So the man of God was angry with him and said, 'You should have struck five or six times, then you would have struck Aram until you would have destroyed [it]. But now you shall strike Aram [only] three times.'"
+  },
+  {
+    "pk": 841519,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 20,
+    "text": "Elisha died, and they buried him. Now the bands of the Moabites would invade the land in the spring of the year."
+  },
+  {
+    "pk": 841520,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 21,
+    "text": "As they were burying a man, behold, they saw a marauding band; and they cast the man into the grave of Elisha. And when the man touched the bones of Elisha he revived and stood up on his feet."
+  },
+  {
+    "pk": 841521,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 22,
+    "text": "Now Hazael king of Aram had oppressed Israel all the days of Jehoahaz."
+  },
+  {
+    "pk": 841522,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 23,
+    "text": "But the LORD was gracious to them and had compassion on them and turned to them because of His covenant with Abraham, Isaac, and Jacob, and would not destroy them or cast them from His presence until now."
+  },
+  {
+    "pk": 841523,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 24,
+    "text": "When Hazael king of Aram died, Ben-hadad his son became king in his place."
+  },
+  {
+    "pk": 841524,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 13,
+    "verse": 25,
+    "text": "Then Jehoash the son of Jehoahaz took again from the hand of Ben-hadad the son of Hazael the cities which he had taken in war from the hand of Jehoahaz his father. Three times Joash defeated him and recovered the cities of Israel."
+  }
+];

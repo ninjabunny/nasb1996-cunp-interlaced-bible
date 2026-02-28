@@ -1,0 +1,283 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/20/14"] = [
+  {
+    "pk": 848401,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 1,
+    "text": "The wise woman builds her house, But the foolish tears it down with her own hands."
+  },
+  {
+    "pk": 848402,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 2,
+    "text": "He who walks in his uprightness fears the LORD, But he who is devious in his ways despises Him."
+  },
+  {
+    "pk": 848403,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 3,
+    "text": "In the mouth of the foolish is a rod for [his] back, But the lips of the wise will protect them."
+  },
+  {
+    "pk": 848404,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 4,
+    "text": "Where no oxen are, the manger is clean, But much revenue [comes] by the strength of the ox."
+  },
+  {
+    "pk": 848405,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 5,
+    "text": "A trustworthy witness will not lie, But a false witness utters lies."
+  },
+  {
+    "pk": 848406,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 6,
+    "text": "A scoffer seeks wisdom and [finds] none, But knowledge is easy to one who has understanding."
+  },
+  {
+    "pk": 848407,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 7,
+    "text": "Leave the presence of a fool, Or you will not discern words of knowledge."
+  },
+  {
+    "pk": 848408,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 8,
+    "text": "The wisdom of the sensible is to understand his way, But the foolishness of fools is deceit."
+  },
+  {
+    "pk": 848409,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 9,
+    "text": "Fools mock at sin, But among the upright there is good will."
+  },
+  {
+    "pk": 848410,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 10,
+    "text": "The heart knows its own bitterness, And a stranger does not share its joy."
+  },
+  {
+    "pk": 848411,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 11,
+    "text": "The house of the wicked will be destroyed, But the tent of the upright will flourish."
+  },
+  {
+    "pk": 848412,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 12,
+    "text": "There is a way [which seems] right to a man, But its end is the way of death."
+  },
+  {
+    "pk": 848413,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 13,
+    "text": "Even in laughter the heart may be in pain, And the end of joy may be grief."
+  },
+  {
+    "pk": 848414,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 14,
+    "text": "The backslider in heart will have his fill of his own ways, But a good man will [be satisfied] with his."
+  },
+  {
+    "pk": 848415,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 15,
+    "text": "The naive believes everything, But the sensible man considers his steps."
+  },
+  {
+    "pk": 848416,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 16,
+    "text": "A wise man is cautious and turns away from evil, But a fool is arrogant and careless."
+  },
+  {
+    "pk": 848417,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 17,
+    "text": "A quick-tempered man acts foolishly, And a man of evil devices is hated."
+  },
+  {
+    "pk": 848418,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 18,
+    "text": "The naive inherit foolishness, But the sensible are crowned with knowledge."
+  },
+  {
+    "pk": 848419,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 19,
+    "text": "The evil will bow down before the good, And the wicked at the gates of the righteous."
+  },
+  {
+    "pk": 848420,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 20,
+    "text": "The poor is hated even by his neighbor, But those who love the rich are many."
+  },
+  {
+    "pk": 848421,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 21,
+    "text": "He who despises his neighbor sins, But happy is he who is gracious to the poor."
+  },
+  {
+    "pk": 848422,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 22,
+    "text": "Will they not go astray who devise evil? But kindness and truth [will be to] those who devise good."
+  },
+  {
+    "pk": 848423,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 23,
+    "text": "In all labor there is profit, But mere talk [leads] only to poverty."
+  },
+  {
+    "pk": 848424,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 24,
+    "text": "The crown of the wise is their riches, [But] the folly of fools is foolishness."
+  },
+  {
+    "pk": 848425,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 25,
+    "text": "A truthful witness saves lives, But he who utters lies is treacherous."
+  },
+  {
+    "pk": 848426,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 26,
+    "text": "In the fear of the LORD there is strong confidence, And his children will have refuge."
+  },
+  {
+    "pk": 848427,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 27,
+    "text": "The fear of the LORD is a fountain of life, That one may avoid the snares of death."
+  },
+  {
+    "pk": 848428,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 28,
+    "text": "In a multitude of people is a king's glory, But in the dearth of people is a prince's ruin."
+  },
+  {
+    "pk": 848429,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 29,
+    "text": "He who is slow to anger has great understanding, But he who is quick-tempered exalts folly."
+  },
+  {
+    "pk": 848430,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 30,
+    "text": "A tranquil heart is life to the body, But passion is rottenness to the bones."
+  },
+  {
+    "pk": 848431,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 31,
+    "text": "He who oppresses the poor taunts his Maker, But he who is gracious to the needy honors Him."
+  },
+  {
+    "pk": 848432,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 32,
+    "text": "The wicked is thrust down by his wrongdoing, But the righteous has a refuge when he dies."
+  },
+  {
+    "pk": 848433,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 33,
+    "text": "Wisdom rests in the heart of one who has understanding, But in the hearts of fools it is made known."
+  },
+  {
+    "pk": 848434,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 34,
+    "text": "Righteousness exalts a nation, But sin is a disgrace to [any] people."
+  },
+  {
+    "pk": 848435,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 14,
+    "verse": 35,
+    "text": "The king's favor is toward a servant who acts wisely, But his anger is toward him who acts shamefully."
+  }
+];

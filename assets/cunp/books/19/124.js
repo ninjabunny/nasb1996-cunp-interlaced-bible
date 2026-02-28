@@ -1,0 +1,71 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/19/124"] = [
+  {
+    "pk": 3499482,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 1,
+    "text": "〔大衛上行之詩。〕<br/><e>以色列</e>人要說：若不是耶和華幫助我們，<br/>",
+    "comment": "<a href='/CUNP/19/129/1'>詩 129:1</a> 〔上行之詩。〕<u>以色列</u>當說：從我幼年以來，敵人屢次苦害我，"
+  },
+  {
+    "pk": 3499483,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 2,
+    "text": "若不是耶和華幫助我們，當人起來攻擊我們、<br/>"
+  },
+  {
+    "pk": 3499484,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 3,
+    "text": "向我們發怒的時候，就把我們活活地吞了。<br/>",
+    "comment": "<a href='/CUNP/19/56/1-2'>詩 56:1-2</a> 〔非利士人在迦特拿住大衛‧那時他作這金詩、交與伶長。調用遠方無聲鴿。〕神啊，求你憐憫我，因為人要把我吞了，終日攻擊欺壓我。我的仇敵終日要把我吞了，因逞驕傲攻擊我的人甚多。<p><a href='/CUNP/19/57/3'>57:3</a> 那要吞我的人辱罵我的時候，神從天上必施恩救我，也必向我發出慈愛和誠實。<p><a href='/CUNP/20/1/12'>箴 1:12</a> 我們好像陰間，把他們活活吞下；他們如同下坑的人，被我們囫圇吞了；"
+  },
+  {
+    "pk": 3499485,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 4,
+    "text": "那時，波濤必漫過我們，河水必淹沒我們，<br/>"
+  },
+  {
+    "pk": 3499486,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 5,
+    "text": "狂傲的水必淹沒我們。<br/>"
+  },
+  {
+    "pk": 3499487,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 6,
+    "text": "耶和華是應當稱頌的！他沒有把我們當野食交給他們吞吃<sup>〔原文作「牙齒」〕</sup>。<br/>"
+  },
+  {
+    "pk": 3499488,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 7,
+    "text": "我們好像雀鳥，從捕鳥人的網羅裏逃脫；網羅破裂，我們逃脫了。<br/>",
+    "comment": "<a href='/CUNP/19/91/3'>詩 91:3</a> 他必救你脫離捕鳥人的網羅和毒害的瘟疫。<p><a href='/CUNP/20/6/5'>箴 6:5</a> 要救自己，如鹿脫離<na>獵戶的</na>手，如鳥脫離捕鳥人的手。"
+  },
+  {
+    "pk": 3499489,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 124,
+    "verse": 8,
+    "text": "我們得幫助，是在乎<i>倚靠</i>造天地之耶和華的名。",
+    "comment": "<a href='/CUNP/19/121/2'>詩 121:2</a> 我的幫助從造天地的耶和華而來。<br><a href='/CUNP/1/1/1'>創 1:1</a> 起初，神創造天地。<p><a href='/CUNP/19/134/3'>詩 134:3</a> 願造天地的耶和華，從<u>錫安</u>賜福給你們！"
+  }
+];

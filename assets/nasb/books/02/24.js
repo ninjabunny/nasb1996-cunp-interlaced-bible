@@ -1,0 +1,147 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/02/24"] = [
+  {
+    "pk": 833806,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 1,
+    "text": "Then He said to Moses, 'Come up to the LORD, you and Aaron, Nadab and Abihu and seventy of the elders of Israel, and you shall worship at a distance."
+  },
+  {
+    "pk": 833807,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 2,
+    "text": "'Moses alone, however, shall come near to the LORD, but they shall not come near, nor shall the people come up with him.'"
+  },
+  {
+    "pk": 833808,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 3,
+    "text": "Then Moses came and recounted to the people all the words of the LORD and all the ordinances; and all the people answered with one voice and said, 'All the words which the LORD has spoken we will do!'"
+  },
+  {
+    "pk": 833809,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 4,
+    "text": "Moses wrote down all the words of the LORD. Then he arose early in the morning, and built an altar at the foot of the mountain with twelve pillars for the twelve tribes of Israel."
+  },
+  {
+    "pk": 833810,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 5,
+    "text": "He sent young men of the sons of Israel, and they offered burnt offerings and sacrificed young bulls as peace offerings to the LORD."
+  },
+  {
+    "pk": 833811,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 6,
+    "text": "Moses took half of the blood and put [it] in basins, and the [other] half of the blood he sprinkled on the altar."
+  },
+  {
+    "pk": 833812,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 7,
+    "text": "Then he took the book of the covenant and read [it] in the hearing of the people; and they said, 'All that the LORD has spoken we will do, and we will be obedient!'"
+  },
+  {
+    "pk": 833813,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 8,
+    "text": "So Moses took the blood and sprinkled [it] on the people, and said, 'Behold the blood of the covenant, which the LORD has made with you in accordance with all these words.'"
+  },
+  {
+    "pk": 833814,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 9,
+    "text": "Then Moses went up with Aaron, Nadab and Abihu, and seventy of the elders of Israel,"
+  },
+  {
+    "pk": 833815,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 10,
+    "text": "and they saw the God of Israel; and under His feet there appeared to be a pavement of sapphire, as clear as the sky itself."
+  },
+  {
+    "pk": 833816,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 11,
+    "text": "Yet He did not stretch out His hand against the nobles of the sons of Israel; and they saw God, and they ate and drank."
+  },
+  {
+    "pk": 833817,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 12,
+    "text": "Now the LORD said to Moses, 'Come up to Me on the mountain and remain there, and I will give you the stone tablets with the law and the commandment which I have written for their instruction.'"
+  },
+  {
+    "pk": 833818,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 13,
+    "text": "So Moses arose with Joshua his servant, and Moses went up to the mountain of God."
+  },
+  {
+    "pk": 833819,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 14,
+    "text": "But to the elders he said, 'Wait here for us until we return to you. And behold, Aaron and Hur are with you; whoever has a legal matter, let him approach them.'"
+  },
+  {
+    "pk": 833820,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 15,
+    "text": "Then Moses went up to the mountain, and the cloud covered the mountain."
+  },
+  {
+    "pk": 833821,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 16,
+    "text": "The glory of the LORD rested on Mount Sinai, and the cloud covered it for six days; and on the seventh day He called to Moses from the midst of the cloud."
+  },
+  {
+    "pk": 833822,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 17,
+    "text": "And to the eyes of the sons of Israel the appearance of the glory of the LORD was like a consuming fire on the mountain top."
+  },
+  {
+    "pk": 833823,
+    "translation": "NASB",
+    "book": 2,
+    "chapter": 24,
+    "verse": 18,
+    "text": "Moses entered the midst of the cloud as he went up to the mountain; and Moses was on the mountain forty days and forty nights."
+  }
+];

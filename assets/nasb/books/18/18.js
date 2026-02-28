@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/18"] = [
+  {
+    "pk": 844905,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 1,
+    "text": "Then Bildad the Shuhite responded,"
+  },
+  {
+    "pk": 844906,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 2,
+    "text": "'How long will you hunt for words? Show understanding and then we can talk."
+  },
+  {
+    "pk": 844907,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 3,
+    "text": "'Why are we regarded as beasts, As stupid in your eyes?"
+  },
+  {
+    "pk": 844908,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 4,
+    "text": "'O you who tear yourself in your anger-- For your sake is the earth to be abandoned, Or the rock to be moved from its place?"
+  },
+  {
+    "pk": 844909,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 5,
+    "text": "'Indeed, the light of the wicked goes out, And the flame of his fire gives no light."
+  },
+  {
+    "pk": 844910,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 6,
+    "text": "'The light in his tent is darkened, And his lamp goes out above him."
+  },
+  {
+    "pk": 844911,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 7,
+    "text": "'His vigorous stride is shortened, And his own scheme brings him down."
+  },
+  {
+    "pk": 844912,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 8,
+    "text": "'For he is thrown into the net by his own feet, And he steps on the webbing."
+  },
+  {
+    "pk": 844913,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 9,
+    "text": "'A snare seizes [him] by the heel, [And] a trap snaps shut on him."
+  },
+  {
+    "pk": 844914,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 10,
+    "text": "'A noose for him is hidden in the ground, And a trap for him on the path."
+  },
+  {
+    "pk": 844915,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 11,
+    "text": "'All around terrors frighten him, And harry him at every step."
+  },
+  {
+    "pk": 844916,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 12,
+    "text": "'His strength is famished, And calamity is ready at his side."
+  },
+  {
+    "pk": 844917,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 13,
+    "text": "'His skin is devoured by disease, The firstborn of death devours his limbs."
+  },
+  {
+    "pk": 844918,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 14,
+    "text": "'He is torn from the security of his tent, And they march him before the king of terrors."
+  },
+  {
+    "pk": 844919,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 15,
+    "text": "'There dwells in his tent nothing of his; Brimstone is scattered on his habitation."
+  },
+  {
+    "pk": 844920,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 16,
+    "text": "'His roots are dried below, And his branch is cut off above."
+  },
+  {
+    "pk": 844921,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 17,
+    "text": "'Memory of him perishes from the earth, And he has no name abroad."
+  },
+  {
+    "pk": 844922,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 18,
+    "text": "'He is driven from light into darkness, And chased from the inhabited world."
+  },
+  {
+    "pk": 844923,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 19,
+    "text": "'He has no offspring or posterity among his people, Nor any survivor where he sojourned."
+  },
+  {
+    "pk": 844924,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 20,
+    "text": "'Those in the west are appalled at his fate, And those in the east are seized with horror."
+  },
+  {
+    "pk": 844925,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 18,
+    "verse": 21,
+    "text": "'Surely such are the dwellings of the wicked, And this is the place of him who does not know God.'"
+  }
+];

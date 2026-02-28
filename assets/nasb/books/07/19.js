@@ -1,0 +1,243 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/07/19"] = [
+  {
+    "pk": 838653,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 1,
+    "text": "Now it came about in those days, when there was no king in Israel, that there was a certain Levite staying in the remote part of the hill country of Ephraim, who took a concubine for himself from Bethlehem in Judah."
+  },
+  {
+    "pk": 838654,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 2,
+    "text": "But his concubine played the harlot against him, and she went away from him to her father's house in Bethlehem in Judah, and was there for a period of four months."
+  },
+  {
+    "pk": 838655,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 3,
+    "text": "Then her husband arose and went after her to speak tenderly to her in order to bring her back, taking with him his servant and a pair of donkeys. So she brought him into her father's house, and when the girl's father saw him, he was glad to meet him."
+  },
+  {
+    "pk": 838656,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 4,
+    "text": "His father-in-law, the girl's father, detained him; and he remained with him three days. So they ate and drank and lodged there."
+  },
+  {
+    "pk": 838657,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 5,
+    "text": "Now on the fourth day they got up early in the morning, and he prepared to go; and the girl's father said to his son-in-law, 'Sustain yourself with a piece of bread, and afterward you may go.'"
+  },
+  {
+    "pk": 838658,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 6,
+    "text": "So both of them sat down and ate and drank together; and the girl's father said to the man, 'Please be willing to spend the night, and let your heart be merry.'"
+  },
+  {
+    "pk": 838659,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 7,
+    "text": "Then the man arose to go, but his father-in-law urged him so that he spent the night there again."
+  },
+  {
+    "pk": 838660,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 8,
+    "text": "On the fifth day he arose to go early in the morning, and the girl's father said, 'Please sustain yourself, and wait until afternoon'; so both of them ate."
+  },
+  {
+    "pk": 838661,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 9,
+    "text": "When the man arose to go along with his concubine and servant, his father-in-law, the girl's father, said to him, 'Behold now, the day has drawn to a close; please spend the night. Lo, the day is coming to an end; spend the night here that your heart may be merry. Then tomorrow you may arise early for your journey so that you may go home.'"
+  },
+  {
+    "pk": 838662,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 10,
+    "text": "But the man was not willing to spend the night, so he arose and departed and came to [a place] opposite Jebus (that is, Jerusalem). And there were with him a pair of saddled donkeys; his concubine also was with him."
+  },
+  {
+    "pk": 838663,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 11,
+    "text": "When they [were] near Jebus, the day was almost gone; and the servant said to his master, 'Please come, and let us turn aside into this city of the Jebusites and spend the night in it.'"
+  },
+  {
+    "pk": 838664,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 12,
+    "text": "However, his master said to him, 'We will not turn aside into the city of foreigners who are not of the sons of Israel; but we will go on as far as Gibeah.'"
+  },
+  {
+    "pk": 838665,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 13,
+    "text": "He said to his servant, 'Come and let us approach one of these places; and we will spend the night in Gibeah or Ramah.'"
+  },
+  {
+    "pk": 838666,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 14,
+    "text": "So they passed along and went their way, and the sun set on them near Gibeah which belongs to Benjamin."
+  },
+  {
+    "pk": 838667,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 15,
+    "text": "They turned aside there in order to enter [and] lodge in Gibeah. When they entered, they sat down in the open square of the city, for no one took them into [his] house to spend the night."
+  },
+  {
+    "pk": 838668,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 16,
+    "text": "Then behold, an old man was coming out of the field from his work at evening. Now the man was from the hill country of Ephraim, and he was staying in Gibeah, but the men of the place were Benjamites."
+  },
+  {
+    "pk": 838669,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 17,
+    "text": "And he lifted up his eyes and saw the traveler in the open square of the city; and the old man said, 'Where are you going, and where do you come from?'"
+  },
+  {
+    "pk": 838670,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 18,
+    "text": "He said to him, 'We are passing from Bethlehem in Judah to the remote part of the hill country of Ephraim, [for] I am from there, and I went to Bethlehem in Judah. But I am [now] going to my house, and no man will take me into his house."
+  },
+  {
+    "pk": 838671,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 19,
+    "text": "'Yet there is both straw and fodder for our donkeys, and also bread and wine for me, your maidservant, and the young man who is with your servants; there is no lack of anything.'"
+  },
+  {
+    "pk": 838672,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 20,
+    "text": "The old man said, 'Peace to you. Only let me [take care of] all your needs; however, do not spend the night in the open square.'"
+  },
+  {
+    "pk": 838673,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 21,
+    "text": "So he took him into his house and gave the donkeys fodder, and they washed their feet and ate and drank."
+  },
+  {
+    "pk": 838674,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 22,
+    "text": "While they were celebrating, behold, the men of the city, certain worthless fellows, surrounded the house, pounding the door; and they spoke to the owner of the house, the old man, saying, 'Bring out the man who came into your house that we may have relations with him.'"
+  },
+  {
+    "pk": 838675,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 23,
+    "text": "Then the man, the owner of the house, went out to them and said to them, 'No, my fellows, please do not act so wickedly; since this man has come into my house, do not commit this act of folly."
+  },
+  {
+    "pk": 838676,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 24,
+    "text": "'Here is my virgin daughter and his concubine. Please let me bring them out that you may ravish them and do to them whatever you wish. But do not commit such an act of folly against this man.'"
+  },
+  {
+    "pk": 838677,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 25,
+    "text": "But the men would not listen to him. So the man seized his concubine and brought [her] out to them; and they raped her and abused her all night until morning, then let her go at the approach of dawn."
+  },
+  {
+    "pk": 838678,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 26,
+    "text": "As the day began to dawn, the woman came and fell down at the doorway of the man's house where her master was, until [full] daylight."
+  },
+  {
+    "pk": 838679,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 27,
+    "text": "When her master arose in the morning and opened the doors of the house and went out to go on his way, then behold, his concubine was lying at the doorway of the house with her hands on the threshold."
+  },
+  {
+    "pk": 838680,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 28,
+    "text": "He said to her, 'Get up and let us go,' but there was no answer. Then he placed her on the donkey; and the man arose and went to his home."
+  },
+  {
+    "pk": 838681,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 29,
+    "text": "When he entered his house, he took a knife and laid hold of his concubine and cut her in twelve pieces, limb by limb, and sent her throughout the territory of Israel."
+  },
+  {
+    "pk": 838682,
+    "translation": "NASB",
+    "book": 7,
+    "chapter": 19,
+    "verse": 30,
+    "text": "All who saw [it] said, 'Nothing like this has [ever] happened or been seen from the day when the sons of Israel came up from the land of Egypt to this day. Consider it, take counsel and speak up!'"
+  }
+];

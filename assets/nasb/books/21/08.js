@@ -1,0 +1,139 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/21/08"] = [
+  {
+    "pk": 849087,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 1,
+    "text": "Who is like the wise man and who knows the interpretation of a matter? A man's wisdom illumines him and causes his stern face to beam."
+  },
+  {
+    "pk": 849088,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 2,
+    "text": "I say, 'Keep the command of the king because of the oath before God."
+  },
+  {
+    "pk": 849089,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 3,
+    "text": "'Do not be in a hurry to leave him. Do not join in an evil matter, for he will do whatever he pleases.'"
+  },
+  {
+    "pk": 849090,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 4,
+    "text": "Since the word of the king is authoritative, who will say to him, 'What are you doing?'"
+  },
+  {
+    "pk": 849091,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 5,
+    "text": "He who keeps a [royal] command experiences no trouble, for a wise heart knows the proper time and procedure."
+  },
+  {
+    "pk": 849092,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 6,
+    "text": "For there is a proper time and procedure for every delight, though a man's trouble is heavy upon him."
+  },
+  {
+    "pk": 849093,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 7,
+    "text": "If no one knows what will happen, who can tell him when it will happen?"
+  },
+  {
+    "pk": 849094,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 8,
+    "text": "No man has authority to restrain the wind with the wind, or authority over the day of death; and there is no discharge in the time of war, and evil will not deliver those who practice it."
+  },
+  {
+    "pk": 849095,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 9,
+    "text": "All this I have seen and applied my mind to every deed that has been done under the sun wherein a man has exercised authority over [another] man to his hurt."
+  },
+  {
+    "pk": 849096,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 10,
+    "text": "So then, I have seen the wicked buried, those who used to go in and out from the holy place, and they are [soon] forgotten in the city where they did thus. This too is futility."
+  },
+  {
+    "pk": 849097,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 11,
+    "text": "Because the sentence against an evil deed is not executed quickly, therefore the hearts of the sons of men among them are given fully to do evil."
+  },
+  {
+    "pk": 849098,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 12,
+    "text": "Although a sinner does evil a hundred [times] and may lengthen his [life], still I know that it will be well for those who fear God, who fear Him openly."
+  },
+  {
+    "pk": 849099,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 13,
+    "text": "But it will not be well for the evil man and he will not lengthen his days like a shadow, because he does not fear God."
+  },
+  {
+    "pk": 849100,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 14,
+    "text": "There is futility which is done on the earth, that is, there are righteous men to whom it happens according to the deeds of the wicked. On the other hand, there are evil men to whom it happens according to the deeds of the righteous. I say that this too is futility."
+  },
+  {
+    "pk": 849101,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 15,
+    "text": "So I commended pleasure, for there is nothing good for a man under the sun except to eat and to drink and to be merry, and this will stand by him in his toils [throughout] the days of his life which God has given him under the sun."
+  },
+  {
+    "pk": 849102,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 16,
+    "text": "When I gave my heart to know wisdom and to see the task which has been done on the earth (even though one should never sleep day or night),"
+  },
+  {
+    "pk": 849103,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 8,
+    "verse": 17,
+    "text": "and I saw every work of God, [I concluded] that man cannot discover the work which has been done under the sun. Even though man should seek laboriously, he will not discover; and though the wise man should say, 'I know,' he cannot discover."
+  }
+];

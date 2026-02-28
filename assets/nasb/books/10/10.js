@@ -1,0 +1,155 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/10/10"] = [
+  {
+    "pk": 839869,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 1,
+    "text": "Now it happened afterwards that the king of the Ammonites died, and Hanun his son became king in his place."
+  },
+  {
+    "pk": 839870,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 2,
+    "text": "Then David said, 'I will show kindness to Hanun the son of Nahash, just as his father showed kindness to me.' So David sent some of his servants to console him concerning his father. But when David's servants came to the land of the Ammonites,"
+  },
+  {
+    "pk": 839871,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 3,
+    "text": "the princes of the Ammonites said to Hanun their lord, 'Do you think that David is honoring your father because he has sent consolers to you? Has David not sent his servants to you in order to search the city, to spy it out and overthrow it?'"
+  },
+  {
+    "pk": 839872,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 4,
+    "text": "So Hanun took David's servants and shaved off half of their beards, and cut off their garments in the middle as far as their hips, and sent them away."
+  },
+  {
+    "pk": 839873,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 5,
+    "text": "When they told [it] to David, he sent to meet them, for the men were greatly humiliated. And the king said, 'Stay at Jericho until your beards grow, and [then] return.'"
+  },
+  {
+    "pk": 839874,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 6,
+    "text": "Now when the sons of Ammon saw that they had become odious to David, the sons of Ammon sent and hired the Arameans of Beth-rehob and the Arameans of Zobah, 20,000 foot soldiers, and the king of Maacah with 1,000 men, and the men of Tob with 12,000 men."
+  },
+  {
+    "pk": 839875,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 7,
+    "text": "When David heard [of it], he sent Joab and all the army, the mighty men."
+  },
+  {
+    "pk": 839876,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 8,
+    "text": "The sons of Ammon came out and drew up in battle array at the entrance of the city, while the Arameans of Zobah and of Rehob and the men of Tob and Maacah [were] by themselves in the field."
+  },
+  {
+    "pk": 839877,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 9,
+    "text": "Now when Joab saw that the battle was set against him in front and in the rear, he selected from all the choice men of Israel, and arrayed [them] against the Arameans."
+  },
+  {
+    "pk": 839878,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 10,
+    "text": "But the remainder of the people he placed in the hand of Abishai his brother, and he arrayed [them] against the sons of Ammon."
+  },
+  {
+    "pk": 839879,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 11,
+    "text": "He said, 'If the Arameans are too strong for me, then you shall help me, but if the sons of Ammon are too strong for you, then I will come to help you."
+  },
+  {
+    "pk": 839880,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 12,
+    "text": "'Be strong, and let us show ourselves courageous for the sake of our people and for the cities of our God; and may the LORD do what is good in His sight.'"
+  },
+  {
+    "pk": 839881,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 13,
+    "text": "So Joab and the people who were with him drew near to the battle against the Arameans, and they fled before him."
+  },
+  {
+    "pk": 839882,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 14,
+    "text": "When the sons of Ammon saw that the Arameans fled, they [also] fled before Abishai and entered the city. Then Joab returned from [fighting] against the sons of Ammon and came to Jerusalem."
+  },
+  {
+    "pk": 839883,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 15,
+    "text": "When the Arameans saw that they had been defeated by Israel, they gathered themselves together."
+  },
+  {
+    "pk": 839884,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 16,
+    "text": "And Hadadezer sent and brought out the Arameans who were beyond the River, and they came to Helam; and Shobach the commander of the army of Hadadezer led them."
+  },
+  {
+    "pk": 839885,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 17,
+    "text": "Now when it was told David, he gathered all Israel together and crossed the Jordan, and came to Helam. And the Arameans arrayed themselves to meet David and fought against him."
+  },
+  {
+    "pk": 839886,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 18,
+    "text": "But the Arameans fled before Israel, and David killed 700 charioteers of the Arameans and 40,000 horsemen and struck down Shobach the commander of their army, and he died there."
+  },
+  {
+    "pk": 839887,
+    "translation": "NASB",
+    "book": 10,
+    "chapter": 10,
+    "verse": 19,
+    "text": "When all the kings, servants of Hadadezer, saw that they were defeated by Israel, they made peace with Israel and served them. So the Arameans feared to help the sons of Ammon anymore."
+  }
+];

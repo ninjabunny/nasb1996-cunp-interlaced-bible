@@ -1,0 +1,195 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/20/18"] = [
+  {
+    "pk": 848530,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 1,
+    "text": "He who separates himself seeks [his own] desire, He quarrels against all sound wisdom."
+  },
+  {
+    "pk": 848531,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 2,
+    "text": "A fool does not delight in understanding, But only in revealing his own mind."
+  },
+  {
+    "pk": 848532,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 3,
+    "text": "When a wicked man comes, contempt also comes, And with dishonor [comes] scorn."
+  },
+  {
+    "pk": 848533,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 4,
+    "text": "The words of a man's mouth are deep waters; The fountain of wisdom is a bubbling brook."
+  },
+  {
+    "pk": 848534,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 5,
+    "text": "To show partiality to the wicked is not good, [Nor] to thrust aside the righteous in judgment."
+  },
+  {
+    "pk": 848535,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 6,
+    "text": "A fool's lips bring strife, And his mouth calls for blows."
+  },
+  {
+    "pk": 848536,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 7,
+    "text": "A fool's mouth is his ruin, And his lips are the snare of his soul."
+  },
+  {
+    "pk": 848537,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 8,
+    "text": "The words of a whisperer are like dainty morsels, And they go down into the innermost parts of the body."
+  },
+  {
+    "pk": 848538,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 9,
+    "text": "He also who is slack in his work Is brother to him who destroys."
+  },
+  {
+    "pk": 848539,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 10,
+    "text": "The name of the LORD is a strong tower; The righteous runs into it and is safe."
+  },
+  {
+    "pk": 848540,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 11,
+    "text": "A rich man's wealth is his strong city, And like a high wall in his own imagination."
+  },
+  {
+    "pk": 848541,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 12,
+    "text": "Before destruction the heart of man is haughty, But humility [goes] before honor."
+  },
+  {
+    "pk": 848542,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 13,
+    "text": "He who gives an answer before he hears, It is folly and shame to him."
+  },
+  {
+    "pk": 848543,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 14,
+    "text": "The spirit of a man can endure his sickness, But [as for] a broken spirit who can bear it?"
+  },
+  {
+    "pk": 848544,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 15,
+    "text": "The mind of the prudent acquires knowledge, And the ear of the wise seeks knowledge."
+  },
+  {
+    "pk": 848545,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 16,
+    "text": "A man's gift makes room for him And brings him before great men."
+  },
+  {
+    "pk": 848546,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 17,
+    "text": "The first to plead his case [seems] right, [Until] another comes and examines him."
+  },
+  {
+    "pk": 848547,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 18,
+    "text": "The [cast] lot puts an end to strife And decides between the mighty ones."
+  },
+  {
+    "pk": 848548,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 19,
+    "text": "A brother offended [is harder to be won] than a strong city, And contentions are like the bars of a citadel."
+  },
+  {
+    "pk": 848549,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 20,
+    "text": "With the fruit of a man's mouth his stomach will be satisfied; He will be satisfied [with] the product of his lips."
+  },
+  {
+    "pk": 848550,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 21,
+    "text": "Death and life are in the power of the tongue, And those who love it will eat its fruit."
+  },
+  {
+    "pk": 848551,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 22,
+    "text": "He who finds a wife finds a good thing And obtains favor from the LORD."
+  },
+  {
+    "pk": 848552,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 23,
+    "text": "The poor man utters supplications, But the rich man answers roughly."
+  },
+  {
+    "pk": 848553,
+    "translation": "NASB",
+    "book": 20,
+    "chapter": 18,
+    "verse": 24,
+    "text": "A man of [too many] friends [comes] to ruin, But there is a friend who sticks closer than a brother."
+  }
+];

@@ -1,0 +1,275 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/11/04"] = [
+  {
+    "pk": 840473,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 1,
+    "text": "Now King Solomon was king over all Israel."
+  },
+  {
+    "pk": 840474,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 2,
+    "text": "These were his officials: Azariah the son of Zadok [was] the priest;"
+  },
+  {
+    "pk": 840475,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 3,
+    "text": "Elihoreph and Ahijah, the sons of Shisha [were] secretaries; Jehoshaphat the son of Ahilud [was] the recorder;"
+  },
+  {
+    "pk": 840476,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 4,
+    "text": "and Benaiah the son of Jehoiada [was] over the army; and Zadok and Abiathar [were] priests;"
+  },
+  {
+    "pk": 840477,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 5,
+    "text": "and Azariah the son of Nathan [was] over the deputies; and Zabud the son of Nathan, a priest, [was] the king's friend;"
+  },
+  {
+    "pk": 840478,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 6,
+    "text": "and Ahishar was over the household; and Adoniram the son of Abda [was] over the men subject to forced labor."
+  },
+  {
+    "pk": 840479,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 7,
+    "text": "Solomon had twelve deputies over all Israel, who provided for the king and his household; each man had to provide for a month in the year."
+  },
+  {
+    "pk": 840480,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 8,
+    "text": "These are their names: Ben-hur, in the hill country of Ephraim;"
+  },
+  {
+    "pk": 840481,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 9,
+    "text": "Ben-deker in Makaz and Shaalbim and Beth-shemesh and Elonbeth-hanan;"
+  },
+  {
+    "pk": 840482,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 10,
+    "text": "Ben-hesed, in Arubboth (Socoh [was] his and all the land of Hepher);"
+  },
+  {
+    "pk": 840483,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 11,
+    "text": "Ben-abinadab, [in] all the height of Dor (Taphath the daughter of Solomon was his wife);"
+  },
+  {
+    "pk": 840484,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 12,
+    "text": "Baana the son of Ahilud, [in] Taanach and Megiddo, and all Beth-shean which is beside Zarethan below Jezreel, from Beth-shean to Abel-meholah as far as the other side of Jokmeam;"
+  },
+  {
+    "pk": 840485,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 13,
+    "text": "Ben-geber, in Ramoth-gilead (the towns of Jair, the son of Manasseh, which are in Gilead were his: the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars [were] his);"
+  },
+  {
+    "pk": 840486,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 14,
+    "text": "Ahinadab the son of Iddo, [in] Mahanaim;"
+  },
+  {
+    "pk": 840487,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 15,
+    "text": "Ahimaaz, in Naphtali (he also married Basemath the daughter of Solomon);"
+  },
+  {
+    "pk": 840488,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 16,
+    "text": "Baana the son of Hushai, in Asher and Bealoth;"
+  },
+  {
+    "pk": 840489,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 17,
+    "text": "Jehoshaphat the son of Paruah, in Issachar;"
+  },
+  {
+    "pk": 840490,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 18,
+    "text": "Shimei the son of Ela, in Benjamin;"
+  },
+  {
+    "pk": 840491,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 19,
+    "text": "Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and [he was] the only deputy who [was] in the land."
+  },
+  {
+    "pk": 840492,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 20,
+    "text": "Judah and Israel [were] as numerous as the sand that is on the seashore in abundance; [they] were eating and drinking and rejoicing."
+  },
+  {
+    "pk": 840493,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 21,
+    "text": "Now Solomon ruled over all the kingdoms from the River [to] the land of the Philistines and to the border of Egypt; [they] brought tribute and served Solomon all the days of his life."
+  },
+  {
+    "pk": 840494,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 22,
+    "text": "Solomon's provision for one day was thirty kors of fine flour and sixty kors of meal,"
+  },
+  {
+    "pk": 840495,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 23,
+    "text": "ten fat oxen, twenty pasture-fed oxen, a hundred sheep besides deer, gazelles, roebucks, and fattened fowl."
+  },
+  {
+    "pk": 840496,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 24,
+    "text": "For he had dominion over everything west of the River, from Tiphsah even to Gaza, over all the kings west of the River; and he had peace on all sides around about him."
+  },
+  {
+    "pk": 840497,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 25,
+    "text": "So Judah and Israel lived in safety, every man under his vine and his fig tree, from Dan even to Beersheba, all the days of Solomon."
+  },
+  {
+    "pk": 840498,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 26,
+    "text": "Solomon had 40,000 stalls of horses for his chariots, and 12,000 horsemen."
+  },
+  {
+    "pk": 840499,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 27,
+    "text": "Those deputies provided for King Solomon and all who came to King Solomon's table, each in his month; they left nothing lacking."
+  },
+  {
+    "pk": 840500,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 28,
+    "text": "They also brought barley and straw for the horses and swift steeds to the place where it should be, each according to his charge."
+  },
+  {
+    "pk": 840501,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 29,
+    "text": "Now God gave Solomon wisdom and very great discernment and breadth of mind, like the sand that is on the seashore."
+  },
+  {
+    "pk": 840502,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 30,
+    "text": "Solomon's wisdom surpassed the wisdom of all the sons of the east and all the wisdom of Egypt."
+  },
+  {
+    "pk": 840503,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 31,
+    "text": "For he was wiser than all men, than Ethan the Ezrahite, Heman, Calcol and Darda, the sons of Mahol; and his fame was [known] in all the surrounding nations."
+  },
+  {
+    "pk": 840504,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 32,
+    "text": "He also spoke 3,000 proverbs, and his songs were 1,005."
+  },
+  {
+    "pk": 840505,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 33,
+    "text": "He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows on the wall; he spoke also of animals and birds and creeping things and fish."
+  },
+  {
+    "pk": 840506,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 4,
+    "verse": 34,
+    "text": "Men came from all peoples to hear the wisdom of Solomon, from all the kings of the earth who had heard of his wisdom."
+  }
+];

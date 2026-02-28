@@ -1,0 +1,1765 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/38/book"] = {
+  "translation": "NASB",
+  "book": 38,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 854507,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the eighth month of the second year of Darius, the word of the LORD came to Zechariah the prophet, the son of Berechiah, the son of Iddo saying,"
+        },
+        {
+          "pk": 854508,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 2,
+          "text": "'The LORD was very angry with your fathers."
+        },
+        {
+          "pk": 854509,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 3,
+          "text": "'Therefore say to them, 'Thus says the LORD of hosts, 'Return to Me,' declares the LORD of hosts, 'that I may return to you,' says the LORD of hosts."
+        },
+        {
+          "pk": 854510,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 4,
+          "text": "'Do not be like your fathers, to whom the former prophets proclaimed, saying, 'Thus says the LORD of hosts, 'Return now from your evil ways and from your evil deeds.'' But they did not listen or give heed to Me,' declares the LORD."
+        },
+        {
+          "pk": 854511,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 5,
+          "text": "'Your fathers, where are they? And the prophets, do they live forever?"
+        },
+        {
+          "pk": 854512,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 6,
+          "text": "'But did not My words and My statutes, which I commanded My servants the prophets, overtake your fathers? Then they repented and said, 'As the LORD of hosts purposed to do to us in accordance with our ways and our deeds, so He has dealt with us.''''"
+        },
+        {
+          "pk": 854513,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 7,
+          "text": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius, the word of the LORD came to Zechariah the prophet, the son of Berechiah, the son of Iddo, as follows:"
+        },
+        {
+          "pk": 854514,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 8,
+          "text": "I saw at night, and behold, a man was riding on a red horse, and he was standing among the myrtle trees which were in the ravine, with red, sorrel and white horses behind him."
+        },
+        {
+          "pk": 854515,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 9,
+          "text": "Then I said, 'My lord, what are these?' And the angel who was speaking with me said to me, 'I will show you what these are.'"
+        },
+        {
+          "pk": 854516,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 10,
+          "text": "And the man who was standing among the myrtle trees answered and said, 'These are those whom the LORD has sent to patrol the earth.'"
+        },
+        {
+          "pk": 854517,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 11,
+          "text": "So they answered the angel of the LORD who was standing among the myrtle trees and said, 'We have patrolled the earth, and behold, all the earth is peaceful and quiet.'"
+        },
+        {
+          "pk": 854518,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 12,
+          "text": "Then the angel of the LORD said, 'O LORD of hosts, how long will You have no compassion for Jerusalem and the cities of Judah, with which You have been indignant these seventy years?'"
+        },
+        {
+          "pk": 854519,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 13,
+          "text": "The LORD answered the angel who was speaking with me with gracious words, comforting words."
+        },
+        {
+          "pk": 854520,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 14,
+          "text": "So the angel who was speaking with me said to me, 'Proclaim, saying, 'Thus says the LORD of hosts, 'I am exceedingly jealous for Jerusalem and Zion."
+        },
+        {
+          "pk": 854521,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 15,
+          "text": "'But I am very angry with the nations who are at ease; for while I was only a little angry, they furthered the disaster.'"
+        },
+        {
+          "pk": 854522,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 16,
+          "text": "'Therefore thus says the LORD, 'I will return to Jerusalem with compassion; My house will be built in it,' declares the LORD of hosts, 'and a measuring line will be stretched over Jerusalem.''"
+        },
+        {
+          "pk": 854523,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 17,
+          "text": "'Again, proclaim, saying, 'Thus says the LORD of hosts, 'My cities will again overflow with prosperity, and the LORD will again comfort Zion and again choose Jerusalem.'''"
+        },
+        {
+          "pk": 854524,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 18,
+          "text": "Then I lifted up my eyes and looked, and behold, [there were] four horns."
+        },
+        {
+          "pk": 854525,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 19,
+          "text": "So I said to the angel who was speaking with me, 'What are these?' And he answered me, 'These are the horns which have scattered Judah, Israel and Jerusalem.'"
+        },
+        {
+          "pk": 854526,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 20,
+          "text": "Then the LORD showed me four craftsmen."
+        },
+        {
+          "pk": 854527,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 1,
+          "verse": 21,
+          "text": "I said, 'What are these coming to do?' And he said, 'These are the horns which have scattered Judah so that no man lifts up his head; but these [craftsmen] have come to terrify them, to throw down the horns of the nations who have lifted up [their] horns against the land of Judah in order to scatter it.'"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 854528,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 1,
+          "text": "Then I lifted up my eyes and looked, and behold, [there was] a man with a measuring line in his hand."
+        },
+        {
+          "pk": 854529,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 2,
+          "text": "So I said, 'Where are you going?' And he said to me, 'To measure Jerusalem, to see how wide it is and how long it is.'"
+        },
+        {
+          "pk": 854530,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 3,
+          "text": "And behold, the angel who was speaking with me was going out, and another angel was coming out to meet him,"
+        },
+        {
+          "pk": 854531,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 4,
+          "text": "and said to him, 'Run, speak to that young man, saying, 'Jerusalem will be inhabited without walls because of the multitude of men and cattle within it."
+        },
+        {
+          "pk": 854532,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 5,
+          "text": "'For I,' declares the LORD, 'will be a wall of fire around her, and I will be the glory in her midst.''"
+        },
+        {
+          "pk": 854533,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 6,
+          "text": "'Ho there! Flee from the land of the north,' declares the LORD, 'for I have dispersed you as the four winds of the heavens,' declares the LORD."
+        },
+        {
+          "pk": 854534,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 7,
+          "text": "'Ho, Zion! Escape, you who are living with the daughter of Babylon.'"
+        },
+        {
+          "pk": 854535,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 8,
+          "text": "For thus says the LORD of hosts, 'After glory He has sent me against the nations which plunder you, for he who touches you, touches the apple of His eye."
+        },
+        {
+          "pk": 854536,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 9,
+          "text": "'For behold, I will wave My hand over them so that they will be plunder for their slaves. Then you will know that the LORD of hosts has sent Me."
+        },
+        {
+          "pk": 854537,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 10,
+          "text": "'Sing for joy and be glad, O daughter of Zion; for behold I am coming and I will dwell in your midst,' declares the LORD."
+        },
+        {
+          "pk": 854538,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 11,
+          "text": "'Many nations will join themselves to the LORD in that day and will become My people. Then I will dwell in your midst, and you will know that the LORD of hosts has sent Me to you."
+        },
+        {
+          "pk": 854539,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 12,
+          "text": "'The LORD will possess Judah as His portion in the holy land, and will again choose Jerusalem."
+        },
+        {
+          "pk": 854540,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 2,
+          "verse": 13,
+          "text": "'Be silent, all flesh, before the LORD; for He is aroused from His holy habitation.'"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 854541,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 1,
+          "text": "Then he showed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to accuse him."
+        },
+        {
+          "pk": 854542,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 2,
+          "text": "The LORD said to Satan, 'The LORD rebuke you, Satan! Indeed, the LORD who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?'"
+        },
+        {
+          "pk": 854543,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 3,
+          "text": "Now Joshua was clothed with filthy garments and standing before the angel."
+        },
+        {
+          "pk": 854544,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 4,
+          "text": "He spoke and said to those who were standing before him, saying, 'Remove the filthy garments from him.' Again he said to him, 'See, I have taken your iniquity away from you and will clothe you with festal robes.'"
+        },
+        {
+          "pk": 854545,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 5,
+          "text": "Then I said, 'Let them put a clean turban on his head.' So they put a clean turban on his head and clothed him with garments, while the angel of the LORD was standing by."
+        },
+        {
+          "pk": 854546,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 6,
+          "text": "And the angel of the LORD admonished Joshua, saying,"
+        },
+        {
+          "pk": 854547,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 7,
+          "text": "'Thus says the LORD of hosts, 'If you will walk in My ways and if you will perform My service, then you will also govern My house and also have charge of My courts, and I will grant you free access among these who are standing [here]."
+        },
+        {
+          "pk": 854548,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 8,
+          "text": "'Now listen, Joshua the high priest, you and your friends who are sitting in front of you-- indeed they are men who are a symbol, for behold, I am going to bring in My servant the Branch."
+        },
+        {
+          "pk": 854549,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 9,
+          "text": "'For behold, the stone that I have set before Joshua; on one stone are seven eyes. Behold, I will engrave an inscription on it,' declares the LORD of hosts, 'and I will remove the iniquity of that land in one day."
+        },
+        {
+          "pk": 854550,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 3,
+          "verse": 10,
+          "text": "'In that day,' declares the LORD of hosts, 'every one of you will invite his neighbor to [sit] under [his] vine and under [his] fig tree.''"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 854551,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Then the angel who was speaking with me returned and roused me, as a man who is awakened from his sleep."
+        },
+        {
+          "pk": 854552,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 2,
+          "text": "He said to me, 'What do you see?' And I said, 'I see, and behold, a lampstand all of gold with its bowl on the top of it, and its seven lamps on it with seven spouts belonging to each of the lamps which are on the top of it;"
+        },
+        {
+          "pk": 854553,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 3,
+          "text": "also two olive trees by it, one on the right side of the bowl and the other on its left side.'"
+        },
+        {
+          "pk": 854554,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 4,
+          "text": "Then I said to the angel who was speaking with me saying, 'What are these, my lord?'"
+        },
+        {
+          "pk": 854555,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 5,
+          "text": "So the angel who was speaking with me answered and said to me, 'Do you not know what these are?' And I said, 'No, my lord.'"
+        },
+        {
+          "pk": 854556,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 6,
+          "text": "Then he said to me, 'This is the word of the LORD to Zerubbabel saying, 'Not by might nor by power, but by My Spirit,' says the LORD of hosts."
+        },
+        {
+          "pk": 854557,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 7,
+          "text": "'What are you, O great mountain? Before Zerubbabel [you will become] a plain; and he will bring forth the top stone with shouts of 'Grace, grace to it!'''"
+        },
+        {
+          "pk": 854558,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 8,
+          "text": "Also the word of the LORD came to me, saying,"
+        },
+        {
+          "pk": 854559,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 9,
+          "text": "'The hands of Zerubbabel have laid the foundation of this house, and his hands will finish [it]. Then you will know that the LORD of hosts has sent me to you."
+        },
+        {
+          "pk": 854560,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 10,
+          "text": "'For who has despised the day of small things? But these seven will be glad when they see the plumb line in the hand of Zerubbabel-- [these are] the eyes of the LORD which range to and fro throughout the earth.'"
+        },
+        {
+          "pk": 854561,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 11,
+          "text": "Then I said to him, 'What are these two olive trees on the right of the lampstand and on its left?'"
+        },
+        {
+          "pk": 854562,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 12,
+          "text": "And I answered the second time and said to him, 'What are the two olive branches which are beside the two golden pipes, which empty the golden [oil] from themselves?'"
+        },
+        {
+          "pk": 854563,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 13,
+          "text": "So he answered me, saying, 'Do you not know what these are?' And I said, 'No, my lord.'"
+        },
+        {
+          "pk": 854564,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 4,
+          "verse": 14,
+          "text": "Then he said, 'These are the two anointed ones who are standing by the Lord of the whole earth.'"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 854565,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Then I lifted up my eyes again and looked, and behold, [there was] a flying scroll."
+        },
+        {
+          "pk": 854566,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 2,
+          "text": "And he said to me, 'What do you see?' And I answered, 'I see a flying scroll; its length is twenty cubits and its width ten cubits.'"
+        },
+        {
+          "pk": 854567,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 3,
+          "text": "Then he said to me, 'This is the curse that is going forth over the face of the whole land; surely everyone who steals will be purged away according to the writing on one side, and everyone who swears will be purged away according to the writing on the other side."
+        },
+        {
+          "pk": 854568,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 4,
+          "text": "'I will make it go forth,' declares the LORD of hosts, 'and it will enter the house of the thief and the house of the one who swears falsely by My name; and it will spend the night within that house and consume it with its timber and stones.'"
+        },
+        {
+          "pk": 854569,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 5,
+          "text": "Then the angel who was speaking with me went out and said to me, 'Lift up now your eyes and see what this is going forth.'"
+        },
+        {
+          "pk": 854570,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 6,
+          "text": "I said, 'What is it?' And he said, 'This is the ephah going forth.' Again he said, 'This is their appearance in all the land"
+        },
+        {
+          "pk": 854571,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 7,
+          "text": "(and behold, a lead cover was lifted up); and this is a woman sitting inside the ephah.'"
+        },
+        {
+          "pk": 854572,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 8,
+          "text": "Then he said, 'This is Wickedness!' And he threw her down into the middle of the ephah and cast the lead weight on its opening."
+        },
+        {
+          "pk": 854573,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then I lifted up my eyes and looked, and there two women were coming out with the wind in their wings; and they had wings like the wings of a stork, and they lifted up the ephah between the earth and the heavens."
+        },
+        {
+          "pk": 854574,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 10,
+          "text": "I said to the angel who was speaking with me, 'Where are they taking the ephah?'"
+        },
+        {
+          "pk": 854575,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 5,
+          "verse": 11,
+          "text": "Then he said to me, 'To build a temple for her in the land of Shinar; and when it is prepared, she will be set there on her own pedestal.'"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 854576,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 1,
+          "text": "Now I lifted up my eyes again and looked, and behold, four chariots were coming forth from between the two mountains; and the mountains [were] bronze mountains."
+        },
+        {
+          "pk": 854577,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 2,
+          "text": "With the first chariot [were] red horses, with the second chariot black horses,"
+        },
+        {
+          "pk": 854578,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 3,
+          "text": "with the third chariot white horses, and with the fourth chariot strong dappled horses."
+        },
+        {
+          "pk": 854579,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 4,
+          "text": "Then I spoke and said to the angel who was speaking with me, 'What are these, my lord?'"
+        },
+        {
+          "pk": 854580,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 5,
+          "text": "The angel replied to me, 'These are the four spirits of heaven, going forth after standing before the Lord of all the earth,"
+        },
+        {
+          "pk": 854581,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 6,
+          "text": "with one of which the black horses are going forth to the north country; and the white ones go forth after them, while the dappled ones go forth to the south country."
+        },
+        {
+          "pk": 854582,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 7,
+          "text": "'When the strong ones went out, they were eager to go to patrol the earth.' And He said, 'Go, patrol the earth.' So they patrolled the earth."
+        },
+        {
+          "pk": 854583,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 8,
+          "text": "Then He cried out to me and spoke to me saying, 'See, those who are going to the land of the north have appeased My wrath in the land of the north.'"
+        },
+        {
+          "pk": 854584,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 9,
+          "text": "The word of the LORD also came to me, saying,"
+        },
+        {
+          "pk": 854585,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 10,
+          "text": "'Take [an offering] from the exiles, from Heldai, Tobijah and Jedaiah; and you go the same day and enter the house of Josiah the son of Zephaniah, where they have arrived from Babylon."
+        },
+        {
+          "pk": 854586,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 11,
+          "text": "'Take silver and gold, make an [ornate] crown and set [it] on the head of Joshua the son of Jehozadak, the high priest."
+        },
+        {
+          "pk": 854587,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 12,
+          "text": "'Then say to him, 'Thus says the LORD of hosts, 'Behold, a man whose name is Branch, for He will branch out from where He is; and He will build the temple of the LORD."
+        },
+        {
+          "pk": 854588,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 13,
+          "text": "'Yes, it is He who will build the temple of the LORD, and He who will bear the honor and sit and rule on His throne. Thus, He will be a priest on His throne, and the counsel of peace will be between the two offices.''"
+        },
+        {
+          "pk": 854589,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 14,
+          "text": "'Now the crown will become a reminder in the temple of the LORD to Helem, Tobijah, Jedaiah and Hen the son of Zephaniah."
+        },
+        {
+          "pk": 854590,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 6,
+          "verse": 15,
+          "text": "'Those who are far off will come and build the temple of the LORD.' Then you will know that the LORD of hosts has sent me to you. And it will take place if you completely obey the LORD your God."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 854591,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 1,
+          "text": "In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth [day] of the ninth month, [which is] Chislev."
+        },
+        {
+          "pk": 854592,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 2,
+          "text": "Now [the town of] Bethel had sent Sharezer and Regemmelech and their men to seek the favor of the LORD,"
+        },
+        {
+          "pk": 854593,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 3,
+          "text": "speaking to the priests who belong to the house of the LORD of hosts, and to the prophets, saying, 'Shall I weep in the fifth month and abstain, as I have done these many years?'"
+        },
+        {
+          "pk": 854594,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 4,
+          "text": "Then the word of the LORD of hosts came to me, saying,"
+        },
+        {
+          "pk": 854595,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 5,
+          "text": "'Say to all the people of the land and to the priests, 'When you fasted and mourned in the fifth and seventh months these seventy years, was it actually for Me that you fasted?"
+        },
+        {
+          "pk": 854596,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 6,
+          "text": "'When you eat and drink, do you not eat for yourselves and do you not drink for yourselves?"
+        },
+        {
+          "pk": 854597,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 7,
+          "text": "'Are not [these] the words which the LORD proclaimed by the former prophets, when Jerusalem was inhabited and prosperous along with its cities around it, and the Negev and the foothills were inhabited?''"
+        },
+        {
+          "pk": 854598,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 8,
+          "text": "Then the word of the LORD came to Zechariah saying,"
+        },
+        {
+          "pk": 854599,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 9,
+          "text": "'Thus has the LORD of hosts said, 'Dispense true justice and practice kindness and compassion each to his brother;"
+        },
+        {
+          "pk": 854600,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 10,
+          "text": "and do not oppress the widow or the orphan, the stranger or the poor; and do not devise evil in your hearts against one another.'"
+        },
+        {
+          "pk": 854601,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 11,
+          "text": "'But they refused to pay attention and turned a stubborn shoulder and stopped their ears from hearing."
+        },
+        {
+          "pk": 854602,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 12,
+          "text": "'They made their hearts [like] flint so that they could not hear the law and the words which the LORD of hosts had sent by His Spirit through the former prophets; therefore great wrath came from the LORD of hosts."
+        },
+        {
+          "pk": 854603,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 13,
+          "text": "'And just as He called and they would not listen, so they called and I would not listen,' says the LORD of hosts;"
+        },
+        {
+          "pk": 854604,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 7,
+          "verse": 14,
+          "text": "'but I scattered them with a storm wind among all the nations whom they have not known. Thus the land is desolated behind them so that no one went back and forth, for they made the pleasant land desolate.'"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 854605,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 1,
+          "text": "Then the word of the LORD of hosts came, saying,"
+        },
+        {
+          "pk": 854606,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 2,
+          "text": "'Thus says the LORD of hosts, 'I am exceedingly jealous for Zion, yes, with great wrath I am jealous for her.'"
+        },
+        {
+          "pk": 854607,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 3,
+          "text": "'Thus says the LORD, 'I will return to Zion and will dwell in the midst of Jerusalem. Then Jerusalem will be called the City of Truth, and the mountain of the LORD of hosts [will be called] the Holy Mountain.'"
+        },
+        {
+          "pk": 854608,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 4,
+          "text": "'Thus says the LORD of hosts, 'Old men and old women will again sit in the streets of Jerusalem, each man with his staff in his hand because of age."
+        },
+        {
+          "pk": 854609,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 5,
+          "text": "'And the streets of the city will be filled with boys and girls playing in its streets.'"
+        },
+        {
+          "pk": 854610,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 6,
+          "text": "'Thus says the LORD of hosts, 'If it is too difficult in the sight of the remnant of this people in those days, will it also be too difficult in My sight?' declares the LORD of hosts."
+        },
+        {
+          "pk": 854611,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 7,
+          "text": "'Thus says the LORD of hosts, 'Behold, I am going to save My people from the land of the east and from the land of the west;"
+        },
+        {
+          "pk": 854612,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 8,
+          "text": "and I will bring them [back] and they will live in the midst of Jerusalem; and they shall be My people, and I will be their God in truth and righteousness.'"
+        },
+        {
+          "pk": 854613,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 9,
+          "text": "'Thus says the LORD of hosts, 'Let your hands be strong, you who are listening in these days to these words from the mouth of the prophets, [those] who [spoke] in the day that the foundation of the house of the LORD of hosts was laid, to the end that the temple might be built."
+        },
+        {
+          "pk": 854614,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 10,
+          "text": "'For before those days there was no wage for man or any wage for animal; and for him who went out or came in there was no peace because of his enemies, and I set all men one against another."
+        },
+        {
+          "pk": 854615,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 11,
+          "text": "'But now I will not treat the remnant of this people as in the former days,' declares the LORD of hosts."
+        },
+        {
+          "pk": 854616,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 12,
+          "text": "'For [there will be] peace for the seed: the vine will yield its fruit, the land will yield its produce and the heavens will give their dew; and I will cause the remnant of this people to inherit all these [things]."
+        },
+        {
+          "pk": 854617,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 13,
+          "text": "'It will come about that just as you were a curse among the nations, O house of Judah and house of Israel, so I will save you that you may become a blessing. Do not fear; let your hands be strong.'"
+        },
+        {
+          "pk": 854618,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 14,
+          "text": "'For thus says the LORD of hosts, 'Just as I purposed to do harm to you when your fathers provoked Me to wrath,' says the LORD of hosts, 'and I have not relented,"
+        },
+        {
+          "pk": 854619,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 15,
+          "text": "so I have again purposed in these days to do good to Jerusalem and to the house of Judah. Do not fear!"
+        },
+        {
+          "pk": 854620,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 16,
+          "text": "'These are the things which you should do: speak the truth to one another; judge with truth and judgment for peace in your gates."
+        },
+        {
+          "pk": 854621,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 17,
+          "text": "'Also let none of you devise evil in your heart against another, and do not love perjury; for all these are what I hate,' declares the LORD.'"
+        },
+        {
+          "pk": 854622,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 18,
+          "text": "Then the word of the LORD of hosts came to me, saying,"
+        },
+        {
+          "pk": 854623,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 19,
+          "text": "'Thus says the LORD of hosts, 'The fast of the fourth, the fast of the fifth, the fast of the seventh and the fast of the tenth [months] will become joy, gladness, and cheerful feasts for the house of Judah; so love truth and peace.'"
+        },
+        {
+          "pk": 854624,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 20,
+          "text": "'Thus says the LORD of hosts, '[It will] yet [be] that peoples will come, even the inhabitants of many cities."
+        },
+        {
+          "pk": 854625,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 21,
+          "text": "'The inhabitants of one will go to another, saying, 'Let us go at once to entreat the favor of the LORD, and to seek the LORD of hosts; I will also go.'"
+        },
+        {
+          "pk": 854626,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 22,
+          "text": "'So many peoples and mighty nations will come to seek the LORD of hosts in Jerusalem and to entreat the favor of the LORD.'"
+        },
+        {
+          "pk": 854627,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 8,
+          "verse": 23,
+          "text": "'Thus says the LORD of hosts, 'In those days ten men from all the nations will grasp the garment of a Jew, saying, 'Let us go with you, for we have heard that God is with you.'''"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 854628,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 1,
+          "text": "The burden of the word of the LORD is against the land of Hadrach, with Damascus as its resting place (for the eyes of men, especially of all the tribes of Israel, are toward the LORD),"
+        },
+        {
+          "pk": 854629,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 2,
+          "text": "And Hamath also, which borders on it; Tyre and Sidon, though they are very wise."
+        },
+        {
+          "pk": 854630,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 3,
+          "text": "For Tyre built herself a fortress And piled up silver like dust, And gold like the mire of the streets."
+        },
+        {
+          "pk": 854631,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 4,
+          "text": "Behold, the Lord will dispossess her And cast her wealth into the sea; And she will be consumed with fire."
+        },
+        {
+          "pk": 854632,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 5,
+          "text": "Ashkelon will see [it] and be afraid. Gaza too will writhe in great pain; Also Ekron, for her expectation has been confounded. Moreover, the king will perish from Gaza, And Ashkelon will not be inhabited."
+        },
+        {
+          "pk": 854633,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 6,
+          "text": "And a mongrel race will dwell in Ashdod, And I will cut off the pride of the Philistines."
+        },
+        {
+          "pk": 854634,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 7,
+          "text": "And I will remove their blood from their mouth And their detestable things from between their teeth. Then they also will be a remnant for our God, And be like a clan in Judah, And Ekron like a Jebusite."
+        },
+        {
+          "pk": 854635,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 8,
+          "text": "But I will camp around My house because of an army, Because of him who passes by and returns; And no oppressor will pass over them anymore, For now I have seen with My eyes."
+        },
+        {
+          "pk": 854636,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 9,
+          "text": "Rejoice greatly, O daughter of Zion! Shout [in triumph], O daughter of Jerusalem! Behold, your king is coming to you; He is just and endowed with salvation, Humble, and mounted on a donkey, Even on a colt, the foal of a donkey."
+        },
+        {
+          "pk": 854637,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 10,
+          "text": "I will cut off the chariot from Ephraim And the horse from Jerusalem; And the bow of war will be cut off. And He will speak peace to the nations; And His dominion will be from sea to sea, And from the River to the ends of the earth."
+        },
+        {
+          "pk": 854638,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 11,
+          "text": "As for you also, because of the blood of [My] covenant with you, I have set your prisoners free from the waterless pit."
+        },
+        {
+          "pk": 854639,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 12,
+          "text": "Return to the stronghold, O prisoners who have the hope; This very day I am declaring that I will restore double to you."
+        },
+        {
+          "pk": 854640,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 13,
+          "text": "For I will bend Judah as My bow, I will fill the bow with Ephraim. And I will stir up your sons, O Zion, against your sons, O Greece; And I will make you like a warrior's sword."
+        },
+        {
+          "pk": 854641,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 14,
+          "text": "Then the LORD will appear over them, And His arrow will go forth like lightning; And the Lord GOD will blow the trumpet, And will march in the storm winds of the south."
+        },
+        {
+          "pk": 854642,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 15,
+          "text": "The LORD of hosts will defend them. And they will devour and trample on the sling stones; And they will drink [and] be boisterous as with wine; And they will be filled like a [sacrificial] basin, [Drenched] like the corners of the altar."
+        },
+        {
+          "pk": 854643,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 16,
+          "text": "And the LORD their God will save them in that day As the flock of His people; For [they are as] the stones of a crown, Sparkling in His land."
+        },
+        {
+          "pk": 854644,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 9,
+          "verse": 17,
+          "text": "For what comeliness and beauty [will be] theirs! Grain will make the young men flourish, and new wine the virgins."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 854645,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 1,
+          "text": "Ask rain from the LORD at the time of the spring rain-- The LORD who makes the storm clouds; And He will give them showers of rain, vegetation in the field to [each] man."
+        },
+        {
+          "pk": 854646,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 2,
+          "text": "For the teraphim speak iniquity, And the diviners see lying visions And tell false dreams; They comfort in vain. Therefore [the people] wander like sheep, They are afflicted, because there is no shepherd."
+        },
+        {
+          "pk": 854647,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 3,
+          "text": "'My anger is kindled against the shepherds, And I will punish the male goats; For the LORD of hosts has visited His flock, the house of Judah, And will make them like His majestic horse in battle."
+        },
+        {
+          "pk": 854648,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 4,
+          "text": "'From them will come the cornerstone, From them the tent peg, From them the bow of battle, From them every ruler, [all] of them together."
+        },
+        {
+          "pk": 854649,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 5,
+          "text": "'They will be as mighty men, Treading down [the enemy] in the mire of the streets in battle; And they will fight, for the LORD [will be] with them; And the riders on horses will be put to shame."
+        },
+        {
+          "pk": 854650,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 6,
+          "text": "'I will strengthen the house of Judah, And I will save the house of Joseph, And I will bring them back, Because I have had compassion on them; And they will be as though I had not rejected them, For I am the LORD their God and I will answer them."
+        },
+        {
+          "pk": 854651,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 7,
+          "text": "'Ephraim will be like a mighty man, And their heart will be glad as if [from] wine; Indeed, their children will see [it] and be glad, Their heart will rejoice in the LORD."
+        },
+        {
+          "pk": 854652,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 8,
+          "text": "'I will whistle for them to gather them together, For I have redeemed them; And they will be as numerous as they were before."
+        },
+        {
+          "pk": 854653,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 9,
+          "text": "'When I scatter them among the peoples, They will remember Me in far countries, And they with their children will live and come back."
+        },
+        {
+          "pk": 854654,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 10,
+          "text": "'I will bring them back from the land of Egypt And gather them from Assyria; And I will bring them into the land of Gilead and Lebanon Until no [room] can be found for them."
+        },
+        {
+          "pk": 854655,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 11,
+          "text": "'And they will pass through the sea [of] distress And He will strike the waves in the sea, So that all the depths of the Nile will dry up; And the pride of Assyria will be brought down And the scepter of Egypt will depart."
+        },
+        {
+          "pk": 854656,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 10,
+          "verse": 12,
+          "text": "'And I will strengthen them in the LORD, And in His name they will walk,' declares the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 854657,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 1,
+          "text": "Open your doors, O Lebanon, That a fire may feed on your cedars."
+        },
+        {
+          "pk": 854658,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 2,
+          "text": "Wail, O cypress, for the cedar has fallen, Because the glorious [trees] have been destroyed; Wail, O oaks of Bashan, For the impenetrable forest has come down."
+        },
+        {
+          "pk": 854659,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 3,
+          "text": "There is a sound of the shepherds' wail, For their glory is ruined; There is a sound of the young lions' roar, For the pride of the Jordan is ruined."
+        },
+        {
+          "pk": 854660,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 4,
+          "text": "Thus says the LORD my God, 'Pasture the flock [doomed] to slaughter."
+        },
+        {
+          "pk": 854661,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 5,
+          "text": "'Those who buy them slay them and go unpunished, and [each of] those who sell them says, 'Blessed be the LORD, for I have become rich!' And their own shepherds have no pity on them."
+        },
+        {
+          "pk": 854662,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 6,
+          "text": "'For I will no longer have pity on the inhabitants of the land,' declares the LORD; 'but behold, I will cause the men to fall, each into another's power and into the power of his king; and they will strike the land, and I will not deliver [them] from their power.'"
+        },
+        {
+          "pk": 854663,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 7,
+          "text": "So I pastured the flock [doomed] to slaughter, hence the afflicted of the flock. And I took for myself two staffs: the one I called Favor and the other I called Union; so I pastured the flock."
+        },
+        {
+          "pk": 854664,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 8,
+          "text": "Then I annihilated the three shepherds in one month, for my soul was impatient with them, and their soul also was weary of me."
+        },
+        {
+          "pk": 854665,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 9,
+          "text": "Then I said, 'I will not pasture you. What is to die, let it die, and what is to be annihilated, let it be annihilated; and let those who are left eat one another's flesh.'"
+        },
+        {
+          "pk": 854666,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 10,
+          "text": "I took my staff Favor and cut it in pieces, to break my covenant which I had made with all the peoples."
+        },
+        {
+          "pk": 854667,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 11,
+          "text": "So it was broken on that day, and thus the afflicted of the flock who were watching me realized that it was the word of the LORD."
+        },
+        {
+          "pk": 854668,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 12,
+          "text": "I said to them, 'If it is good in your sight, give [me] my wages; but if not, never mind!' So they weighed out thirty [shekels] of silver as my wages."
+        },
+        {
+          "pk": 854669,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 13,
+          "text": "Then the LORD said to me, 'Throw it to the potter, [that] magnificent price at which I was valued by them.' So I took the thirty [shekels] of silver and threw them to the potter in the house of the LORD."
+        },
+        {
+          "pk": 854670,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 14,
+          "text": "Then I cut in pieces my second staff Union, to break the brotherhood between Judah and Israel."
+        },
+        {
+          "pk": 854671,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 15,
+          "text": "The LORD said to me, 'Take again for yourself the equipment of a foolish shepherd."
+        },
+        {
+          "pk": 854672,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 16,
+          "text": "'For behold, I am going to raise up a shepherd in the land who will not care for the perishing, seek the scattered, heal the broken, or sustain the one standing, but will devour the flesh of the fat [sheep] and tear off their hoofs."
+        },
+        {
+          "pk": 854673,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 11,
+          "verse": 17,
+          "text": "'Woe to the worthless shepherd Who leaves the flock! A sword will be on his arm And on his right eye! His arm will be totally withered And his right eye will be blind.'"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 854674,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 1,
+          "text": "The burden of the word of the LORD concerning Israel. [Thus] declares the LORD who stretches out the heavens, lays the foundation of the earth, and forms the spirit of man within him,"
+        },
+        {
+          "pk": 854675,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 2,
+          "text": "'Behold, I am going to make Jerusalem a cup that causes reeling to all the peoples around; and when the siege is against Jerusalem, it will also be against Judah."
+        },
+        {
+          "pk": 854676,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 3,
+          "text": "'It will come about in that day that I will make Jerusalem a heavy stone for all the peoples; all who lift it will be severely injured. And all the nations of the earth will be gathered against it."
+        },
+        {
+          "pk": 854677,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 4,
+          "text": "'In that day,' declares the LORD, 'I will strike every horse with bewilderment and his rider with madness. But I will watch over the house of Judah, while I strike every horse of the peoples with blindness."
+        },
+        {
+          "pk": 854678,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 5,
+          "text": "'Then the clans of Judah will say in their hearts, 'A strong support for us are the inhabitants of Jerusalem through the LORD of hosts, their God.'"
+        },
+        {
+          "pk": 854679,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 6,
+          "text": "'In that day I will make the clans of Judah like a firepot among pieces of wood and a flaming torch among sheaves, so they will consume on the right hand and on the left all the surrounding peoples, while the inhabitants of Jerusalem again dwell on their own sites in Jerusalem."
+        },
+        {
+          "pk": 854680,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 7,
+          "text": "'The LORD also will save the tents of Judah first, so that the glory of the house of David and the glory of the inhabitants of Jerusalem will not be magnified above Judah."
+        },
+        {
+          "pk": 854681,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 8,
+          "text": "'In that day the LORD will defend the inhabitants of Jerusalem, and the one who is feeble among them in that day will be like David, and the house of David [will be] like God, like the angel of the LORD before them."
+        },
+        {
+          "pk": 854682,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 9,
+          "text": "'And in that day I will set about to destroy all the nations that come against Jerusalem."
+        },
+        {
+          "pk": 854683,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 10,
+          "text": "'I will pour out on the house of David and on the inhabitants of Jerusalem, the Spirit of grace and of supplication, so that they will look on Me whom they have pierced; and they will mourn for Him, as one mourns for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn."
+        },
+        {
+          "pk": 854684,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 11,
+          "text": "'In that day there will be great mourning in Jerusalem, like the mourning of Hadadrimmon in the plain of Megiddo."
+        },
+        {
+          "pk": 854685,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 12,
+          "text": "'The land will mourn, every family by itself; the family of the house of David by itself and their wives by themselves; the family of the house of Nathan by itself and their wives by themselves;"
+        },
+        {
+          "pk": 854686,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 13,
+          "text": "the family of the house of Levi by itself and their wives by themselves; the family of the Shimeites by itself and their wives by themselves;"
+        },
+        {
+          "pk": 854687,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 12,
+          "verse": 14,
+          "text": "all the families that remain, every family by itself and their wives by themselves."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 854688,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 1,
+          "text": "'In that day a fountain will be opened for the house of David and for the inhabitants of Jerusalem, for sin and for impurity."
+        },
+        {
+          "pk": 854689,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 2,
+          "text": "'It will come about in that day,' declares the LORD of hosts, 'that I will cut off the names of the idols from the land, and they will no longer be remembered; and I will also remove the prophets and the unclean spirit from the land."
+        },
+        {
+          "pk": 854690,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 3,
+          "text": "'And if anyone still prophesies, then his father and mother who gave birth to him will say to him, 'You shall not live, for you have spoken falsely in the name of the LORD'; and his father and mother who gave birth to him will pierce him through when he prophesies."
+        },
+        {
+          "pk": 854691,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 4,
+          "text": "'Also it will come about in that day that the prophets will each be ashamed of his vision when he prophesies, and they will not put on a hairy robe in order to deceive;"
+        },
+        {
+          "pk": 854692,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 5,
+          "text": "but he will say, 'I am not a prophet; I am a tiller of the ground, for a man sold me as a slave in my youth.'"
+        },
+        {
+          "pk": 854693,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 6,
+          "text": "'And one will say to him, 'What are these wounds between your arms?' Then he will say, '[Those] with which I was wounded in the house of my friends.'"
+        },
+        {
+          "pk": 854694,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 7,
+          "text": "'Awake, O sword, against My Shepherd, And against the man, My Associate,' Declares the LORD of hosts. 'Strike the Shepherd that the sheep may be scattered; And I will turn My hand against the little ones."
+        },
+        {
+          "pk": 854695,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 8,
+          "text": "'It will come about in all the land,' Declares the LORD, 'That two parts in it will be cut off [and] perish; But the third will be left in it."
+        },
+        {
+          "pk": 854696,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 13,
+          "verse": 9,
+          "text": "'And I will bring the third part through the fire, Refine them as silver is refined, And test them as gold is tested. They will call on My name, And I will answer them; I will say, 'They are My people,' And they will say, 'The LORD is my God.''"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "pk": 854697,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 1,
+          "text": "Behold, a day is coming for the LORD when the spoil taken from you will be divided among you."
+        },
+        {
+          "pk": 854698,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 2,
+          "text": "For I will gather all the nations against Jerusalem to battle, and the city will be captured, the houses plundered, the women ravished and half of the city exiled, but the rest of the people will not be cut off from the city."
+        },
+        {
+          "pk": 854699,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 3,
+          "text": "Then the LORD will go forth and fight against those nations, as when He fights on a day of battle."
+        },
+        {
+          "pk": 854700,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 4,
+          "text": "In that day His feet will stand on the Mount of Olives, which is in front of Jerusalem on the east; and the Mount of Olives will be split in its middle from east to west by a very large valley, so that half of the mountain will move toward the north and the other half toward the south."
+        },
+        {
+          "pk": 854701,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 5,
+          "text": "You will flee by the valley of My mountains, for the valley of the mountains will reach to Azel; yes, you will flee just as you fled before the earthquake in the days of Uzziah king of Judah. Then the LORD, my God, will come, [and] all the holy ones with Him!"
+        },
+        {
+          "pk": 854702,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 6,
+          "text": "In that day there will be no light; the luminaries will dwindle."
+        },
+        {
+          "pk": 854703,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 7,
+          "text": "For it will be a unique day which is known to the LORD, neither day nor night, but it will come about that at evening time there will be light."
+        },
+        {
+          "pk": 854704,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 8,
+          "text": "And in that day living waters will flow out of Jerusalem, half of them toward the eastern sea and the other half toward the western sea; it will be in summer as well as in winter."
+        },
+        {
+          "pk": 854705,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 9,
+          "text": "And the LORD will be king over all the earth; in that day the LORD will be [the only] one, and His name [the only] one."
+        },
+        {
+          "pk": 854706,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 10,
+          "text": "All the land will be changed into a plain from Geba to Rimmon south of Jerusalem; but Jerusalem will rise and remain on its site from Benjamin's Gate as far as the place of the First Gate to the Corner Gate, and from the Tower of Hananel to the king's wine presses."
+        },
+        {
+          "pk": 854707,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 11,
+          "text": "People will live in it, and there will no longer be a curse, for Jerusalem will dwell in security."
+        },
+        {
+          "pk": 854708,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 12,
+          "text": "Now this will be the plague with which the LORD will strike all the peoples who have gone to war against Jerusalem; their flesh will rot while they stand on their feet, and their eyes will rot in their sockets, and their tongue will rot in their mouth."
+        },
+        {
+          "pk": 854709,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 13,
+          "text": "It will come about in that day that a great panic from the LORD will fall on them; and they will seize one another's hand, and the hand of one will be lifted against the hand of another."
+        },
+        {
+          "pk": 854710,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 14,
+          "text": "Judah also will fight at Jerusalem; and the wealth of all the surrounding nations will be gathered, gold and silver and garments in great abundance."
+        },
+        {
+          "pk": 854711,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 15,
+          "text": "So also like this plague will be the plague on the horse, the mule, the camel, the donkey and all the cattle that will be in those camps."
+        },
+        {
+          "pk": 854712,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 16,
+          "text": "Then it will come about that any who are left of all the nations that went against Jerusalem will go up from year to year to worship the King, the LORD of hosts, and to celebrate the Feast of Booths."
+        },
+        {
+          "pk": 854713,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 17,
+          "text": "And it will be that whichever of the families of the earth does not go up to Jerusalem to worship the King, the LORD of hosts, there will be no rain on them."
+        },
+        {
+          "pk": 854714,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 18,
+          "text": "If the family of Egypt does not go up or enter, then no [rain will fall] on them; it will be the plague with which the LORD smites the nations who do not go up to celebrate the Feast of Booths."
+        },
+        {
+          "pk": 854715,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 19,
+          "text": "This will be the punishment of Egypt, and the punishment of all the nations who do not go up to celebrate the Feast of Booths."
+        },
+        {
+          "pk": 854716,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 20,
+          "text": "In that day there will [be inscribed] on the bells of the horses, 'HOLY TO THE LORD.' And the cooking pots in the LORD'S house will be like the bowls before the altar."
+        },
+        {
+          "pk": 854717,
+          "translation": "NASB",
+          "book": 38,
+          "chapter": 14,
+          "verse": 21,
+          "text": "Every cooking pot in Jerusalem and in Judah will be holy to the LORD of hosts; and all who sacrifice will come and take of them and boil in them. And there will no longer be a Canaanite in the house of the LORD of hosts in that day."
+        }
+      ]
+    }
+  ]
+};

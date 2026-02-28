@@ -1,0 +1,307 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/40/09"] = [
+  {
+    "pk": 855008,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 1,
+    "text": "Getting into a boat, Jesus crossed over [the sea] and came to His own city."
+  },
+  {
+    "pk": 855009,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 2,
+    "text": "And they brought to Him a paralytic lying on a bed. Seeing their faith, Jesus said to the paralytic, 'Take courage, son; your sins are forgiven.'"
+  },
+  {
+    "pk": 855010,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 3,
+    "text": "And some of the scribes said to themselves, 'This [fellow] blasphemes.'"
+  },
+  {
+    "pk": 855011,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 4,
+    "text": "And Jesus knowing their thoughts said, 'Why are you thinking evil in your hearts?"
+  },
+  {
+    "pk": 855012,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 5,
+    "text": "'Which is easier, to say, 'Your sins are forgiven,' or to say, 'Get up, and walk '?"
+  },
+  {
+    "pk": 855013,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 6,
+    "text": "'But so that you may know that the Son of Man has authority on earth to forgive sins '-- then He said to the paralytic, 'Get up, pick up your bed and go home.'"
+  },
+  {
+    "pk": 855014,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 7,
+    "text": "And he got up and went home."
+  },
+  {
+    "pk": 855015,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 8,
+    "text": "But when the crowds saw [this], they were awestruck, and glorified God, who had given such authority to men."
+  },
+  {
+    "pk": 855016,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 9,
+    "text": "As Jesus went on from there, He saw a man called Matthew, sitting in the tax collector's booth; and He said to him, 'Follow Me!' And he got up and followed Him."
+  },
+  {
+    "pk": 855017,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 10,
+    "text": "Then it happened that as Jesus was reclining [at the table] in the house, behold, many tax collectors and sinners came and were dining with Jesus and His disciples."
+  },
+  {
+    "pk": 855018,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 11,
+    "text": "When the Pharisees saw [this], they said to His disciples, 'Why is your Teacher eating with the tax collectors and sinners?'"
+  },
+  {
+    "pk": 855019,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 12,
+    "text": "But when Jesus heard [this], He said, '[It is] not those who are healthy who need a physician, but those who are sick."
+  },
+  {
+    "pk": 855020,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 13,
+    "text": "'But go and learn what this means: 'I DESIRE COMPASSION, AND NOT SACRIFICE,' for I did not come to call the righteous, but sinners.'"
+  },
+  {
+    "pk": 855021,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 14,
+    "text": "Then the disciples of John came to Him, asking, 'Why do we and the Pharisees fast, but Your disciples do not fast?'"
+  },
+  {
+    "pk": 855022,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 15,
+    "text": "And Jesus said to them, 'The attendants of the bridegroom cannot mourn as long as the bridegroom is with them, can they? But the days will come when the bridegroom is taken away from them, and then they will fast."
+  },
+  {
+    "pk": 855023,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 16,
+    "text": "'But no one puts a patch of unshrunk cloth on an old garment; for the patch pulls away from the garment, and a worse tear results."
+  },
+  {
+    "pk": 855024,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 17,
+    "text": "'Nor do [people] put new wine into old wineskins; otherwise the wineskins burst, and the wine pours out and the wineskins are ruined; but they put new wine into fresh wineskins, and both are preserved.'"
+  },
+  {
+    "pk": 855025,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 18,
+    "text": "While He was saying these things to them, a [synagogue] official came and bowed down before Him, and said, 'My daughter has just died; but come and lay Your hand on her, and she will live.'"
+  },
+  {
+    "pk": 855026,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 19,
+    "text": "Jesus got up and [began] to follow him, and [so did] His disciples."
+  },
+  {
+    "pk": 855027,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 20,
+    "text": "And a woman who had been suffering from a hemorrhage for twelve years, came up behind Him and touched the fringe of His cloak;"
+  },
+  {
+    "pk": 855028,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 21,
+    "text": "for she was saying to herself, 'If I only touch His garment, I will get well.'"
+  },
+  {
+    "pk": 855029,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 22,
+    "text": "But Jesus turning and seeing her said, 'Daughter, take courage; your faith has made you well.'"
+  },
+  {
+    "pk": 855030,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 23,
+    "text": "When Jesus came into the official's house, and saw the flute-players and the crowd in noisy disorder,"
+  },
+  {
+    "pk": 855031,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 24,
+    "text": "He said, 'Leave; for the girl has not died, but is asleep.' And they [began] laughing at Him."
+  },
+  {
+    "pk": 855032,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 25,
+    "text": "But when the crowd had been sent out, He entered and took her by the hand, and the girl got up."
+  },
+  {
+    "pk": 855033,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 26,
+    "text": "This news spread throughout all that land."
+  },
+  {
+    "pk": 855034,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 27,
+    "text": "As Jesus went on from there, two blind men followed Him, crying out, 'Have mercy on us, Son of David!'"
+  },
+  {
+    "pk": 855035,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 28,
+    "text": "When He entered the house, the blind men came up to Him, and Jesus said to them, 'Do you believe that I am able to do this?' They said to Him, 'Yes, Lord.'"
+  },
+  {
+    "pk": 855036,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 29,
+    "text": "Then He touched their eyes, saying, 'It shall be done to you according to your faith.'"
+  },
+  {
+    "pk": 855037,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 30,
+    "text": "And their eyes were opened. And Jesus sternly warned them: 'See that no one knows [about this]!'"
+  },
+  {
+    "pk": 855038,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 31,
+    "text": "But they went out and spread the news about Him throughout all that land."
+  },
+  {
+    "pk": 855039,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 32,
+    "text": "As they were going out, a mute, demon-possessed man was brought to Him."
+  },
+  {
+    "pk": 855040,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 33,
+    "text": "After the demon was cast out, the mute man spoke; and the crowds were amazed, [and were] saying, 'Nothing like this has ever been seen in Israel.'"
+  },
+  {
+    "pk": 855041,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 34,
+    "text": "But the Pharisees were saying, 'He casts out the demons by the ruler of the demons.'"
+  },
+  {
+    "pk": 855042,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 35,
+    "text": "Jesus was going through all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every kind of disease and every kind of sickness."
+  },
+  {
+    "pk": 855043,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 36,
+    "text": "Seeing the people, He felt compassion for them, because they were distressed and dispirited like sheep without a shepherd."
+  },
+  {
+    "pk": 855044,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 37,
+    "text": "Then He said to His disciples, 'The harvest is plentiful, but the workers are few."
+  },
+  {
+    "pk": 855045,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 9,
+    "verse": 38,
+    "text": "'Therefore beseech the Lord of the harvest to send out workers into His harvest.'"
+  }
+];

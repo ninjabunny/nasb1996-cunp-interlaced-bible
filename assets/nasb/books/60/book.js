@@ -1,0 +1,872 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/60/book"] = {
+  "translation": "NASB",
+  "book": 60,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 862003,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 1,
+          "text": "Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen"
+        },
+        {
+          "pk": 862004,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 2,
+          "text": "according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure."
+        },
+        {
+          "pk": 862005,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 3,
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,"
+        },
+        {
+          "pk": 862006,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 4,
+          "text": "to [obtain] an inheritance [which is] imperishable and undefiled and will not fade away, reserved in heaven for you,"
+        },
+        {
+          "pk": 862007,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 5,
+          "text": "who are protected by the power of God through faith for a salvation ready to be revealed in the last time."
+        },
+        {
+          "pk": 862008,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 6,
+          "text": "In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials,"
+        },
+        {
+          "pk": 862009,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 7,
+          "text": "so that the proof of your faith, [being] more precious than gold which is perishable, even though tested by fire, may be found to result in praise and glory and honor at the revelation of Jesus Christ;"
+        },
+        {
+          "pk": 862010,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 8,
+          "text": "and though you have not seen Him, you love Him, and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,"
+        },
+        {
+          "pk": 862011,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 9,
+          "text": "obtaining as the outcome of your faith the salvation of your souls."
+        },
+        {
+          "pk": 862012,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 10,
+          "text": "As to this salvation, the prophets who prophesied of the grace that [would come] to you made careful searches and inquiries,"
+        },
+        {
+          "pk": 862013,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 11,
+          "text": "seeking to know what person or time the Spirit of Christ within them was indicating as He predicted the sufferings of Christ and the glories to follow."
+        },
+        {
+          "pk": 862014,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 12,
+          "text": "It was revealed to them that they were not serving themselves, but you, in these things which now have been announced to you through those who preached the gospel to you by the Holy Spirit sent from heaven-- things into which angels long to look."
+        },
+        {
+          "pk": 862015,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 13,
+          "text": "Therefore, prepare your minds for action, keep sober [in spirit], fix your hope completely on the grace to be brought to you at the revelation of Jesus Christ."
+        },
+        {
+          "pk": 862016,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 14,
+          "text": "As obedient children, do not be conformed to the former lusts [which were yours] in your ignorance,"
+        },
+        {
+          "pk": 862017,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 15,
+          "text": "but like the Holy One who called you, be holy yourselves also in all [your] behavior;"
+        },
+        {
+          "pk": 862018,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 16,
+          "text": "because it is written, 'YOU SHALL BE HOLY, FOR I AM HOLY.'"
+        },
+        {
+          "pk": 862019,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 17,
+          "text": "If you address as Father the One who impartially judges according to each one's work, conduct yourselves in fear during the time of your stay [on earth];"
+        },
+        {
+          "pk": 862020,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 18,
+          "text": "knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,"
+        },
+        {
+          "pk": 862021,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 19,
+          "text": "but with precious blood, as of a lamb unblemished and spotless, [the blood] of Christ."
+        },
+        {
+          "pk": 862022,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 20,
+          "text": "For He was foreknown before the foundation of the world, but has appeared in these last times for the sake of you"
+        },
+        {
+          "pk": 862023,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 21,
+          "text": "who through Him are believers in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God."
+        },
+        {
+          "pk": 862024,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 22,
+          "text": "Since you have in obedience to the truth purified your souls for a sincere love of the brethren, fervently love one another from the heart,"
+        },
+        {
+          "pk": 862025,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 23,
+          "text": "for you have been born again not of seed which is perishable but imperishable, [that is], through the living and enduring word of God."
+        },
+        {
+          "pk": 862026,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 24,
+          "text": "For, 'ALL FLESH IS LIKE GRASS, AND ALL ITS GLORY LIKE THE FLOWER OF GRASS. THE GRASS WITHERS, AND THE FLOWER FALLS OFF,"
+        },
+        {
+          "pk": 862027,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 1,
+          "verse": 25,
+          "text": "BUT THE WORD OF THE LORD ENDURES FOREVER.' And this is the word which was preached to you."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 862028,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 1,
+          "text": "Therefore, putting aside all malice and all deceit and hypocrisy and envy and all slander,"
+        },
+        {
+          "pk": 862029,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 2,
+          "text": "like newborn babies, long for the pure milk of the word, so that by it you may grow in respect to salvation,"
+        },
+        {
+          "pk": 862030,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 3,
+          "text": "if you have tasted the kindness of the Lord."
+        },
+        {
+          "pk": 862031,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 4,
+          "text": "And coming to Him as to a living stone which has been rejected by men, but is choice and precious in the sight of God,"
+        },
+        {
+          "pk": 862032,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 5,
+          "text": "you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ."
+        },
+        {
+          "pk": 862033,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 6,
+          "text": "For [this] is contained in Scripture: 'BEHOLD, I LAY IN ZION A CHOICE STONE, A PRECIOUS CORNER [stone], AND HE WHO BELIEVES IN HIM WILL NOT BE DISAPPOINTED.'"
+        },
+        {
+          "pk": 862034,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 7,
+          "text": "This precious value, then, is for you who believe; but for those who disbelieve, 'THE STONE WHICH THE BUILDERS REJECTED, THIS BECAME THE VERY CORNER [stone],'"
+        },
+        {
+          "pk": 862035,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 8,
+          "text": "and, 'A STONE OF STUMBLING AND A ROCK OF OFFENSE'; for they stumble because they are disobedient to the word, and to this [doom] they were also appointed."
+        },
+        {
+          "pk": 862036,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 9,
+          "text": "But you are A CHOSEN RACE, A royal PRIESTHOOD, A HOLY NATION, A PEOPLE FOR [God's] OWN POSSESSION, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"
+        },
+        {
+          "pk": 862037,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 10,
+          "text": "for you once were NOT A PEOPLE, but now you are THE PEOPLE OF GOD; you had NOT RECEIVED MERCY, but now you have RECEIVED MERCY."
+        },
+        {
+          "pk": 862038,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 11,
+          "text": "Beloved, I urge you as aliens and strangers to abstain from fleshly lusts which wage war against the soul."
+        },
+        {
+          "pk": 862039,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 12,
+          "text": "Keep your behavior excellent among the Gentiles, so that in the thing in which they slander you as evildoers, they may because of your good deeds, as they observe [them], glorify God in the day of visitation."
+        },
+        {
+          "pk": 862040,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 13,
+          "text": "Submit yourselves for the Lord's sake to every human institution, whether to a king as the one in authority,"
+        },
+        {
+          "pk": 862041,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 14,
+          "text": "or to governors as sent by him for the punishment of evildoers and the praise of those who do right."
+        },
+        {
+          "pk": 862042,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 15,
+          "text": "For such is the will of God that by doing right you may silence the ignorance of foolish men."
+        },
+        {
+          "pk": 862043,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 16,
+          "text": "[Act] as free men, and do not use your freedom as a covering for evil, but [use it] as bondslaves of God."
+        },
+        {
+          "pk": 862044,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 17,
+          "text": "Honor all people, love the brotherhood, fear God, honor the king."
+        },
+        {
+          "pk": 862045,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 18,
+          "text": "Servants, be submissive to your masters with all respect, not only to those who are good and gentle, but also to those who are unreasonable."
+        },
+        {
+          "pk": 862046,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 19,
+          "text": "For this [finds] favor, if for the sake of conscience toward God a person bears up under sorrows when suffering unjustly."
+        },
+        {
+          "pk": 862047,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 20,
+          "text": "For what credit is there if, when you sin and are harshly treated, you endure it with patience? But if when you do what is right and suffer [for it] you patiently endure it, this [finds] favor with God."
+        },
+        {
+          "pk": 862048,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 21,
+          "text": "For you have been called for this purpose, since Christ also suffered for you, leaving you an example for you to follow in His steps,"
+        },
+        {
+          "pk": 862049,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 22,
+          "text": "WHO COMMITTED NO SIN, NOR WAS ANY DECEIT FOUND IN HIS MOUTH;"
+        },
+        {
+          "pk": 862050,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 23,
+          "text": "and while being reviled, He did not revile in return; while suffering, He uttered no threats, but kept entrusting [Himself] to Him who judges righteously;"
+        },
+        {
+          "pk": 862051,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 24,
+          "text": "and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed."
+        },
+        {
+          "pk": 862052,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 2,
+          "verse": 25,
+          "text": "For you were continually straying like sheep, but now you have returned to the Shepherd and Guardian of your souls."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 862053,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 1,
+          "text": "In the same way, you wives, be submissive to your own husbands so that even if any [of them] are disobedient to the word, they may be won without a word by the behavior of their wives,"
+        },
+        {
+          "pk": 862054,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 2,
+          "text": "as they observe your chaste and respectful behavior."
+        },
+        {
+          "pk": 862055,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 3,
+          "text": "Your adornment must not be [merely] external-- braiding the hair, and wearing gold jewelry, or putting on dresses;"
+        },
+        {
+          "pk": 862056,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 4,
+          "text": "but [let it be] the hidden person of the heart, with the imperishable quality of a gentle and quiet spirit, which is precious in the sight of God."
+        },
+        {
+          "pk": 862057,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 5,
+          "text": "For in this way in former times the holy women also, who hoped in God, used to adorn themselves, being submissive to their own husbands;"
+        },
+        {
+          "pk": 862058,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 6,
+          "text": "just as Sarah obeyed Abraham, calling him lord, and you have become her children if you do what is right without being frightened by any fear."
+        },
+        {
+          "pk": 862059,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 7,
+          "text": "You husbands in the same way, live with [your wives] in an understanding way, as with someone weaker, since she is a woman; and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered."
+        },
+        {
+          "pk": 862060,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 8,
+          "text": "To sum up, all of you be harmonious, sympathetic, brotherly, kindhearted, and humble in spirit;"
+        },
+        {
+          "pk": 862061,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 9,
+          "text": "not returning evil for evil or insult for insult, but giving a blessing instead; for you were called for the very purpose that you might inherit a blessing."
+        },
+        {
+          "pk": 862062,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 10,
+          "text": "For, 'THE ONE WHO DESIRES LIFE, TO LOVE AND SEE GOOD DAYS, MUST KEEP HIS TONGUE FROM EVIL AND HIS LIPS FROM SPEAKING DECEIT."
+        },
+        {
+          "pk": 862063,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 11,
+          "text": "'HE MUST TURN AWAY FROM EVIL AND DO GOOD; HE MUST SEEK PEACE AND PURSUE IT."
+        },
+        {
+          "pk": 862064,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 12,
+          "text": "'FOR THE EYES OF THE LORD ARE TOWARD THE RIGHTEOUS, AND HIS EARS ATTEND TO THEIR PRAYER, BUT THE FACE OF THE LORD IS AGAINST THOSE WHO DO EVIL.'"
+        },
+        {
+          "pk": 862065,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 13,
+          "text": "Who is there to harm you if you prove zealous for what is good?"
+        },
+        {
+          "pk": 862066,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 14,
+          "text": "But even if you should suffer for the sake of righteousness, you are blessed. AND DO NOT FEAR THEIR INTIMIDATION, AND DO NOT BE TROUBLED,"
+        },
+        {
+          "pk": 862067,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 15,
+          "text": "but sanctify Christ as Lord in your hearts, always [being] ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence;"
+        },
+        {
+          "pk": 862068,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 16,
+          "text": "and keep a good conscience so that in the thing in which you are slandered, those who revile your good behavior in Christ will be put to shame."
+        },
+        {
+          "pk": 862069,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 17,
+          "text": "For it is better, if God should will it so, that you suffer for doing what is right rather than for doing what is wrong."
+        },
+        {
+          "pk": 862070,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 18,
+          "text": "For Christ also died for sins once for all, [the] just for [the] unjust, so that He might bring us to God, having been put to death in the flesh, but made alive in the spirit;"
+        },
+        {
+          "pk": 862071,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 19,
+          "text": "in which also He went and made proclamation to the spirits [now] in prison,"
+        },
+        {
+          "pk": 862072,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 20,
+          "text": "who once were disobedient, when the patience of God kept waiting in the days of Noah, during the construction of the ark, in which a few, that is, eight persons, were brought safely through [the] water."
+        },
+        {
+          "pk": 862073,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 21,
+          "text": "Corresponding to that, baptism now saves you-- not the removal of dirt from the flesh, but an appeal to God for a good conscience-- through the resurrection of Jesus Christ,"
+        },
+        {
+          "pk": 862074,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 3,
+          "verse": 22,
+          "text": "who is at the right hand of God, having gone into heaven, after angels and authorities and powers had been subjected to Him."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 862075,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Therefore, since Christ has suffered in the flesh, arm yourselves also with the same purpose, because he who has suffered in the flesh has ceased from sin,"
+        },
+        {
+          "pk": 862076,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 2,
+          "text": "so as to live the rest of the time in the flesh no longer for the lusts of men, but for the will of God."
+        },
+        {
+          "pk": 862077,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 3,
+          "text": "For the time already past is sufficient [for] [you] to have carried out the desire of the Gentiles, having pursued a course of sensuality, lusts, drunkenness, carousing, drinking parties and abominable idolatries."
+        },
+        {
+          "pk": 862078,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 4,
+          "text": "In [all] this, they are surprised that you do not run with [them] into the same excesses of dissipation, and they malign [you];"
+        },
+        {
+          "pk": 862079,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 5,
+          "text": "but they will give account to Him who is ready to judge the living and the dead."
+        },
+        {
+          "pk": 862080,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 6,
+          "text": "For the gospel has for this purpose been preached even to those who are dead, that though they are judged in the flesh as men, they may live in the spirit according to [the] [will of] God."
+        },
+        {
+          "pk": 862081,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 7,
+          "text": "The end of all things is near; therefore, be of sound judgment and sober [spirit] for the purpose of prayer."
+        },
+        {
+          "pk": 862082,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 8,
+          "text": "Above all, keep fervent in your love for one another, because love covers a multitude of sins."
+        },
+        {
+          "pk": 862083,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 9,
+          "text": "Be hospitable to one another without complaint."
+        },
+        {
+          "pk": 862084,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 10,
+          "text": "As each one has received a [special] gift, employ it in serving one another as good stewards of the manifold grace of God."
+        },
+        {
+          "pk": 862085,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 11,
+          "text": "Whoever speaks, [is to do so] as one who is speaking the utterances of God; whoever serves [is to do] [so] as one who is serving by the strength which God supplies; so that in all things God may be glorified through Jesus Christ, to whom belongs the glory and dominion forever and ever. Amen."
+        },
+        {
+          "pk": 862086,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 12,
+          "text": "Beloved, do not be surprised at the fiery ordeal among you, which comes upon you for your testing, as though some strange thing were happening to you;"
+        },
+        {
+          "pk": 862087,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 13,
+          "text": "but to the degree that you share the sufferings of Christ, keep on rejoicing, so that also at the revelation of His glory you may rejoice with exultation."
+        },
+        {
+          "pk": 862088,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 14,
+          "text": "If you are reviled for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you."
+        },
+        {
+          "pk": 862089,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 15,
+          "text": "Make sure that none of you suffers as a murderer, or thief, or evildoer, or a troublesome meddler;"
+        },
+        {
+          "pk": 862090,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 16,
+          "text": "but if [anyone suffers] as a Christian, he is not to be ashamed, but is to glorify God in this name."
+        },
+        {
+          "pk": 862091,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 17,
+          "text": "For [it is] time for judgment to begin with the household of God; and if [it] [begins] with us first, what [will be] the outcome for those who do not obey the gospel of God?"
+        },
+        {
+          "pk": 862092,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 18,
+          "text": "AND IF IT IS WITH DIFFICULTY THAT THE RIGHTEOUS IS SAVED, WHAT WILL BECOME OF THE GODLESS MAN AND THE SINNER?"
+        },
+        {
+          "pk": 862093,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 4,
+          "verse": 19,
+          "text": "Therefore, those also who suffer according to the will of God shall entrust their souls to a faithful Creator in doing what is right."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 862094,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Therefore, I exhort the elders among you, as [your] fellow elder and witness of the sufferings of Christ, and a partaker also of the glory that is to be revealed,"
+        },
+        {
+          "pk": 862095,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 2,
+          "text": "shepherd the flock of God among you, exercising oversight not under compulsion, but voluntarily, according to [the will of] God; and not for sordid gain, but with eagerness;"
+        },
+        {
+          "pk": 862096,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 3,
+          "text": "nor yet as lording it over those allotted to your charge, but proving to be examples to the flock."
+        },
+        {
+          "pk": 862097,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 4,
+          "text": "And when the Chief Shepherd appears, you will receive the unfading crown of glory."
+        },
+        {
+          "pk": 862098,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 5,
+          "text": "You younger men, likewise, be subject to [your] elders; and all of you, clothe yourselves with humility toward one another, for GOD IS OPPOSED TO THE PROUD, BUT GIVES GRACE TO THE HUMBLE."
+        },
+        {
+          "pk": 862099,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 6,
+          "text": "Therefore humble yourselves under the mighty hand of God, that He may exalt you at the proper time,"
+        },
+        {
+          "pk": 862100,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 7,
+          "text": "casting all your anxiety on Him, because He cares for you."
+        },
+        {
+          "pk": 862101,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 8,
+          "text": "Be of sober [spirit], be on the alert. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour."
+        },
+        {
+          "pk": 862102,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 9,
+          "text": "But resist him, firm in [your] faith, knowing that the same experiences of suffering are being accomplished by your brethren who are in the world."
+        },
+        {
+          "pk": 862103,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 10,
+          "text": "After you have suffered for a little while, the God of all grace, who called you to His eternal glory in Christ, will Himself perfect, confirm, strengthen [and] establish you."
+        },
+        {
+          "pk": 862104,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 11,
+          "text": "To Him [be] dominion forever and ever. Amen."
+        },
+        {
+          "pk": 862105,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 12,
+          "text": "Through Silvanus, our faithful brother (for so I regard [him]), I have written to you briefly, exhorting and testifying that this is the true grace of God. Stand firm in it!"
+        },
+        {
+          "pk": 862106,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 13,
+          "text": "She who is in Babylon, chosen together with you, sends you greetings, and [so does] my son, Mark."
+        },
+        {
+          "pk": 862107,
+          "translation": "NASB",
+          "book": 60,
+          "chapter": 5,
+          "verse": 14,
+          "text": "Greet one another with a kiss of love. Peace be to you all who are in Christ."
+        }
+      ]
+    }
+  ]
+};

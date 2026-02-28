@@ -1,0 +1,355 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/24/32"] = [
+  {
+    "pk": 851360,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 1,
+    "text": "The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar."
+  },
+  {
+    "pk": 851361,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 2,
+    "text": "Now at that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was shut up in the court of the guard, which [was in] the house of the king of Judah,"
+  },
+  {
+    "pk": 851362,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 3,
+    "text": "because Zedekiah king of Judah had shut him up, saying, 'Why do you prophesy, saying, 'Thus says the LORD, 'Behold, I am about to give this city into the hand of the king of Babylon, and he will take it;"
+  },
+  {
+    "pk": 851363,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 4,
+    "text": "and Zedekiah king of Judah will not escape out of the hand of the Chaldeans, but he will surely be given into the hand of the king of Babylon, and he will speak with him face to face and see him eye to eye;"
+  },
+  {
+    "pk": 851364,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 5,
+    "text": "and he will take Zedekiah to Babylon, and he will be there until I visit him,' declares the LORD. 'If you fight against the Chaldeans, you will not succeed ''?'"
+  },
+  {
+    "pk": 851365,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 6,
+    "text": "And Jeremiah said, 'The word of the LORD came to me, saying,"
+  },
+  {
+    "pk": 851366,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 7,
+    "text": "'Behold, Hanamel the son of Shallum your uncle is coming to you, saying, 'Buy for yourself my field which is at Anathoth, for you have the right of redemption to buy [it].''"
+  },
+  {
+    "pk": 851367,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 8,
+    "text": "'Then Hanamel my uncle's son came to me in the court of the guard according to the word of the LORD and said to me, 'Buy my field, please, that is at Anathoth, which is in the land of Benjamin; for you have the right of possession and the redemption is yours; buy [it] for yourself.' Then I knew that this was the word of the LORD."
+  },
+  {
+    "pk": 851368,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 9,
+    "text": "'I bought the field which was at Anathoth from Hanamel my uncle's son, and I weighed out the silver for him, seventeen shekels of silver."
+  },
+  {
+    "pk": 851369,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 10,
+    "text": "'I signed and sealed the deed, and called in witnesses, and weighed out the silver on the scales."
+  },
+  {
+    "pk": 851370,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 11,
+    "text": "'Then I took the deeds of purchase, both the sealed [copy containing] the terms and conditions and the open [copy];"
+  },
+  {
+    "pk": 851371,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 12,
+    "text": "and I gave the deed of purchase to Baruch the son of Neriah, the son of Mahseiah, in the sight of Hanamel my uncle's [son] and in the sight of the witnesses who signed the deed of purchase, before all the Jews who were sitting in the court of the guard."
+  },
+  {
+    "pk": 851372,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 13,
+    "text": "'And I commanded Baruch in their presence, saying,"
+  },
+  {
+    "pk": 851373,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 14,
+    "text": "'Thus says the LORD of hosts, the God of Israel, 'Take these deeds, this sealed deed of purchase and this open deed, and put them in an earthenware jar, that they may last a long time.'"
+  },
+  {
+    "pk": 851374,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 15,
+    "text": "'For thus says the LORD of hosts, the God of Israel, 'Houses and fields and vineyards will again be bought in this land.''"
+  },
+  {
+    "pk": 851375,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 16,
+    "text": "'After I had given the deed of purchase to Baruch the son of Neriah, then I prayed to the LORD, saying,"
+  },
+  {
+    "pk": 851376,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 17,
+    "text": "'Ah Lord GOD! Behold, You have made the heavens and the earth by Your great power and by Your outstretched arm! Nothing is too difficult for You,"
+  },
+  {
+    "pk": 851377,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 18,
+    "text": "who shows lovingkindness to thousands, but repays the iniquity of fathers into the bosom of their children after them, O great and mighty God. The LORD of hosts is His name;"
+  },
+  {
+    "pk": 851378,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 19,
+    "text": "great in counsel and mighty in deed, whose eyes are open to all the ways of the sons of men, giving to everyone according to his ways and according to the fruit of his deeds;"
+  },
+  {
+    "pk": 851379,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 20,
+    "text": "who has set signs and wonders in the land of Egypt, [and] even to this day both in Israel and among mankind; and You have made a name for Yourself, as at this day."
+  },
+  {
+    "pk": 851380,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 21,
+    "text": "'You brought Your people Israel out of the land of Egypt with signs and with wonders, and with a strong hand and with an outstretched arm and with great terror;"
+  },
+  {
+    "pk": 851381,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 22,
+    "text": "and gave them this land, which You swore to their forefathers to give them, a land flowing with milk and honey."
+  },
+  {
+    "pk": 851382,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 23,
+    "text": "'They came in and took possession of it, but they did not obey Your voice or walk in Your law; they have done nothing of all that You commanded them to do; therefore You have made all this calamity come upon them."
+  },
+  {
+    "pk": 851383,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 24,
+    "text": "'Behold, the siege ramps have reached the city to take it; and the city is given into the hand of the Chaldeans who fight against it, because of the sword, the famine and the pestilence; and what You have spoken has come to pass; and behold, You see [it]."
+  },
+  {
+    "pk": 851384,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 25,
+    "text": "'You have said to me, O Lord GOD, 'Buy for yourself the field with money and call in witnesses '-- although the city is given into the hand of the Chaldeans.''"
+  },
+  {
+    "pk": 851385,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 26,
+    "text": "Then the word of the LORD came to Jeremiah, saying,"
+  },
+  {
+    "pk": 851386,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 27,
+    "text": "'Behold, I am the LORD, the God of all flesh; is anything too difficult for Me?'"
+  },
+  {
+    "pk": 851387,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 28,
+    "text": "Therefore thus says the LORD, 'Behold, I am about to give this city into the hand of the Chaldeans and into the hand of Nebuchadnezzar king of Babylon, and he will take it."
+  },
+  {
+    "pk": 851388,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 29,
+    "text": "'The Chaldeans who are fighting against this city will enter and set this city on fire and burn it, with the houses where [people] have offered incense to Baal on their roofs and poured out drink offerings to other gods to provoke Me to anger."
+  },
+  {
+    "pk": 851389,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 30,
+    "text": "'Indeed the sons of Israel and the sons of Judah have been doing only evil in My sight from their youth; for the sons of Israel have been only provoking Me to anger by the work of their hands,' declares the LORD."
+  },
+  {
+    "pk": 851390,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 31,
+    "text": "'Indeed this city has been to Me [a] [provocation of] My anger and My wrath from the day that they built it, even to this day, so that it should be removed from before My face,"
+  },
+  {
+    "pk": 851391,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 32,
+    "text": "because of all the evil of the sons of Israel and the sons of Judah which they have done to provoke Me to anger-- they, their kings, their leaders, their priests, their prophets, the men of Judah and the inhabitants of Jerusalem."
+  },
+  {
+    "pk": 851392,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 33,
+    "text": "'They have turned [their] back to Me and not [their] face; though [I] taught them, teaching again and again, they would not listen and receive instruction."
+  },
+  {
+    "pk": 851393,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 34,
+    "text": "'But they put their detestable things in the house which is called by My name, to defile it."
+  },
+  {
+    "pk": 851394,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 35,
+    "text": "'They built the high places of Baal that are in the valley of Ben-hinnom to cause their sons and their daughters to pass through [the fire] to Molech, which I had not commanded them nor had it entered My mind that they should do this abomination, to cause Judah to sin."
+  },
+  {
+    "pk": 851395,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 36,
+    "text": "'Now therefore thus says the LORD God of Israel concerning this city of which you say, 'It is given into the hand of the king of Babylon by sword, by famine and by pestilence.'"
+  },
+  {
+    "pk": 851396,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 37,
+    "text": "'Behold, I will gather them out of all the lands to which I have driven them in My anger, in My wrath and in great indignation; and I will bring them back to this place and make them dwell in safety."
+  },
+  {
+    "pk": 851397,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 38,
+    "text": "'They shall be My people, and I will be their God;"
+  },
+  {
+    "pk": 851398,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 39,
+    "text": "and I will give them one heart and one way, that they may fear Me always, for their own good and for [the good of] their children after them."
+  },
+  {
+    "pk": 851399,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 40,
+    "text": "'I will make an everlasting covenant with them that I will not turn away from them, to do them good; and I will put the fear of Me in their hearts so that they will not turn away from Me."
+  },
+  {
+    "pk": 851400,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 41,
+    "text": "'I will rejoice over them to do them good and will faithfully plant them in this land with all My heart and with all My soul."
+  },
+  {
+    "pk": 851401,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 42,
+    "text": "'For thus says the LORD, 'Just as I brought all this great disaster on this people, so I am going to bring on them all the good that I am promising them."
+  },
+  {
+    "pk": 851402,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 43,
+    "text": "'Fields will be bought in this land of which you say, 'It is a desolation, without man or beast; it is given into the hand of the Chaldeans.'"
+  },
+  {
+    "pk": 851403,
+    "translation": "NASB",
+    "book": 24,
+    "chapter": 32,
+    "verse": 44,
+    "text": "'Men will buy fields for money, sign and seal deeds, and call in witnesses in the land of Benjamin, in the environs of Jerusalem, in the cities of Judah, in the cities of the hill country, in the cities of the lowland and in the cities of the Negev; for I will restore their fortunes,' declares the LORD.'"
+  }
+];

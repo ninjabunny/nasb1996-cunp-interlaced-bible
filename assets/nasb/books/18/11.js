@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/11"] = [
+  {
+    "pk": 844737,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 1,
+    "text": "Then Zophar the Naamathite answered,"
+  },
+  {
+    "pk": 844738,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 2,
+    "text": "'Shall a multitude of words go unanswered, And a talkative man be acquitted?"
+  },
+  {
+    "pk": 844739,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 3,
+    "text": "'Shall your boasts silence men? And shall you scoff and none rebuke?"
+  },
+  {
+    "pk": 844740,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 4,
+    "text": "'For you have said, 'My teaching is pure, And I am innocent in your eyes.'"
+  },
+  {
+    "pk": 844741,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 5,
+    "text": "'But would that God might speak, And open His lips against you,"
+  },
+  {
+    "pk": 844742,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 6,
+    "text": "And show you the secrets of wisdom! For sound wisdom has two sides. Know then that God forgets a part of your iniquity."
+  },
+  {
+    "pk": 844743,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 7,
+    "text": "'Can you discover the depths of God? Can you discover the limits of the Almighty?"
+  },
+  {
+    "pk": 844744,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 8,
+    "text": "'[They are] high as the heavens, what can you do? Deeper than Sheol, what can you know?"
+  },
+  {
+    "pk": 844745,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 9,
+    "text": "'Its measure is longer than the earth And broader than the sea."
+  },
+  {
+    "pk": 844746,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 10,
+    "text": "'If He passes by or shuts up, Or calls an assembly, who can restrain Him?"
+  },
+  {
+    "pk": 844747,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 11,
+    "text": "'For He knows false men, And He sees iniquity without investigating."
+  },
+  {
+    "pk": 844748,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 12,
+    "text": "'An idiot will become intelligent When the foal of a wild donkey is born a man."
+  },
+  {
+    "pk": 844749,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 13,
+    "text": "'If you would direct your heart right And spread out your hand to Him,"
+  },
+  {
+    "pk": 844750,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 14,
+    "text": "If iniquity is in your hand, put it far away, And do not let wickedness dwell in your tents;"
+  },
+  {
+    "pk": 844751,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 15,
+    "text": "'Then, indeed, you could lift up your face without [moral] defect, And you would be steadfast and not fear."
+  },
+  {
+    "pk": 844752,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 16,
+    "text": "'For you would forget [your] trouble, As waters that have passed by, you would remember [it]."
+  },
+  {
+    "pk": 844753,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 17,
+    "text": "'Your life would be brighter than noonday; Darkness would be like the morning."
+  },
+  {
+    "pk": 844754,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 18,
+    "text": "'Then you would trust, because there is hope; And you would look around and rest securely."
+  },
+  {
+    "pk": 844755,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 19,
+    "text": "'You would lie down and none would disturb [you], And many would entreat your favor."
+  },
+  {
+    "pk": 844756,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 11,
+    "verse": 20,
+    "text": "'But the eyes of the wicked will fail, And there will be no escape for them; And their hope is to breathe their last.'"
+  }
+];

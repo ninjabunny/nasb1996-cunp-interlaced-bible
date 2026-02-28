@@ -1,0 +1,307 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/11/06"] = [
+  {
+    "pk": 840525,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 1,
+    "text": "Now it came about in the four hundred and eightieth year after the sons of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv which is the second month, that he began to build the house of the LORD."
+  },
+  {
+    "pk": 840526,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 2,
+    "text": "As for the house which King Solomon built for the LORD, its length [was] sixty cubits and its width twenty [cubits] and its height thirty cubits."
+  },
+  {
+    "pk": 840527,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 3,
+    "text": "The porch in front of the nave of the house [was] twenty cubits in length, corresponding to the width of the house, [and] its depth along the front of the house [was] ten cubits."
+  },
+  {
+    "pk": 840528,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 4,
+    "text": "Also for the house he made windows with [artistic] frames."
+  },
+  {
+    "pk": 840529,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 5,
+    "text": "Against the wall of the house he built stories encompassing the walls of the house around both the nave and the inner sanctuary; thus he made side chambers all around."
+  },
+  {
+    "pk": 840530,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 6,
+    "text": "The lowest story [was] five cubits wide, and the middle [was] six cubits wide, and the third [was] seven cubits wide; for on the outside he made offsets [in the wall] of the house all around in order that [the beams] would not be inserted in the walls of the house."
+  },
+  {
+    "pk": 840531,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 7,
+    "text": "The house, while it was being built, was built of stone prepared at the quarry, and there was neither hammer nor axe nor any iron tool heard in the house while it was being built."
+  },
+  {
+    "pk": 840532,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 8,
+    "text": "The doorway for the lowest side chamber [was] on the right side of the house; and they would go up by winding stairs to the middle [story], and from the middle to the third."
+  },
+  {
+    "pk": 840533,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 9,
+    "text": "So he built the house and finished it; and he covered the house with beams and planks of cedar."
+  },
+  {
+    "pk": 840534,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 10,
+    "text": "He also built the stories against the whole house, each five cubits high; and they were fastened to the house with timbers of cedar."
+  },
+  {
+    "pk": 840535,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 11,
+    "text": "Now the word of the LORD came to Solomon saying,"
+  },
+  {
+    "pk": 840536,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 12,
+    "text": "'[Concerning] this house which you are building, if you will walk in My statutes and execute My ordinances and keep all My commandments by walking in them, then I will carry out My word with you which I spoke to David your father."
+  },
+  {
+    "pk": 840537,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 13,
+    "text": "'I will dwell among the sons of Israel, and will not forsake My people Israel.'"
+  },
+  {
+    "pk": 840538,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 14,
+    "text": "So Solomon built the house and finished it."
+  },
+  {
+    "pk": 840539,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 15,
+    "text": "Then he built the walls of the house on the inside with boards of cedar; from the floor of the house to the ceiling he overlaid [the walls] on the inside with wood, and he overlaid the floor of the house with boards of cypress."
+  },
+  {
+    "pk": 840540,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 16,
+    "text": "He built twenty cubits on the rear part of the house with boards of cedar from the floor to the ceiling; he built [them] for it on the inside as an inner sanctuary, [even] as the most holy place."
+  },
+  {
+    "pk": 840541,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 17,
+    "text": "The house, that is, the nave in front of [the inner sanctuary], was forty cubits [long]."
+  },
+  {
+    "pk": 840542,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 18,
+    "text": "There was cedar on the house within, carved [in the shape] of gourds and open flowers; all was cedar, there was no stone seen."
+  },
+  {
+    "pk": 840543,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 19,
+    "text": "Then he prepared an inner sanctuary within the house in order to place there the ark of the covenant of the LORD."
+  },
+  {
+    "pk": 840544,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 20,
+    "text": "The inner sanctuary [was] twenty cubits in length, twenty cubits in width, and twenty cubits in height, and he overlaid it with pure gold. He also overlaid the altar with cedar."
+  },
+  {
+    "pk": 840545,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 21,
+    "text": "So Solomon overlaid the inside of the house with pure gold. And he drew chains of gold across the front of the inner sanctuary, and he overlaid it with gold."
+  },
+  {
+    "pk": 840546,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 22,
+    "text": "He overlaid the whole house with gold, until all the house was finished. Also the whole altar which was by the inner sanctuary he overlaid with gold."
+  },
+  {
+    "pk": 840547,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 23,
+    "text": "Also in the inner sanctuary he made two cherubim of olive wood, each ten cubits high."
+  },
+  {
+    "pk": 840548,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 24,
+    "text": "Five cubits [was] the one wing of the cherub and five cubits the other wing of the cherub; from the end of one wing to the end of the other wing [were] ten cubits."
+  },
+  {
+    "pk": 840549,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 25,
+    "text": "The other cherub [was] ten cubits; both the cherubim were of the same measure and the same form."
+  },
+  {
+    "pk": 840550,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 26,
+    "text": "The height of the one cherub [was] ten cubits, and so [was] the other cherub."
+  },
+  {
+    "pk": 840551,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 27,
+    "text": "He placed the cherubim in the midst of the inner house, and the wings of the cherubim were spread out, so that the wing of the one was touching the [one] wall, and the wing of the other cherub was touching the other wall. So their wings were touching each other in the center of the house."
+  },
+  {
+    "pk": 840552,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 28,
+    "text": "He also overlaid the cherubim with gold."
+  },
+  {
+    "pk": 840553,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 29,
+    "text": "Then he carved all the walls of the house round about with carved engravings of cherubim, palm trees, and open flowers, inner and outer [sanctuaries]."
+  },
+  {
+    "pk": 840554,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 30,
+    "text": "He overlaid the floor of the house with gold, inner and outer [sanctuaries]."
+  },
+  {
+    "pk": 840555,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 31,
+    "text": "For the entrance of the inner sanctuary he made doors of olive wood, the lintel [and] five-sided doorposts."
+  },
+  {
+    "pk": 840556,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 32,
+    "text": "So [he made] two doors of olive wood, and he carved on them carvings of cherubim, palm trees, and open flowers, and overlaid them with gold; and he spread the gold on the cherubim and on the palm trees."
+  },
+  {
+    "pk": 840557,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 33,
+    "text": "So also he made for the entrance of the nave four-sided doorposts of olive wood"
+  },
+  {
+    "pk": 840558,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 34,
+    "text": "and two doors of cypress wood; the two leaves of the one door turned on pivots, and the two leaves of the other door turned on pivots."
+  },
+  {
+    "pk": 840559,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 35,
+    "text": "He carved [on it] cherubim, palm trees, and open flowers; and he overlaid [them] with gold evenly applied on the engraved work."
+  },
+  {
+    "pk": 840560,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 36,
+    "text": "He built the inner court with three rows of cut stone and a row of cedar beams."
+  },
+  {
+    "pk": 840561,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 37,
+    "text": "In the fourth year the foundation of the house of the LORD was laid, in the month of Ziv."
+  },
+  {
+    "pk": 840562,
+    "translation": "NASB",
+    "book": 11,
+    "chapter": 6,
+    "verse": 38,
+    "text": "In the eleventh year, in the month of Bul, which is the eighth month, the house was finished throughout all its parts and according to all its plans. So he was seven years in building it."
+  }
+];

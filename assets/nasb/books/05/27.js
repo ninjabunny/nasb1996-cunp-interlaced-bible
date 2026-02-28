@@ -1,0 +1,211 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/05/27"] = [
+  {
+    "pk": 837214,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 1,
+    "text": "Then Moses and the elders of Israel charged the people, saying, 'Keep all the commandments which I command you today."
+  },
+  {
+    "pk": 837215,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 2,
+    "text": "'So it shall be on the day when you cross the Jordan to the land which the LORD your God gives you, that you shall set up for yourself large stones and coat them with lime"
+  },
+  {
+    "pk": 837216,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 3,
+    "text": "and write on them all the words of this law, when you cross over, so that you may enter the land which the LORD your God gives you, a land flowing with milk and honey, as the LORD, the God of your fathers, promised you."
+  },
+  {
+    "pk": 837217,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 4,
+    "text": "'So it shall be when you cross the Jordan, you shall set up on Mount Ebal, these stones, as I am commanding you today, and you shall coat them with lime."
+  },
+  {
+    "pk": 837218,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 5,
+    "text": "'Moreover, you shall build there an altar to the LORD your God, an altar of stones; you shall not wield an iron [tool] on them."
+  },
+  {
+    "pk": 837219,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 6,
+    "text": "'You shall build the altar of the LORD your God of uncut stones, and you shall offer on it burnt offerings to the LORD your God;"
+  },
+  {
+    "pk": 837220,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 7,
+    "text": "and you shall sacrifice peace offerings and eat there, and rejoice before the LORD your God."
+  },
+  {
+    "pk": 837221,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 8,
+    "text": "'You shall write on the stones all the words of this law very distinctly.'"
+  },
+  {
+    "pk": 837222,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 9,
+    "text": "Then Moses and the Levitical priests spoke to all Israel, saying, 'Be silent and listen, O Israel! This day you have become a people for the LORD your God."
+  },
+  {
+    "pk": 837223,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 10,
+    "text": "'You shall therefore obey the LORD your God, and do His commandments and His statutes which I command you today.'"
+  },
+  {
+    "pk": 837224,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 11,
+    "text": "Moses also charged the people on that day, saying,"
+  },
+  {
+    "pk": 837225,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 12,
+    "text": "'When you cross the Jordan, these shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin."
+  },
+  {
+    "pk": 837226,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 13,
+    "text": "'For the curse, these shall stand on Mount Ebal: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali."
+  },
+  {
+    "pk": 837227,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 14,
+    "text": "'The Levites shall then answer and say to all the men of Israel with a loud voice,"
+  },
+  {
+    "pk": 837228,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 15,
+    "text": "'Cursed is the man who makes an idol or a molten image, an abomination to the LORD, the work of the hands of the craftsman, and sets [it] up in secret.' And all the people shall answer and say, 'Amen.'"
+  },
+  {
+    "pk": 837229,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 16,
+    "text": "'Cursed is he who dishonors his father or mother.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837230,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 17,
+    "text": "'Cursed is he who moves his neighbor's boundary mark.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837231,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 18,
+    "text": "'Cursed is he who misleads a blind [person] on the road.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837232,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 19,
+    "text": "'Cursed is he who distorts the justice due an alien, orphan, and widow.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837233,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 20,
+    "text": "'Cursed is he who lies with his father's wife, because he has uncovered his father's skirt.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837234,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 21,
+    "text": "'Cursed is he who lies with any animal.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837235,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 22,
+    "text": "'Cursed is he who lies with his sister, the daughter of his father or of his mother.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837236,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 23,
+    "text": "'Cursed is he who lies with his mother-in-law.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837237,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 24,
+    "text": "'Cursed is he who strikes his neighbor in secret.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837238,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 25,
+    "text": "'Cursed is he who accepts a bribe to strike down an innocent person.' And all the people shall say, 'Amen.'"
+  },
+  {
+    "pk": 837239,
+    "translation": "NASB",
+    "book": 5,
+    "chapter": 27,
+    "verse": 26,
+    "text": "'Cursed is he who does not confirm the words of this law by doing them.' And all the people shall say, 'Amen.'"
+  }
+];

@@ -1,0 +1,5884 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/12/book"] = {
+  "translation": "NASB",
+  "book": 12,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 841162,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 1,
+          "text": "Now Moab rebelled against Israel after the death of Ahab."
+        },
+        {
+          "pk": 841163,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 2,
+          "text": "And Ahaziah fell through the lattice in his upper chamber which [was] in Samaria, and became ill. So he sent messengers and said to them, 'Go, inquire of Baal-zebub, the god of Ekron, whether I will recover from this sickness.'"
+        },
+        {
+          "pk": 841164,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 3,
+          "text": "But the angel of the LORD said to Elijah the Tishbite, 'Arise, go up to meet the messengers of the king of Samaria and say to them, 'Is it because there is no God in Israel [that] you are going to inquire of Baal-zebub, the god of Ekron?'"
+        },
+        {
+          "pk": 841165,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 4,
+          "text": "'Now therefore thus says the LORD, 'You shall not come down from the bed where you have gone up, but you shall surely die.'' Then Elijah departed."
+        },
+        {
+          "pk": 841166,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 5,
+          "text": "When the messengers returned to him he said to them, 'Why have you returned?'"
+        },
+        {
+          "pk": 841167,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 6,
+          "text": "They said to him, 'A man came up to meet us and said to us, 'Go, return to the king who sent you and say to him, 'Thus says the LORD, 'Is it because there is no God in Israel [that] you are sending to inquire of Baal-zebub, the god of Ekron? Therefore you shall not come down from the bed where you have gone up, but shall surely die.''''"
+        },
+        {
+          "pk": 841168,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 7,
+          "text": "He said to them, 'What kind of man was he who came up to meet you and spoke these words to you?'"
+        },
+        {
+          "pk": 841169,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 8,
+          "text": "They answered him, '[He was] a hairy man with a leather girdle bound about his loins.' And he said, 'It is Elijah the Tishbite.'"
+        },
+        {
+          "pk": 841170,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 9,
+          "text": "Then [the king] sent to him a captain of fifty with his fifty. And he went up to him, and behold, he was sitting on the top of the hill. And he said to him, 'O man of God, the king says, 'Come down.''"
+        },
+        {
+          "pk": 841171,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 10,
+          "text": "Elijah replied to the captain of fifty, 'If I am a man of God, let fire come down from heaven and consume you and your fifty.' Then fire came down from heaven and consumed him and his fifty."
+        },
+        {
+          "pk": 841172,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 11,
+          "text": "So he again sent to him another captain of fifty with his fifty. And he said to him, 'O man of God, thus says the king, 'Come down quickly.''"
+        },
+        {
+          "pk": 841173,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 12,
+          "text": "Elijah replied to them, 'If I am a man of God, let fire come down from heaven and consume you and your fifty.' Then the fire of God came down from heaven and consumed him and his fifty."
+        },
+        {
+          "pk": 841174,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 13,
+          "text": "So he again sent the captain of a third fifty with his fifty. When the third captain of fifty went up, he came and bowed down on his knees before Elijah, and begged him and said to him, 'O man of God, please let my life and the lives of these fifty servants of yours be precious in your sight."
+        },
+        {
+          "pk": 841175,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 14,
+          "text": "'Behold fire came down from heaven and consumed the first two captains of fifty with their fifties; but now let my life be precious in your sight.'"
+        },
+        {
+          "pk": 841176,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 15,
+          "text": "The angel of the LORD said to Elijah, 'Go down with him; do not be afraid of him.' So he arose and went down with him to the king."
+        },
+        {
+          "pk": 841177,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 16,
+          "text": "Then he said to him, 'Thus says the LORD, 'Because you have sent messengers to inquire of Baal-zebub, the god of Ekron-- is it because there is no God in Israel to inquire of His word?-- therefore you shall not come down from the bed where you have gone up, but shall surely die.''"
+        },
+        {
+          "pk": 841178,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 17,
+          "text": "So Ahaziah died according to the word of the LORD which Elijah had spoken. And because he had no son, Jehoram became king in his place in the second year of Jehoram the son of Jehoshaphat, king of Judah."
+        },
+        {
+          "pk": 841179,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 1,
+          "verse": 18,
+          "text": "Now the rest of the acts of Ahaziah which he did, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 841180,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 1,
+          "text": "And it came about when the LORD was about to take up Elijah by a whirlwind to heaven, that Elijah went with Elisha from Gilgal."
+        },
+        {
+          "pk": 841181,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 2,
+          "text": "Elijah said to Elisha, 'Stay here please, for the LORD has sent me as far as Bethel.' But Elisha said, 'As the LORD lives and as you yourself live, I will not leave you.' So they went down to Bethel."
+        },
+        {
+          "pk": 841182,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 3,
+          "text": "Then the sons of the prophets who [were at] Bethel came out to Elisha and said to him, 'Do you know that the LORD will take away your master from over you today?' And he said, 'Yes, I know; be still.'"
+        },
+        {
+          "pk": 841183,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 4,
+          "text": "Elijah said to him, 'Elisha, please stay here, for the LORD has sent me to Jericho.' But he said, 'As the LORD lives, and as you yourself live, I will not leave you.' So they came to Jericho."
+        },
+        {
+          "pk": 841184,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 5,
+          "text": "The sons of the prophets who [were] at Jericho approached Elisha and said to him, 'Do you know that the LORD will take away your master from over you today?' And he answered, 'Yes, I know; be still.'"
+        },
+        {
+          "pk": 841185,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 6,
+          "text": "Then Elijah said to him, 'Please stay here, for the LORD has sent me to the Jordan.' And he said, 'As the LORD lives, and as you yourself live, I will not leave you.' So the two of them went on."
+        },
+        {
+          "pk": 841186,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 7,
+          "text": "Now fifty men of the sons of the prophets went and stood opposite [them] at a distance, while the two of them stood by the Jordan."
+        },
+        {
+          "pk": 841187,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 8,
+          "text": "Elijah took his mantle and folded it together and struck the waters, and they were divided here and there, so that the two of them crossed over on dry ground."
+        },
+        {
+          "pk": 841188,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 9,
+          "text": "When they had crossed over, Elijah said to Elisha, 'Ask what I shall do for you before I am taken from you.' And Elisha said, 'Please, let a double portion of your spirit be upon me.'"
+        },
+        {
+          "pk": 841189,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 10,
+          "text": "He said, 'You have asked a hard thing. [Nevertheless], if you see me when I am taken from you, it shall be so for you; but if not, it shall not be [so].'"
+        },
+        {
+          "pk": 841190,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 11,
+          "text": "As they were going along and talking, behold, [there appeared] a chariot of fire and horses of fire which separated the two of them. And Elijah went up by a whirlwind to heaven."
+        },
+        {
+          "pk": 841191,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 12,
+          "text": "Elisha saw [it] and cried out, 'My father, my father, the chariots of Israel and its horsemen!' And he saw Elijah no more. Then he took hold of his own clothes and tore them in two pieces."
+        },
+        {
+          "pk": 841192,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 13,
+          "text": "He also took up the mantle of Elijah that fell from him and returned and stood by the bank of the Jordan."
+        },
+        {
+          "pk": 841193,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 14,
+          "text": "He took the mantle of Elijah that fell from him and struck the waters and said, 'Where is the LORD, the God of Elijah?' And when he also had struck the waters, they were divided here and there; and Elisha crossed over."
+        },
+        {
+          "pk": 841194,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 15,
+          "text": "Now when the sons of the prophets who [were] at Jericho opposite [him] saw him, they said, 'The spirit of Elijah rests on Elisha.' And they came to meet him and bowed themselves to the ground before him."
+        },
+        {
+          "pk": 841195,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 16,
+          "text": "They said to him, 'Behold now, there are with your servants fifty strong men, please let them go and search for your master; perhaps the Spirit of the LORD has taken him up and cast him on some mountain or into some valley.' And he said, 'You shall not send.'"
+        },
+        {
+          "pk": 841196,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 17,
+          "text": "But when they urged him until he was ashamed, he said, 'Send.' They sent therefore fifty men; and they searched three days but did not find him."
+        },
+        {
+          "pk": 841197,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 18,
+          "text": "They returned to him while he was staying at Jericho; and he said to them, 'Did I not say to you, 'Do not go '?'"
+        },
+        {
+          "pk": 841198,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 19,
+          "text": "Then the men of the city said to Elisha, 'Behold now, the situation of this city is pleasant, as my lord sees; but the water is bad and the land is unfruitful.'"
+        },
+        {
+          "pk": 841199,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 20,
+          "text": "He said, 'Bring me a new jar, and put salt in it.' So they brought [it] to him."
+        },
+        {
+          "pk": 841200,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 21,
+          "text": "He went out to the spring of water and threw salt in it and said, 'Thus says the LORD, 'I have purified these waters; there shall not be from there death or unfruitfulness any longer.''"
+        },
+        {
+          "pk": 841201,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 22,
+          "text": "So the waters have been purified to this day, according to the word of Elisha which he spoke."
+        },
+        {
+          "pk": 841202,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 23,
+          "text": "Then he went up from there to Bethel; and as he was going up by the way, young lads came out from the city and mocked him and said to him, 'Go up, you baldhead; go up, you baldhead!'"
+        },
+        {
+          "pk": 841203,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 24,
+          "text": "When he looked behind him and saw them, he cursed them in the name of the LORD. Then two female bears came out of the woods and tore up forty-two lads of their number."
+        },
+        {
+          "pk": 841204,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 2,
+          "verse": 25,
+          "text": "He went from there to Mount Carmel, and from there he returned to Samaria."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 841205,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 1,
+          "text": "Now Jehoram the son of Ahab became king over Israel at Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years."
+        },
+        {
+          "pk": 841206,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 2,
+          "text": "He did evil in the sight of the LORD, though not like his father and his mother; for he put away the [sacred] pillar of Baal which his father had made."
+        },
+        {
+          "pk": 841207,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 3,
+          "text": "Nevertheless, he clung to the sins of Jeroboam the son of Nebat, which he made Israel sin; he did not depart from them."
+        },
+        {
+          "pk": 841208,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 4,
+          "text": "Now Mesha king of Moab was a sheep breeder, and used to pay the king of Israel 100,000 lambs and the wool of 100,000 rams."
+        },
+        {
+          "pk": 841209,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 5,
+          "text": "But when Ahab died, the king of Moab rebelled against the king of Israel."
+        },
+        {
+          "pk": 841210,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 6,
+          "text": "And King Jehoram went out of Samaria at that time and mustered all Israel."
+        },
+        {
+          "pk": 841211,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 7,
+          "text": "Then he went and sent [word] to Jehoshaphat the king of Judah, saying, 'The king of Moab has rebelled against me. Will you go with me to fight against Moab?' And he said, 'I will go up; I am as you are, my people as your people, my horses as your horses.'"
+        },
+        {
+          "pk": 841212,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 8,
+          "text": "He said, 'Which way shall we go up?' And he answered, 'The way of the wilderness of Edom.'"
+        },
+        {
+          "pk": 841213,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 9,
+          "text": "So the king of Israel went with the king of Judah and the king of Edom; and they made a circuit of seven days' journey, and there was no water for the army or for the cattle that followed them."
+        },
+        {
+          "pk": 841214,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 10,
+          "text": "Then the king of Israel said, 'Alas! For the LORD has called these three kings to give them into the hand of Moab.'"
+        },
+        {
+          "pk": 841215,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 11,
+          "text": "But Jehoshaphat said, 'Is there not a prophet of the LORD here, that we may inquire of the LORD by him?' And one of the king of Israel's servants answered and said, 'Elisha the son of Shaphat is here, who used to pour water on the hands of Elijah.'"
+        },
+        {
+          "pk": 841216,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 12,
+          "text": "Jehoshaphat said, 'The word of the LORD is with him.' So the king of Israel and Jehoshaphat and the king of Edom went down to him."
+        },
+        {
+          "pk": 841217,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 13,
+          "text": "Now Elisha said to the king of Israel, 'What do I have to do with you? Go to the prophets of your father and to the prophets of your mother.' And the king of Israel said to him, 'No, for the LORD has called these three kings [together] to give them into the hand of Moab.'"
+        },
+        {
+          "pk": 841218,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 14,
+          "text": "Elisha said, 'As the LORD of hosts lives, before whom I stand, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look at you nor see you."
+        },
+        {
+          "pk": 841219,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 15,
+          "text": "'But now bring me a minstrel.' And it came about, when the minstrel played, that the hand of the LORD came upon him."
+        },
+        {
+          "pk": 841220,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 16,
+          "text": "He said, 'Thus says the LORD, 'Make this valley full of trenches.'"
+        },
+        {
+          "pk": 841221,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 17,
+          "text": "'For thus says the LORD, 'You shall not see wind nor shall you see rain; yet that valley shall be filled with water, so that you shall drink, both you and your cattle and your beasts."
+        },
+        {
+          "pk": 841222,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 18,
+          "text": "'This is but a slight thing in the sight of the LORD; He will also give the Moabites into your hand."
+        },
+        {
+          "pk": 841223,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 19,
+          "text": "'Then you shall strike every fortified city and every choice city, and fell every good tree and stop all springs of water, and mar every good piece of land with stones.''"
+        },
+        {
+          "pk": 841224,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 20,
+          "text": "It happened in the morning about the time of offering the sacrifice, that behold, water came by the way of Edom, and the country was filled with water."
+        },
+        {
+          "pk": 841225,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 21,
+          "text": "Now all the Moabites heard that the kings had come up to fight against them. And all who were able to put on armor and older were summoned and stood on the border."
+        },
+        {
+          "pk": 841226,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 22,
+          "text": "They rose early in the morning, and the sun shone on the water, and the Moabites saw the water opposite [them] as red as blood."
+        },
+        {
+          "pk": 841227,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 23,
+          "text": "Then they said, 'This is blood; the kings have surely fought together, and they have slain one another. Now therefore, Moab, to the spoil!'"
+        },
+        {
+          "pk": 841228,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 24,
+          "text": "But when they came to the camp of Israel, the Israelites arose and struck the Moabites, so that they fled before them; and they went forward into the land, slaughtering the Moabites."
+        },
+        {
+          "pk": 841229,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 25,
+          "text": "Thus they destroyed the cities; and each one threw a stone on every piece of good land and filled it. So they stopped all the springs of water and felled all the good trees, until in Kir-hareseth [only] they left its stones; however, the slingers went about [it] and struck it."
+        },
+        {
+          "pk": 841230,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 26,
+          "text": "When the king of Moab saw that the battle was too fierce for him, he took with him 700 men who drew swords, to break through to the king of Edom; but they could not."
+        },
+        {
+          "pk": 841231,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 3,
+          "verse": 27,
+          "text": "Then he took his oldest son who was to reign in his place, and offered him as a burnt offering on the wall. And there came great wrath against Israel, and they departed from him and returned to their own land."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 841232,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now a certain woman of the wives of the sons of the prophets cried out to Elisha, 'Your servant my husband is dead, and you know that your servant feared the LORD; and the creditor has come to take my two children to be his slaves.'"
+        },
+        {
+          "pk": 841233,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 2,
+          "text": "Elisha said to her, 'What shall I do for you? Tell me, what do you have in the house?' And she said, 'Your maidservant has nothing in the house except a jar of oil.'"
+        },
+        {
+          "pk": 841234,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 3,
+          "text": "Then he said, 'Go, borrow vessels at large for yourself from all your neighbors, [even] empty vessels; do not get a few."
+        },
+        {
+          "pk": 841235,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 4,
+          "text": "'And you shall go in and shut the door behind you and your sons, and pour out into all these vessels, and you shall set aside what is full.'"
+        },
+        {
+          "pk": 841236,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 5,
+          "text": "So she went from him and shut the door behind her and her sons; they were bringing [the vessels] to her and she poured."
+        },
+        {
+          "pk": 841237,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 6,
+          "text": "When the vessels were full, she said to her son, 'Bring me another vessel.' And he said to her, 'There is not one vessel more.' And the oil stopped."
+        },
+        {
+          "pk": 841238,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 7,
+          "text": "Then she came and told the man of God. And he said, 'Go, sell the oil and pay your debt, and you [and] your sons can live on the rest.'"
+        },
+        {
+          "pk": 841239,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 8,
+          "text": "Now there came a day when Elisha passed over to Shunem, where there was a prominent woman, and she persuaded him to eat food. And so it was, as often as he passed by, he turned in there to eat food."
+        },
+        {
+          "pk": 841240,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 9,
+          "text": "She said to her husband, 'Behold now, I perceive that this is a holy man of God passing by us continually."
+        },
+        {
+          "pk": 841241,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 10,
+          "text": "'Please, let us make a little walled upper chamber and let us set a bed for him there, and a table and a chair and a lampstand; and it shall be, when he comes to us, [that] he can turn in there.'"
+        },
+        {
+          "pk": 841242,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 11,
+          "text": "One day he came there and turned in to the upper chamber and rested."
+        },
+        {
+          "pk": 841243,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 12,
+          "text": "Then he said to Gehazi his servant, 'Call this Shunammite.' And when he had called her, she stood before him."
+        },
+        {
+          "pk": 841244,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 13,
+          "text": "He said to him, 'Say now to her, 'Behold, you have been careful for us with all this care; what can I do for you? Would you be spoken for to the king or to the captain of the army?'' And she answered, 'I live among my own people.'"
+        },
+        {
+          "pk": 841245,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 14,
+          "text": "So he said, 'What then is to be done for her?' And Gehazi answered, 'Truly she has no son and her husband is old.'"
+        },
+        {
+          "pk": 841246,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 15,
+          "text": "He said, 'Call her.' When he had called her, she stood in the doorway."
+        },
+        {
+          "pk": 841247,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 16,
+          "text": "Then he said, 'At this season next year you will embrace a son.' And she said, 'No, my lord, O man of God, do not lie to your maidservant.'"
+        },
+        {
+          "pk": 841248,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 17,
+          "text": "The woman conceived and bore a son at that season the next year, as Elisha had said to her."
+        },
+        {
+          "pk": 841249,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 18,
+          "text": "When the child was grown, the day came that he went out to his father to the reapers."
+        },
+        {
+          "pk": 841250,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 19,
+          "text": "He said to his father, 'My head, my head.' And he said to his servant, 'Carry him to his mother.'"
+        },
+        {
+          "pk": 841251,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 20,
+          "text": "When he had taken him and brought him to his mother, he sat on her lap until noon, and [then] died."
+        },
+        {
+          "pk": 841252,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 21,
+          "text": "She went up and laid him on the bed of the man of God, and shut [the door] behind him and went out."
+        },
+        {
+          "pk": 841253,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 22,
+          "text": "Then she called to her husband and said, 'Please send me one of the servants and one of the donkeys, that I may run to the man of God and return.'"
+        },
+        {
+          "pk": 841254,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 23,
+          "text": "He said, 'Why will you go to him today? It is neither new moon nor sabbath.' And she said, '[It will be] well.'"
+        },
+        {
+          "pk": 841255,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 24,
+          "text": "Then she saddled a donkey and said to her servant, 'Drive and go forward; do not slow down the pace for me unless I tell you.'"
+        },
+        {
+          "pk": 841256,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 25,
+          "text": "So she went and came to the man of God to Mount Carmel. When the man of God saw her at a distance, he said to Gehazi his servant, 'Behold, there is the Shunammite."
+        },
+        {
+          "pk": 841257,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 26,
+          "text": "'Please run now to meet her and say to her, 'Is it well with you? Is it well with your husband? Is it well with the child?'' And she answered, 'It is well.'"
+        },
+        {
+          "pk": 841258,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 27,
+          "text": "When she came to the man of God to the hill, she caught hold of his feet. And Gehazi came near to push her away; but the man of God said, 'Let her alone, for her soul is troubled within her; and the LORD has hidden it from me and has not told me.'"
+        },
+        {
+          "pk": 841259,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 28,
+          "text": "Then she said, 'Did I ask for a son from my lord? Did I not say, 'Do not deceive me'?'"
+        },
+        {
+          "pk": 841260,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 29,
+          "text": "Then he said to Gehazi, 'Gird up your loins and take my staff in your hand, and go your way; if you meet any man, do not salute him, and if anyone salutes you, do not answer him; and lay my staff on the lad's face.'"
+        },
+        {
+          "pk": 841261,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 30,
+          "text": "The mother of the lad said, 'As the LORD lives and as you yourself live, I will not leave you.' And he arose and followed her."
+        },
+        {
+          "pk": 841262,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 31,
+          "text": "Then Gehazi passed on before them and laid the staff on the lad's face, but there was no sound or response. So he returned to meet him and told him, 'The lad has not awakened.'"
+        },
+        {
+          "pk": 841263,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 32,
+          "text": "When Elisha came into the house, behold the lad was dead and laid on his bed."
+        },
+        {
+          "pk": 841264,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 33,
+          "text": "So he entered and shut the door behind them both and prayed to the LORD."
+        },
+        {
+          "pk": 841265,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 34,
+          "text": "And he went up and lay on the child, and put his mouth on his mouth and his eyes on his eyes and his hands on his hands, and he stretched himself on him; and the flesh of the child became warm."
+        },
+        {
+          "pk": 841266,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 35,
+          "text": "Then he returned and walked in the house once back and forth, and went up and stretched himself on him; and the lad sneezed seven times and the lad opened his eyes."
+        },
+        {
+          "pk": 841267,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 36,
+          "text": "He called Gehazi and said, 'Call this Shunammite.' So he called her. And when she came in to him, he said, 'Take up your son.'"
+        },
+        {
+          "pk": 841268,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 37,
+          "text": "Then she went in and fell at his feet and bowed herself to the ground, and she took up her son and went out."
+        },
+        {
+          "pk": 841269,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 38,
+          "text": "When Elisha returned to Gilgal, [there was] a famine in the land. As the sons of the prophets were sitting before him, he said to his servant, 'Put on the large pot and boil stew for the sons of the prophets.'"
+        },
+        {
+          "pk": 841270,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 39,
+          "text": "Then one went out into the field to gather herbs, and found a wild vine and gathered from it his lap full of wild gourds, and came and sliced them into the pot of stew, for they did not know [what they were]."
+        },
+        {
+          "pk": 841271,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 40,
+          "text": "So they poured [it] out for the men to eat. And as they were eating of the stew, they cried out and said, 'O man of God, there is death in the pot.' And they were unable to eat."
+        },
+        {
+          "pk": 841272,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 41,
+          "text": "But he said, 'Now bring meal.' He threw it into the pot and said, 'Pour [it] out for the people that they may eat.' Then there was no harm in the pot."
+        },
+        {
+          "pk": 841273,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 42,
+          "text": "Now a man came from Baal-shalishah, and brought the man of God bread of the first fruits, twenty loaves of barley and fresh ears of grain in his sack. And he said, 'Give [them] to the people that they may eat.'"
+        },
+        {
+          "pk": 841274,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 43,
+          "text": "His attendant said, 'What, will I set this before a hundred men?' But he said, 'Give [them] to the people that they may eat, for thus says the LORD, 'They shall eat and have [some] left over.''"
+        },
+        {
+          "pk": 841275,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 4,
+          "verse": 44,
+          "text": "So he set [it] before them, and they ate and had [some] left over, according to the word of the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 841276,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 1,
+          "text": "Now Naaman, captain of the army of the king of Aram, was a great man with his master, and highly respected, because by him the LORD had given victory to Aram. The man was also a valiant warrior, [but he was] a leper."
+        },
+        {
+          "pk": 841277,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 2,
+          "text": "Now the Arameans had gone out in bands and had taken captive a little girl from the land of Israel; and she waited on Naaman's wife."
+        },
+        {
+          "pk": 841278,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 3,
+          "text": "She said to her mistress, 'I wish that my master were with the prophet who is in Samaria! Then he would cure him of his leprosy.'"
+        },
+        {
+          "pk": 841279,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 4,
+          "text": "Naaman went in and told his master, saying, 'Thus and thus spoke the girl who is from the land of Israel.'"
+        },
+        {
+          "pk": 841280,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 5,
+          "text": "Then the king of Aram said, 'Go now, and I will send a letter to the king of Israel.' He departed and took with him ten talents of silver and six thousand [shekels] of gold and ten changes of clothes."
+        },
+        {
+          "pk": 841281,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 6,
+          "text": "He brought the letter to the king of Israel, saying, 'And now as this letter comes to you, behold, I have sent Naaman my servant to you, that you may cure him of his leprosy.'"
+        },
+        {
+          "pk": 841282,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 7,
+          "text": "When the king of Israel read the letter, he tore his clothes and said, 'Am I God, to kill and to make alive, that this man is sending [word] to me to cure a man of his leprosy? But consider now, and see how he is seeking a quarrel against me.'"
+        },
+        {
+          "pk": 841283,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 8,
+          "text": "It happened when Elisha the man of God heard that the king of Israel had torn his clothes, that he sent [word] to the king, saying, 'Why have you torn your clothes? Now let him come to me, and he shall know that there is a prophet in Israel.'"
+        },
+        {
+          "pk": 841284,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 9,
+          "text": "So Naaman came with his horses and his chariots and stood at the doorway of the house of Elisha."
+        },
+        {
+          "pk": 841285,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 10,
+          "text": "Elisha sent a messenger to him, saying, 'Go and wash in the Jordan seven times, and your flesh will be restored to you and [you will] be clean.'"
+        },
+        {
+          "pk": 841286,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 11,
+          "text": "But Naaman was furious and went away and said, 'Behold, I thought, 'He will surely come out to me and stand and call on the name of the LORD his God, and wave his hand over the place and cure the leper.'"
+        },
+        {
+          "pk": 841287,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 12,
+          "text": "'Are not Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?' So he turned and went away in a rage."
+        },
+        {
+          "pk": 841288,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 13,
+          "text": "Then his servants came near and spoke to him and said, 'My father, had the prophet told you [to do some] great thing, would you not have done [it]? How much more [then], when he says to you, 'Wash, and be clean '?'"
+        },
+        {
+          "pk": 841289,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 14,
+          "text": "So he went down and dipped [himself] seven times in the Jordan, according to the word of the man of God; and his flesh was restored like the flesh of a little child and he was clean."
+        },
+        {
+          "pk": 841290,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 15,
+          "text": "When he returned to the man of God with all his company, and came and stood before him, he said, 'Behold now, I know that there is no God in all the earth, but in Israel; so please take a present from your servant now.'"
+        },
+        {
+          "pk": 841291,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 16,
+          "text": "But he said, 'As the LORD lives, before whom I stand, I will take nothing.' And he urged him to take [it], but he refused."
+        },
+        {
+          "pk": 841292,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 17,
+          "text": "Naaman said, 'If not, please let your servant at least be given two mules' load of earth; for your servant will no longer offer burnt offering nor will he sacrifice to other gods, but to the LORD."
+        },
+        {
+          "pk": 841293,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 18,
+          "text": "'In this matter may the LORD pardon your servant: when my master goes into the house of Rimmon to worship there, and he leans on my hand and I bow myself in the house of Rimmon, when I bow myself in the house of Rimmon, the LORD pardon your servant in this matter.'"
+        },
+        {
+          "pk": 841294,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 19,
+          "text": "He said to him, 'Go in peace.' So he departed from him some distance."
+        },
+        {
+          "pk": 841295,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 20,
+          "text": "But Gehazi, the servant of Elisha the man of God, thought, 'Behold, my master has spared this Naaman the Aramean, by not receiving from his hands what he brought. As the LORD lives, I will run after him and take something from him.'"
+        },
+        {
+          "pk": 841296,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 21,
+          "text": "So Gehazi pursued Naaman. When Naaman saw one running after him, he came down from the chariot to meet him and said, 'Is all well?'"
+        },
+        {
+          "pk": 841297,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 22,
+          "text": "He said, 'All is well. My master has sent me, saying, 'Behold, just now two young men of the sons of the prophets have come to me from the hill country of Ephraim. Please give them a talent of silver and two changes of clothes.''"
+        },
+        {
+          "pk": 841298,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 23,
+          "text": "Naaman said, 'Be pleased to take two talents.' And he urged him, and bound two talents of silver in two bags with two changes of clothes and gave them to two of his servants; and they carried [them] before him."
+        },
+        {
+          "pk": 841299,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 24,
+          "text": "When he came to the hill, he took them from their hand and deposited them in the house, and he sent the men away, and they departed."
+        },
+        {
+          "pk": 841300,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 25,
+          "text": "But he went in and stood before his master. And Elisha said to him, 'Where have you been, Gehazi?' And he said, 'Your servant went nowhere.'"
+        },
+        {
+          "pk": 841301,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 26,
+          "text": "Then he said to him, 'Did not my heart go [with you], when the man turned from his chariot to meet you? Is it a time to receive money and to receive clothes and olive groves and vineyards and sheep and oxen and male and female servants?"
+        },
+        {
+          "pk": 841302,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 5,
+          "verse": 27,
+          "text": "'Therefore, the leprosy of Naaman shall cling to you and to your descendants forever.' So he went out from his presence a leper [as white] as snow."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 841303,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 1,
+          "text": "Now the sons of the prophets said to Elisha, 'Behold now, the place before you where we are living is too limited for us."
+        },
+        {
+          "pk": 841304,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 2,
+          "text": "'Please let us go to the Jordan and each of us take from there a beam, and let us make a place there for ourselves where we may live.' So he said, 'Go.'"
+        },
+        {
+          "pk": 841305,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 3,
+          "text": "Then one said, 'Please be willing to go with your servants.' And he answered, 'I shall go.'"
+        },
+        {
+          "pk": 841306,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 4,
+          "text": "So he went with them; and when they came to the Jordan, they cut down trees."
+        },
+        {
+          "pk": 841307,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 5,
+          "text": "But as one was felling a beam, the axe head fell into the water; and he cried out and said, 'Alas, my master! For it was borrowed.'"
+        },
+        {
+          "pk": 841308,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 6,
+          "text": "Then the man of God said, 'Where did it fall?' And when he showed him the place, he cut off a stick and threw [it] in there, and made the iron float."
+        },
+        {
+          "pk": 841309,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 7,
+          "text": "He said, 'Take it up for yourself.' So he put out his hand and took it."
+        },
+        {
+          "pk": 841310,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 8,
+          "text": "Now the king of Aram was warring against Israel; and he counseled with his servants saying, 'In such and such a place shall be my camp.'"
+        },
+        {
+          "pk": 841311,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 9,
+          "text": "The man of God sent [word] to the king of Israel saying, 'Beware that you do not pass this place, for the Arameans are coming down there.'"
+        },
+        {
+          "pk": 841312,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 10,
+          "text": "The king of Israel sent to the place about which the man of God had told him; thus he warned him, so that he guarded himself there, more than once or twice."
+        },
+        {
+          "pk": 841313,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 11,
+          "text": "Now the heart of the king of Aram was enraged over this thing; and he called his servants and said to them, 'Will you tell me which of us is for the king of Israel?'"
+        },
+        {
+          "pk": 841314,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 12,
+          "text": "One of his servants said, 'No, my lord, O king; but Elisha, the prophet who is in Israel, tells the king of Israel the words that you speak in your bedroom.'"
+        },
+        {
+          "pk": 841315,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 13,
+          "text": "So he said, 'Go and see where he is, that I may send and take him.' And it was told him, saying, 'Behold, he is in Dothan.'"
+        },
+        {
+          "pk": 841316,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 14,
+          "text": "He sent horses and chariots and a great army there, and they came by night and surrounded the city."
+        },
+        {
+          "pk": 841317,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 15,
+          "text": "Now when the attendant of the man of God had risen early and gone out, behold, an army with horses and chariots was circling the city. And his servant said to him, 'Alas, my master! What shall we do?'"
+        },
+        {
+          "pk": 841318,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 16,
+          "text": "So he answered, 'Do not fear, for those who are with us are more than those who are with them.'"
+        },
+        {
+          "pk": 841319,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 17,
+          "text": "Then Elisha prayed and said, 'O LORD, I pray, open his eyes that he may see.' And the LORD opened the servant's eyes and he saw; and behold, the mountain was full of horses and chariots of fire all around Elisha."
+        },
+        {
+          "pk": 841320,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 18,
+          "text": "When they came down to him, Elisha prayed to the LORD and said, 'Strike this people with blindness, I pray.' So He struck them with blindness according to the word of Elisha."
+        },
+        {
+          "pk": 841321,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 19,
+          "text": "Then Elisha said to them, 'This is not the way, nor is this the city; follow me and I will bring you to the man whom you seek.' And he brought them to Samaria."
+        },
+        {
+          "pk": 841322,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 20,
+          "text": "When they had come into Samaria, Elisha said, 'O LORD, open the eyes of these [men], that they may see.' So the LORD opened their eyes and they saw; and behold, they were in the midst of Samaria."
+        },
+        {
+          "pk": 841323,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 21,
+          "text": "Then the king of Israel when he saw them, said to Elisha, 'My father, shall I kill them? Shall I kill them?'"
+        },
+        {
+          "pk": 841324,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 22,
+          "text": "He answered, 'You shall not kill [them]. Would you kill those you have taken captive with your sword and with your bow? Set bread and water before them, that they may eat and drink and go to their master.'"
+        },
+        {
+          "pk": 841325,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 23,
+          "text": "So he prepared a great feast for them; and when they had eaten and drunk he sent them away, and they went to their master. And the marauding bands of Arameans did not come again into the land of Israel."
+        },
+        {
+          "pk": 841326,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 24,
+          "text": "Now it came about after this, that Ben-hadad king of Aram gathered all his army and went up and besieged Samaria."
+        },
+        {
+          "pk": 841327,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 25,
+          "text": "There was a great famine in Samaria; and behold, they besieged it, until a donkey's head was sold for eighty [shekels] of silver, and a fourth of a kab of dove's dung for five [shekels] of silver."
+        },
+        {
+          "pk": 841328,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 26,
+          "text": "As the king of Israel was passing by on the wall a woman cried out to him, saying, 'Help, my lord, O king!'"
+        },
+        {
+          "pk": 841329,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 27,
+          "text": "He said, 'If the LORD does not help you, from where shall I help you? From the threshing floor, or from the wine press?'"
+        },
+        {
+          "pk": 841330,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 28,
+          "text": "And the king said to her, 'What is the matter with you?' And she answered, 'This woman said to me, 'Give your son that we may eat him today, and we will eat my son tomorrow.'"
+        },
+        {
+          "pk": 841331,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 29,
+          "text": "'So we boiled my son and ate him; and I said to her on the next day, 'Give your son, that we may eat him'; but she has hidden her son.'"
+        },
+        {
+          "pk": 841332,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 30,
+          "text": "When the king heard the words of the woman, he tore his clothes-- now he was passing by on the wall-- and the people looked, and behold, he had sackcloth beneath on his body."
+        },
+        {
+          "pk": 841333,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 31,
+          "text": "Then he said, 'May God do so to me and more also, if the head of Elisha the son of Shaphat remains on him today.'"
+        },
+        {
+          "pk": 841334,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 32,
+          "text": "Now Elisha was sitting in his house, and the elders were sitting with him. And [the king] sent a man from his presence; but before the messenger came to him, he said to the elders, 'Do you see how this son of a murderer has sent to take away my head? Look, when the messenger comes, shut the door and hold the door shut against him. Is not the sound of his master's feet behind him?'"
+        },
+        {
+          "pk": 841335,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 6,
+          "verse": 33,
+          "text": "While he was still talking with them, behold, the messenger came down to him and he said, 'Behold, this evil is from the LORD; why should I wait for the LORD any longer?'"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 841336,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 1,
+          "text": "Then Elisha said, 'Listen to the word of the LORD; thus says the LORD, 'Tomorrow about this time a measure of fine flour will be [sold] for a shekel, and two measures of barley for a shekel, in the gate of Samaria.''"
+        },
+        {
+          "pk": 841337,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 2,
+          "text": "The royal officer on whose hand the king was leaning answered the man of God and said, 'Behold, if the LORD should make windows in heaven, could this thing be?' Then he said, 'Behold, you will see it with your own eyes, but you will not eat of it.'"
+        },
+        {
+          "pk": 841338,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 3,
+          "text": "Now there were four leprous men at the entrance of the gate; and they said to one another, 'Why do we sit here until we die?"
+        },
+        {
+          "pk": 841339,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 4,
+          "text": "'If we say, 'We will enter the city,' then the famine is in the city and we will die there; and if we sit here, we die also. Now therefore come, and let us go over to the camp of the Arameans. If they spare us, we will live; and if they kill us, we will but die.'"
+        },
+        {
+          "pk": 841340,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 5,
+          "text": "They arose at twilight to go to the camp of the Arameans; when they came to the outskirts of the camp of the Arameans, behold, there was no one there."
+        },
+        {
+          "pk": 841341,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 6,
+          "text": "For the Lord had caused the army of the Arameans to hear a sound of chariots and a sound of horses, [even] the sound of a great army, so that they said to one another, 'Behold, the king of Israel has hired against us the kings of the Hittites and the kings of the Egyptians, to come upon us.'"
+        },
+        {
+          "pk": 841342,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 7,
+          "text": "Therefore they arose and fled in the twilight, and left their tents and their horses and their donkeys, [even] the camp just as it was, and fled for their life."
+        },
+        {
+          "pk": 841343,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 8,
+          "text": "When these lepers came to the outskirts of the camp, they entered one tent and ate and drank, and carried from there silver and gold and clothes, and went and hid [them]; and they returned and entered another tent and carried from there [also], and went and hid [them]."
+        },
+        {
+          "pk": 841344,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 9,
+          "text": "Then they said to one another, 'We are not doing right. This day is a day of good news, but we are keeping silent; if we wait until morning light, punishment will overtake us. Now therefore come, let us go and tell the king's household.'"
+        },
+        {
+          "pk": 841345,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 10,
+          "text": "So they came and called to the gatekeepers of the city, and they told them, saying, 'We came to the camp of the Arameans, and behold, there was no one there, nor the voice of man, only the horses tied and the donkeys tied, and the tents just as they were.'"
+        },
+        {
+          "pk": 841346,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 11,
+          "text": "The gatekeepers called and told [it] within the king's household."
+        },
+        {
+          "pk": 841347,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 12,
+          "text": "Then the king arose in the night and said to his servants, 'I will now tell you what the Arameans have done to us. They know that we are hungry; therefore they have gone from the camp to hide themselves in the field, saying, 'When they come out of the city, we will capture them alive and get into the city.''"
+        },
+        {
+          "pk": 841348,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 13,
+          "text": "One of his servants said, 'Please, let some [men] take five of the horses which remain, which are left in the city. Behold, they [will be in any case] like all the multitude of Israel who are left in it; behold, they [will be in any case] like all the multitude of Israel who have already perished, so let us send and see.'"
+        },
+        {
+          "pk": 841349,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 14,
+          "text": "They took therefore two chariots with horses, and the king sent after the army of the Arameans, saying, 'Go and see.'"
+        },
+        {
+          "pk": 841350,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 15,
+          "text": "They went after them to the Jordan, and behold, all the way was full of clothes and equipment which the Arameans had thrown away in their haste. Then the messengers returned and told the king."
+        },
+        {
+          "pk": 841351,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 16,
+          "text": "So the people went out and plundered the camp of the Arameans. Then a measure of fine flour [was sold] for a shekel and two measures of barley for a shekel, according to the word of the LORD."
+        },
+        {
+          "pk": 841352,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 17,
+          "text": "Now the king appointed the royal officer on whose hand he leaned to have charge of the gate; but the people trampled on him at the gate, and he died just as the man of God had said, who spoke when the king came down to him."
+        },
+        {
+          "pk": 841353,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 18,
+          "text": "It happened just as the man of God had spoken to the king, saying, 'Two measures of barley for a shekel and a measure of fine flour for a shekel, will be [sold] tomorrow about this time at the gate of Samaria.'"
+        },
+        {
+          "pk": 841354,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 19,
+          "text": "Then the royal officer answered the man of God and said, 'Now behold, if the LORD should make windows in heaven, could such a thing be?' And he said, 'Behold, you will see it with your own eyes, but you will not eat of it.'"
+        },
+        {
+          "pk": 841355,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 7,
+          "verse": 20,
+          "text": "And so it happened to him, for the people trampled on him at the gate and he died."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 841356,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 1,
+          "text": "Now Elisha spoke to the woman whose son he had restored to life, saying, 'Arise and go with your household, and sojourn wherever you can sojourn; for the LORD has called for a famine, and it will even come on the land for seven years.'"
+        },
+        {
+          "pk": 841357,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 2,
+          "text": "So the woman arose and did according to the word of the man of God, and she went with her household and sojourned in the land of the Philistines seven years."
+        },
+        {
+          "pk": 841358,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 3,
+          "text": "At the end of seven years, the woman returned from the land of the Philistines; and she went out to appeal to the king for her house and for her field."
+        },
+        {
+          "pk": 841359,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 4,
+          "text": "Now the king was talking with Gehazi, the servant of the man of God, saying, 'Please relate to me all the great things that Elisha has done.'"
+        },
+        {
+          "pk": 841360,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 5,
+          "text": "As he was relating to the king how he had restored to life the one who was dead, behold, the woman whose son he had restored to life appealed to the king for her house and for her field. And Gehazi said, 'My lord, O king, this is the woman and this is her son, whom Elisha restored to life.'"
+        },
+        {
+          "pk": 841361,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 6,
+          "text": "When the king asked the woman, she related [it] to him. So the king appointed for her a certain officer, saying, 'Restore all that was hers and all the produce of the field from the day that she left the land even until now.'"
+        },
+        {
+          "pk": 841362,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 7,
+          "text": "Then Elisha came to Damascus. Now Ben-hadad king of Aram was sick, and it was told him, saying, 'The man of God has come here.'"
+        },
+        {
+          "pk": 841363,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 8,
+          "text": "The king said to Hazael, 'Take a gift in your hand and go to meet the man of God, and inquire of the LORD by him, saying, 'Will I recover from this sickness?''"
+        },
+        {
+          "pk": 841364,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 9,
+          "text": "So Hazael went to meet him and took a gift in his hand, even every kind of good thing of Damascus, forty camels' loads; and he came and stood before him and said, 'Your son Ben-hadad king of Aram has sent me to you, saying, 'Will I recover from this sickness?''"
+        },
+        {
+          "pk": 841365,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 10,
+          "text": "Then Elisha said to him, 'Go, say to him, 'You will surely recover,' but the LORD has shown me that he will certainly die.'"
+        },
+        {
+          "pk": 841366,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 11,
+          "text": "He fixed his gaze steadily [on him] until he was ashamed, and the man of God wept."
+        },
+        {
+          "pk": 841367,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 12,
+          "text": "Hazael said, 'Why does my lord weep?' Then he answered, 'Because I know the evil that you will do to the sons of Israel: their strongholds you will set on fire, and their young men you will kill with the sword, and their little ones you will dash in pieces, and their women with child you will rip up.'"
+        },
+        {
+          "pk": 841368,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 13,
+          "text": "Then Hazael said, 'But what is your servant, [who is but] a dog, that he should do this great thing?' And Elisha answered, 'The LORD has shown me that you will be king over Aram.'"
+        },
+        {
+          "pk": 841369,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 14,
+          "text": "So he departed from Elisha and returned to his master, who said to him, 'What did Elisha say to you?' And he answered, 'He told me that you would surely recover.'"
+        },
+        {
+          "pk": 841370,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 15,
+          "text": "On the following day, he took the cover and dipped it in water and spread it on his face, so that he died. And Hazael became king in his place."
+        },
+        {
+          "pk": 841371,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 16,
+          "text": "Now in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then the king of Judah, Jehoram the son of Jehoshaphat king of Judah became king."
+        },
+        {
+          "pk": 841372,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 17,
+          "text": "He was thirty-two years old when he became king, and he reigned eight years in Jerusalem."
+        },
+        {
+          "pk": 841373,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 18,
+          "text": "He walked in the way of the kings of Israel, just as the house of Ahab had done, for the daughter of Ahab became his wife; and he did evil in the sight of the LORD."
+        },
+        {
+          "pk": 841374,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 19,
+          "text": "However, the LORD was not willing to destroy Judah, for the sake of David His servant, since He had promised him to give a lamp to him through his sons always."
+        },
+        {
+          "pk": 841375,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 20,
+          "text": "In his days Edom revolted from under the hand of Judah, and made a king over themselves."
+        },
+        {
+          "pk": 841376,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 21,
+          "text": "Then Joram crossed over to Zair, and all his chariots with him. And he arose by night and struck the Edomites who had surrounded him and the captains of the chariots; but [his] army fled to their tents."
+        },
+        {
+          "pk": 841377,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 22,
+          "text": "So Edom revolted against Judah to this day. Then Libnah revolted at the same time."
+        },
+        {
+          "pk": 841378,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 23,
+          "text": "The rest of the acts of Joram and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841379,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 24,
+          "text": "So Joram slept with his fathers and was buried with his fathers in the city of David; and Ahaziah his son became king in his place."
+        },
+        {
+          "pk": 841380,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 25,
+          "text": "In the twelfth year of Joram the son of Ahab king of Israel, Ahaziah the son of Jehoram king of Judah began to reign."
+        },
+        {
+          "pk": 841381,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 26,
+          "text": "Ahaziah [was] twenty-two years old when he became king, and he reigned one year in Jerusalem. And his mother's name [was] Athaliah the granddaughter of Omri king of Israel."
+        },
+        {
+          "pk": 841382,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 27,
+          "text": "He walked in the way of the house of Ahab and did evil in the sight of the LORD, like the house of Ahab [had done], because he was a son-in-law of the house of Ahab."
+        },
+        {
+          "pk": 841383,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 28,
+          "text": "Then he went with Joram the son of Ahab to war against Hazael king of Aram at Ramoth-gilead, and the Arameans wounded Joram."
+        },
+        {
+          "pk": 841384,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 8,
+          "verse": 29,
+          "text": "So King Joram returned to be healed in Jezreel of the wounds which the Arameans had inflicted on him at Ramah when he fought against Hazael king of Aram. Then Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel because he was sick."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 841385,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 1,
+          "text": "Now Elisha the prophet called one of the sons of the prophets and said to him, 'Gird up your loins, and take this flask of oil in your hand and go to Ramoth-gilead."
+        },
+        {
+          "pk": 841386,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 2,
+          "text": "'When you arrive there, search out Jehu the son of Jehoshaphat the son of Nimshi, and go in and bid him arise from among his brothers, and bring him to an inner room."
+        },
+        {
+          "pk": 841387,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 3,
+          "text": "'Then take the flask of oil and pour it on his head and say, 'Thus says the LORD, 'I have anointed you king over Israel.'' Then open the door and flee and do not wait.'"
+        },
+        {
+          "pk": 841388,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 4,
+          "text": "So the young man, the servant of the prophet, went to Ramoth-gilead."
+        },
+        {
+          "pk": 841389,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 5,
+          "text": "When he came, behold, the captains of the army were sitting, and he said, 'I have a word for you, O captain.' And Jehu said, 'For which [one] of us?' And he said, 'For you, O captain.'"
+        },
+        {
+          "pk": 841390,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 6,
+          "text": "He arose and went into the house, and he poured the oil on his head and said to him, 'Thus says the LORD, the God of Israel, 'I have anointed you king over the people of the LORD, [even] over Israel."
+        },
+        {
+          "pk": 841391,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 7,
+          "text": "'You shall strike the house of Ahab your master, that I may avenge the blood of My servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel."
+        },
+        {
+          "pk": 841392,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 8,
+          "text": "'For the whole house of Ahab shall perish, and I will cut off from Ahab every male person both bond and free in Israel."
+        },
+        {
+          "pk": 841393,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 9,
+          "text": "'I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah."
+        },
+        {
+          "pk": 841394,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 10,
+          "text": "'The dogs shall eat Jezebel in the territory of Jezreel, and none shall bury [her].'' Then he opened the door and fled."
+        },
+        {
+          "pk": 841395,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 11,
+          "text": "Now Jehu came out to the servants of his master, and one said to him, 'Is all well? Why did this mad fellow come to you?' And he said to them, 'You know [very well] the man and his talk.'"
+        },
+        {
+          "pk": 841396,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 12,
+          "text": "They said, 'It is a lie, tell us now.' And he said, 'Thus and thus he said to me, 'Thus says the LORD, 'I have anointed you king over Israel.'''"
+        },
+        {
+          "pk": 841397,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 13,
+          "text": "Then they hurried and each man took his garment and placed it under him on the bare steps, and blew the trumpet, saying, 'Jehu is king!'"
+        },
+        {
+          "pk": 841398,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 14,
+          "text": "So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. Now Joram with all Israel was defending Ramoth-gilead against Hazael king of Aram,"
+        },
+        {
+          "pk": 841399,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 15,
+          "text": "but King Joram had returned to Jezreel to be healed of the wounds which the Arameans had inflicted on him when he fought with Hazael king of Aram. So Jehu said, 'If this is your mind, [then] let no one escape [or] leave the city to go tell [it] in Jezreel.'"
+        },
+        {
+          "pk": 841400,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 16,
+          "text": "Then Jehu rode in a chariot and went to Jezreel, for Joram was lying there. Ahaziah king of Judah had come down to see Joram."
+        },
+        {
+          "pk": 841401,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 17,
+          "text": "Now the watchman was standing on the tower in Jezreel and he saw the company of Jehu as he came, and said, 'I see a company.' And Joram said, 'Take a horseman and send him to meet them and let him say, 'Is it peace?''"
+        },
+        {
+          "pk": 841402,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 18,
+          "text": "So a horseman went to meet him and said, 'Thus says the king, 'Is it peace?'' And Jehu said, 'What have you to do with peace? Turn behind me.' And the watchman reported, 'The messenger came to them, but he did not return.'"
+        },
+        {
+          "pk": 841403,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 19,
+          "text": "Then he sent out a second horseman, who came to them and said, 'Thus says the king, 'Is it peace?'' And Jehu answered, 'What have you to do with peace? Turn behind me.'"
+        },
+        {
+          "pk": 841404,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 20,
+          "text": "The watchman reported, 'He came even to them, and he did not return; and the driving is like the driving of Jehu the son of Nimshi, for he drives furiously.'"
+        },
+        {
+          "pk": 841405,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 21,
+          "text": "Then Joram said, 'Get ready.' And they made his chariot ready. Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out to meet Jehu and found him in the property of Naboth the Jezreelite."
+        },
+        {
+          "pk": 841406,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 22,
+          "text": "When Joram saw Jehu, he said, 'Is it peace, Jehu?' And he answered, 'What peace, so long as the harlotries of your mother Jezebel and her witchcrafts are so many?'"
+        },
+        {
+          "pk": 841407,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 23,
+          "text": "So Joram reined about and fled and said to Ahaziah, '[There is] treachery, O Ahaziah!'"
+        },
+        {
+          "pk": 841408,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 24,
+          "text": "And Jehu drew his bow with his full strength and shot Joram between his arms; and the arrow went through his heart and he sank in his chariot."
+        },
+        {
+          "pk": 841409,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 25,
+          "text": "Then [Jehu] said to Bidkar his officer, 'Take [him] up and cast him into the property of the field of Naboth the Jezreelite, for I remember when you and I were riding together after Ahab his father, that the LORD laid this oracle against him:"
+        },
+        {
+          "pk": 841410,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 26,
+          "text": "'Surely I have seen yesterday the blood of Naboth and the blood of his sons,' says the LORD, 'and I will repay you in this property,' says the LORD. Now then, take and cast him into the property, according to the word of the LORD.'"
+        },
+        {
+          "pk": 841411,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 27,
+          "text": "When Ahaziah the king of Judah saw [this], he fled by the way of the garden house. And Jehu pursued him and said, 'Shoot him too, in the chariot.' [So they shot him] at the ascent of Gur, which is at Ibleam. But he fled to Megiddo and died there."
+        },
+        {
+          "pk": 841412,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 28,
+          "text": "Then his servants carried him in a chariot to Jerusalem and buried him in his grave with his fathers in the city of David."
+        },
+        {
+          "pk": 841413,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 29,
+          "text": "Now in the eleventh year of Joram, the son of Ahab, Ahaziah became king over Judah."
+        },
+        {
+          "pk": 841414,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 30,
+          "text": "When Jehu came to Jezreel, Jezebel heard [of it], and she painted her eyes and adorned her head and looked out the window."
+        },
+        {
+          "pk": 841415,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 31,
+          "text": "As Jehu entered the gate, she said, 'Is it well, Zimri, your master's murderer?'"
+        },
+        {
+          "pk": 841416,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 32,
+          "text": "Then he lifted up his face to the window and said, 'Who is on my side? Who?' And two or three officials looked down at him."
+        },
+        {
+          "pk": 841417,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 33,
+          "text": "He said, 'Throw her down.' So they threw her down, and some of her blood was sprinkled on the wall and on the horses, and he trampled her under foot."
+        },
+        {
+          "pk": 841418,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 34,
+          "text": "When he came in, he ate and drank; and he said, 'See now to this cursed woman and bury her, for she is a king's daughter.'"
+        },
+        {
+          "pk": 841419,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 35,
+          "text": "They went to bury her, but they found nothing more of her than the skull and the feet and the palms of her hands."
+        },
+        {
+          "pk": 841420,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 36,
+          "text": "Therefore they returned and told him. And he said, 'This is the word of the LORD, which He spoke by His servant Elijah the Tishbite, saying, 'In the property of Jezreel the dogs shall eat the flesh of Jezebel;"
+        },
+        {
+          "pk": 841421,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 9,
+          "verse": 37,
+          "text": "and the corpse of Jezebel will be as dung on the face of the field in the property of Jezreel, so they cannot say, 'This is Jezebel.'''"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 841422,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 1,
+          "text": "Now Ahab had seventy sons in Samaria. And Jehu wrote letters and sent [them] to Samaria, to the rulers of Jezreel, the elders, and to the guardians of [the children of] Ahab, saying,"
+        },
+        {
+          "pk": 841423,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 2,
+          "text": "'Now, when this letter comes to you, since your master's sons are with you, as well as the chariots and horses and a fortified city and the weapons,"
+        },
+        {
+          "pk": 841424,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 3,
+          "text": "select the best and fittest of your master's sons, and set [him] on his father's throne, and fight for your master's house.'"
+        },
+        {
+          "pk": 841425,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 4,
+          "text": "But they feared greatly and said, 'Behold, the two kings did not stand before him; how then can we stand?'"
+        },
+        {
+          "pk": 841426,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 5,
+          "text": "And the one who [was] over the household, and he who [was] over the city, the elders, and the guardians of [the children], sent [word] to Jehu, saying, 'We are your servants, all that you say to us we will do, we will not make any man king; do what is good in your sight.'"
+        },
+        {
+          "pk": 841427,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 6,
+          "text": "Then he wrote a letter to them a second time saying, 'If you are on my side, and you will listen to my voice, take the heads of the men, your master's sons, and come to me at Jezreel tomorrow about this time.' Now the king's sons, seventy persons, [were] with the great men of the city, [who] were rearing them."
+        },
+        {
+          "pk": 841428,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 7,
+          "text": "When the letter came to them, they took the king's sons and slaughtered [them], seventy persons, and put their heads in baskets, and sent [them] to him at Jezreel."
+        },
+        {
+          "pk": 841429,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 8,
+          "text": "When the messenger came and told him, saying, 'They have brought the heads of the king's sons,' he said, 'Put them in two heaps at the entrance of the gate until morning.'"
+        },
+        {
+          "pk": 841430,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 9,
+          "text": "Now in the morning he went out and stood and said to all the people, 'You are innocent; behold, I conspired against my master and killed him, but who killed all these?"
+        },
+        {
+          "pk": 841431,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 10,
+          "text": "'Know then that there shall fall to the earth nothing of the word of the LORD, which the LORD spoke concerning the house of Ahab, for the LORD has done what He spoke through His servant Elijah.'"
+        },
+        {
+          "pk": 841432,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 11,
+          "text": "So Jehu killed all who remained of the house of Ahab in Jezreel, and all his great men and his acquaintances and his priests, until he left him without a survivor."
+        },
+        {
+          "pk": 841433,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 12,
+          "text": "Then he arose and departed and went to Samaria. On the way while he was at Beth-eked of the shepherds,"
+        },
+        {
+          "pk": 841434,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 13,
+          "text": "Jehu met the relatives of Ahaziah king of Judah and said, 'Who are you?' And they answered, 'We are the relatives of Ahaziah; and we have come down to greet the sons of the king and the sons of the queen mother.'"
+        },
+        {
+          "pk": 841435,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 14,
+          "text": "He said, 'Take them alive.' So they took them alive and killed them at the pit of Beth-eked, forty-two men; and he left none of them."
+        },
+        {
+          "pk": 841436,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 15,
+          "text": "Now when he had departed from there, he met Jehonadab the son of Rechab [coming] to meet him; and he greeted him and said to him, 'Is your heart right, as my heart is with your heart?' And Jehonadab answered, 'It is.' [Jehu said], 'If it is, give [me] your hand.' And he gave him his hand, and he took him up to him into the chariot."
+        },
+        {
+          "pk": 841437,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 16,
+          "text": "He said, 'Come with me and see my zeal for the LORD.' So he made him ride in his chariot."
+        },
+        {
+          "pk": 841438,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 17,
+          "text": "When he came to Samaria, he killed all who remained to Ahab in Samaria, until he had destroyed him, according to the word of the LORD which He spoke to Elijah."
+        },
+        {
+          "pk": 841439,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 18,
+          "text": "Then Jehu gathered all the people and said to them, 'Ahab served Baal a little; Jehu will serve him much."
+        },
+        {
+          "pk": 841440,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 19,
+          "text": "'Now, summon all the prophets of Baal, all his worshipers and all his priests; let no one be missing, for I have a great sacrifice for Baal; whoever is missing shall not live.' But Jehu did it in cunning, so that he might destroy the worshipers of Baal."
+        },
+        {
+          "pk": 841441,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 20,
+          "text": "And Jehu said, 'Sanctify a solemn assembly for Baal.' And they proclaimed [it]."
+        },
+        {
+          "pk": 841442,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 21,
+          "text": "Then Jehu sent throughout Israel and all the worshipers of Baal came, so that there was not a man left who did not come. And when they went into the house of Baal, the house of Baal was filled from one end to the other."
+        },
+        {
+          "pk": 841443,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 22,
+          "text": "He said to the one who [was] in charge of the wardrobe, 'Bring out garments for all the worshipers of Baal.' So he brought out garments for them."
+        },
+        {
+          "pk": 841444,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 23,
+          "text": "Jehu went into the house of Baal with Jehonadab the son of Rechab; and he said to the worshipers of Baal, 'Search and see that there is here with you none of the servants of the LORD, but only the worshipers of Baal.'"
+        },
+        {
+          "pk": 841445,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 24,
+          "text": "Then they went in to offer sacrifices and burnt offerings. Now Jehu had stationed for himself eighty men outside, and he had said, 'The one who permits any of the men whom I bring into your hands to escape shall give up his life in exchange.'"
+        },
+        {
+          "pk": 841446,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 25,
+          "text": "Then it came about, as soon as he had finished offering the burnt offering, that Jehu said to the guard and to the royal officers, 'Go in, kill them; let none come out.' And they killed them with the edge of the sword; and the guard and the royal officers threw [them] out, and went to the inner room of the house of Baal."
+        },
+        {
+          "pk": 841447,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 26,
+          "text": "They brought out the [sacred] pillars of the house of Baal and burned them."
+        },
+        {
+          "pk": 841448,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 27,
+          "text": "They also broke down the [sacred] pillar of Baal and broke down the house of Baal, and made it a latrine to this day."
+        },
+        {
+          "pk": 841449,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 28,
+          "text": "Thus Jehu eradicated Baal out of Israel."
+        },
+        {
+          "pk": 841450,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 29,
+          "text": "However, [as for] the sins of Jeroboam the son of Nebat, which he made Israel sin, from these Jehu did not depart, [even] the golden calves that [were] at Bethel and that [were] at Dan."
+        },
+        {
+          "pk": 841451,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 30,
+          "text": "The LORD said to Jehu, 'Because you have done well in executing what is right in My eyes, [and] have done to the house of Ahab according to all that [was] in My heart, your sons of the fourth generation shall sit on the throne of Israel.'"
+        },
+        {
+          "pk": 841452,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 31,
+          "text": "But Jehu was not careful to walk in the law of the LORD, the God of Israel, with all his heart; he did not depart from the sins of Jeroboam, which he made Israel sin."
+        },
+        {
+          "pk": 841453,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 32,
+          "text": "In those days the LORD began to cut off [portions] from Israel; and Hazael defeated them throughout the territory of Israel:"
+        },
+        {
+          "pk": 841454,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 33,
+          "text": "from the Jordan eastward, all the land of Gilead, the Gadites and the Reubenites and the Manassites, from Aroer, which is by the valley of the Arnon, even Gilead and Bashan."
+        },
+        {
+          "pk": 841455,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 34,
+          "text": "Now the rest of the acts of Jehu and all that he did and all his might, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        },
+        {
+          "pk": 841456,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 35,
+          "text": "And Jehu slept with his fathers, and they buried him in Samaria. And Jehoahaz his son became king in his place."
+        },
+        {
+          "pk": 841457,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 10,
+          "verse": 36,
+          "text": "Now the time which Jehu reigned over Israel in Samaria [was] twenty-eight years."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 841458,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 1,
+          "text": "When Athaliah the mother of Ahaziah saw that her son was dead, she rose and destroyed all the royal offspring."
+        },
+        {
+          "pk": 841459,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 2,
+          "text": "But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him from among the king's sons who were being put to death, and placed him and his nurse in the bedroom. So they hid him from Athaliah, and he was not put to death."
+        },
+        {
+          "pk": 841460,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 3,
+          "text": "So he was hidden with her in the house of the LORD six years, while Athaliah was reigning over the land."
+        },
+        {
+          "pk": 841461,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 4,
+          "text": "Now in the seventh year Jehoiada sent and brought the captains of hundreds of the Carites and of the guard, and brought them to him in the house of the LORD. Then he made a covenant with them and put them under oath in the house of the LORD, and showed them the king's son."
+        },
+        {
+          "pk": 841462,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 5,
+          "text": "He commanded them, saying, 'This is the thing that you shall do: one third of you, who come in on the sabbath and keep watch over the king's house"
+        },
+        {
+          "pk": 841463,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 6,
+          "text": "(one third also [shall be] at the gate Sur, and one third at the gate behind the guards), shall keep watch over the house for defense."
+        },
+        {
+          "pk": 841464,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 7,
+          "text": "'Two parts of you, [even] all who go out on the sabbath, shall also keep watch over the house of the LORD for the king."
+        },
+        {
+          "pk": 841465,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 8,
+          "text": "'Then you shall surround the king, each with his weapons in his hand; and whoever comes within the ranks shall be put to death. And be with the king when he goes out and when he comes in.'"
+        },
+        {
+          "pk": 841466,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 9,
+          "text": "So the captains of hundreds did according to all that Jehoiada the priest commanded. And each one of them took his men who were to come in on the sabbath, with those who were to go out on the sabbath, and came to Jehoiada the priest."
+        },
+        {
+          "pk": 841467,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 10,
+          "text": "The priest gave to the captains of hundreds the spears and shields that [had been] King David's, which [were] in the house of the LORD."
+        },
+        {
+          "pk": 841468,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 11,
+          "text": "The guards stood each with his weapons in his hand, from the right side of the house to the left side of the house, by the altar and by the house, around the king."
+        },
+        {
+          "pk": 841469,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 12,
+          "text": "Then he brought the king's son out and put the crown on him and [gave him] the testimony; and they made him king and anointed him, and they clapped their hands and said, '[Long] live the king!'"
+        },
+        {
+          "pk": 841470,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 13,
+          "text": "When Athaliah heard the noise of the guard [and of] the people, she came to the people in the house of the LORD."
+        },
+        {
+          "pk": 841471,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 14,
+          "text": "She looked and behold, the king was standing by the pillar, according to the custom, with the captains and the trumpeters beside the king; and all the people of the land rejoiced and blew trumpets. Then Athaliah tore her clothes and cried, 'Treason! Treason!'"
+        },
+        {
+          "pk": 841472,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 15,
+          "text": "And Jehoiada the priest commanded the captains of hundreds who were appointed over the army and said to them, 'Bring her out between the ranks, and whoever follows her put to death with the sword.' For the priest said, 'Let her not be put to death in the house of the LORD.'"
+        },
+        {
+          "pk": 841473,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 16,
+          "text": "So they seized her, and when she arrived at the horses' entrance of the king's house, she was put to death there."
+        },
+        {
+          "pk": 841474,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 17,
+          "text": "Then Jehoiada made a covenant between the LORD and the king and the people, that they would be the LORD'S people, also between the king and the people."
+        },
+        {
+          "pk": 841475,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 18,
+          "text": "All the people of the land went to the house of Baal, and tore it down; his altars and his images they broke in pieces thoroughly, and killed Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the LORD."
+        },
+        {
+          "pk": 841476,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 19,
+          "text": "He took the captains of hundreds and the Carites and the guards and all the people of the land; and they brought the king down from the house of the LORD, and came by the way of the gate of the guards to the king's house. And he sat on the throne of the kings."
+        },
+        {
+          "pk": 841477,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 20,
+          "text": "So all the people of the land rejoiced and the city was quiet. For they had put Athaliah to death with the sword at the king's house."
+        },
+        {
+          "pk": 841478,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 11,
+          "verse": 21,
+          "text": "Jehoash was seven years old when he became king."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 841479,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 1,
+          "text": "In the seventh year of Jehu, Jehoash became king, and he reigned forty years in Jerusalem; and his mother's name was Zibiah of Beersheba."
+        },
+        {
+          "pk": 841480,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 2,
+          "text": "Jehoash did right in the sight of the LORD all his days in which Jehoiada the priest instructed him."
+        },
+        {
+          "pk": 841481,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 3,
+          "text": "Only the high places were not taken away; the people still sacrificed and burned incense on the high places."
+        },
+        {
+          "pk": 841482,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 4,
+          "text": "Then Jehoash said to the priests, 'All the money of the sacred things which is brought into the house of the LORD, in current money, [both] the money of each man's assessment [and] all the money which any man's heart prompts him to bring into the house of the LORD,"
+        },
+        {
+          "pk": 841483,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 5,
+          "text": "let the priests take it for themselves, each from his acquaintance; and they shall repair the damages of the house wherever any damage may be found.'"
+        },
+        {
+          "pk": 841484,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 6,
+          "text": "But it came about that in the twenty-third year of King Jehoash the priests had not repaired the damages of the house."
+        },
+        {
+          "pk": 841485,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 7,
+          "text": "Then King Jehoash called for Jehoiada the priest, and for the [other] priests and said to them, 'Why do you not repair the damages of the house? Now therefore take no [more] money from your acquaintances, but pay it for the damages of the house.'"
+        },
+        {
+          "pk": 841486,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 8,
+          "text": "So the priests agreed that they would take no [more] money from the people, nor repair the damages of the house."
+        },
+        {
+          "pk": 841487,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 9,
+          "text": "But Jehoiada the priest took a chest and bored a hole in its lid and put it beside the altar, on the right side as one comes into the house of the LORD; and the priests who guarded the threshold put in it all the money which was brought into the house of the LORD."
+        },
+        {
+          "pk": 841488,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 10,
+          "text": "When they saw that there was much money in the chest, the king's scribe and the high priest came up and tied [it] in bags and counted the money which was found in the house of the LORD."
+        },
+        {
+          "pk": 841489,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 11,
+          "text": "They gave the money which was weighed out into the hands of those who did the work, who had the oversight of the house of the LORD; and they paid it out to the carpenters and the builders who worked on the house of the LORD;"
+        },
+        {
+          "pk": 841490,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 12,
+          "text": "and to the masons and the stonecutters, and for buying timber and hewn stone to repair the damages to the house of the LORD, and for all that was laid out for the house to repair it."
+        },
+        {
+          "pk": 841491,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 13,
+          "text": "But there were not made for the house of the LORD silver cups, snuffers, bowls, trumpets, any vessels of gold, or vessels of silver from the money which was brought into the house of the LORD;"
+        },
+        {
+          "pk": 841492,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 14,
+          "text": "for they gave that to those who did the work, and with it they repaired the house of the LORD."
+        },
+        {
+          "pk": 841493,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 15,
+          "text": "Moreover, they did not require an accounting from the men into whose hand they gave the money to pay to those who did the work, for they dealt faithfully."
+        },
+        {
+          "pk": 841494,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 16,
+          "text": "The money from the guilt offerings and the money from the sin offerings was not brought into the house of the LORD; it was for the priests."
+        },
+        {
+          "pk": 841495,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 17,
+          "text": "Then Hazael king of Aram went up and fought against Gath and captured it, and Hazael set his face to go up to Jerusalem."
+        },
+        {
+          "pk": 841496,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 18,
+          "text": "Jehoash king of Judah took all the sacred things that Jehoshaphat and Jehoram and Ahaziah, his fathers, kings of Judah, had dedicated, and his own sacred things and all the gold that was found among the treasuries of the house of the LORD and of the king's house, and sent [them] to Hazael king of Aram. Then he went away from Jerusalem."
+        },
+        {
+          "pk": 841497,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 19,
+          "text": "Now the rest of the acts of Joash and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841498,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 20,
+          "text": "His servants arose and made a conspiracy and struck down Joash at the house of Millo [as he was] going down to Silla."
+        },
+        {
+          "pk": 841499,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 12,
+          "verse": 21,
+          "text": "For Jozacar the son of Shimeath and Jehozabad the son of Shomer, his servants, struck [him] and he died; and they buried him with his fathers in the city of David, and Amaziah his son became king in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 841500,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 1,
+          "text": "In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu became king over Israel at Samaria, [and he reigned] seventeen years."
+        },
+        {
+          "pk": 841501,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 2,
+          "text": "He did evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, with which he made Israel sin; he did not turn from them."
+        },
+        {
+          "pk": 841502,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 3,
+          "text": "So the anger of the LORD was kindled against Israel, and He gave them continually into the hand of Hazael king of Aram, and into the hand of Ben-hadad the son of Hazael."
+        },
+        {
+          "pk": 841503,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 4,
+          "text": "Then Jehoahaz entreated the favor of the LORD, and the LORD listened to him; for He saw the oppression of Israel, how the king of Aram oppressed them."
+        },
+        {
+          "pk": 841504,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 5,
+          "text": "The LORD gave Israel a deliverer, so that they escaped from under the hand of the Arameans; and the sons of Israel lived in their tents as formerly."
+        },
+        {
+          "pk": 841505,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 6,
+          "text": "Nevertheless they did not turn away from the sins of the house of Jeroboam, with which he made Israel sin, but walked in them; and the Asherah also remained standing in Samaria."
+        },
+        {
+          "pk": 841506,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 7,
+          "text": "For he left to Jehoahaz of the army not more than fifty horsemen and ten chariots and 10,000 footmen, for the king of Aram had destroyed them and made them like the dust at threshing."
+        },
+        {
+          "pk": 841507,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 8,
+          "text": "Now the rest of the acts of Jehoahaz, and all that he did and his might, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        },
+        {
+          "pk": 841508,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 9,
+          "text": "And Jehoahaz slept with his fathers, and they buried him in Samaria; and Joash his son became king in his place."
+        },
+        {
+          "pk": 841509,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 10,
+          "text": "In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz became king over Israel in Samaria, [and reigned] sixteen years."
+        },
+        {
+          "pk": 841510,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 11,
+          "text": "He did evil in the sight of the LORD; he did not turn away from all the sins of Jeroboam the son of Nebat, with which he made Israel sin, but he walked in them."
+        },
+        {
+          "pk": 841511,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 12,
+          "text": "Now the rest of the acts of Joash and all that he did and his might with which he fought against Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        },
+        {
+          "pk": 841512,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 13,
+          "text": "So Joash slept with his fathers, and Jeroboam sat on his throne; and Joash was buried in Samaria with the kings of Israel."
+        },
+        {
+          "pk": 841513,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 14,
+          "text": "When Elisha became sick with the illness of which he was to die, Joash the king of Israel came down to him and wept over him and said, 'My father, my father, the chariots of Israel and its horsemen!'"
+        },
+        {
+          "pk": 841514,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 15,
+          "text": "Elisha said to him, 'Take a bow and arrows.' So he took a bow and arrows."
+        },
+        {
+          "pk": 841515,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 16,
+          "text": "Then he said to the king of Israel, 'Put your hand on the bow.' And he put his hand [on it], then Elisha laid his hands on the king's hands."
+        },
+        {
+          "pk": 841516,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 17,
+          "text": "He said, 'Open the window toward the east,' and he opened [it]. Then Elisha said, 'Shoot!' And he shot. And he said, 'The LORD'S arrow of victory, even the arrow of victory over Aram; for you will defeat the Arameans at Aphek until you have destroyed [them].'"
+        },
+        {
+          "pk": 841517,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 18,
+          "text": "Then he said, 'Take the arrows,' and he took them. And he said to the king of Israel, 'Strike the ground,' and he struck [it] three times and stopped."
+        },
+        {
+          "pk": 841518,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 19,
+          "text": "So the man of God was angry with him and said, 'You should have struck five or six times, then you would have struck Aram until you would have destroyed [it]. But now you shall strike Aram [only] three times.'"
+        },
+        {
+          "pk": 841519,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 20,
+          "text": "Elisha died, and they buried him. Now the bands of the Moabites would invade the land in the spring of the year."
+        },
+        {
+          "pk": 841520,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 21,
+          "text": "As they were burying a man, behold, they saw a marauding band; and they cast the man into the grave of Elisha. And when the man touched the bones of Elisha he revived and stood up on his feet."
+        },
+        {
+          "pk": 841521,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 22,
+          "text": "Now Hazael king of Aram had oppressed Israel all the days of Jehoahaz."
+        },
+        {
+          "pk": 841522,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 23,
+          "text": "But the LORD was gracious to them and had compassion on them and turned to them because of His covenant with Abraham, Isaac, and Jacob, and would not destroy them or cast them from His presence until now."
+        },
+        {
+          "pk": 841523,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 24,
+          "text": "When Hazael king of Aram died, Ben-hadad his son became king in his place."
+        },
+        {
+          "pk": 841524,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 13,
+          "verse": 25,
+          "text": "Then Jehoash the son of Jehoahaz took again from the hand of Ben-hadad the son of Hazael the cities which he had taken in war from the hand of Jehoahaz his father. Three times Joash defeated him and recovered the cities of Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "pk": 841525,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 1,
+          "text": "In the second year of Joash son of Joahaz king of Israel, Amaziah the son of Joash king of Judah became king."
+        },
+        {
+          "pk": 841526,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 2,
+          "text": "He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. And his mother's name was Jehoaddin of Jerusalem."
+        },
+        {
+          "pk": 841527,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 3,
+          "text": "He did right in the sight of the LORD, yet not like David his father; he did according to all that Joash his father had done."
+        },
+        {
+          "pk": 841528,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 4,
+          "text": "Only the high places were not taken away; the people still sacrificed and burned incense on the high places."
+        },
+        {
+          "pk": 841529,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 5,
+          "text": "Now it came about, as soon as the kingdom was firmly in his hand, that he killed his servants who had slain the king his father."
+        },
+        {
+          "pk": 841530,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 6,
+          "text": "But the sons of the slayers he did not put to death, according to what is written in the book of the Law of Moses, as the LORD commanded, saying, 'The fathers shall not be put to death for the sons, nor the sons be put to death for the fathers; but each shall be put to death for his own sin.'"
+        },
+        {
+          "pk": 841531,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 7,
+          "text": "He killed [of] Edom in the Valley of Salt 10,000 and took Sela by war, and named it Joktheel to this day."
+        },
+        {
+          "pk": 841532,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 8,
+          "text": "Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, 'Come, let us face each other.'"
+        },
+        {
+          "pk": 841533,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 9,
+          "text": "Jehoash king of Israel sent to Amaziah king of Judah, saying, 'The thorn bush which was in Lebanon sent to the cedar which was in Lebanon, saying, 'Give your daughter to my son in marriage.' But there passed by a wild beast that was in Lebanon, and trampled the thorn bush."
+        },
+        {
+          "pk": 841534,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 10,
+          "text": "'You have indeed defeated Edom, and your heart has become proud. Enjoy your glory and stay at home; for why should you provoke trouble so that you, even you, would fall, and Judah with you?'"
+        },
+        {
+          "pk": 841535,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 11,
+          "text": "But Amaziah would not listen. So Jehoash king of Israel went up; and he and Amaziah king of Judah faced each other at Beth-shemesh, which belongs to Judah."
+        },
+        {
+          "pk": 841536,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 12,
+          "text": "Judah was defeated by Israel, and they fled each to his tent."
+        },
+        {
+          "pk": 841537,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 13,
+          "text": "Then Jehoash king of Israel captured Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Beth-shemesh, and came to Jerusalem and tore down the wall of Jerusalem from the Gate of Ephraim to the Corner Gate, 400 cubits."
+        },
+        {
+          "pk": 841538,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 14,
+          "text": "He took all the gold and silver and all the utensils which were found in the house of the LORD, and in the treasuries of the king's house, the hostages also, and returned to Samaria."
+        },
+        {
+          "pk": 841539,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 15,
+          "text": "Now the rest of the acts of Jehoash which he did, and his might and how he fought with Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        },
+        {
+          "pk": 841540,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 16,
+          "text": "So Jehoash slept with his fathers and was buried in Samaria with the kings of Israel; and Jeroboam his son became king in his place."
+        },
+        {
+          "pk": 841541,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 17,
+          "text": "Amaziah the son of Joash king of Judah lived fifteen years after the death of Jehoash son of Jehoahaz king of Israel."
+        },
+        {
+          "pk": 841542,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 18,
+          "text": "Now the rest of the acts of Amaziah, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841543,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 19,
+          "text": "They conspired against him in Jerusalem, and he fled to Lachish; but they sent after him to Lachish and killed him there."
+        },
+        {
+          "pk": 841544,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 20,
+          "text": "Then they brought him on horses and he was buried at Jerusalem with his fathers in the city of David."
+        },
+        {
+          "pk": 841545,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 21,
+          "text": "All the people of Judah took Azariah, who [was] sixteen years old, and made him king in the place of his father Amaziah."
+        },
+        {
+          "pk": 841546,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 22,
+          "text": "He built Elath and restored it to Judah after the king slept with his fathers."
+        },
+        {
+          "pk": 841547,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 23,
+          "text": "In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel became king in Samaria, [and reigned] forty-one years."
+        },
+        {
+          "pk": 841548,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 24,
+          "text": "He did evil in the sight of the LORD; he did not depart from all the sins of Jeroboam the son of Nebat, which he made Israel sin."
+        },
+        {
+          "pk": 841549,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 25,
+          "text": "He restored the border of Israel from the entrance of Hamath as far as the Sea of the Arabah, according to the word of the LORD, the God of Israel, which He spoke through His servant Jonah the son of Amittai, the prophet, who was of Gath-hepher."
+        },
+        {
+          "pk": 841550,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 26,
+          "text": "For the LORD saw the affliction of Israel, [which was] very bitter; for there was neither bond nor free, nor was there any helper for Israel."
+        },
+        {
+          "pk": 841551,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 27,
+          "text": "The LORD did not say that He would blot out the name of Israel from under heaven, but He saved them by the hand of Jeroboam the son of Joash."
+        },
+        {
+          "pk": 841552,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 28,
+          "text": "Now the rest of the acts of Jeroboam and all that he did and his might, how he fought and how he recovered for Israel, Damascus and Hamath, [which had belonged] to Judah, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        },
+        {
+          "pk": 841553,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 14,
+          "verse": 29,
+          "text": "And Jeroboam slept with his fathers, even with the kings of Israel, and Zechariah his son became king in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "pk": 841554,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 1,
+          "text": "In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah became king."
+        },
+        {
+          "pk": 841555,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 2,
+          "text": "He was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem; and his mother's name was Jecoliah of Jerusalem."
+        },
+        {
+          "pk": 841556,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 3,
+          "text": "He did right in the sight of the LORD, according to all that his father Amaziah had done."
+        },
+        {
+          "pk": 841557,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 4,
+          "text": "Only the high places were not taken away; the people still sacrificed and burned incense on the high places."
+        },
+        {
+          "pk": 841558,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 5,
+          "text": "The LORD struck the king, so that he was a leper to the day of his death. And he lived in a separate house, while Jotham the king's son was over the household, judging the people of the land."
+        },
+        {
+          "pk": 841559,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 6,
+          "text": "Now the rest of the acts of Azariah and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841560,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 7,
+          "text": "And Azariah slept with his fathers, and they buried him with his fathers in the city of David, and Jotham his son became king in his place."
+        },
+        {
+          "pk": 841561,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 8,
+          "text": "In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam became king over Israel in Samaria [for] six months."
+        },
+        {
+          "pk": 841562,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 9,
+          "text": "He did evil in the sight of the LORD, as his fathers had done; he did not depart from the sins of Jeroboam the son of Nebat, which he made Israel sin."
+        },
+        {
+          "pk": 841563,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 10,
+          "text": "Then Shallum the son of Jabesh conspired against him and struck him before the people and killed him, and reigned in his place."
+        },
+        {
+          "pk": 841564,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 11,
+          "text": "Now the rest of the acts of Zechariah, behold they are written in the Book of the Chronicles of the Kings of Israel."
+        },
+        {
+          "pk": 841565,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 12,
+          "text": "This is the word of the LORD which He spoke to Jehu, saying, 'Your sons to the fourth generation shall sit on the throne of Israel.' And so it was."
+        },
+        {
+          "pk": 841566,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 13,
+          "text": "Shallum son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria."
+        },
+        {
+          "pk": 841567,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 14,
+          "text": "Then Menahem son of Gadi went up from Tirzah and came to Samaria, and struck Shallum son of Jabesh in Samaria, and killed him and became king in his place."
+        },
+        {
+          "pk": 841568,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 15,
+          "text": "Now the rest of the acts of Shallum and his conspiracy which he made, behold they are written in the Book of the Chronicles of the Kings of Israel."
+        },
+        {
+          "pk": 841569,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 16,
+          "text": "Then Menahem struck Tiphsah and all who were in it and its borders from Tirzah, because they did not open [to him]; therefore he struck [it] and ripped up all its women who were with child."
+        },
+        {
+          "pk": 841570,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 17,
+          "text": "In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king over Israel [and reigned] ten years in Samaria."
+        },
+        {
+          "pk": 841571,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 18,
+          "text": "He did evil in the sight of the LORD; he did not depart all his days from the sins of Jeroboam the son of Nebat, which he made Israel sin."
+        },
+        {
+          "pk": 841572,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 19,
+          "text": "Pul, king of Assyria, came against the land, and Menahem gave Pul a thousand talents of silver so that his hand might be with him to strengthen the kingdom under his rule."
+        },
+        {
+          "pk": 841573,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 20,
+          "text": "Then Menahem exacted the money from Israel, even from all the mighty men of wealth, from each man fifty shekels of silver to pay the king of Assyria. So the king of Assyria returned and did not remain there in the land."
+        },
+        {
+          "pk": 841574,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 21,
+          "text": "Now the rest of the acts of Menahem and all that he did, are they not written in the Book of the Chronicles of the Kings of Israel?"
+        },
+        {
+          "pk": 841575,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 22,
+          "text": "And Menahem slept with his fathers, and Pekahiah his son became king in his place."
+        },
+        {
+          "pk": 841576,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 23,
+          "text": "In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king over Israel in Samaria, [and reigned] two years."
+        },
+        {
+          "pk": 841577,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 24,
+          "text": "He did evil in the sight of the LORD; he did not depart from the sins of Jeroboam son of Nebat, which he made Israel sin."
+        },
+        {
+          "pk": 841578,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 25,
+          "text": "Then Pekah son of Remaliah, his officer, conspired against him and struck him in Samaria, in the castle of the king's house with Argob and Arieh; and with him were fifty men of the Gileadites, and he killed him and became king in his place."
+        },
+        {
+          "pk": 841579,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 26,
+          "text": "Now the rest of the acts of Pekahiah and all that he did, behold they are written in the Book of the Chronicles of the Kings of Israel."
+        },
+        {
+          "pk": 841580,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 27,
+          "text": "In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah became king over Israel in Samaria, [and reigned] twenty years."
+        },
+        {
+          "pk": 841581,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 28,
+          "text": "He did evil in the sight of the LORD; he did not depart from the sins of Jeroboam son of Nebat, which he made Israel sin."
+        },
+        {
+          "pk": 841582,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 29,
+          "text": "In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon and Abel-beth-maacah and Janoah and Kedesh and Hazor and Gilead and Galilee, all the land of Naphtali; and he carried them captive to Assyria."
+        },
+        {
+          "pk": 841583,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 30,
+          "text": "And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him and put him to death and became king in his place, in the twentieth year of Jotham the son of Uzziah."
+        },
+        {
+          "pk": 841584,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 31,
+          "text": "Now the rest of the acts of Pekah and all that he did, behold, they are written in the Book of the Chronicles of the Kings of Israel."
+        },
+        {
+          "pk": 841585,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 32,
+          "text": "In the second year of Pekah the son of Remaliah king of Israel, Jotham the son of Uzziah king of Judah became king."
+        },
+        {
+          "pk": 841586,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 33,
+          "text": "He was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem; and his mother's name [was] Jerusha the daughter of Zadok."
+        },
+        {
+          "pk": 841587,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 34,
+          "text": "He did what was right in the sight of the LORD; he did according to all that his father Uzziah had done."
+        },
+        {
+          "pk": 841588,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 35,
+          "text": "Only the high places were not taken away; the people still sacrificed and burned incense on the high places. He built the upper gate of the house of the LORD."
+        },
+        {
+          "pk": 841589,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 36,
+          "text": "Now the rest of the acts of Jotham and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841590,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 37,
+          "text": "In those days the LORD began to send Rezin king of Aram and Pekah the son of Remaliah against Judah."
+        },
+        {
+          "pk": 841591,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 15,
+          "verse": 38,
+          "text": "And Jotham slept with his fathers, and he was buried with his fathers in the city of David his father; and Ahaz his son became king in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "pk": 841592,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 1,
+          "text": "In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham, king of Judah, became king."
+        },
+        {
+          "pk": 841593,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 2,
+          "text": "Ahaz [was] twenty years old when he became king, and he reigned sixteen years in Jerusalem; and he did not do what was right in the sight of the LORD his God, as his father David [had done]."
+        },
+        {
+          "pk": 841594,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 3,
+          "text": "But he walked in the way of the kings of Israel, and even made his son pass through the fire, according to the abominations of the nations whom the LORD had driven out from before the sons of Israel."
+        },
+        {
+          "pk": 841595,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 4,
+          "text": "He sacrificed and burned incense on the high places and on the hills and under every green tree."
+        },
+        {
+          "pk": 841596,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 5,
+          "text": "Then Rezin king of Aram and Pekah son of Remaliah, king of Israel, came up to Jerusalem to [wage] war; and they besieged Ahaz, but could not overcome him."
+        },
+        {
+          "pk": 841597,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 6,
+          "text": "At that time Rezin king of Aram recovered Elath for Aram, and cleared the Judeans out of Elath entirely; and the Arameans came to Elath and have lived there to this day."
+        },
+        {
+          "pk": 841598,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 7,
+          "text": "So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, 'I am your servant and your son; come up and deliver me from the hand of the king of Aram and from the hand of the king of Israel, who are rising up against me.'"
+        },
+        {
+          "pk": 841599,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 8,
+          "text": "Ahaz took the silver and gold that was found in the house of the LORD and in the treasuries of the king's house, and sent a present to the king of Assyria."
+        },
+        {
+          "pk": 841600,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 9,
+          "text": "So the king of Assyria listened to him; and the king of Assyria went up against Damascus and captured it, and carried [the people of] it away into exile to Kir, and put Rezin to death."
+        },
+        {
+          "pk": 841601,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 10,
+          "text": "Now King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, and saw the altar which [was] at Damascus; and King Ahaz sent to Urijah the priest the pattern of the altar and its model, according to all its workmanship."
+        },
+        {
+          "pk": 841602,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 11,
+          "text": "So Urijah the priest built an altar; according to all that King Ahaz had sent from Damascus, thus Urijah the priest made [it], before the coming of King Ahaz from Damascus."
+        },
+        {
+          "pk": 841603,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 12,
+          "text": "When the king came from Damascus, the king saw the altar; then the king approached the altar and went up to it,"
+        },
+        {
+          "pk": 841604,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 13,
+          "text": "and burned his burnt offering and his meal offering, and poured his drink offering and sprinkled the blood of his peace offerings on the altar."
+        },
+        {
+          "pk": 841605,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 14,
+          "text": "The bronze altar, which [was] before the LORD, he brought from the front of the house, from between [his] altar and the house of the LORD, and he put it on the north side of [his] altar."
+        },
+        {
+          "pk": 841606,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 15,
+          "text": "Then King Ahaz commanded Urijah the priest, saying, 'Upon the great altar burn the morning burnt offering and the evening meal offering and the king's burnt offering and his meal offering, with the burnt offering of all the people of the land and their meal offering and their drink offerings; and sprinkle on it all the blood of the burnt offering and all the blood of the sacrifice. But the bronze altar shall be for me to inquire [by].'"
+        },
+        {
+          "pk": 841607,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 16,
+          "text": "So Urijah the priest did according to all that King Ahaz commanded."
+        },
+        {
+          "pk": 841608,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 17,
+          "text": "Then King Ahaz cut off the borders of the stands, and removed the laver from them; he also took down the sea from the bronze oxen which were under it and put it on a pavement of stone."
+        },
+        {
+          "pk": 841609,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 18,
+          "text": "The covered way for the sabbath which they had built in the house, and the outer entry of the king, he removed from the house of the LORD because of the king of Assyria."
+        },
+        {
+          "pk": 841610,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 19,
+          "text": "Now the rest of the acts of Ahaz which he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841611,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 16,
+          "verse": 20,
+          "text": "So Ahaz slept with his fathers, and was buried with his fathers in the city of David; and his son Hezekiah reigned in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "pk": 841612,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 1,
+          "text": "In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah became king over Israel in Samaria, [and reigned] nine years."
+        },
+        {
+          "pk": 841613,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 2,
+          "text": "He did evil in the sight of the LORD, only not as the kings of Israel who were before him."
+        },
+        {
+          "pk": 841614,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 3,
+          "text": "Shalmaneser king of Assyria came up against him, and Hoshea became his servant and paid him tribute."
+        },
+        {
+          "pk": 841615,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 4,
+          "text": "But the king of Assyria found conspiracy in Hoshea, who had sent messengers to So king of Egypt and had offered no tribute to the king of Assyria, as [he had done] year by year; so the king of Assyria shut him up and bound him in prison."
+        },
+        {
+          "pk": 841616,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 5,
+          "text": "Then the king of Assyria invaded the whole land and went up to Samaria and besieged it three years."
+        },
+        {
+          "pk": 841617,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 6,
+          "text": "In the ninth year of Hoshea, the king of Assyria captured Samaria and carried Israel away into exile to Assyria, and settled them in Halah and Habor, [on] the river of Gozan, and in the cities of the Medes."
+        },
+        {
+          "pk": 841618,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 7,
+          "text": "Now [this] came about because the sons of Israel had sinned against the LORD their God, who had brought them up from the land of Egypt from under the hand of Pharaoh, king of Egypt, and they had feared other gods"
+        },
+        {
+          "pk": 841619,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 8,
+          "text": "and walked in the customs of the nations whom the LORD had driven out before the sons of Israel, and [in the customs] of the kings of Israel which they had introduced."
+        },
+        {
+          "pk": 841620,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 9,
+          "text": "The sons of Israel did things secretly which were not right against the LORD their God. Moreover, they built for themselves high places in all their towns, from watchtower to fortified city."
+        },
+        {
+          "pk": 841621,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 10,
+          "text": "They set for themselves [sacred] pillars and Asherim on every high hill and under every green tree,"
+        },
+        {
+          "pk": 841622,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 11,
+          "text": "and there they burned incense on all the high places as the nations [did] which the LORD had carried away to exile before them; and they did evil things provoking the LORD."
+        },
+        {
+          "pk": 841623,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 12,
+          "text": "They served idols, concerning which the LORD had said to them, 'You shall not do this thing.'"
+        },
+        {
+          "pk": 841624,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 13,
+          "text": "Yet the LORD warned Israel and Judah through all His prophets [and] every seer, saying, 'Turn from your evil ways and keep My commandments, My statutes according to all the law which I commanded your fathers, and which I sent to you through My servants the prophets.'"
+        },
+        {
+          "pk": 841625,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 14,
+          "text": "However, they did not listen, but stiffened their neck like their fathers, who did not believe in the LORD their God."
+        },
+        {
+          "pk": 841626,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 15,
+          "text": "They rejected His statutes and His covenant which He made with their fathers and His warnings with which He warned them. And they followed vanity and became vain, and [went] after the nations which surrounded them, concerning which the LORD had commanded them not to do like them."
+        },
+        {
+          "pk": 841627,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 16,
+          "text": "They forsook all the commandments of the LORD their God and made for themselves molten images, [even] two calves, and made an Asherah and worshiped all the host of heaven and served Baal."
+        },
+        {
+          "pk": 841628,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 17,
+          "text": "Then they made their sons and their daughters pass through the fire, and practiced divination and enchantments, and sold themselves to do evil in the sight of the LORD, provoking Him."
+        },
+        {
+          "pk": 841629,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 18,
+          "text": "So the LORD was very angry with Israel and removed them from His sight; none was left except the tribe of Judah."
+        },
+        {
+          "pk": 841630,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 19,
+          "text": "Also Judah did not keep the commandments of the LORD their God, but walked in the customs which Israel had introduced."
+        },
+        {
+          "pk": 841631,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 20,
+          "text": "The LORD rejected all the descendants of Israel and afflicted them and gave them into the hand of plunderers, until He had cast them out of His sight."
+        },
+        {
+          "pk": 841632,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 21,
+          "text": "When He had torn Israel from the house of David, they made Jeroboam the son of Nebat king. Then Jeroboam drove Israel away from following the LORD and made them commit a great sin."
+        },
+        {
+          "pk": 841633,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 22,
+          "text": "The sons of Israel walked in all the sins of Jeroboam which he did; they did not depart from them"
+        },
+        {
+          "pk": 841634,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 23,
+          "text": "until the LORD removed Israel from His sight, as He spoke through all His servants the prophets. So Israel was carried away into exile from their own land to Assyria until this day."
+        },
+        {
+          "pk": 841635,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 24,
+          "text": "The king of Assyria brought [men] from Babylon and from Cuthah and from Avva and from Hamath and Sephar-vaim, and settled [them] in the cities of Samaria in place of the sons of Israel. So they possessed Samaria and lived in its cities."
+        },
+        {
+          "pk": 841636,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 25,
+          "text": "At the beginning of their living there, they did not fear the LORD; therefore the LORD sent lions among them which killed some of them."
+        },
+        {
+          "pk": 841637,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 26,
+          "text": "So they spoke to the king of Assyria, saying, 'The nations whom you have carried away into exile in the cities of Samaria do not know the custom of the god of the land; so he has sent lions among them, and behold, they kill them because they do not know the custom of the god of the land.'"
+        },
+        {
+          "pk": 841638,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 27,
+          "text": "Then the king of Assyria commanded, saying, 'Take there one of the priests whom you carried away into exile and let him go and live there; and let him teach them the custom of the god of the land.'"
+        },
+        {
+          "pk": 841639,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 28,
+          "text": "So one of the priests whom they had carried away into exile from Samaria came and lived at Bethel, and taught them how they should fear the LORD."
+        },
+        {
+          "pk": 841640,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 29,
+          "text": "But every nation still made gods of its own and put them in the houses of the high places which the people of Samaria had made, every nation in their cities in which they lived."
+        },
+        {
+          "pk": 841641,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 30,
+          "text": "The men of Babylon made Succoth-benoth, the men of Cuth made Nergal, the men of Hamath made Ashima,"
+        },
+        {
+          "pk": 841642,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 31,
+          "text": "and the Avvites made Nibhaz and Tartak; and the Sepharvites burned their children in the fire to Adrammelech and Anammelech the gods of Sepharvaim."
+        },
+        {
+          "pk": 841643,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 32,
+          "text": "They also feared the LORD and appointed from among themselves priests of the high places, who acted for them in the houses of the high places."
+        },
+        {
+          "pk": 841644,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 33,
+          "text": "They feared the LORD and served their own gods according to the custom of the nations from among whom they had been carried away into exile."
+        },
+        {
+          "pk": 841645,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 34,
+          "text": "To this day they do according to the earlier customs: they do not fear the LORD, nor do they follow their statutes or their ordinances or the law, or the commandments which the LORD commanded the sons of Jacob, whom He named Israel;"
+        },
+        {
+          "pk": 841646,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 35,
+          "text": "with whom the LORD made a covenant and commanded them, saying, 'You shall not fear other gods, nor bow down yourselves to them nor serve them nor sacrifice to them."
+        },
+        {
+          "pk": 841647,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 36,
+          "text": "'But the LORD, who brought you up from the land of Egypt with great power and with an outstretched arm, Him you shall fear, and to Him you shall bow yourselves down, and to Him you shall sacrifice."
+        },
+        {
+          "pk": 841648,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 37,
+          "text": "'The statutes and the ordinances and the law and the commandment which He wrote for you, you shall observe to do forever; and you shall not fear other gods."
+        },
+        {
+          "pk": 841649,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 38,
+          "text": "'The covenant that I have made with you, you shall not forget, nor shall you fear other gods."
+        },
+        {
+          "pk": 841650,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 39,
+          "text": "'But the LORD your God you shall fear; and He will deliver you from the hand of all your enemies.'"
+        },
+        {
+          "pk": 841651,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 40,
+          "text": "However, they did not listen, but they did according to their earlier custom."
+        },
+        {
+          "pk": 841652,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 17,
+          "verse": 41,
+          "text": "So while these nations feared the LORD, they also served their idols; their children likewise and their grandchildren, as their fathers did, so they do to this day."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "pk": 841653,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 1,
+          "text": "Now it came about in the third year of Hoshea, the son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah became king."
+        },
+        {
+          "pk": 841654,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 2,
+          "text": "He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem; and his mother's name was Abi the daughter of Zechariah."
+        },
+        {
+          "pk": 841655,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 3,
+          "text": "He did right in the sight of the LORD, according to all that his father David had done."
+        },
+        {
+          "pk": 841656,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 4,
+          "text": "He removed the high places and broke down the [sacred] pillars and cut down the Asherah. He also broke in pieces the bronze serpent that Moses had made, for until those days the sons of Israel burned incense to it; and it was called Nehushtan."
+        },
+        {
+          "pk": 841657,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 5,
+          "text": "He trusted in the LORD, the God of Israel; so that after him there was none like him among all the kings of Judah, nor [among those] who were before him."
+        },
+        {
+          "pk": 841658,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 6,
+          "text": "For he clung to the LORD; he did not depart from following Him, but kept His commandments, which the LORD had commanded Moses."
+        },
+        {
+          "pk": 841659,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 7,
+          "text": "And the LORD was with him; wherever he went he prospered. And he rebelled against the king of Assyria and did not serve him."
+        },
+        {
+          "pk": 841660,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 8,
+          "text": "He defeated the Philistines as far as Gaza and its territory, from watchtower to fortified city."
+        },
+        {
+          "pk": 841661,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 9,
+          "text": "Now in the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it."
+        },
+        {
+          "pk": 841662,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 10,
+          "text": "At the end of three years they captured it; in the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel, Samaria was captured."
+        },
+        {
+          "pk": 841663,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 11,
+          "text": "Then the king of Assyria carried Israel away into exile to Assyria, and put them in Halah and on the Habor, the river of Gozan, and in the cities of the Medes,"
+        },
+        {
+          "pk": 841664,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 12,
+          "text": "because they did not obey the voice of the LORD their God, but transgressed His covenant, [even] all that Moses the servant of the LORD commanded; they would neither listen nor do [it]."
+        },
+        {
+          "pk": 841665,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 13,
+          "text": "Now in the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and seized them."
+        },
+        {
+          "pk": 841666,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 14,
+          "text": "Then Hezekiah king of Judah sent to the king of Assyria at Lachish, saying, 'I have done wrong. Withdraw from me; whatever you impose on me I will bear.' So the king of Assyria required of Hezekiah king of Judah three hundred talents of silver and thirty talents of gold."
+        },
+        {
+          "pk": 841667,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 15,
+          "text": "Hezekiah gave [him] all the silver which was found in the house of the LORD, and in the treasuries of the king's house."
+        },
+        {
+          "pk": 841668,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 16,
+          "text": "At that time Hezekiah cut off [the gold from] the doors of the temple of the LORD, and [from] the doorposts which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria."
+        },
+        {
+          "pk": 841669,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 17,
+          "text": "Then the king of Assyria sent Tartan and Rab-saris and Rabshakeh from Lachish to King Hezekiah with a large army to Jerusalem. So they went up and came to Jerusalem. And when they went up, they came and stood by the conduit of the upper pool, which is on the highway of the fuller's field."
+        },
+        {
+          "pk": 841670,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 18,
+          "text": "When they called to the king, Eliakim the son of Hilkiah, who was over the household, and Shebnah the scribe and Joah the son of Asaph the recorder, came out to them."
+        },
+        {
+          "pk": 841671,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 19,
+          "text": "Then Rabshakeh said to them, 'Say now to Hezekiah, 'Thus says the great king, the king of Assyria, 'What is this confidence that you have?"
+        },
+        {
+          "pk": 841672,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 20,
+          "text": "'You say (but [they are] only empty words), '[I have] counsel and strength for the war.' Now on whom do you rely, that you have rebelled against me?"
+        },
+        {
+          "pk": 841673,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 21,
+          "text": "'Now behold, you rely on the staff of this crushed reed, [even] on Egypt; on which if a man leans, it will go into his hand and pierce it. So is Pharaoh king of Egypt to all who rely on him."
+        },
+        {
+          "pk": 841674,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 22,
+          "text": "'But if you say to me, 'We trust in the LORD our God,' is it not He whose high places and whose altars Hezekiah has taken away, and has said to Judah and to Jerusalem, 'You shall worship before this altar in Jerusalem '?"
+        },
+        {
+          "pk": 841675,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 23,
+          "text": "'Now therefore, come, make a bargain with my master the king of Assyria, and I will give you two thousand horses, if you are able on your part to set riders on them."
+        },
+        {
+          "pk": 841676,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 24,
+          "text": "'How then can you repulse one official of the least of my master's servants, and rely on Egypt for chariots and for horsemen?"
+        },
+        {
+          "pk": 841677,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 25,
+          "text": "'Have I now come up without the LORD'S approval against this place to destroy it? The LORD said to me, 'Go up against this land and destroy it.''''"
+        },
+        {
+          "pk": 841678,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 26,
+          "text": "Then Eliakim the son of Hilkiah, and Shebnah and Joah, said to Rabshakeh, 'Speak now to your servants in Aramaic, for we understand [it]; and do not speak with us in Judean in the hearing of the people who are on the wall.'"
+        },
+        {
+          "pk": 841679,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 27,
+          "text": "But Rabshakeh said to them, 'Has my master sent me only to your master and to you to speak these words, [and] not to the men who sit on the wall, [doomed] to eat their own dung and drink their own urine with you?'"
+        },
+        {
+          "pk": 841680,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 28,
+          "text": "Then Rabshakeh stood and cried with a loud voice in Judean, saying, 'Hear the word of the great king, the king of Assyria."
+        },
+        {
+          "pk": 841681,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 29,
+          "text": "'Thus says the king, 'Do not let Hezekiah deceive you, for he will not be able to deliver you from my hand;"
+        },
+        {
+          "pk": 841682,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 30,
+          "text": "nor let Hezekiah make you trust in the LORD, saying, 'The LORD will surely deliver us, and this city will not be given into the hand of the king of Assyria.'"
+        },
+        {
+          "pk": 841683,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 31,
+          "text": "'Do not listen to Hezekiah, for thus says the king of Assyria, 'Make your peace with me and come out to me, and eat each of his vine and each of his fig tree and drink each of the waters of his own cistern,"
+        },
+        {
+          "pk": 841684,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 32,
+          "text": "until I come and take you away to a land like your own land, a land of grain and new wine, a land of bread and vineyards, a land of olive trees and honey, that you may live and not die.' But do not listen to Hezekiah when he misleads you, saying, 'The LORD will deliver us.'"
+        },
+        {
+          "pk": 841685,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 33,
+          "text": "'Has any one of the gods of the nations delivered his land from the hand of the king of Assyria?"
+        },
+        {
+          "pk": 841686,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 34,
+          "text": "'Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena and Ivvah? Have they delivered Samaria from my hand?"
+        },
+        {
+          "pk": 841687,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 35,
+          "text": "'Who among all the gods of the lands have delivered their land from my hand, that the LORD should deliver Jerusalem from my hand?''"
+        },
+        {
+          "pk": 841688,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 36,
+          "text": "But the people were silent and answered him not a word, for the king's commandment was, 'Do not answer him.'"
+        },
+        {
+          "pk": 841689,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 18,
+          "verse": 37,
+          "text": "Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn and told him the words of Rabshakeh."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "pk": 841690,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 1,
+          "text": "And when King Hezekiah heard [it], he tore his clothes, covered himself with sackcloth and entered the house of the LORD."
+        },
+        {
+          "pk": 841691,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 2,
+          "text": "Then he sent Eliakim who was over the household with Shebna the scribe and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz."
+        },
+        {
+          "pk": 841692,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 3,
+          "text": "They said to him, 'Thus says Hezekiah, 'This day is a day of distress, rebuke, and rejection; for children have come to birth and there is no strength to [deliver]."
+        },
+        {
+          "pk": 841693,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 4,
+          "text": "'Perhaps the LORD your God will hear all the words of Rabshakeh, whom his master the king of Assyria has sent to reproach the living God, and will rebuke the words which the LORD your God has heard. Therefore, offer a prayer for the remnant that is left.''"
+        },
+        {
+          "pk": 841694,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 5,
+          "text": "So the servants of King Hezekiah came to Isaiah."
+        },
+        {
+          "pk": 841695,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 6,
+          "text": "Isaiah said to them, 'Thus you shall say to your master, 'Thus says the LORD, 'Do not be afraid because of the words that you have heard, with which the servants of the king of Assyria have blasphemed Me."
+        },
+        {
+          "pk": 841696,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 7,
+          "text": "'Behold, I will put a spirit in him so that he will hear a rumor and return to his own land. And I will make him fall by the sword in his own land.'''"
+        },
+        {
+          "pk": 841697,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 8,
+          "text": "Then Rabshakeh returned and found the king of Assyria fighting against Libnah, for he had heard that the king had left Lachish."
+        },
+        {
+          "pk": 841698,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 9,
+          "text": "When he heard [them] say concerning Tirhakah king of Cush, 'Behold, he has come out to fight against you,' he sent messengers again to Hezekiah saying,"
+        },
+        {
+          "pk": 841699,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 10,
+          "text": "'Thus you shall say to Hezekiah king of Judah, 'Do not let your God in whom you trust deceive you saying, 'Jerusalem will not be given into the hand of the king of Assyria.'"
+        },
+        {
+          "pk": 841700,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 11,
+          "text": "'Behold, you have heard what the kings of Assyria have done to all the lands, destroying them completely. So will you be spared?"
+        },
+        {
+          "pk": 841701,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 12,
+          "text": "'Did the gods of those nations which my fathers destroyed deliver them, [even] Gozan and Haran and Rezeph and the sons of Eden who [were] in Telassar?"
+        },
+        {
+          "pk": 841702,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 13,
+          "text": "'Where is the king of Hamath, the king of Arpad, the king of the city of Sepharvaim, and [of] Hena and Ivvah?''"
+        },
+        {
+          "pk": 841703,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 14,
+          "text": "Then Hezekiah took the letter from the hand of the messengers and read it, and he went up to the house of the LORD and spread it out before the LORD."
+        },
+        {
+          "pk": 841704,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 15,
+          "text": "Hezekiah prayed before the LORD and said, 'O LORD, the God of Israel, who are enthroned [above] the cherubim, You are the God, You alone, of all the kingdoms of the earth. You have made heaven and earth."
+        },
+        {
+          "pk": 841705,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 16,
+          "text": "'Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see; and listen to the words of Sennacherib, which he has sent to reproach the living God."
+        },
+        {
+          "pk": 841706,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 17,
+          "text": "'Truly, O LORD, the kings of Assyria have devastated the nations and their lands"
+        },
+        {
+          "pk": 841707,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 18,
+          "text": "and have cast their gods into the fire, for they were not gods but the work of men's hands, wood and stone. So they have destroyed them."
+        },
+        {
+          "pk": 841708,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 19,
+          "text": "'Now, O LORD our God, I pray, deliver us from his hand that all the kingdoms of the earth may know that You alone, O LORD, are God.'"
+        },
+        {
+          "pk": 841709,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 20,
+          "text": "Then Isaiah the son of Amoz sent to Hezekiah saying, 'Thus says the LORD, the God of Israel, 'Because you have prayed to Me about Sennacherib king of Assyria, I have heard [you].'"
+        },
+        {
+          "pk": 841710,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 21,
+          "text": "'This is the word that the LORD has spoken against him: 'She has despised you and mocked you, The virgin daughter of Zion; She has shaken [her] head behind you, The daughter of Jerusalem!"
+        },
+        {
+          "pk": 841711,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 22,
+          "text": "'Whom have you reproached and blasphemed? And against whom have you raised [your] voice, And haughtily lifted up your eyes? Against the Holy One of Israel!"
+        },
+        {
+          "pk": 841712,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 23,
+          "text": "'Through your messengers you have reproached the Lord, And you have said, 'With my many chariots I came up to the heights of the mountains, To the remotest parts of Lebanon; And I cut down its tall cedars [and] its choice cypresses. And I entered its farthest lodging place, its thickest forest."
+        },
+        {
+          "pk": 841713,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 24,
+          "text": "'I dug [wells] and drank foreign waters, And with the sole of my feet I dried up All the rivers of Egypt.'"
+        },
+        {
+          "pk": 841714,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 25,
+          "text": "'Have you not heard? Long ago I did it; From ancient times I planned it. Now I have brought it to pass, That you should turn fortified cities into ruinous heaps."
+        },
+        {
+          "pk": 841715,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 26,
+          "text": "'Therefore their inhabitants were short of strength, They were dismayed and put to shame; They were as the vegetation of the field and as the green herb, As grass on the housetops is scorched before it is grown up."
+        },
+        {
+          "pk": 841716,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 27,
+          "text": "'But I know your sitting down, And your going out and your coming in, And your raging against Me."
+        },
+        {
+          "pk": 841717,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 28,
+          "text": "'Because of your raging against Me, And because your arrogance has come up to My ears, Therefore I will put My hook in your nose, And My bridle in your lips, And I will turn you back by the way which you came."
+        },
+        {
+          "pk": 841718,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 29,
+          "text": "'Then this shall be the sign for you: you will eat this year what grows of itself, in the second year what springs from the same, and in the third year sow, reap, plant vineyards, and eat their fruit."
+        },
+        {
+          "pk": 841719,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 30,
+          "text": "'The surviving remnant of the house of Judah will again take root downward and bear fruit upward."
+        },
+        {
+          "pk": 841720,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 31,
+          "text": "'For out of Jerusalem will go forth a remnant, and out of Mount Zion survivors. The zeal of the LORD will perform this."
+        },
+        {
+          "pk": 841721,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 32,
+          "text": "'Therefore thus says the LORD concerning the king of Assyria, 'He will not come to this city or shoot an arrow there; and he will not come before it with a shield or throw up a siege ramp against it."
+        },
+        {
+          "pk": 841722,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 33,
+          "text": "'By the way that he came, by the same he will return, and he shall not come to this city,'' declares the LORD."
+        },
+        {
+          "pk": 841723,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 34,
+          "text": "'For I will defend this city to save it for My own sake and for My servant David's sake.''"
+        },
+        {
+          "pk": 841724,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 35,
+          "text": "Then it happened that night that the angel of the LORD went out and struck 185,000 in the camp of the Assyrians; and when men rose early in the morning, behold, all of them were dead."
+        },
+        {
+          "pk": 841725,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 36,
+          "text": "So Sennacherib king of Assyria departed and returned [home], and lived at Nineveh."
+        },
+        {
+          "pk": 841726,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 19,
+          "verse": 37,
+          "text": "It came about as he was worshiping in the house of Nisroch his god, that Adrammelech and Sharezer killed him with the sword; and they escaped into the land of Ararat. And Esarhaddon his son became king in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "pk": 841727,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 1,
+          "text": "In those days Hezekiah became mortally ill. And Isaiah the prophet the son of Amoz came to him and said to him, 'Thus says the LORD, 'Set your house in order, for you shall die and not live.''"
+        },
+        {
+          "pk": 841728,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 2,
+          "text": "Then he turned his face to the wall and prayed to the LORD, saying,"
+        },
+        {
+          "pk": 841729,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 3,
+          "text": "'Remember now, O LORD, I beseech You, how I have walked before You in truth and with a whole heart and have done what is good in Your sight.' And Hezekiah wept bitterly."
+        },
+        {
+          "pk": 841730,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 4,
+          "text": "Before Isaiah had gone out of the middle court, the word of the LORD came to him, saying,"
+        },
+        {
+          "pk": 841731,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 5,
+          "text": "'Return and say to Hezekiah the leader of My people, 'Thus says the LORD, the God of your father David, 'I have heard your prayer, I have seen your tears; behold, I will heal you. On the third day you shall go up to the house of the LORD."
+        },
+        {
+          "pk": 841732,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 6,
+          "text": "'I will add fifteen years to your life, and I will deliver you and this city from the hand of the king of Assyria; and I will defend this city for My own sake and for My servant David's sake.'''"
+        },
+        {
+          "pk": 841733,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 7,
+          "text": "Then Isaiah said, 'Take a cake of figs.' And they took and laid [it] on the boil, and he recovered."
+        },
+        {
+          "pk": 841734,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 8,
+          "text": "Now Hezekiah said to Isaiah, 'What will be the sign that the LORD will heal me, and that I shall go up to the house of the LORD the third day?'"
+        },
+        {
+          "pk": 841735,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 9,
+          "text": "Isaiah said, 'This shall be the sign to you from the LORD, that the LORD will do the thing that He has spoken: shall the shadow go forward ten steps or go back ten steps?'"
+        },
+        {
+          "pk": 841736,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 10,
+          "text": "So Hezekiah answered, 'It is easy for the shadow to decline ten steps; no, but let the shadow turn backward ten steps.'"
+        },
+        {
+          "pk": 841737,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 11,
+          "text": "Isaiah the prophet cried to the LORD, and He brought the shadow on the stairway back ten steps by which it had gone down on the stairway of Ahaz."
+        },
+        {
+          "pk": 841738,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 12,
+          "text": "At that time Berodach-baladan a son of Baladan, king of Babylon, sent letters and a present to Hezekiah, for he heard that Hezekiah had been sick."
+        },
+        {
+          "pk": 841739,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 13,
+          "text": "Hezekiah listened to them, and showed them all his treasure house, the silver and the gold and the spices and the precious oil and the house of his armor and all that was found in his treasuries. There was nothing in his house nor in all his dominion that Hezekiah did not show them."
+        },
+        {
+          "pk": 841740,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 14,
+          "text": "Then Isaiah the prophet came to King Hezekiah and said to him, 'What did these men say, and from where have they come to you?' And Hezekiah said, 'They have come from a far country, from Babylon.'"
+        },
+        {
+          "pk": 841741,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 15,
+          "text": "He said, 'What have they seen in your house?' So Hezekiah answered, 'They have seen all that is in my house; there is nothing among my treasuries that I have not shown them.'"
+        },
+        {
+          "pk": 841742,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 16,
+          "text": "Then Isaiah said to Hezekiah, 'Hear the word of the LORD."
+        },
+        {
+          "pk": 841743,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 17,
+          "text": "'Behold, the days are coming when all that is in your house, and all that your fathers have laid up in store to this day will be carried to Babylon; nothing shall be left,' says the LORD."
+        },
+        {
+          "pk": 841744,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 18,
+          "text": "'Some of your sons who shall issue from you, whom you will beget, will be taken away; and they will become officials in the palace of the king of Babylon.''"
+        },
+        {
+          "pk": 841745,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 19,
+          "text": "Then Hezekiah said to Isaiah, 'The word of the LORD which you have spoken is good.' For he thought, 'Is it not so, if there will be peace and truth in my days?'"
+        },
+        {
+          "pk": 841746,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 20,
+          "text": "Now the rest of the acts of Hezekiah and all his might, and how he made the pool and the conduit and brought water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841747,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 20,
+          "verse": 21,
+          "text": "So Hezekiah slept with his fathers, and Manasseh his son became king in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "pk": 841748,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 1,
+          "text": "Manasseh was twelve years old when he became king, and he reigned fifty-five years in Jerusalem; and his mother's name was Hephzibah."
+        },
+        {
+          "pk": 841749,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 2,
+          "text": "He did evil in the sight of the LORD, according to the abominations of the nations whom the LORD dispossessed before the sons of Israel."
+        },
+        {
+          "pk": 841750,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 3,
+          "text": "For he rebuilt the high places which Hezekiah his father had destroyed; and he erected altars for Baal and made an Asherah, as Ahab king of Israel had done, and worshiped all the host of heaven and served them."
+        },
+        {
+          "pk": 841751,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 4,
+          "text": "He built altars in the house of the LORD, of which the LORD had said, 'In Jerusalem I will put My name.'"
+        },
+        {
+          "pk": 841752,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 5,
+          "text": "For he built altars for all the host of heaven in the two courts of the house of the LORD."
+        },
+        {
+          "pk": 841753,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 6,
+          "text": "He made his son pass through the fire, practiced witchcraft and used divination, and dealt with mediums and spiritists. He did much evil in the sight of the LORD provoking [Him to anger]."
+        },
+        {
+          "pk": 841754,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 7,
+          "text": "Then he set the carved image of Asherah that he had made, in the house of which the LORD said to David and to his son Solomon, 'In this house and in Jerusalem, which I have chosen from all the tribes of Israel, I will put My name forever."
+        },
+        {
+          "pk": 841755,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 8,
+          "text": "'And I will not make the feet of Israel wander anymore from the land which I gave their fathers, if only they will observe to do according to all that I have commanded them, and according to all the law that My servant Moses commanded them.'"
+        },
+        {
+          "pk": 841756,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 9,
+          "text": "But they did not listen, and Manasseh seduced them to do evil more than the nations whom the LORD destroyed before the sons of Israel."
+        },
+        {
+          "pk": 841757,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 10,
+          "text": "Now the LORD spoke through His servants the prophets, saying,"
+        },
+        {
+          "pk": 841758,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 11,
+          "text": "'Because Manasseh king of Judah has done these abominations, having done wickedly more than all the Amorites did who [were] before him, and has also made Judah sin with his idols;"
+        },
+        {
+          "pk": 841759,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 12,
+          "text": "therefore thus says the LORD, the God of Israel, 'Behold, I am bringing [such] calamity on Jerusalem and Judah, that whoever hears of it, both his ears will tingle."
+        },
+        {
+          "pk": 841760,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 13,
+          "text": "'I will stretch over Jerusalem the line of Samaria and the plummet of the house of Ahab, and I will wipe Jerusalem as one wipes a dish, wiping it and turning it upside down."
+        },
+        {
+          "pk": 841761,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 14,
+          "text": "'I will abandon the remnant of My inheritance and deliver them into the hand of their enemies, and they will become as plunder and spoil to all their enemies;"
+        },
+        {
+          "pk": 841762,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 15,
+          "text": "because they have done evil in My sight, and have been provoking Me to anger since the day their fathers came from Egypt, even to this day.''"
+        },
+        {
+          "pk": 841763,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 16,
+          "text": "Moreover, Manasseh shed very much innocent blood until he had filled Jerusalem from one end to another; besides his sin with which he made Judah sin, in doing evil in the sight of the LORD."
+        },
+        {
+          "pk": 841764,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 17,
+          "text": "Now the rest of the acts of Manasseh and all that he did and his sin which he committed, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841765,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 18,
+          "text": "And Manasseh slept with his fathers and was buried in the garden of his own house, in the garden of Uzza, and Amon his son became king in his place."
+        },
+        {
+          "pk": 841766,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 19,
+          "text": "Amon was twenty-two years old when he became king, and he reigned two years in Jerusalem; and his mother's name [was] Meshullemeth the daughter of Haruz of Jotbah."
+        },
+        {
+          "pk": 841767,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 20,
+          "text": "He did evil in the sight of the LORD, as Manasseh his father had done."
+        },
+        {
+          "pk": 841768,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 21,
+          "text": "For he walked in all the way that his father had walked, and served the idols that his father had served and worshiped them."
+        },
+        {
+          "pk": 841769,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 22,
+          "text": "So he forsook the LORD, the God of his fathers, and did not walk in the way of the LORD."
+        },
+        {
+          "pk": 841770,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 23,
+          "text": "The servants of Amon conspired against him and killed the king in his own house."
+        },
+        {
+          "pk": 841771,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 24,
+          "text": "Then the people of the land killed all those who had conspired against King Amon, and the people of the land made Josiah his son king in his place."
+        },
+        {
+          "pk": 841772,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 25,
+          "text": "Now the rest of the acts of Amon which he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841773,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 21,
+          "verse": 26,
+          "text": "He was buried in his grave in the garden of Uzza, and Josiah his son became king in his place."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "pk": 841774,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 1,
+          "text": "Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem; and his mother's name [was] Jedidah the daughter of Adaiah of Bozkath."
+        },
+        {
+          "pk": 841775,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 2,
+          "text": "He did right in the sight of the LORD and walked in all the way of his father David, nor did he turn aside to the right or to the left."
+        },
+        {
+          "pk": 841776,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 3,
+          "text": "Now in the eighteenth year of King Josiah, the king sent Shaphan, the son of Azaliah the son of Meshullam the scribe, to the house of the LORD saying,"
+        },
+        {
+          "pk": 841777,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 4,
+          "text": "'Go up to Hilkiah the high priest that he may count the money brought in to the house of the LORD which the doorkeepers have gathered from the people."
+        },
+        {
+          "pk": 841778,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 5,
+          "text": "'Let them deliver it into the hand of the workmen who have the oversight of the house of the LORD, and let them give it to the workmen who are in the house of the LORD to repair the damages of the house,"
+        },
+        {
+          "pk": 841779,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 6,
+          "text": "to the carpenters and the builders and the masons and for buying timber and hewn stone to repair the house."
+        },
+        {
+          "pk": 841780,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 7,
+          "text": "'Only no accounting shall be made with them for the money delivered into their hands, for they deal faithfully.'"
+        },
+        {
+          "pk": 841781,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 8,
+          "text": "Then Hilkiah the high priest said to Shaphan the scribe, 'I have found the book of the law in the house of the LORD.' And Hilkiah gave the book to Shaphan who read it."
+        },
+        {
+          "pk": 841782,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 9,
+          "text": "Shaphan the scribe came to the king and brought back word to the king and said, 'Your servants have emptied out the money that was found in the house, and have delivered it into the hand of the workmen who have the oversight of the house of the LORD.'"
+        },
+        {
+          "pk": 841783,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 10,
+          "text": "Moreover, Shaphan the scribe told the king saying, 'Hilkiah the priest has given me a book.' And Shaphan read it in the presence of the king."
+        },
+        {
+          "pk": 841784,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 11,
+          "text": "When the king heard the words of the book of the law, he tore his clothes."
+        },
+        {
+          "pk": 841785,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 12,
+          "text": "Then the king commanded Hilkiah the priest, Ahikam the son of Shaphan, Achbor the son of Micaiah, Shaphan the scribe, and Asaiah the king's servant saying,"
+        },
+        {
+          "pk": 841786,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 13,
+          "text": "'Go, inquire of the LORD for me and the people and all Judah concerning the words of this book that has been found, for great is the wrath of the LORD that burns against us, because our fathers have not listened to the words of this book, to do according to all that is written concerning us.'"
+        },
+        {
+          "pk": 841787,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 14,
+          "text": "So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter); and they spoke to her."
+        },
+        {
+          "pk": 841788,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 15,
+          "text": "She said to them, 'Thus says the LORD God of Israel, 'Tell the man who sent you to me,"
+        },
+        {
+          "pk": 841789,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 16,
+          "text": "thus says the LORD, 'Behold, I bring evil on this place and on its inhabitants, [even] all the words of the book which the king of Judah has read."
+        },
+        {
+          "pk": 841790,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 17,
+          "text": "'Because they have forsaken Me and have burned incense to other gods that they might provoke Me to anger with all the work of their hands, therefore My wrath burns against this place, and it shall not be quenched.''"
+        },
+        {
+          "pk": 841791,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 18,
+          "text": "'But to the king of Judah who sent you to inquire of the LORD thus shall you say to him, 'Thus says the LORD God of Israel, '[Regarding] the words which you have heard,"
+        },
+        {
+          "pk": 841792,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 19,
+          "text": "because your heart was tender and you humbled yourself before the LORD when you heard what I spoke against this place and against its inhabitants that they should become a desolation and a curse, and you have torn your clothes and wept before Me, I truly have heard you,' declares the LORD."
+        },
+        {
+          "pk": 841793,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 22,
+          "verse": 20,
+          "text": "'Therefore, behold, I will gather you to your fathers, and you will be gathered to your grave in peace, and your eyes will not see all the evil which I will bring on this place.''' So they brought back word to the king."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "pk": 841794,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 1,
+          "text": "Then the king sent, and they gathered to him all the elders of Judah and of Jerusalem."
+        },
+        {
+          "pk": 841795,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 2,
+          "text": "The king went up to the house of the LORD and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests and the prophets and all the people, both small and great; and he read in their hearing all the words of the book of the covenant which was found in the house of the LORD."
+        },
+        {
+          "pk": 841796,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 3,
+          "text": "The king stood by the pillar and made a covenant before the LORD, to walk after the LORD, and to keep His commandments and His testimonies and His statutes with all [his] heart and all [his] soul, to carry out the words of this covenant that were written in this book. And all the people entered into the covenant."
+        },
+        {
+          "pk": 841797,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 4,
+          "text": "Then the king commanded Hilkiah the high priest and the priests of the second order and the doorkeepers, to bring out of the temple of the LORD all the vessels that were made for Baal, for Asherah, and for all the host of heaven; and he burned them outside Jerusalem in the fields of the Kidron, and carried their ashes to Bethel."
+        },
+        {
+          "pk": 841798,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 5,
+          "text": "He did away with the idolatrous priests whom the kings of Judah had appointed to burn incense in the high places in the cities of Judah and in the surrounding area of Jerusalem, also those who burned incense to Baal, to the sun and to the moon and to the constellations and to all the host of heaven."
+        },
+        {
+          "pk": 841799,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 6,
+          "text": "He brought out the Asherah from the house of the LORD outside Jerusalem to the brook Kidron, and burned it at the brook Kidron, and ground [it] to dust, and threw its dust on the graves of the common people."
+        },
+        {
+          "pk": 841800,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 7,
+          "text": "He also broke down the houses of the [male] cult prostitutes which [were] in the house of the LORD, where the women were weaving hangings for the Asherah."
+        },
+        {
+          "pk": 841801,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 8,
+          "text": "Then he brought all the priests from the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba; and he broke down the high places of the gates which [were] at the entrance of the gate of Joshua the governor of the city, which [were] on one's left at the city gate."
+        },
+        {
+          "pk": 841802,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 9,
+          "text": "Nevertheless the priests of the high places did not go up to the altar of the LORD in Jerusalem, but they ate unleavened bread among their brothers."
+        },
+        {
+          "pk": 841803,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 10,
+          "text": "He also defiled Topheth, which is in the valley of the son of Hinnom, that no man might make his son or his daughter pass through the fire for Molech."
+        },
+        {
+          "pk": 841804,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 11,
+          "text": "He did away with the horses which the kings of Judah had given to the sun, at the entrance of the house of the LORD, by the chamber of Nathan-melech the official, which [was] in the precincts; and he burned the chariots of the sun with fire."
+        },
+        {
+          "pk": 841805,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 12,
+          "text": "The altars which [were] on the roof, the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, the king broke down; and he smashed them there and threw their dust into the brook Kidron."
+        },
+        {
+          "pk": 841806,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 13,
+          "text": "The high places which [were] before Jerusalem, which [were] on the right of the mount of destruction which Solomon the king of Israel had built for Ashtoreth the abomination of the Sidonians, and for Chemosh the abomination of Moab, and for Milcom the abomination of the sons of Ammon, the king defiled."
+        },
+        {
+          "pk": 841807,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 14,
+          "text": "He broke in pieces the [sacred] pillars and cut down the Asherim and filled their places with human bones."
+        },
+        {
+          "pk": 841808,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 15,
+          "text": "Furthermore, the altar that [was] at Bethel [and] the high place which Jeroboam the son of Nebat, who made Israel sin, had made, even that altar and the high place he broke down. Then he demolished its stones, ground them to dust, and burned the Asherah."
+        },
+        {
+          "pk": 841809,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 16,
+          "text": "Now when Josiah turned, he saw the graves that [were] there on the mountain, and he sent and took the bones from the graves and burned [them] on the altar and defiled it according to the word of the LORD which the man of God proclaimed, who proclaimed these things."
+        },
+        {
+          "pk": 841810,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 17,
+          "text": "Then he said, 'What is this monument that I see?' And the men of the city told him, 'It is the grave of the man of God who came from Judah and proclaimed these things which you have done against the altar of Bethel.'"
+        },
+        {
+          "pk": 841811,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 18,
+          "text": "He said, 'Let him alone; let no one disturb his bones.' So they left his bones undisturbed with the bones of the prophet who came from Samaria."
+        },
+        {
+          "pk": 841812,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 19,
+          "text": "Josiah also removed all the houses of the high places which [were] in the cities of Samaria, which the kings of Israel had made provoking the LORD; and he did to them just as he had done in Bethel."
+        },
+        {
+          "pk": 841813,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 20,
+          "text": "All the priests of the high places who [were] there he slaughtered on the altars and burned human bones on them; then he returned to Jerusalem."
+        },
+        {
+          "pk": 841814,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 21,
+          "text": "Then the king commanded all the people saying, 'Celebrate the Passover to the LORD your God as it is written in this book of the covenant.'"
+        },
+        {
+          "pk": 841815,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 22,
+          "text": "Surely such a Passover had not been celebrated from the days of the judges who judged Israel, nor in all the days of the kings of Israel and of the kings of Judah."
+        },
+        {
+          "pk": 841816,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 23,
+          "text": "But in the eighteenth year of King Josiah, this Passover was observed to the LORD in Jerusalem."
+        },
+        {
+          "pk": 841817,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 24,
+          "text": "Moreover, Josiah removed the mediums and the spiritists and the teraphim and the idols and all the abominations that were seen in the land of Judah and in Jerusalem, that he might confirm the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD."
+        },
+        {
+          "pk": 841818,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 25,
+          "text": "Before him there was no king like him who turned to the LORD with all his heart and with all his soul and with all his might, according to all the law of Moses; nor did any like him arise after him."
+        },
+        {
+          "pk": 841819,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 26,
+          "text": "However, the LORD did not turn from the fierceness of His great wrath with which His anger burned against Judah, because of all the provocations with which Manasseh had provoked Him."
+        },
+        {
+          "pk": 841820,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 27,
+          "text": "The LORD said, 'I will remove Judah also from My sight, as I have removed Israel. And I will cast off Jerusalem, this city which I have chosen, and the temple of which I said, 'My name shall be there.''"
+        },
+        {
+          "pk": 841821,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 28,
+          "text": "Now the rest of the acts of Josiah and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841822,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 29,
+          "text": "In his days Pharaoh Neco king of Egypt went up to the king of Assyria to the river Euphrates. And King Josiah went to meet him, and when [Pharaoh Neco] saw him he killed him at Megiddo."
+        },
+        {
+          "pk": 841823,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 30,
+          "text": "His servants drove his body in a chariot from Megiddo, and brought him to Jerusalem and buried him in his own tomb. Then the people of the land took Jehoahaz the son of Josiah and anointed him and made him king in place of his father."
+        },
+        {
+          "pk": 841824,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 31,
+          "text": "Jehoahaz was twenty-three years old when he became king, and he reigned three months in Jerusalem; and his mother's name was Hamutal the daughter of Jeremiah of Libnah."
+        },
+        {
+          "pk": 841825,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 32,
+          "text": "He did evil in the sight of the LORD, according to all that his fathers had done."
+        },
+        {
+          "pk": 841826,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 33,
+          "text": "Pharaoh Neco imprisoned him at Riblah in the land of Hamath, that he might not reign in Jerusalem; and he imposed on the land a fine of one hundred talents of silver and a talent of gold."
+        },
+        {
+          "pk": 841827,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 34,
+          "text": "Pharaoh Neco made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim. But he took Jehoahaz away and brought [him] to Egypt, and he died there."
+        },
+        {
+          "pk": 841828,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 35,
+          "text": "So Jehoiakim gave the silver and gold to Pharaoh, but he taxed the land in order to give the money at the command of Pharaoh. He exacted the silver and gold from the people of the land, each according to his valuation, to give it to Pharaoh Neco."
+        },
+        {
+          "pk": 841829,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 36,
+          "text": "Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem; and his mother's name [was] Zebidah the daughter of Pedaiah of Rumah."
+        },
+        {
+          "pk": 841830,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 23,
+          "verse": 37,
+          "text": "He did evil in the sight of the LORD, according to all that his fathers had done."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "pk": 841831,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 1,
+          "text": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant [for] three years; then he turned and rebelled against him."
+        },
+        {
+          "pk": 841832,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 2,
+          "text": "The LORD sent against him bands of Chaldeans, bands of Arameans, bands of Moabites, and bands of Ammonites. So He sent them against Judah to destroy it, according to the word of the LORD which He had spoken through His servants the prophets."
+        },
+        {
+          "pk": 841833,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 3,
+          "text": "Surely at the command of the LORD it came upon Judah, to remove [them] from His sight because of the sins of Manasseh, according to all that he had done,"
+        },
+        {
+          "pk": 841834,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 4,
+          "text": "and also for the innocent blood which he shed, for he filled Jerusalem with innocent blood; and the LORD would not forgive."
+        },
+        {
+          "pk": 841835,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 5,
+          "text": "Now the rest of the acts of Jehoiakim and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?"
+        },
+        {
+          "pk": 841836,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 6,
+          "text": "So Jehoiakim slept with his fathers, and Jehoiachin his son became king in his place."
+        },
+        {
+          "pk": 841837,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 7,
+          "text": "The king of Egypt did not come out of his land again, for the king of Babylon had taken all that belonged to the king of Egypt from the brook of Egypt to the river Euphrates."
+        },
+        {
+          "pk": 841838,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 8,
+          "text": "Jehoiachin was eighteen years old when he became king, and he reigned three months in Jerusalem; and his mother's name [was] Nehushta the daughter of Elnathan of Jerusalem."
+        },
+        {
+          "pk": 841839,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 9,
+          "text": "He did evil in the sight of the LORD, according to all that his father had done."
+        },
+        {
+          "pk": 841840,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 10,
+          "text": "At that time the servants of Nebuchadnezzar king of Babylon went up to Jerusalem, and the city came under siege."
+        },
+        {
+          "pk": 841841,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 11,
+          "text": "And Nebuchadnezzar the king of Babylon came to the city, while his servants were besieging it."
+        },
+        {
+          "pk": 841842,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 12,
+          "text": "Jehoiachin the king of Judah went out to the king of Babylon, he and his mother and his servants and his captains and his officials. So the king of Babylon took him captive in the eighth year of his reign."
+        },
+        {
+          "pk": 841843,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 13,
+          "text": "He carried out from there all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, just as the LORD had said."
+        },
+        {
+          "pk": 841844,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 14,
+          "text": "Then he led away into exile all Jerusalem and all the captains and all the mighty men of valor, ten thousand captives, and all the craftsmen and the smiths. None remained except the poorest people of the land."
+        },
+        {
+          "pk": 841845,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 15,
+          "text": "So he led Jehoiachin away into exile to Babylon; also the king's mother and the king's wives and his officials and the leading men of the land, he led away into exile from Jerusalem to Babylon."
+        },
+        {
+          "pk": 841846,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 16,
+          "text": "All the men of valor, seven thousand, and the craftsmen and the smiths, one thousand, all strong and fit for war, and these the king of Babylon brought into exile to Babylon."
+        },
+        {
+          "pk": 841847,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 17,
+          "text": "Then the king of Babylon made his uncle Mattaniah king in his place, and changed his name to Zedekiah."
+        },
+        {
+          "pk": 841848,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 18,
+          "text": "Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem; and his mother's name was Hamutal the daughter of Jeremiah of Libnah."
+        },
+        {
+          "pk": 841849,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 19,
+          "text": "He did evil in the sight of the LORD, according to all that Jehoiakim had done."
+        },
+        {
+          "pk": 841850,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 24,
+          "verse": 20,
+          "text": "For through the anger of the LORD [this] came about in Jerusalem and Judah until He cast them out from His presence. And Zedekiah rebelled against the king of Babylon."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "pk": 841851,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 1,
+          "text": "Now in the ninth year of his reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, camped against it and built a siege wall all around it."
+        },
+        {
+          "pk": 841852,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 2,
+          "text": "So the city was under siege until the eleventh year of King Zedekiah."
+        },
+        {
+          "pk": 841853,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 3,
+          "text": "On the ninth day of the [fourth] month the famine was so severe in the city that there was no food for the people of the land."
+        },
+        {
+          "pk": 841854,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 4,
+          "text": "Then the city was broken into, and all the men of war [fled] by night by way of the gate between the two walls beside the king's garden, though the Chaldeans were all around the city. And they went by way of the Arabah."
+        },
+        {
+          "pk": 841855,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 5,
+          "text": "But the army of the Chaldeans pursued the king and overtook him in the plains of Jericho and all his army was scattered from him."
+        },
+        {
+          "pk": 841856,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 6,
+          "text": "Then they captured the king and brought him to the king of Babylon at Riblah, and he passed sentence on him."
+        },
+        {
+          "pk": 841857,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 7,
+          "text": "They slaughtered the sons of Zedekiah before his eyes, then put out the eyes of Zedekiah and bound him with bronze fetters and brought him to Babylon."
+        },
+        {
+          "pk": 841858,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 8,
+          "text": "Now on the seventh day of the fifth month, which was the nineteenth year of King Nebuchadnezzar, king of Babylon, Nebuzaradan the captain of the guard, a servant of the king of Babylon, came to Jerusalem."
+        },
+        {
+          "pk": 841859,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 9,
+          "text": "He burned the house of the LORD, the king's house, and all the houses of Jerusalem; even every great house he burned with fire."
+        },
+        {
+          "pk": 841860,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 10,
+          "text": "So all the army of the Chaldeans who [were with] the captain of the guard broke down the walls around Jerusalem."
+        },
+        {
+          "pk": 841861,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 11,
+          "text": "Then the rest of the people who were left in the city and the deserters who had deserted to the king of Babylon and the rest of the people, Nebuzaradan the captain of the guard carried away into exile."
+        },
+        {
+          "pk": 841862,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 12,
+          "text": "But the captain of the guard left some of the poorest of the land to be vinedressers and plowmen."
+        },
+        {
+          "pk": 841863,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 13,
+          "text": "Now the bronze pillars which were in the house of the LORD, and the stands and the bronze sea which were in the house of the LORD, the Chaldeans broke in pieces and carried the bronze to Babylon."
+        },
+        {
+          "pk": 841864,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 14,
+          "text": "They took away the pots, the shovels, the snuffers, the spoons, and all the bronze vessels which were used in [temple] service."
+        },
+        {
+          "pk": 841865,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 15,
+          "text": "The captain of the guard also took away the firepans and the basins, what was fine gold and what was fine silver."
+        },
+        {
+          "pk": 841866,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 16,
+          "text": "The two pillars, the one sea, and the stands which Solomon had made for the house of the LORD-- the bronze of all these vessels was beyond weight."
+        },
+        {
+          "pk": 841867,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 17,
+          "text": "The height of the one pillar was eighteen cubits, and a bronze capital was on it; the height of the capital was three cubits, with a network and pomegranates on the capital all around, all of bronze. And the second pillar was like these with network."
+        },
+        {
+          "pk": 841868,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 18,
+          "text": "Then the captain of the guard took Seraiah the chief priest and Zephaniah the second priest, with the three officers of the temple."
+        },
+        {
+          "pk": 841869,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 19,
+          "text": "From the city he took one official who was overseer of the men of war, and five of the king's advisers who were found in the city; and the scribe of the captain of the army who mustered the people of the land; and sixty men of the people of the land who were found in the city."
+        },
+        {
+          "pk": 841870,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 20,
+          "text": "Nebuzaradan the captain of the guard took them and brought them to the king of Babylon at Riblah."
+        },
+        {
+          "pk": 841871,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 21,
+          "text": "Then the king of Babylon struck them down and put them to death at Riblah in the land of Hamath. So Judah was led away into exile from its land."
+        },
+        {
+          "pk": 841872,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 22,
+          "text": "Now [as for] the people who were left in the land of Judah, whom Nebuchadnezzar king of Babylon had left, he appointed Gedaliah the son of Ahikam, the son of Shaphan over them."
+        },
+        {
+          "pk": 841873,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 23,
+          "text": "When all the captains of the forces, they and [their] men, heard that the king of Babylon had appointed Gedaliah [governor], they came to Gedaliah to Mizpah, namely, Ishmael the son of Nethaniah, and Johanan the son of Kareah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of the Maacathite, they and their men."
+        },
+        {
+          "pk": 841874,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 24,
+          "text": "Gedaliah swore to them and their men and said to them, 'Do not be afraid of the servants of the Chaldeans; live in the land and serve the king of Babylon, and it will be well with you.'"
+        },
+        {
+          "pk": 841875,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 25,
+          "text": "But it came about in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the royal family, came with ten men and struck Gedaliah down so that he died along with the Jews and the Chaldeans who were with him at Mizpah."
+        },
+        {
+          "pk": 841876,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 26,
+          "text": "Then all the people, both small and great, and the captains of the forces arose and went to Egypt; for they were afraid of the Chaldeans."
+        },
+        {
+          "pk": 841877,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 27,
+          "text": "Now it came about in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh [day] of the month, that Evil-merodach king of Babylon, in the year that he became king, released Jehoiachin king of Judah from prison;"
+        },
+        {
+          "pk": 841878,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 28,
+          "text": "and he spoke kindly to him and set his throne above the throne of the kings who [were] with him in Babylon."
+        },
+        {
+          "pk": 841879,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 29,
+          "text": "Jehoiachin changed his prison clothes and had his meals in the king's presence regularly all the days of his life;"
+        },
+        {
+          "pk": 841880,
+          "translation": "NASB",
+          "book": 12,
+          "chapter": 25,
+          "verse": 30,
+          "text": "and for his allowance, a regular allowance was given him by the king, a portion for each day, all the days of his life."
+        }
+      ]
+    }
+  ]
+};

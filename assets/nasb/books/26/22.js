@@ -1,0 +1,251 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/26/22"] = [
+  {
+    "pk": 852605,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 1,
+    "text": "Then the word of the LORD came to me, saying,"
+  },
+  {
+    "pk": 852606,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 2,
+    "text": "'And you, son of man, will you judge, will you judge the bloody city? Then cause her to know all her abominations."
+  },
+  {
+    "pk": 852607,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 3,
+    "text": "'You shall say, 'Thus says the Lord GOD, 'A city shedding blood in her midst, so that her time will come, and that makes idols, contrary to her [interest], for defilement!"
+  },
+  {
+    "pk": 852608,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 4,
+    "text": "'You have become guilty by the blood which you have shed, and defiled by your idols which you have made. Thus you have brought your day near and have come to your years; therefore I have made you a reproach to the nations and a mocking to all the lands."
+  },
+  {
+    "pk": 852609,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 5,
+    "text": "'Those who are near and those who are far from you will mock you, you of ill repute, full of turmoil."
+  },
+  {
+    "pk": 852610,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 6,
+    "text": "'Behold, the rulers of Israel, each according to his power, have been in you for the purpose of shedding blood."
+  },
+  {
+    "pk": 852611,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 7,
+    "text": "'They have treated father and mother lightly within you. The alien they have oppressed in your midst; the fatherless and the widow they have wronged in you."
+  },
+  {
+    "pk": 852612,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 8,
+    "text": "'You have despised My holy things and profaned My sabbaths."
+  },
+  {
+    "pk": 852613,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 9,
+    "text": "'Slanderous men have been in you for the purpose of shedding blood, and in you they have eaten at the mountain [shrines]. In your midst they have committed acts of lewdness."
+  },
+  {
+    "pk": 852614,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 10,
+    "text": "'In you they have uncovered [their] fathers' nakedness; in you they have humbled her who was unclean in her menstrual impurity."
+  },
+  {
+    "pk": 852615,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 11,
+    "text": "'One has committed abomination with his neighbor's wife and another has lewdly defiled his daughter-in-law. And another in you has humbled his sister, his father's daughter."
+  },
+  {
+    "pk": 852616,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 12,
+    "text": "'In you they have taken bribes to shed blood; you have taken interest and profits, and you have injured your neighbors for gain by oppression, and you have forgotten Me,' declares the Lord GOD."
+  },
+  {
+    "pk": 852617,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 13,
+    "text": "'Behold, then, I smite My hand at your dishonest gain which you have acquired and at the bloodshed which is among you."
+  },
+  {
+    "pk": 852618,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 14,
+    "text": "'Can your heart endure, or can your hands be strong in the days that I will deal with you? I, the LORD, have spoken and will act."
+  },
+  {
+    "pk": 852619,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 15,
+    "text": "'I will scatter you among the nations and I will disperse you through the lands, and I will consume your uncleanness from you."
+  },
+  {
+    "pk": 852620,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 16,
+    "text": "'You will profane yourself in the sight of the nations, and you will know that I am the LORD.'''"
+  },
+  {
+    "pk": 852621,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 17,
+    "text": "And the word of the LORD came to me, saying,"
+  },
+  {
+    "pk": 852622,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 18,
+    "text": "'Son of man, the house of Israel has become dross to Me; all of them are bronze and tin and iron and lead in the furnace; they are the dross of silver."
+  },
+  {
+    "pk": 852623,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 19,
+    "text": "'Therefore, thus says the Lord GOD, 'Because all of you have become dross, therefore, behold, I am going to gather you into the midst of Jerusalem."
+  },
+  {
+    "pk": 852624,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 20,
+    "text": "'As they gather silver and bronze and iron and lead and tin into the furnace to blow fire on it in order to melt [it], so I will gather [you] in My anger and in My wrath and I will lay you [there] and melt you."
+  },
+  {
+    "pk": 852625,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 21,
+    "text": "'I will gather you and blow on you with the fire of My wrath, and you will be melted in the midst of it."
+  },
+  {
+    "pk": 852626,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 22,
+    "text": "'As silver is melted in the furnace, so you will be melted in the midst of it; and you will know that I, the LORD, have poured out My wrath on you.''"
+  },
+  {
+    "pk": 852627,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 23,
+    "text": "And the word of the LORD came to me, saying,"
+  },
+  {
+    "pk": 852628,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 24,
+    "text": "'Son of man, say to her, 'You are a land that is not cleansed or rained on in the day of indignation.'"
+  },
+  {
+    "pk": 852629,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 25,
+    "text": "'There is a conspiracy of her prophets in her midst like a roaring lion tearing the prey. They have devoured lives; they have taken treasure and precious things; they have made many widows in the midst of her."
+  },
+  {
+    "pk": 852630,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 26,
+    "text": "'Her priests have done violence to My law and have profaned My holy things; they have made no distinction between the holy and the profane, and they have not taught the difference between the unclean and the clean; and they hide their eyes from My sabbaths, and I am profaned among them."
+  },
+  {
+    "pk": 852631,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 27,
+    "text": "'Her princes within her are like wolves tearing the prey, by shedding blood [and] destroying lives in order to get dishonest gain."
+  },
+  {
+    "pk": 852632,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 28,
+    "text": "'Her prophets have smeared whitewash for them, seeing false visions and divining lies for them, saying, 'Thus says the Lord GOD,' when the LORD has not spoken."
+  },
+  {
+    "pk": 852633,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 29,
+    "text": "'The people of the land have practiced oppression and committed robbery, and they have wronged the poor and needy and have oppressed the sojourner without justice."
+  },
+  {
+    "pk": 852634,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 30,
+    "text": "'I searched for a man among them who would build up the wall and stand in the gap before Me for the land, so that I would not destroy it; but I found no one."
+  },
+  {
+    "pk": 852635,
+    "translation": "NASB",
+    "book": 26,
+    "chapter": 22,
+    "verse": 31,
+    "text": "'Thus I have poured out My indignation on them; I have consumed them with the fire of My wrath; their way I have brought upon their heads,' declares the Lord GOD."
+  }
+];

@@ -1,0 +1,155 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/63"] = [
+  {
+    "pk": 850495,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 1,
+    "text": "Who is this who comes from Edom, With garments of glowing colors from Bozrah, This One who is majestic in His apparel, Marching in the greatness of His strength? 'It is I who speak in righteousness, mighty to save.'"
+  },
+  {
+    "pk": 850496,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 2,
+    "text": "Why is Your apparel red, And Your garments like the one who treads in the wine press?"
+  },
+  {
+    "pk": 850497,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 3,
+    "text": "'I have trodden the wine trough alone, And from the peoples there was no man with Me. I also trod them in My anger And trampled them in My wrath; And their lifeblood is sprinkled on My garments, And I stained all My raiment."
+  },
+  {
+    "pk": 850498,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 4,
+    "text": "'For the day of vengeance was in My heart, And My year of redemption has come."
+  },
+  {
+    "pk": 850499,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 5,
+    "text": "'I looked, and there was no one to help, And I was astonished and there was no one to uphold; So My own arm brought salvation to Me, And My wrath upheld Me."
+  },
+  {
+    "pk": 850500,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 6,
+    "text": "'I trod down the peoples in My anger And made them drunk in My wrath, And I poured out their lifeblood on the earth.'"
+  },
+  {
+    "pk": 850501,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 7,
+    "text": "I shall make mention of the lovingkindnesses of the LORD, the praises of the LORD, According to all that the LORD has granted us, And the great goodness toward the house of Israel, Which He has granted them according to His compassion And according to the abundance of His lovingkindnesses."
+  },
+  {
+    "pk": 850502,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 8,
+    "text": "For He said, 'Surely, they are My people, Sons who will not deal falsely.' So He became their Savior."
+  },
+  {
+    "pk": 850503,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 9,
+    "text": "In all their affliction He was afflicted, And the angel of His presence saved them; In His love and in His mercy He redeemed them, And He lifted them and carried them all the days of old."
+  },
+  {
+    "pk": 850504,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 10,
+    "text": "But they rebelled And grieved His Holy Spirit; Therefore He turned Himself to become their enemy, He fought against them."
+  },
+  {
+    "pk": 850505,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 11,
+    "text": "Then His people remembered the days of old, of Moses. Where is He who brought them up out of the sea with the shepherds of His flock? Where is He who put His Holy Spirit in the midst of them,"
+  },
+  {
+    "pk": 850506,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 12,
+    "text": "Who caused His glorious arm to go at the right hand of Moses, Who divided the waters before them to make for Himself an everlasting name,"
+  },
+  {
+    "pk": 850507,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 13,
+    "text": "Who led them through the depths? Like the horse in the wilderness, they did not stumble;"
+  },
+  {
+    "pk": 850508,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 14,
+    "text": "As the cattle which go down into the valley, The Spirit of the LORD gave them rest. So You led Your people, To make for Yourself a glorious name."
+  },
+  {
+    "pk": 850509,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 15,
+    "text": "Look down from heaven and see from Your holy and glorious habitation; Where are Your zeal and Your mighty deeds? The stirrings of Your heart and Your compassion are restrained toward me."
+  },
+  {
+    "pk": 850510,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 16,
+    "text": "For You are our Father, though Abraham does not know us And Israel does not recognize us. You, O LORD, are our Father, Our Redeemer from of old is Your name."
+  },
+  {
+    "pk": 850511,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 17,
+    "text": "Why, O LORD, do You cause us to stray from Your ways And harden our heart from fearing You? Return for the sake of Your servants, the tribes of Your heritage."
+  },
+  {
+    "pk": 850512,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 18,
+    "text": "Your holy people possessed Your sanctuary for a little while, Our adversaries have trodden [it] down."
+  },
+  {
+    "pk": 850513,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 63,
+    "verse": 19,
+    "text": "We have become [like] those over whom You have never ruled, [Like] those who were not called by Your name."
+  }
+];

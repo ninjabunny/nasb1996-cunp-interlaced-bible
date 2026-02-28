@@ -1,0 +1,315 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/58/10"] = [
+  {
+    "pk": 861762,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 1,
+    "text": "For the Law, since it has [only] a shadow of the good things to come [and] not the very form of things, can never, by the same sacrifices which they offer continually year by year, make perfect those who draw near."
+  },
+  {
+    "pk": 861763,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 2,
+    "text": "Otherwise, would they not have ceased to be offered, because the worshipers, having once been cleansed, would no longer have had consciousness of sins?"
+  },
+  {
+    "pk": 861764,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 3,
+    "text": "But in those [sacrifices] there is a reminder of sins year by year."
+  },
+  {
+    "pk": 861765,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 4,
+    "text": "For it is impossible for the blood of bulls and goats to take away sins."
+  },
+  {
+    "pk": 861766,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 5,
+    "text": "Therefore, when He comes into the world, He says, 'SACRIFICE AND OFFERING YOU HAVE NOT DESIRED, BUT A BODY YOU HAVE PREPARED FOR ME;"
+  },
+  {
+    "pk": 861767,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 6,
+    "text": "IN WHOLE BURNT OFFERINGS AND [sacrifices] FOR SIN YOU HAVE TAKEN NO PLEASURE."
+  },
+  {
+    "pk": 861768,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 7,
+    "text": "'THEN I SAID, 'BEHOLD, I HAVE COME (IN THE SCROLL OF THE BOOK IT IS WRITTEN OF ME) TO DO YOUR WILL, O GOD.''"
+  },
+  {
+    "pk": 861769,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 8,
+    "text": "After saying above, 'SACRIFICES AND OFFERINGS AND WHOLE BURNT OFFERINGS AND [sacrifices] FOR SIN YOU HAVE NOT DESIRED, NOR HAVE YOU TAKEN PLEASURE [in them]' (which are offered according to the Law),"
+  },
+  {
+    "pk": 861770,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 9,
+    "text": "then He said, 'BEHOLD, I HAVE COME TO DO YOUR WILL.' He takes away the first in order to establish the second."
+  },
+  {
+    "pk": 861771,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 10,
+    "text": "By this will we have been sanctified through the offering of the body of Jesus Christ once for all."
+  },
+  {
+    "pk": 861772,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 11,
+    "text": "Every priest stands daily ministering and offering time after time the same sacrifices, which can never take away sins;"
+  },
+  {
+    "pk": 861773,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 12,
+    "text": "but He, having offered one sacrifice for sins for all time, SAT DOWN AT THE RIGHT HAND OF GOD,"
+  },
+  {
+    "pk": 861774,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 13,
+    "text": "waiting from that time onward UNTIL HIS ENEMIES BE MADE A FOOTSTOOL FOR HIS FEET."
+  },
+  {
+    "pk": 861775,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 14,
+    "text": "For by one offering He has perfected for all time those who are sanctified."
+  },
+  {
+    "pk": 861776,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 15,
+    "text": "And the Holy Spirit also testifies to us; for after saying,"
+  },
+  {
+    "pk": 861777,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 16,
+    "text": "'THIS IS THE COVENANT THAT I WILL MAKE WITH THEM AFTER THOSE DAYS, SAYS THE LORD: I WILL PUT MY LAWS UPON THEIR HEART, AND ON THEIR MIND I WILL WRITE THEM,' [He then says],"
+  },
+  {
+    "pk": 861778,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 17,
+    "text": "'AND THEIR SINS AND THEIR LAWLESS DEEDS I WILL REMEMBER NO MORE.'"
+  },
+  {
+    "pk": 861779,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 18,
+    "text": "Now where there is forgiveness of these things, there is no longer [any] offering for sin."
+  },
+  {
+    "pk": 861780,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 19,
+    "text": "Therefore, brethren, since we have confidence to enter the holy place by the blood of Jesus,"
+  },
+  {
+    "pk": 861781,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 20,
+    "text": "by a new and living way which He inaugurated for us through the veil, that is, His flesh,"
+  },
+  {
+    "pk": 861782,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 21,
+    "text": "and since [we have] a great priest over the house of God,"
+  },
+  {
+    "pk": 861783,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 22,
+    "text": "let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled [clean] from an evil conscience and our bodies washed with pure water."
+  },
+  {
+    "pk": 861784,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 23,
+    "text": "Let us hold fast the confession of our hope without wavering, for He who promised is faithful;"
+  },
+  {
+    "pk": 861785,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 24,
+    "text": "and let us consider how to stimulate one another to love and good deeds,"
+  },
+  {
+    "pk": 861786,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 25,
+    "text": "not forsaking our own assembling together, as is the habit of some, but encouraging [one another]; and all the more as you see the day drawing near."
+  },
+  {
+    "pk": 861787,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 26,
+    "text": "For if we go on sinning willfully after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,"
+  },
+  {
+    "pk": 861788,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 27,
+    "text": "but a terrifying expectation of judgment and THE FURY OF A FIRE WHICH WILL CONSUME THE ADVERSARIES."
+  },
+  {
+    "pk": 861789,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 28,
+    "text": "Anyone who has set aside the Law of Moses dies without mercy on [the testimony of] two or three witnesses."
+  },
+  {
+    "pk": 861790,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 29,
+    "text": "How much severer punishment do you think he will deserve who has trampled under foot the Son of God, and has regarded as unclean the blood of the covenant by which he was sanctified, and has insulted the Spirit of grace?"
+  },
+  {
+    "pk": 861791,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 30,
+    "text": "For we know Him who said, 'VENGEANCE IS MINE, I WILL REPAY.' And again, 'THE LORD WILL JUDGE HIS PEOPLE.'"
+  },
+  {
+    "pk": 861792,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 31,
+    "text": "It is a terrifying thing to fall into the hands of the living God."
+  },
+  {
+    "pk": 861793,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 32,
+    "text": "But remember the former days, when, after being enlightened, you endured a great conflict of sufferings,"
+  },
+  {
+    "pk": 861794,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 33,
+    "text": "partly by being made a public spectacle through reproaches and tribulations, and partly by becoming sharers with those who were so treated."
+  },
+  {
+    "pk": 861795,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 34,
+    "text": "For you showed sympathy to the prisoners and accepted joyfully the seizure of your property, knowing that you have for yourselves a better possession and a lasting one."
+  },
+  {
+    "pk": 861796,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 35,
+    "text": "Therefore, do not throw away your confidence, which has a great reward."
+  },
+  {
+    "pk": 861797,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 36,
+    "text": "For you have need of endurance, so that when you have done the will of God, you may receive what was promised."
+  },
+  {
+    "pk": 861798,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 37,
+    "text": "FOR YET IN A VERY LITTLE WHILE, HE WHO IS COMING WILL COME, AND WILL NOT DELAY."
+  },
+  {
+    "pk": 861799,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 38,
+    "text": "BUT MY RIGHTEOUS ONE SHALL LIVE BY FAITH; AND IF HE SHRINKS BACK, MY SOUL HAS NO PLEASURE IN HIM."
+  },
+  {
+    "pk": 861800,
+    "translation": "NASB",
+    "book": 58,
+    "chapter": 10,
+    "verse": 39,
+    "text": "But we are not of those who shrink back to destruction, but of those who have faith to the preserving of the soul."
+  }
+];

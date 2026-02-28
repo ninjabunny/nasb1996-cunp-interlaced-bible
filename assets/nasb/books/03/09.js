@@ -1,0 +1,195 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/03/09"] = [
+  {
+    "pk": 834582,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 1,
+    "text": "Now it came about on the eighth day that Moses called Aaron and his sons and the elders of Israel;"
+  },
+  {
+    "pk": 834583,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 2,
+    "text": "and he said to Aaron, 'Take for yourself a calf, a bull, for a sin offering and a ram for a burnt offering, [both] without defect, and offer [them] before the LORD."
+  },
+  {
+    "pk": 834584,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 3,
+    "text": "'Then to the sons of Israel you shall speak, saying, 'Take a male goat for a sin offering, and a calf and a lamb, both one year old, without defect, for a burnt offering,"
+  },
+  {
+    "pk": 834585,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 4,
+    "text": "and an ox and a ram for peace offerings, to sacrifice before the LORD, and a grain offering mixed with oil; for today the LORD will appear to you.''"
+  },
+  {
+    "pk": 834586,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 5,
+    "text": "So they took what Moses had commanded to the front of the tent of meeting, and the whole congregation came near and stood before the LORD."
+  },
+  {
+    "pk": 834587,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 6,
+    "text": "Moses said, 'This is the thing which the LORD has commanded you to do, that the glory of the LORD may appear to you.'"
+  },
+  {
+    "pk": 834588,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 7,
+    "text": "Moses then said to Aaron, 'Come near to the altar and offer your sin offering and your burnt offering, that you may make atonement for yourself and for the people; then make the offering for the people, that you may make atonement for them, just as the LORD has commanded.'"
+  },
+  {
+    "pk": 834589,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 8,
+    "text": "So Aaron came near to the altar and slaughtered the calf of the sin offering which was for himself."
+  },
+  {
+    "pk": 834590,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 9,
+    "text": "Aaron's sons presented the blood to him; and he dipped his finger in the blood and put [some] on the horns of the altar, and poured out [the rest of] the blood at the base of the altar."
+  },
+  {
+    "pk": 834591,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 10,
+    "text": "The fat and the kidneys and the lobe of the liver of the sin offering, he then offered up in smoke on the altar just as the LORD had commanded Moses."
+  },
+  {
+    "pk": 834592,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 11,
+    "text": "The flesh and the skin, however, he burned with fire outside the camp."
+  },
+  {
+    "pk": 834593,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 12,
+    "text": "Then he slaughtered the burnt offering; and Aaron's sons handed the blood to him and he sprinkled it around on the altar."
+  },
+  {
+    "pk": 834594,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 13,
+    "text": "They handed the burnt offering to him in pieces, with the head, and he offered [them] up in smoke on the altar."
+  },
+  {
+    "pk": 834595,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 14,
+    "text": "He also washed the entrails and the legs, and offered [them] up in smoke with the burnt offering on the altar."
+  },
+  {
+    "pk": 834596,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 15,
+    "text": "Then he presented the people's offering, and took the goat of the sin offering which was for the people, and slaughtered it and offered it for sin, like the first."
+  },
+  {
+    "pk": 834597,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 16,
+    "text": "He also presented the burnt offering, and offered it according to the ordinance."
+  },
+  {
+    "pk": 834598,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 17,
+    "text": "Next he presented the grain offering, and filled his hand with some of it and offered [it] up in smoke on the altar, besides the burnt offering of the morning."
+  },
+  {
+    "pk": 834599,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 18,
+    "text": "Then he slaughtered the ox and the ram, the sacrifice of peace offerings which was for the people; and Aaron's sons handed the blood to him and he sprinkled it around on the altar."
+  },
+  {
+    "pk": 834600,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 19,
+    "text": "As for the portions of fat from the ox and from the ram, the fat tail, and the [fat] covering, and the kidneys and the lobe of the liver,"
+  },
+  {
+    "pk": 834601,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 20,
+    "text": "they now placed the portions of fat on the breasts; and he offered them up in smoke on the altar."
+  },
+  {
+    "pk": 834602,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 21,
+    "text": "But the breasts and the right thigh Aaron presented as a wave offering before the LORD, just as Moses had commanded."
+  },
+  {
+    "pk": 834603,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 22,
+    "text": "Then Aaron lifted up his hands toward the people and blessed them, and he stepped down after making the sin offering and the burnt offering and the peace offerings."
+  },
+  {
+    "pk": 834604,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 23,
+    "text": "Moses and Aaron went into the tent of meeting. When they came out and blessed the people, the glory of the LORD appeared to all the people."
+  },
+  {
+    "pk": 834605,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 9,
+    "verse": 24,
+    "text": "Then fire came out from before the LORD and consumed the burnt offering and the portions of fat on the altar; and when all the people saw [it], they shouted and fell on their faces."
+  }
+];

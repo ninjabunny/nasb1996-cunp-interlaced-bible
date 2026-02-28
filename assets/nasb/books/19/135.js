@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/135"] = [
+  {
+    "pk": 847804,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 1,
+    "text": "Praise the LORD! Praise the name of the LORD; Praise [Him], O servants of the LORD,"
+  },
+  {
+    "pk": 847805,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 2,
+    "text": "You who stand in the house of the LORD, In the courts of the house of our God!"
+  },
+  {
+    "pk": 847806,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 3,
+    "text": "Praise the LORD, for the LORD is good; Sing praises to His name, for it is lovely."
+  },
+  {
+    "pk": 847807,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 4,
+    "text": "For the LORD has chosen Jacob for Himself, Israel for His own possession."
+  },
+  {
+    "pk": 847808,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 5,
+    "text": "For I know that the LORD is great And that our Lord is above all gods."
+  },
+  {
+    "pk": 847809,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 6,
+    "text": "Whatever the LORD pleases, He does, In heaven and in earth, in the seas and in all deeps."
+  },
+  {
+    "pk": 847810,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 7,
+    "text": "He causes the vapors to ascend from the ends of the earth; Who makes lightnings for the rain, Who brings forth the wind from His treasuries."
+  },
+  {
+    "pk": 847811,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 8,
+    "text": "He smote the firstborn of Egypt, Both of man and beast."
+  },
+  {
+    "pk": 847812,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 9,
+    "text": "He sent signs and wonders into your midst, O Egypt, Upon Pharaoh and all his servants."
+  },
+  {
+    "pk": 847813,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 10,
+    "text": "He smote many nations And slew mighty kings,"
+  },
+  {
+    "pk": 847814,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 11,
+    "text": "Sihon, king of the Amorites, And Og, king of Bashan, And all the kingdoms of Canaan;"
+  },
+  {
+    "pk": 847815,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 12,
+    "text": "And He gave their land as a heritage, A heritage to Israel His people."
+  },
+  {
+    "pk": 847816,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 13,
+    "text": "Your name, O LORD, is everlasting, Your remembrance, O LORD, throughout all generations."
+  },
+  {
+    "pk": 847817,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 14,
+    "text": "For the LORD will judge His people And will have compassion on His servants."
+  },
+  {
+    "pk": 847818,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 15,
+    "text": "The idols of the nations are [but] silver and gold, The work of man's hands."
+  },
+  {
+    "pk": 847819,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 16,
+    "text": "They have mouths, but they do not speak; They have eyes, but they do not see;"
+  },
+  {
+    "pk": 847820,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 17,
+    "text": "They have ears, but they do not hear, Nor is there any breath at all in their mouths."
+  },
+  {
+    "pk": 847821,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 18,
+    "text": "Those who make them will be like them, [Yes], everyone who trusts in them."
+  },
+  {
+    "pk": 847822,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 19,
+    "text": "O house of Israel, bless the LORD; O house of Aaron, bless the LORD;"
+  },
+  {
+    "pk": 847823,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 20,
+    "text": "O house of Levi, bless the LORD; You who revere the LORD, bless the LORD."
+  },
+  {
+    "pk": 847824,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 135,
+    "verse": 21,
+    "text": "Blessed be the LORD from Zion, Who dwells in Jerusalem. Praise the LORD!"
+  }
+];

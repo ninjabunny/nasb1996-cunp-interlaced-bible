@@ -1,0 +1,275 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/21"] = [
+  {
+    "pk": 844984,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 1,
+    "text": "Then Job answered,"
+  },
+  {
+    "pk": 844985,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 2,
+    "text": "'Listen carefully to my speech, And let this be your [way of] consolation."
+  },
+  {
+    "pk": 844986,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 3,
+    "text": "'Bear with me that I may speak; Then after I have spoken, you may mock."
+  },
+  {
+    "pk": 844987,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 4,
+    "text": "'As for me, is my complaint to man? And why should I not be impatient?"
+  },
+  {
+    "pk": 844988,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 5,
+    "text": "'Look at me, and be astonished, And put [your] hand over [your] mouth."
+  },
+  {
+    "pk": 844989,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 6,
+    "text": "'Even when I remember, I am disturbed, And horror takes hold of my flesh."
+  },
+  {
+    "pk": 844990,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 7,
+    "text": "'Why do the wicked [still] live, Continue on, also become very powerful?"
+  },
+  {
+    "pk": 844991,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 8,
+    "text": "'Their descendants are established with them in their sight, And their offspring before their eyes,"
+  },
+  {
+    "pk": 844992,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 9,
+    "text": "Their houses are safe from fear, And the rod of God is not on them."
+  },
+  {
+    "pk": 844993,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 10,
+    "text": "'His ox mates without fail; His cow calves and does not abort."
+  },
+  {
+    "pk": 844994,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 11,
+    "text": "'They send forth their little ones like the flock, And their children skip about."
+  },
+  {
+    "pk": 844995,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 12,
+    "text": "'They sing to the timbrel and harp And rejoice at the sound of the flute."
+  },
+  {
+    "pk": 844996,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 13,
+    "text": "'They spend their days in prosperity, And suddenly they go down to Sheol."
+  },
+  {
+    "pk": 844997,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 14,
+    "text": "'They say to God, 'Depart from us! We do not even desire the knowledge of Your ways."
+  },
+  {
+    "pk": 844998,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 15,
+    "text": "'Who is the Almighty, that we should serve Him, And what would we gain if we entreat Him?'"
+  },
+  {
+    "pk": 844999,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 16,
+    "text": "'Behold, their prosperity is not in their hand; The counsel of the wicked is far from me."
+  },
+  {
+    "pk": 845000,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 17,
+    "text": "'How often is the lamp of the wicked put out, Or does their calamity fall on them? Does God apportion destruction in His anger?"
+  },
+  {
+    "pk": 845001,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 18,
+    "text": "'Are they as straw before the wind, And like chaff which the storm carries away?"
+  },
+  {
+    "pk": 845002,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 19,
+    "text": "'[You say], 'God stores away a man's iniquity for his sons.' Let God repay him so that he may know [it]."
+  },
+  {
+    "pk": 845003,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 20,
+    "text": "'Let his own eyes see his decay, And let him drink of the wrath of the Almighty."
+  },
+  {
+    "pk": 845004,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 21,
+    "text": "'For what does he care for his household after him, When the number of his months is cut off?"
+  },
+  {
+    "pk": 845005,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 22,
+    "text": "'Can anyone teach God knowledge, In that He judges those on high?"
+  },
+  {
+    "pk": 845006,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 23,
+    "text": "'One dies in his full strength, Being wholly at ease and satisfied;"
+  },
+  {
+    "pk": 845007,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 24,
+    "text": "His sides are filled out with fat, And the marrow of his bones is moist,"
+  },
+  {
+    "pk": 845008,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 25,
+    "text": "While another dies with a bitter soul, Never even tasting [anything] good."
+  },
+  {
+    "pk": 845009,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 26,
+    "text": "'Together they lie down in the dust, And worms cover them."
+  },
+  {
+    "pk": 845010,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 27,
+    "text": "'Behold, I know your thoughts, And the plans by which you would wrong me."
+  },
+  {
+    "pk": 845011,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 28,
+    "text": "'For you say, 'Where is the house of the nobleman, And where is the tent, the dwelling places of the wicked?'"
+  },
+  {
+    "pk": 845012,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 29,
+    "text": "'Have you not asked wayfaring men, And do you not recognize their witness?"
+  },
+  {
+    "pk": 845013,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 30,
+    "text": "'For the wicked is reserved for the day of calamity; They will be led forth at the day of fury."
+  },
+  {
+    "pk": 845014,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 31,
+    "text": "'Who will confront him with his actions, And who will repay him for what he has done?"
+  },
+  {
+    "pk": 845015,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 32,
+    "text": "'While he is carried to the grave, [Men] will keep watch over [his] tomb."
+  },
+  {
+    "pk": 845016,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 33,
+    "text": "'The clods of the valley will gently cover him; Moreover, all men will follow after him, While countless ones [go] before him."
+  },
+  {
+    "pk": 845017,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 21,
+    "verse": 34,
+    "text": "'How then will you vainly comfort me, For your answers remain [full of] falsehood?'"
+  }
+];

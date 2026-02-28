@@ -1,0 +1,91 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/95"] = [
+  {
+    "pk": 847083,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 1,
+    "text": "O come, let us sing for joy to the LORD, Let us shout joyfully to the rock of our salvation."
+  },
+  {
+    "pk": 847084,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 2,
+    "text": "Let us come before His presence with thanksgiving, Let us shout joyfully to Him with psalms."
+  },
+  {
+    "pk": 847085,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 3,
+    "text": "For the LORD is a great God And a great King above all gods,"
+  },
+  {
+    "pk": 847086,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 4,
+    "text": "In whose hand are the depths of the earth, The peaks of the mountains are His also."
+  },
+  {
+    "pk": 847087,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 5,
+    "text": "The sea is His, for it was He who made it, And His hands formed the dry land."
+  },
+  {
+    "pk": 847088,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 6,
+    "text": "Come, let us worship and bow down, Let us kneel before the LORD our Maker."
+  },
+  {
+    "pk": 847089,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 7,
+    "text": "For He is our God, And we are the people of His pasture and the sheep of His hand. Today, if you would hear His voice,"
+  },
+  {
+    "pk": 847090,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 8,
+    "text": "Do not harden your hearts, as at Meribah, As in the day of Massah in the wilderness,"
+  },
+  {
+    "pk": 847091,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 9,
+    "text": "'When your fathers tested Me, They tried Me, though they had seen My work."
+  },
+  {
+    "pk": 847092,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 10,
+    "text": "'For forty years I loathed [that] generation, And said they are a people who err in their heart, And they do not know My ways."
+  },
+  {
+    "pk": 847093,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 95,
+    "verse": 11,
+    "text": "'Therefore I swore in My anger, Truly they shall not enter into My rest.'"
+  }
+];

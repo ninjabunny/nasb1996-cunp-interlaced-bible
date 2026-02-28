@@ -1,0 +1,91 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/29"] = [
+  {
+    "pk": 845937,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 1,
+    "text": "A Psalm of David. Ascribe to the LORD, O sons of the mighty, Ascribe to the LORD glory and strength."
+  },
+  {
+    "pk": 845938,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 2,
+    "text": "Ascribe to the LORD the glory due to His name; Worship the LORD in holy array."
+  },
+  {
+    "pk": 845939,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 3,
+    "text": "The voice of the LORD is upon the waters; The God of glory thunders, The LORD is over many waters."
+  },
+  {
+    "pk": 845940,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 4,
+    "text": "The voice of the LORD is powerful, The voice of the LORD is majestic."
+  },
+  {
+    "pk": 845941,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 5,
+    "text": "The voice of the LORD breaks the cedars; Yes, the LORD breaks in pieces the cedars of Lebanon."
+  },
+  {
+    "pk": 845942,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 6,
+    "text": "He makes Lebanon skip like a calf, And Sirion like a young wild ox."
+  },
+  {
+    "pk": 845943,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 7,
+    "text": "The voice of the LORD hews out flames of fire."
+  },
+  {
+    "pk": 845944,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 8,
+    "text": "The voice of the LORD shakes the wilderness; The LORD shakes the wilderness of Kadesh."
+  },
+  {
+    "pk": 845945,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 9,
+    "text": "The voice of the LORD makes the deer to calve And strips the forests bare; And in His temple everything says, 'Glory!'"
+  },
+  {
+    "pk": 845946,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 10,
+    "text": "The LORD sat [as King] at the flood; Yes, the LORD sits as King forever."
+  },
+  {
+    "pk": 845947,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 29,
+    "verse": 11,
+    "text": "The LORD will give strength to His people; The LORD will bless His people with peace."
+  }
+];

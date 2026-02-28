@@ -1,0 +1,107 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/96"] = [
+  {
+    "pk": 847094,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 1,
+    "text": "Sing to the LORD a new song; Sing to the LORD, all the earth."
+  },
+  {
+    "pk": 847095,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 2,
+    "text": "Sing to the LORD, bless His name; Proclaim good tidings of His salvation from day to day."
+  },
+  {
+    "pk": 847096,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 3,
+    "text": "Tell of His glory among the nations, His wonderful deeds among all the peoples."
+  },
+  {
+    "pk": 847097,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 4,
+    "text": "For great is the LORD and greatly to be praised; He is to be feared above all gods."
+  },
+  {
+    "pk": 847098,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 5,
+    "text": "For all the gods of the peoples are idols, But the LORD made the heavens."
+  },
+  {
+    "pk": 847099,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 6,
+    "text": "Splendor and majesty are before Him, Strength and beauty are in His sanctuary."
+  },
+  {
+    "pk": 847100,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 7,
+    "text": "Ascribe to the LORD, O families of the peoples, Ascribe to the LORD glory and strength."
+  },
+  {
+    "pk": 847101,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 8,
+    "text": "Ascribe to the LORD the glory of His name; Bring an offering and come into His courts."
+  },
+  {
+    "pk": 847102,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 9,
+    "text": "Worship the LORD in holy attire; Tremble before Him, all the earth."
+  },
+  {
+    "pk": 847103,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 10,
+    "text": "Say among the nations, 'The LORD reigns; Indeed, the world is firmly established, it will not be moved; He will judge the peoples with equity.'"
+  },
+  {
+    "pk": 847104,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 11,
+    "text": "Let the heavens be glad, and let the earth rejoice; Let the sea roar, and all it contains;"
+  },
+  {
+    "pk": 847105,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 12,
+    "text": "Let the field exult, and all that is in it. Then all the trees of the forest will sing for joy"
+  },
+  {
+    "pk": 847106,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 96,
+    "verse": 13,
+    "text": "Before the LORD, for He is coming, For He is coming to judge the earth. He will judge the world in righteousness And the peoples in His faithfulness."
+  }
+];

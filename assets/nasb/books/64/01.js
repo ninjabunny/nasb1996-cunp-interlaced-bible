@@ -1,0 +1,123 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/64/01"] = [
+  {
+    "pk": 862287,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 1,
+    "text": "The elder to the beloved Gaius, whom I love in truth."
+  },
+  {
+    "pk": 862288,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 2,
+    "text": "Beloved, I pray that in all respects you may prosper and be in good health, just as your soul prospers."
+  },
+  {
+    "pk": 862289,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 3,
+    "text": "For I was very glad when brethren came and testified to your truth, [that is], how you are walking in truth."
+  },
+  {
+    "pk": 862290,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 4,
+    "text": "I have no greater joy than this, to hear of my children walking in the truth."
+  },
+  {
+    "pk": 862291,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 5,
+    "text": "Beloved, you are acting faithfully in whatever you accomplish for the brethren, and especially [when they are] strangers;"
+  },
+  {
+    "pk": 862292,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 6,
+    "text": "and they have testified to your love before the church. You will do well to send them on their way in a manner worthy of God."
+  },
+  {
+    "pk": 862293,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 7,
+    "text": "For they went out for the sake of the Name, accepting nothing from the Gentiles."
+  },
+  {
+    "pk": 862294,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Therefore we ought to support such men, so that we may be fellow workers with the truth."
+  },
+  {
+    "pk": 862295,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 9,
+    "text": "I wrote something to the church; but Diotrephes, who loves to be first among them, does not accept what we say."
+  },
+  {
+    "pk": 862296,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 10,
+    "text": "For this reason, if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words; and not satisfied with this, he himself does not receive the brethren, either, and he forbids those who desire [to do so] and puts [them] out of the church."
+  },
+  {
+    "pk": 862297,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 11,
+    "text": "Beloved, do not imitate what is evil, but what is good. The one who does good is of God; the one who does evil has not seen God."
+  },
+  {
+    "pk": 862298,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 12,
+    "text": "Demetrius has received a [good] testimony from everyone, and from the truth itself; and we add our testimony, and you know that our testimony is true."
+  },
+  {
+    "pk": 862299,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 13,
+    "text": "I had many things to write to you, but I am not willing to write [them] to you with pen and ink;"
+  },
+  {
+    "pk": 862300,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 14,
+    "text": "but I hope to see you shortly, and we will speak face to face."
+  },
+  {
+    "pk": 862301,
+    "translation": "NASB",
+    "book": 64,
+    "chapter": 1,
+    "verse": 15,
+    "text": "Peace [be] to you. The friends greet you. Greet the friends by name."
+  }
+];

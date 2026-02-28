@@ -1,0 +1,75 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/06/20"] = [
+  {
+    "pk": 838001,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 1,
+    "text": "Then the LORD spoke to Joshua, saying,"
+  },
+  {
+    "pk": 838002,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 2,
+    "text": "'Speak to the sons of Israel, saying, 'Designate the cities of refuge, of which I spoke to you through Moses,"
+  },
+  {
+    "pk": 838003,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 3,
+    "text": "that the manslayer who kills any person unintentionally, without premeditation, may flee there, and they shall become your refuge from the avenger of blood."
+  },
+  {
+    "pk": 838004,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 4,
+    "text": "'He shall flee to one of these cities, and shall stand at the entrance of the gate of the city and state his case in the hearing of the elders of that city; and they shall take him into the city to them and give him a place, so that he may dwell among them."
+  },
+  {
+    "pk": 838005,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 5,
+    "text": "'Now if the avenger of blood pursues him, then they shall not deliver the manslayer into his hand, because he struck his neighbor without premeditation and did not hate him beforehand."
+  },
+  {
+    "pk": 838006,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 6,
+    "text": "'He shall dwell in that city until he stands before the congregation for judgment, until the death of the one who is high priest in those days. Then the manslayer shall return to his own city and to his own house, to the city from which he fled.''"
+  },
+  {
+    "pk": 838007,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 7,
+    "text": "So they set apart Kedesh in Galilee in the hill country of Naphtali and Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah."
+  },
+  {
+    "pk": 838008,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 8,
+    "text": "Beyond the Jordan east of Jericho, they designated Bezer in the wilderness on the plain from the tribe of Reuben, and Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh."
+  },
+  {
+    "pk": 838009,
+    "translation": "NASB",
+    "book": 6,
+    "chapter": 20,
+    "verse": 9,
+    "text": "These were the appointed cities for all the sons of Israel and for the stranger who sojourns among them, that whoever kills any person unintentionally may flee there, and not die by the hand of the avenger of blood until he stands before the congregation."
+  }
+];

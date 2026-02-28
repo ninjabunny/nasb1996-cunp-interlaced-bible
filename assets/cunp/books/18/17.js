@@ -1,0 +1,140 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/18/17"] = [
+  {
+    "pk": 3496641,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 1,
+    "text": "我的心靈消耗，我的日子滅盡；墳墓為我<i>預備</i>好了。<br/>",
+    "comment": "<a href='/CUNP/19/88/3-4'>詩 88:3-4</a> 因為我心裏滿了患難；我的性命臨近陰間。我算和下坑的人同列，如同無力的人一樣<small>〔「無力」或作「沒有幫助」〕</small>。"
+  },
+  {
+    "pk": 3496642,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 2,
+    "text": "真有戲笑我的在我這裏，我眼常見他們惹動我。",
+    "comment": "<a href='/CUNP/9/1/6-7'>撒上 1:6-7</a> <u>毗尼拿</u>見耶和華不使<u>哈拿</u>生育，就作她的對頭，大大激動她，要使她生氣。每年上到耶和華殿的時候，<u>以利加拿</u>都以雙分給<u>哈拿</u>；<u>毗尼拿</u>仍是激動她，以致她哭泣不吃飯。"
+  },
+  {
+    "pk": 3496643,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 3,
+    "text": "願主拿憑據給我，自己為我作保。<i>在你以外</i>誰肯與我擊掌呢？<br/>",
+    "comment": "<a href='/CUNP/20/6/1'>箴 6:1</a> 我兒，你若為朋友作保，替外人擊掌，<p><a href='/CUNP/20/17/18'>17:18</a> 在鄰舍面前擊掌作保乃是無知的人。<p><a href='/CUNP/20/22/26'>22:26</a> 不要與人擊掌，不要為欠債的作保。"
+  },
+  {
+    "pk": 3496644,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 4,
+    "text": "因你使他們心不明理，所以你必不高舉他們。<br/>"
+  },
+  {
+    "pk": 3496645,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 5,
+    "text": "控告他的朋友、以朋友為可搶奪的，連他兒女的眼睛也要失明。"
+  },
+  {
+    "pk": 3496646,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 6,
+    "text": "神使我作了民中的笑談；他們也吐唾沫在我臉上。<br/>",
+    "comment": "<a href='/CUNP/18/30/9'>伯 30:9</a> 現在這些人以我為歌曲，以我為笑談。"
+  },
+  {
+    "pk": 3496647,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 7,
+    "text": "我的眼睛因憂愁昏花；我的百體好像影兒。<br/>",
+    "comment": "<a href='/CUNP/19/6/7'>詩 6:7</a> 我因憂愁眼睛乾癟，又因我一切的敵人眼睛昏花。<p><a href='/CUNP/19/31/9'>31:9</a> 耶和華啊，求你憐恤我，因為我在急難之中；我的眼睛因憂愁而乾癟，連我的身心也不安舒。"
+  },
+  {
+    "pk": 3496648,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 8,
+    "text": "正直人因此必驚奇；無辜的人要興起攻擊不敬虔之輩。<br/>"
+  },
+  {
+    "pk": 3496649,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 9,
+    "text": "然而，義人要持守所行的道；手潔的人要力上加力。<br/>",
+    "comment": "<a href='/CUNP/19/24/4'>詩 24:4</a> 就是手潔心清，不向虛妄，起誓不懷詭詐的人。"
+  },
+  {
+    "pk": 3496650,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 10,
+    "text": "至於你們眾人，可以再來<i>辯論</i>吧！你們中間，我找不著一個智慧人。<br/>",
+    "comment": "<a href='/CUNP/18/6/29'>伯 6:29</a> 請你們轉意，不要不公；請再轉意，我的事有理。"
+  },
+  {
+    "pk": 3496651,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 11,
+    "text": "我的日子已經過了；我的謀算、我心所想望的已經斷絕。<br/>",
+    "comment": "<a href='/CUNP/18/7/6'>伯 7:6</a> 我的日子比梭更快，都消耗在無指望之中。<p><a href='/CUNP/18/9/25'>9:25</a> 我的日子比跑信的更快，急速過去，不見福樂。"
+  },
+  {
+    "pk": 3496652,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 12,
+    "text": "他們以黑夜為白晝，<i>說</i>：亮光近乎黑暗。<br/>"
+  },
+  {
+    "pk": 3496653,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 13,
+    "text": "我若盼望陰間為我的房屋，若下榻在黑暗中，<br/>"
+  },
+  {
+    "pk": 3496654,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 14,
+    "text": "若對朽壞說：你是我的父；對蟲說：你是我的母親姊妹；<br/>"
+  },
+  {
+    "pk": 3496655,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 15,
+    "text": "這樣，我的指望在哪裏呢？我所指望的誰能看見呢？<br/>"
+  },
+  {
+    "pk": 3496656,
+    "translation": "CUNP",
+    "book": 18,
+    "chapter": 17,
+    "verse": 16,
+    "text": "等到安息在塵土中，這指望必下到陰間的門閂那裏了。",
+    "comment": "<a href='/CUNP/18/3/17-19'>伯 3:17-19</a> 在那裏惡人止息攪擾，困乏人得享安息，被囚的人同得安逸，不聽見督工的聲音。大小都在那裏；奴僕脫離主人的轄制。<br><a href='/CUNP/18/18/13'>伯 18:13</a> 他本身的肢體要被吞吃；死亡的長子要吞吃他的肢體。"
+  }
+];

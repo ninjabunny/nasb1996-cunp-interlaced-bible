@@ -1,0 +1,403 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/04/16"] = [
+  {
+    "pk": 835823,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 1,
+    "text": "Now Korah the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On the son of Peleth, sons of Reuben, took [action],"
+  },
+  {
+    "pk": 835824,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 2,
+    "text": "and they rose up before Moses, together with some of the sons of Israel, two hundred and fifty leaders of the congregation, chosen in the assembly, men of renown."
+  },
+  {
+    "pk": 835825,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 3,
+    "text": "They assembled together against Moses and Aaron, and said to them, 'You have gone far enough, for all the congregation are holy, every one of them, and the LORD is in their midst; so why do you exalt yourselves above the assembly of the LORD?'"
+  },
+  {
+    "pk": 835826,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 4,
+    "text": "When Moses heard [this], he fell on his face;"
+  },
+  {
+    "pk": 835827,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 5,
+    "text": "and he spoke to Korah and all his company, saying, 'Tomorrow morning the LORD will show who is His, and who is holy, and will bring [him] near to Himself; even the one whom He will choose, He will bring near to Himself."
+  },
+  {
+    "pk": 835828,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 6,
+    "text": "'Do this: take censers for yourselves, Korah and all your company,"
+  },
+  {
+    "pk": 835829,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 7,
+    "text": "and put fire in them, and lay incense upon them in the presence of the LORD tomorrow; and the man whom the LORD chooses [shall be] the one who is holy. You have gone far enough, you sons of Levi!'"
+  },
+  {
+    "pk": 835830,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 8,
+    "text": "Then Moses said to Korah, 'Hear now, you sons of Levi,"
+  },
+  {
+    "pk": 835831,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 9,
+    "text": "is it not enough for you that the God of Israel has separated you from the [rest of] the congregation of Israel, to bring you near to Himself, to do the service of the tabernacle of the LORD, and to stand before the congregation to minister to them;"
+  },
+  {
+    "pk": 835832,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 10,
+    "text": "and that He has brought you near, [Korah], and all your brothers, sons of Levi, with you? And are you seeking for the priesthood also?"
+  },
+  {
+    "pk": 835833,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 11,
+    "text": "'Therefore you and all your company are gathered together against the LORD; but as for Aaron, who is he that you grumble against him?'"
+  },
+  {
+    "pk": 835834,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 12,
+    "text": "Then Moses sent a summons to Dathan and Abiram, the sons of Eliab; but they said, 'We will not come up."
+  },
+  {
+    "pk": 835835,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 13,
+    "text": "'Is it not enough that you have brought us up out of a land flowing with milk and honey to have us die in the wilderness, but you would also lord it over us?"
+  },
+  {
+    "pk": 835836,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 14,
+    "text": "'Indeed, you have not brought us into a land flowing with milk and honey, nor have you given us an inheritance of fields and vineyards. Would you put out the eyes of these men? We will not come up!'"
+  },
+  {
+    "pk": 835837,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 15,
+    "text": "Then Moses became very angry and said to the LORD, 'Do not regard their offering! I have not taken a single donkey from them, nor have I done harm to any of them.'"
+  },
+  {
+    "pk": 835838,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 16,
+    "text": "Moses said to Korah, 'You and all your company be present before the LORD tomorrow, both you and they along with Aaron."
+  },
+  {
+    "pk": 835839,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 17,
+    "text": "'Each of you take his firepan and put incense on it, and each of you bring his censer before the LORD, two hundred and fifty firepans; also you and Aaron [shall] each [bring] his firepan.'"
+  },
+  {
+    "pk": 835840,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 18,
+    "text": "So they each took his [own] censer and put fire on it, and laid incense on it; and they stood at the doorway of the tent of meeting, with Moses and Aaron."
+  },
+  {
+    "pk": 835841,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 19,
+    "text": "Thus Korah assembled all the congregation against them at the doorway of the tent of meeting. And the glory of the LORD appeared to all the congregation."
+  },
+  {
+    "pk": 835842,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 20,
+    "text": "Then the LORD spoke to Moses and Aaron, saying,"
+  },
+  {
+    "pk": 835843,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 21,
+    "text": "'Separate yourselves from among this congregation, that I may consume them instantly.'"
+  },
+  {
+    "pk": 835844,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 22,
+    "text": "But they fell on their faces and said, 'O God, God of the spirits of all flesh, when one man sins, will You be angry with the entire congregation?'"
+  },
+  {
+    "pk": 835845,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 23,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 835846,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 24,
+    "text": "'Speak to the congregation, saying, 'Get back from around the dwellings of Korah, Dathan and Abiram.''"
+  },
+  {
+    "pk": 835847,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 25,
+    "text": "Then Moses arose and went to Dathan and Abiram, with the elders of Israel following him,"
+  },
+  {
+    "pk": 835848,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 26,
+    "text": "and he spoke to the congregation, saying, 'Depart now from the tents of these wicked men, and touch nothing that belongs to them, or you will be swept away in all their sin.'"
+  },
+  {
+    "pk": 835849,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 27,
+    "text": "So they got back from around the dwellings of Korah, Dathan and Abiram; and Dathan and Abiram came out [and] stood at the doorway of their tents, along with their wives and their sons and their little ones."
+  },
+  {
+    "pk": 835850,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 28,
+    "text": "Moses said, 'By this you shall know that the LORD has sent me to do all these deeds; for this is not my doing."
+  },
+  {
+    "pk": 835851,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 29,
+    "text": "'If these men die the death of all men or if they suffer the fate of all men, [then] the LORD has not sent me."
+  },
+  {
+    "pk": 835852,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 30,
+    "text": "'But if the LORD brings about an entirely new thing and the ground opens its mouth and swallows them up with all that is theirs, and they descend alive into Sheol, then you will understand that these men have spurned the LORD.'"
+  },
+  {
+    "pk": 835853,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 31,
+    "text": "As he finished speaking all these words, the ground that was under them split open;"
+  },
+  {
+    "pk": 835854,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 32,
+    "text": "and the earth opened its mouth and swallowed them up, and their households, and all the men who belonged to Korah with [their] possessions."
+  },
+  {
+    "pk": 835855,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 33,
+    "text": "So they and all that belonged to them went down alive to Sheol; and the earth closed over them, and they perished from the midst of the assembly."
+  },
+  {
+    "pk": 835856,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 34,
+    "text": "All Israel who [were] around them fled at their outcry, for they said, 'The earth may swallow us up!'"
+  },
+  {
+    "pk": 835857,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 35,
+    "text": "Fire also came forth from the LORD and consumed the two hundred and fifty men who were offering the incense."
+  },
+  {
+    "pk": 835858,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 36,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 835859,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 37,
+    "text": "'Say to Eleazar, the son of Aaron the priest, that he shall take up the censers out of the midst of the blaze, for they are holy; and you scatter the burning coals abroad."
+  },
+  {
+    "pk": 835860,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 38,
+    "text": "'As for the censers of these men who have sinned at the cost of their lives, let them be made into hammered sheets for a plating of the altar, since they did present them before the LORD and they are holy; and they shall be for a sign to the sons of Israel.'"
+  },
+  {
+    "pk": 835861,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 39,
+    "text": "So Eleazar the priest took the bronze censers which the men who were burned had offered, and they hammered them out as a plating for the altar,"
+  },
+  {
+    "pk": 835862,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 40,
+    "text": "as a reminder to the sons of Israel that no layman who is not of the descendants of Aaron should come near to burn incense before the LORD; so that he will not become like Korah and his company-- just as the LORD had spoken to him through Moses."
+  },
+  {
+    "pk": 835863,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 41,
+    "text": "But on the next day all the congregation of the sons of Israel grumbled against Moses and Aaron, saying, 'You are the ones who have caused the death of the LORD'S people.'"
+  },
+  {
+    "pk": 835864,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 42,
+    "text": "It came about, however, when the congregation had assembled against Moses and Aaron, that they turned toward the tent of meeting, and behold, the cloud covered it and the glory of the LORD appeared."
+  },
+  {
+    "pk": 835865,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 43,
+    "text": "Then Moses and Aaron came to the front of the tent of meeting,"
+  },
+  {
+    "pk": 835866,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 44,
+    "text": "and the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 835867,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 45,
+    "text": "'Get away from among this congregation, that I may consume them instantly.' Then they fell on their faces."
+  },
+  {
+    "pk": 835868,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 46,
+    "text": "Moses said to Aaron, 'Take your censer and put in it fire from the altar, and lay incense [on it]; then bring it quickly to the congregation and make atonement for them, for wrath has gone forth from the LORD, the plague has begun!'"
+  },
+  {
+    "pk": 835869,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 47,
+    "text": "Then Aaron took [it] as Moses had spoken, and ran into the midst of the assembly, for behold, the plague had begun among the people. So he put [on] the incense and made atonement for the people."
+  },
+  {
+    "pk": 835870,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 48,
+    "text": "He took his stand between the dead and the living, so that the plague was checked."
+  },
+  {
+    "pk": 835871,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 49,
+    "text": "But those who died by the plague were 14,700, besides those who died on account of Korah."
+  },
+  {
+    "pk": 835872,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 16,
+    "verse": 50,
+    "text": "Then Aaron returned to Moses at the doorway of the tent of meeting, for the plague had been checked."
+  }
+];

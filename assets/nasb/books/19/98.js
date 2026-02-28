@@ -1,0 +1,75 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/98"] = [
+  {
+    "pk": 847119,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 1,
+    "text": "A Psalm. O sing to the LORD a new song, For He has done wonderful things, His right hand and His holy arm have gained the victory for Him."
+  },
+  {
+    "pk": 847120,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 2,
+    "text": "The LORD has made known His salvation; He has revealed His righteousness in the sight of the nations."
+  },
+  {
+    "pk": 847121,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 3,
+    "text": "He has remembered His lovingkindness and His faithfulness to the house of Israel; All the ends of the earth have seen the salvation of our God."
+  },
+  {
+    "pk": 847122,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 4,
+    "text": "Shout joyfully to the LORD, all the earth; Break forth and sing for joy and sing praises."
+  },
+  {
+    "pk": 847123,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 5,
+    "text": "Sing praises to the LORD with the lyre, With the lyre and the sound of melody."
+  },
+  {
+    "pk": 847124,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 6,
+    "text": "With trumpets and the sound of the horn Shout joyfully before the King, the LORD."
+  },
+  {
+    "pk": 847125,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 7,
+    "text": "Let the sea roar and all it contains, The world and those who dwell in it."
+  },
+  {
+    "pk": 847126,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 8,
+    "text": "Let the rivers clap their hands, Let the mountains sing together for joy"
+  },
+  {
+    "pk": 847127,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 98,
+    "verse": 9,
+    "text": "Before the LORD, for He is coming to judge the earth; He will judge the world with righteousness And the peoples with equity."
+  }
+];

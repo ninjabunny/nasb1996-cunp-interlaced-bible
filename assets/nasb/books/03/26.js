@@ -1,0 +1,371 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/03/26"] = [
+  {
+    "pk": 835153,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 1,
+    "text": "'You shall not make for yourselves idols, nor shall you set up for yourselves an image or a [sacred] pillar, nor shall you place a figured stone in your land to bow down to it; for I am the LORD your God."
+  },
+  {
+    "pk": 835154,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 2,
+    "text": "'You shall keep My sabbaths and reverence My sanctuary; I am the LORD."
+  },
+  {
+    "pk": 835155,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 3,
+    "text": "'If you walk in My statutes and keep My commandments so as to carry them out,"
+  },
+  {
+    "pk": 835156,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 4,
+    "text": "then I shall give you rains in their season, so that the land will yield its produce and the trees of the field will bear their fruit."
+  },
+  {
+    "pk": 835157,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 5,
+    "text": "'Indeed, your threshing will last for you until grape gathering, and grape gathering will last until sowing time. You will thus eat your food to the full and live securely in your land."
+  },
+  {
+    "pk": 835158,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 6,
+    "text": "'I shall also grant peace in the land, so that you may lie down with no one making [you] tremble. I shall also eliminate harmful beasts from the land, and no sword will pass through your land."
+  },
+  {
+    "pk": 835159,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 7,
+    "text": "'But you will chase your enemies and they will fall before you by the sword;"
+  },
+  {
+    "pk": 835160,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 8,
+    "text": "five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall before you by the sword."
+  },
+  {
+    "pk": 835161,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 9,
+    "text": "'So I will turn toward you and make you fruitful and multiply you, and I will confirm My covenant with you."
+  },
+  {
+    "pk": 835162,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 10,
+    "text": "'You will eat the old supply and clear out the old because of the new."
+  },
+  {
+    "pk": 835163,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 11,
+    "text": "'Moreover, I will make My dwelling among you, and My soul will not reject you."
+  },
+  {
+    "pk": 835164,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 12,
+    "text": "'I will also walk among you and be your God, and you shall be My people."
+  },
+  {
+    "pk": 835165,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 13,
+    "text": "'I am the LORD your God, who brought you out of the land of Egypt so that [you] would not be their slaves, and I broke the bars of your yoke and made you walk erect."
+  },
+  {
+    "pk": 835166,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 14,
+    "text": "'But if you do not obey Me and do not carry out all these commandments,"
+  },
+  {
+    "pk": 835167,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 15,
+    "text": "if, instead, you reject My statutes, and if your soul abhors My ordinances so as not to carry out all My commandments, [and] so break My covenant,"
+  },
+  {
+    "pk": 835168,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 16,
+    "text": "I, in turn, will do this to you: I will appoint over you a sudden terror, consumption and fever that will waste away the eyes and cause the soul to pine away; also, you will sow your seed uselessly, for your enemies will eat it up."
+  },
+  {
+    "pk": 835169,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 17,
+    "text": "'I will set My face against you so that you will be struck down before your enemies; and those who hate you will rule over you, and you will flee when no one is pursuing you."
+  },
+  {
+    "pk": 835170,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 18,
+    "text": "'If also after these things you do not obey Me, then I will punish you seven times more for your sins."
+  },
+  {
+    "pk": 835171,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 19,
+    "text": "'I will also break down your pride of power; I will also make your sky like iron and your earth like bronze."
+  },
+  {
+    "pk": 835172,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 20,
+    "text": "'Your strength will be spent uselessly, for your land will not yield its produce and the trees of the land will not yield their fruit."
+  },
+  {
+    "pk": 835173,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 21,
+    "text": "'If then, you act with hostility against Me and are unwilling to obey Me, I will increase the plague on you seven times according to your sins."
+  },
+  {
+    "pk": 835174,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 22,
+    "text": "'I will let loose among you the beasts of the field, which will bereave you of your children and destroy your cattle and reduce your number so that your roads lie deserted."
+  },
+  {
+    "pk": 835175,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 23,
+    "text": "'And if by these things you are not turned to Me, but act with hostility against Me,"
+  },
+  {
+    "pk": 835176,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 24,
+    "text": "then I will act with hostility against you; and I, even I, will strike you seven times for your sins."
+  },
+  {
+    "pk": 835177,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 25,
+    "text": "'I will also bring upon you a sword which will execute vengeance for the covenant; and when you gather together into your cities, I will send pestilence among you, so that you shall be delivered into enemy hands."
+  },
+  {
+    "pk": 835178,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 26,
+    "text": "'When I break your staff of bread, ten women will bake your bread in one oven, and they will bring back your bread in rationed amounts, so that you will eat and not be satisfied."
+  },
+  {
+    "pk": 835179,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 27,
+    "text": "'Yet if in spite of this you do not obey Me, but act with hostility against Me,"
+  },
+  {
+    "pk": 835180,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 28,
+    "text": "then I will act with wrathful hostility against you, and I, even I, will punish you seven times for your sins."
+  },
+  {
+    "pk": 835181,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 29,
+    "text": "'Further, you will eat the flesh of your sons and the flesh of your daughters you will eat."
+  },
+  {
+    "pk": 835182,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 30,
+    "text": "'I then will destroy your high places, and cut down your incense altars, and heap your remains on the remains of your idols, for My soul shall abhor you."
+  },
+  {
+    "pk": 835183,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 31,
+    "text": "'I will lay waste your cities as well and will make your sanctuaries desolate, and I will not smell your soothing aromas."
+  },
+  {
+    "pk": 835184,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 32,
+    "text": "'I will make the land desolate so that your enemies who settle in it will be appalled over it."
+  },
+  {
+    "pk": 835185,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 33,
+    "text": "'You, however, I will scatter among the nations and will draw out a sword after you, as your land becomes desolate and your cities become waste."
+  },
+  {
+    "pk": 835186,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 34,
+    "text": "'Then the land will enjoy its sabbaths all the days of the desolation, while you are in your enemies' land; then the land will rest and enjoy its sabbaths."
+  },
+  {
+    "pk": 835187,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 35,
+    "text": "'All the days of [its] desolation it will observe the rest which it did not observe on your sabbaths, while you were living on it."
+  },
+  {
+    "pk": 835188,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 36,
+    "text": "'As for those of you who may be left, I will also bring weakness into their hearts in the lands of their enemies. And the sound of a driven leaf will chase them, and even when no one is pursuing they will flee as though from the sword, and they will fall."
+  },
+  {
+    "pk": 835189,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 37,
+    "text": "'They will therefore stumble over each other as if [running] from the sword, although no one is pursuing; and you will have [no strength] to stand up before your enemies."
+  },
+  {
+    "pk": 835190,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 38,
+    "text": "'But you will perish among the nations, and your enemies' land will consume you."
+  },
+  {
+    "pk": 835191,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 39,
+    "text": "'So those of you who may be left will rot away because of their iniquity in the lands of your enemies; and also because of the iniquities of their forefathers they will rot away with them."
+  },
+  {
+    "pk": 835192,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 40,
+    "text": "'If they confess their iniquity and the iniquity of their forefathers, in their unfaithfulness which they committed against Me, and also in their acting with hostility against Me--"
+  },
+  {
+    "pk": 835193,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 41,
+    "text": "I also was acting with hostility against them, to bring them into the land of their enemies-- or if their uncircumcised heart becomes humbled so that they then make amends for their iniquity,"
+  },
+  {
+    "pk": 835194,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 42,
+    "text": "then I will remember My covenant with Jacob, and I will remember also My covenant with Isaac, and My covenant with Abraham as well, and I will remember the land."
+  },
+  {
+    "pk": 835195,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 43,
+    "text": "'For the land will be abandoned by them, and will make up for its sabbaths while it is made desolate without them. They, meanwhile, will be making amends for their iniquity, because they rejected My ordinances and their soul abhorred My statutes."
+  },
+  {
+    "pk": 835196,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 44,
+    "text": "'Yet in spite of this, when they are in the land of their enemies, I will not reject them, nor will I so abhor them as to destroy them, breaking My covenant with them; for I am the LORD their God."
+  },
+  {
+    "pk": 835197,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 45,
+    "text": "'But I will remember for them the covenant with their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.''"
+  },
+  {
+    "pk": 835198,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 26,
+    "verse": 46,
+    "text": "These are the statutes and ordinances and laws which the LORD established between Himself and the sons of Israel through Moses at Mount Sinai."
+  }
+];

@@ -1,0 +1,227 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/18/13"] = [
+  {
+    "pk": 844782,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 1,
+    "text": "'Behold, my eye has seen all [this], My ear has heard and understood it."
+  },
+  {
+    "pk": 844783,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 2,
+    "text": "'What you know I also know; I am not inferior to you."
+  },
+  {
+    "pk": 844784,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 3,
+    "text": "'But I would speak to the Almighty, And I desire to argue with God."
+  },
+  {
+    "pk": 844785,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 4,
+    "text": "'But you smear with lies; You are all worthless physicians."
+  },
+  {
+    "pk": 844786,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 5,
+    "text": "'O that you would be completely silent, And that it would become your wisdom!"
+  },
+  {
+    "pk": 844787,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 6,
+    "text": "'Please hear my argument And listen to the contentions of my lips."
+  },
+  {
+    "pk": 844788,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 7,
+    "text": "'Will you speak what is unjust for God, And speak what is deceitful for Him?"
+  },
+  {
+    "pk": 844789,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 8,
+    "text": "'Will you show partiality for Him? Will you contend for God?"
+  },
+  {
+    "pk": 844790,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 9,
+    "text": "'Will it be well when He examines you? Or will you deceive Him as one deceives a man?"
+  },
+  {
+    "pk": 844791,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 10,
+    "text": "'He will surely reprove you If you secretly show partiality."
+  },
+  {
+    "pk": 844792,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 11,
+    "text": "'Will not His majesty terrify you, And the dread of Him fall on you?"
+  },
+  {
+    "pk": 844793,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 12,
+    "text": "'Your memorable sayings are proverbs of ashes, Your defenses are defenses of clay."
+  },
+  {
+    "pk": 844794,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 13,
+    "text": "'Be silent before me so that I may speak; Then let come on me what may."
+  },
+  {
+    "pk": 844795,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 14,
+    "text": "'Why should I take my flesh in my teeth And put my life in my hands?"
+  },
+  {
+    "pk": 844796,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 15,
+    "text": "'Though He slay me, I will hope in Him. Nevertheless I will argue my ways before Him."
+  },
+  {
+    "pk": 844797,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 16,
+    "text": "'This also will be my salvation, For a godless man may not come before His presence."
+  },
+  {
+    "pk": 844798,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 17,
+    "text": "'Listen carefully to my speech, And let my declaration [fill] your ears."
+  },
+  {
+    "pk": 844799,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 18,
+    "text": "'Behold now, I have prepared my case; I know that I will be vindicated."
+  },
+  {
+    "pk": 844800,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 19,
+    "text": "'Who will contend with me? For then I would be silent and die."
+  },
+  {
+    "pk": 844801,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 20,
+    "text": "'Only two things do not do to me, Then I will not hide from Your face:"
+  },
+  {
+    "pk": 844802,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 21,
+    "text": "Remove Your hand from me, And let not the dread of You terrify me."
+  },
+  {
+    "pk": 844803,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 22,
+    "text": "'Then call, and I will answer; Or let me speak, then reply to me."
+  },
+  {
+    "pk": 844804,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 23,
+    "text": "'How many are my iniquities and sins? Make known to me my rebellion and my sin."
+  },
+  {
+    "pk": 844805,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 24,
+    "text": "'Why do You hide Your face And consider me Your enemy?"
+  },
+  {
+    "pk": 844806,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 25,
+    "text": "'Will You cause a driven leaf to tremble? Or will You pursue the dry chaff?"
+  },
+  {
+    "pk": 844807,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 26,
+    "text": "'For You write bitter things against me And make me to inherit the iniquities of my youth."
+  },
+  {
+    "pk": 844808,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 27,
+    "text": "'You put my feet in the stocks And watch all my paths; You set a limit for the soles of my feet,"
+  },
+  {
+    "pk": 844809,
+    "translation": "NASB",
+    "book": 18,
+    "chapter": 13,
+    "verse": 28,
+    "text": "While I am decaying like a rotten thing, Like a garment that is moth-eaten."
+  }
+];

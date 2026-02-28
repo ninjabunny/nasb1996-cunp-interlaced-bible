@@ -1,0 +1,267 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/03/15"] = [
+  {
+    "pk": 834797,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 1,
+    "text": "The LORD also spoke to Moses and to Aaron, saying,"
+  },
+  {
+    "pk": 834798,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 2,
+    "text": "'Speak to the sons of Israel, and say to them, 'When any man has a discharge from his body, his discharge is unclean."
+  },
+  {
+    "pk": 834799,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 3,
+    "text": "'This, moreover, shall be his uncleanness in his discharge: it is his uncleanness whether his body allows its discharge to flow or whether his body obstructs its discharge."
+  },
+  {
+    "pk": 834800,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 4,
+    "text": "'Every bed on which the person with the discharge lies becomes unclean, and everything on which he sits becomes unclean."
+  },
+  {
+    "pk": 834801,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 5,
+    "text": "'Anyone, moreover, who touches his bed shall wash his clothes and bathe in water and be unclean until evening;"
+  },
+  {
+    "pk": 834802,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 6,
+    "text": "and whoever sits on the thing on which the man with the discharge has been sitting, shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834803,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 7,
+    "text": "'Also whoever touches the person with the discharge shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834804,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 8,
+    "text": "'Or if the man with the discharge spits on one who is clean, he too shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834805,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 9,
+    "text": "'Every saddle on which the person with the discharge rides becomes unclean."
+  },
+  {
+    "pk": 834806,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 10,
+    "text": "'Whoever then touches any of the things which were under him shall be unclean until evening, and he who carries them shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834807,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 11,
+    "text": "'Likewise, whomever the one with the discharge touches without having rinsed his hands in water shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834808,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 12,
+    "text": "'However, an earthenware vessel which the person with the discharge touches shall be broken, and every wooden vessel shall be rinsed in water."
+  },
+  {
+    "pk": 834809,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 13,
+    "text": "'Now when the man with the discharge becomes cleansed from his discharge, then he shall count off for himself seven days for his cleansing; he shall then wash his clothes and bathe his body in running water and will become clean."
+  },
+  {
+    "pk": 834810,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 14,
+    "text": "'Then on the eighth day he shall take for himself two turtledoves or two young pigeons, and come before the LORD to the doorway of the tent of meeting and give them to the priest;"
+  },
+  {
+    "pk": 834811,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 15,
+    "text": "and the priest shall offer them, one for a sin offering and the other for a burnt offering. So the priest shall make atonement on his behalf before the LORD because of his discharge."
+  },
+  {
+    "pk": 834812,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 16,
+    "text": "'Now if a man has a seminal emission, he shall bathe all his body in water and be unclean until evening."
+  },
+  {
+    "pk": 834813,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 17,
+    "text": "'As for any garment or any leather on which there is seminal emission, it shall be washed with water and be unclean until evening."
+  },
+  {
+    "pk": 834814,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 18,
+    "text": "'If a man lies with a woman [so that] there is a seminal emission, they shall both bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834815,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 19,
+    "text": "'When a woman has a discharge, [if] her discharge in her body is blood, she shall continue in her menstrual impurity for seven days; and whoever touches her shall be unclean until evening."
+  },
+  {
+    "pk": 834816,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 20,
+    "text": "'Everything also on which she lies during her menstrual impurity shall be unclean, and everything on which she sits shall be unclean."
+  },
+  {
+    "pk": 834817,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 21,
+    "text": "'Anyone who touches her bed shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834818,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 22,
+    "text": "'Whoever touches any thing on which she sits shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834819,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 23,
+    "text": "'Whether it be on the bed or on the thing on which she is sitting, when he touches it, he shall be unclean until evening."
+  },
+  {
+    "pk": 834820,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 24,
+    "text": "'If a man actually lies with her so that her menstrual impurity is on him, he shall be unclean seven days, and every bed on which he lies shall be unclean."
+  },
+  {
+    "pk": 834821,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 25,
+    "text": "'Now if a woman has a discharge of her blood many days, not at the period of her menstrual impurity, or if she has a discharge beyond that period, all the days of her impure discharge she shall continue as though in her menstrual impurity; she is unclean."
+  },
+  {
+    "pk": 834822,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 26,
+    "text": "'Any bed on which she lies all the days of her discharge shall be to her like her bed at menstruation; and every thing on which she sits shall be unclean, like her uncleanness at that time."
+  },
+  {
+    "pk": 834823,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 27,
+    "text": "'Likewise, whoever touches them shall be unclean and shall wash his clothes and bathe in water and be unclean until evening."
+  },
+  {
+    "pk": 834824,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 28,
+    "text": "'When she becomes clean from her discharge, she shall count off for herself seven days; and afterward she will be clean."
+  },
+  {
+    "pk": 834825,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 29,
+    "text": "'Then on the eighth day she shall take for herself two turtledoves or two young pigeons and bring them in to the priest, to the doorway of the tent of meeting."
+  },
+  {
+    "pk": 834826,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 30,
+    "text": "'The priest shall offer the one for a sin offering and the other for a burnt offering. So the priest shall make atonement on her behalf before the LORD because of her impure discharge.'"
+  },
+  {
+    "pk": 834827,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 31,
+    "text": "'Thus you shall keep the sons of Israel separated from their uncleanness, so that they will not die in their uncleanness by their defiling My tabernacle that is among them.'"
+  },
+  {
+    "pk": 834828,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 32,
+    "text": "This is the law for the one with a discharge, and for the man who has a seminal emission so that he is unclean by it,"
+  },
+  {
+    "pk": 834829,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 15,
+    "verse": 33,
+    "text": "and for the woman who is ill because of menstrual impurity, and for the one who has a discharge, whether a male or a female, or a man who lies with an unclean woman."
+  }
+];

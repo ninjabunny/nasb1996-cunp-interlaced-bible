@@ -1,0 +1,179 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/21/03"] = [
+  {
+    "pk": 848988,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 1,
+    "text": "There is an appointed time for everything. And there is a time for every event under heaven--"
+  },
+  {
+    "pk": 848989,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 2,
+    "text": "A time to give birth and a time to die; A time to plant and a time to uproot what is planted."
+  },
+  {
+    "pk": 848990,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 3,
+    "text": "A time to kill and a time to heal; A time to tear down and a time to build up."
+  },
+  {
+    "pk": 848991,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 4,
+    "text": "A time to weep and a time to laugh; A time to mourn and a time to dance."
+  },
+  {
+    "pk": 848992,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 5,
+    "text": "A time to throw stones and a time to gather stones; A time to embrace and a time to shun embracing."
+  },
+  {
+    "pk": 848993,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 6,
+    "text": "A time to search and a time to give up as lost; A time to keep and a time to throw away."
+  },
+  {
+    "pk": 848994,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 7,
+    "text": "A time to tear apart and a time to sew together; A time to be silent and a time to speak."
+  },
+  {
+    "pk": 848995,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 8,
+    "text": "A time to love and a time to hate; A time for war and a time for peace."
+  },
+  {
+    "pk": 848996,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 9,
+    "text": "What profit is there to the worker from that in which he toils?"
+  },
+  {
+    "pk": 848997,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 10,
+    "text": "I have seen the task which God has given the sons of men with which to occupy themselves."
+  },
+  {
+    "pk": 848998,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 11,
+    "text": "He has made everything appropriate in its time. He has also set eternity in their heart, yet so that man will not find out the work which God has done from the beginning even to the end."
+  },
+  {
+    "pk": 848999,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 12,
+    "text": "I know that there is nothing better for them than to rejoice and to do good in one's lifetime;"
+  },
+  {
+    "pk": 849000,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 13,
+    "text": "moreover, that every man who eats and drinks sees good in all his labor-- it is the gift of God."
+  },
+  {
+    "pk": 849001,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 14,
+    "text": "I know that everything God does will remain forever; there is nothing to add to it and there is nothing to take from it, for God has [so] worked that men should fear Him."
+  },
+  {
+    "pk": 849002,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 15,
+    "text": "That which is has been already and that which will be has already been, for God seeks what has passed by."
+  },
+  {
+    "pk": 849003,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 16,
+    "text": "Furthermore, I have seen under the sun [that] in the place of justice there is wickedness and in the place of righteousness there is wickedness."
+  },
+  {
+    "pk": 849004,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 17,
+    "text": "I said to myself, 'God will judge both the righteous man and the wicked man,' for a time for every matter and for every deed is there."
+  },
+  {
+    "pk": 849005,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 18,
+    "text": "I said to myself concerning the sons of men, 'God has surely tested them in order for them to see that they are but beasts.'"
+  },
+  {
+    "pk": 849006,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 19,
+    "text": "For the fate of the sons of men and the fate of beasts is the same. As one dies so dies the other; indeed, they all have the same breath and there is no advantage for man over beast, for all is vanity."
+  },
+  {
+    "pk": 849007,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 20,
+    "text": "All go to the same place. All came from the dust and all return to the dust."
+  },
+  {
+    "pk": 849008,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 21,
+    "text": "Who knows that the breath of man ascends upward and the breath of the beast descends downward to the earth?"
+  },
+  {
+    "pk": 849009,
+    "translation": "NASB",
+    "book": 21,
+    "chapter": 3,
+    "verse": 22,
+    "text": "I have seen that nothing is better than that man should be happy in his activities, for that is his lot. For who will bring him to see what will occur after him?"
+  }
+];

@@ -1,0 +1,171 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/145"] = [
+  {
+    "pk": 847949,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 1,
+    "text": "[A Psalm] of Praise, of David. I will extol You, my God, O King, And I will bless Your name forever and ever."
+  },
+  {
+    "pk": 847950,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 2,
+    "text": "Every day I will bless You, And I will praise Your name forever and ever."
+  },
+  {
+    "pk": 847951,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 3,
+    "text": "Great is the LORD, and highly to be praised, And His greatness is unsearchable."
+  },
+  {
+    "pk": 847952,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 4,
+    "text": "One generation shall praise Your works to another, And shall declare Your mighty acts."
+  },
+  {
+    "pk": 847953,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 5,
+    "text": "On the glorious splendor of Your majesty And on Your wonderful works, I will meditate."
+  },
+  {
+    "pk": 847954,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 6,
+    "text": "Men shall speak of the power of Your awesome acts, And I will tell of Your greatness."
+  },
+  {
+    "pk": 847955,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 7,
+    "text": "They shall eagerly utter the memory of Your abundant goodness And will shout joyfully of Your righteousness."
+  },
+  {
+    "pk": 847956,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 8,
+    "text": "The LORD is gracious and merciful; Slow to anger and great in lovingkindness."
+  },
+  {
+    "pk": 847957,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 9,
+    "text": "The LORD is good to all, And His mercies are over all His works."
+  },
+  {
+    "pk": 847958,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 10,
+    "text": "All Your works shall give thanks to You, O LORD, And Your godly ones shall bless You."
+  },
+  {
+    "pk": 847959,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 11,
+    "text": "They shall speak of the glory of Your kingdom And talk of Your power;"
+  },
+  {
+    "pk": 847960,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 12,
+    "text": "To make known to the sons of men Your mighty acts And the glory of the majesty of Your kingdom."
+  },
+  {
+    "pk": 847961,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 13,
+    "text": "Your kingdom is an everlasting kingdom, And Your dominion [endures] throughout all generations."
+  },
+  {
+    "pk": 847962,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 14,
+    "text": "The LORD sustains all who fall And raises up all who are bowed down."
+  },
+  {
+    "pk": 847963,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 15,
+    "text": "The eyes of all look to You, And You give them their food in due time."
+  },
+  {
+    "pk": 847964,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 16,
+    "text": "You open Your hand And satisfy the desire of every living thing."
+  },
+  {
+    "pk": 847965,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 17,
+    "text": "The LORD is righteous in all His ways And kind in all His deeds."
+  },
+  {
+    "pk": 847966,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 18,
+    "text": "The LORD is near to all who call upon Him, To all who call upon Him in truth."
+  },
+  {
+    "pk": 847967,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 19,
+    "text": "He will fulfill the desire of those who fear Him; He will also hear their cry and will save them."
+  },
+  {
+    "pk": 847968,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 20,
+    "text": "The LORD keeps all who love Him, But all the wicked He will destroy."
+  },
+  {
+    "pk": 847969,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 145,
+    "verse": 21,
+    "text": "My mouth will speak the praise of the LORD, And all flesh will bless His holy name forever and ever."
+  }
+];

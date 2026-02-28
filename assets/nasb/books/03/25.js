@@ -1,0 +1,443 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/03/25"] = [
+  {
+    "pk": 835098,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 1,
+    "text": "The LORD then spoke to Moses at Mount Sinai, saying,"
+  },
+  {
+    "pk": 835099,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 2,
+    "text": "'Speak to the sons of Israel and say to them, 'When you come into the land which I shall give you, then the land shall have a sabbath to the LORD."
+  },
+  {
+    "pk": 835100,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 3,
+    "text": "'Six years you shall sow your field, and six years you shall prune your vineyard and gather in its crop,"
+  },
+  {
+    "pk": 835101,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 4,
+    "text": "but during the seventh year the land shall have a sabbath rest, a sabbath to the LORD; you shall not sow your field nor prune your vineyard."
+  },
+  {
+    "pk": 835102,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 5,
+    "text": "'Your harvest's aftergrowth you shall not reap, and your grapes of untrimmed vines you shall not gather; the land shall have a sabbatical year."
+  },
+  {
+    "pk": 835103,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 6,
+    "text": "'All of you shall have the sabbath [products] of the land for food; yourself, and your male and female slaves, and your hired man and your foreign resident, those who live as aliens with you."
+  },
+  {
+    "pk": 835104,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 7,
+    "text": "'Even your cattle and the animals that are in your land shall have all its crops to eat."
+  },
+  {
+    "pk": 835105,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 8,
+    "text": "'You are also to count off seven sabbaths of years for yourself, seven times seven years, so that you have the time of the seven sabbaths of years, [namely], forty-nine years."
+  },
+  {
+    "pk": 835106,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 9,
+    "text": "'You shall then sound a ram's horn abroad on the tenth day of the seventh month; on the day of atonement you shall sound a horn all through your land."
+  },
+  {
+    "pk": 835107,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 10,
+    "text": "'You shall thus consecrate the fiftieth year and proclaim a release through the land to all its inhabitants. It shall be a jubilee for you, and each of you shall return to his own property, and each of you shall return to his family."
+  },
+  {
+    "pk": 835108,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 11,
+    "text": "'You shall have the fiftieth year as a jubilee; you shall not sow, nor reap its aftergrowth, nor gather in [from] its untrimmed vines."
+  },
+  {
+    "pk": 835109,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 12,
+    "text": "'For it is a jubilee; it shall be holy to you. You shall eat its crops out of the field."
+  },
+  {
+    "pk": 835110,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 13,
+    "text": "'On this year of jubilee each of you shall return to his own property."
+  },
+  {
+    "pk": 835111,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 14,
+    "text": "'If you make a sale, moreover, to your friend or buy from your friend's hand, you shall not wrong one another."
+  },
+  {
+    "pk": 835112,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 15,
+    "text": "'Corresponding to the number of years after the jubilee, you shall buy from your friend; he is to sell to you according to the number of years of crops."
+  },
+  {
+    "pk": 835113,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 16,
+    "text": "'In proportion to the extent of the years you shall increase its price, and in proportion to the fewness of the years you shall diminish its price, for [it is] a number of crops he is selling to you."
+  },
+  {
+    "pk": 835114,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 17,
+    "text": "'So you shall not wrong one another, but you shall fear your God; for I am the LORD your God."
+  },
+  {
+    "pk": 835115,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 18,
+    "text": "'You shall thus observe My statutes and keep My judgments, so as to carry them out, that you may live securely on the land."
+  },
+  {
+    "pk": 835116,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 19,
+    "text": "'Then the land will yield its produce, so that you can eat your fill and live securely on it."
+  },
+  {
+    "pk": 835117,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 20,
+    "text": "'But if you say, 'What are we going to eat on the seventh year if we do not sow or gather in our crops?'"
+  },
+  {
+    "pk": 835118,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 21,
+    "text": "then I will so order My blessing for you in the sixth year that it will bring forth the crop for three years."
+  },
+  {
+    "pk": 835119,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 22,
+    "text": "'When you are sowing the eighth year, you can still eat old things from the crop, eating [the old] until the ninth year when its crop comes in."
+  },
+  {
+    "pk": 835120,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 23,
+    "text": "'The land, moreover, shall not be sold permanently, for the land is Mine; for you are [but] aliens and sojourners with Me."
+  },
+  {
+    "pk": 835121,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 24,
+    "text": "'Thus for every piece of your property, you are to provide for the redemption of the land."
+  },
+  {
+    "pk": 835122,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 25,
+    "text": "'If a fellow countryman of yours becomes so poor he has to sell part of his property, then his nearest kinsman is to come and buy back what his relative has sold."
+  },
+  {
+    "pk": 835123,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 26,
+    "text": "'Or in case a man has no kinsman, but so recovers his means as to find sufficient for its redemption,"
+  },
+  {
+    "pk": 835124,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 27,
+    "text": "then he shall calculate the years since its sale and refund the balance to the man to whom he sold it, and so return to his property."
+  },
+  {
+    "pk": 835125,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 28,
+    "text": "'But if he has not found sufficient means to get it back for himself, then what he has sold shall remain in the hands of its purchaser until the year of jubilee; but at the jubilee it shall revert, that he may return to his property."
+  },
+  {
+    "pk": 835126,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 29,
+    "text": "'Likewise, if a man sells a dwelling house in a walled city, then his redemption right remains valid until a full year from its sale; his right of redemption lasts a full year."
+  },
+  {
+    "pk": 835127,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 30,
+    "text": "'But if it is not bought back for him within the space of a full year, then the house that is in the walled city passes permanently to its purchaser throughout his generations; it does not revert in the jubilee."
+  },
+  {
+    "pk": 835128,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 31,
+    "text": "'The houses of the villages, however, which have no surrounding wall shall be considered as open fields; they have redemption rights and revert in the jubilee."
+  },
+  {
+    "pk": 835129,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 32,
+    "text": "'As for cities of the Levites, the Levites have a permanent right of redemption for the houses of the cities which are their possession."
+  },
+  {
+    "pk": 835130,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 33,
+    "text": "'What, therefore, belongs to the Levites may be redeemed and a house sale in the city of this possession reverts in the jubilee, for the houses of the cities of the Levites are their possession among the sons of Israel."
+  },
+  {
+    "pk": 835131,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 34,
+    "text": "'But pasture fields of their cities shall not be sold, for that is their perpetual possession."
+  },
+  {
+    "pk": 835132,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 35,
+    "text": "'Now in case a countryman of yours becomes poor and his means with regard to you falter, then you are to sustain him, like a stranger or a sojourner, that he may live with you."
+  },
+  {
+    "pk": 835133,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 36,
+    "text": "'Do not take usurious interest from him, but revere your God, that your countryman may live with you."
+  },
+  {
+    "pk": 835134,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 37,
+    "text": "'You shall not give him your silver at interest, nor your food for gain."
+  },
+  {
+    "pk": 835135,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 38,
+    "text": "'I am the LORD your God, who brought you out of the land of Egypt to give you the land of Canaan [and] to be your God."
+  },
+  {
+    "pk": 835136,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 39,
+    "text": "'If a countryman of yours becomes so poor with regard to you that he sells himself to you, you shall not subject him to a slave's service."
+  },
+  {
+    "pk": 835137,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 40,
+    "text": "'He shall be with you as a hired man, as if he were a sojourner; he shall serve with you until the year of jubilee."
+  },
+  {
+    "pk": 835138,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 41,
+    "text": "'He shall then go out from you, he and his sons with him, and shall go back to his family, that he may return to the property of his forefathers."
+  },
+  {
+    "pk": 835139,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 42,
+    "text": "'For they are My servants whom I brought out from the land of Egypt; they are not to be sold [in] a slave sale."
+  },
+  {
+    "pk": 835140,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 43,
+    "text": "'You shall not rule over him with severity, but are to revere your God."
+  },
+  {
+    "pk": 835141,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 44,
+    "text": "'As for your male and female slaves whom you may have-- you may acquire male and female slaves from the pagan nations that are around you."
+  },
+  {
+    "pk": 835142,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 45,
+    "text": "'Then, too, [it is] out of the sons of the sojourners who live as aliens among you that you may gain acquisition, and out of their families who are with you, whom they will have produced in your land; they also may become your possession."
+  },
+  {
+    "pk": 835143,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 46,
+    "text": "'You may even bequeath them to your sons after you, to receive as a possession; you can use them as permanent slaves. But in respect to your countrymen, the sons of Israel, you shall not rule with severity over one another."
+  },
+  {
+    "pk": 835144,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 47,
+    "text": "'Now if the means of a stranger or of a sojourner with you becomes sufficient, and a countryman of yours becomes so poor with regard to him as to sell himself to a stranger who is sojourning with you, or to the descendants of a stranger's family,"
+  },
+  {
+    "pk": 835145,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 48,
+    "text": "then he shall have redemption right after he has been sold. One of his brothers may redeem him,"
+  },
+  {
+    "pk": 835146,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 49,
+    "text": "or his uncle, or his uncle's son, may redeem him, or one of his blood relatives from his family may redeem him; or if he prospers, he may redeem himself."
+  },
+  {
+    "pk": 835147,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 50,
+    "text": "'He then with his purchaser shall calculate from the year when he sold himself to him up to the year of jubilee; and the price of his sale shall correspond to the number of years. [It is] like the days of a hired man [that] he shall be with him."
+  },
+  {
+    "pk": 835148,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 51,
+    "text": "'If there are still many years, he shall refund part of his purchase price in proportion to them for his own redemption;"
+  },
+  {
+    "pk": 835149,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 52,
+    "text": "and if few years remain until the year of jubilee, he shall so calculate with him. In proportion to his years he is to refund [the amount for] his redemption."
+  },
+  {
+    "pk": 835150,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 53,
+    "text": "'Like a man hired year by year he shall be with him; he shall not rule over him with severity in your sight."
+  },
+  {
+    "pk": 835151,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 54,
+    "text": "'Even if he is not redeemed by these [means], he shall still go out in the year of jubilee, he and his sons with him."
+  },
+  {
+    "pk": 835152,
+    "translation": "NASB",
+    "book": 3,
+    "chapter": 25,
+    "verse": 55,
+    "text": "'For the sons of Israel are My servants; they are My servants whom I brought out from the land of Egypt. I am the LORD your God."
+  }
+];

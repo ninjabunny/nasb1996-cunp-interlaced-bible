@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/66"] = [
+  {
+    "pk": 846502,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 1,
+    "text": "For the choir director. A Song. A Psalm. Shout joyfully to God, all the earth;"
+  },
+  {
+    "pk": 846503,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 2,
+    "text": "Sing the glory of His name; Make His praise glorious."
+  },
+  {
+    "pk": 846504,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 3,
+    "text": "Say to God, 'How awesome are Your works! Because of the greatness of Your power Your enemies will give feigned obedience to You."
+  },
+  {
+    "pk": 846505,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 4,
+    "text": "'All the earth will worship You, And will sing praises to You; They will sing praises to Your name.' Selah."
+  },
+  {
+    "pk": 846506,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 5,
+    "text": "Come and see the works of God, [Who is] awesome in [His] deeds toward the sons of men."
+  },
+  {
+    "pk": 846507,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 6,
+    "text": "He turned the sea into dry land; They passed through the river on foot; There let us rejoice in Him!"
+  },
+  {
+    "pk": 846508,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 7,
+    "text": "He rules by His might forever; His eyes keep watch on the nations; Let not the rebellious exalt themselves. Selah."
+  },
+  {
+    "pk": 846509,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 8,
+    "text": "Bless our God, O peoples, And sound His praise abroad,"
+  },
+  {
+    "pk": 846510,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 9,
+    "text": "Who keeps us in life And does not allow our feet to slip."
+  },
+  {
+    "pk": 846511,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 10,
+    "text": "For You have tried us, O God; You have refined us as silver is refined."
+  },
+  {
+    "pk": 846512,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 11,
+    "text": "You brought us into the net; You laid an oppressive burden upon our loins."
+  },
+  {
+    "pk": 846513,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 12,
+    "text": "You made men ride over our heads; We went through fire and through water, Yet You brought us out into [a place of] abundance."
+  },
+  {
+    "pk": 846514,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 13,
+    "text": "I shall come into Your house with burnt offerings; I shall pay You my vows,"
+  },
+  {
+    "pk": 846515,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 14,
+    "text": "Which my lips uttered And my mouth spoke when I was in distress."
+  },
+  {
+    "pk": 846516,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 15,
+    "text": "I shall offer to You burnt offerings of fat beasts, With the smoke of rams; I shall make [an offering of] bulls with male goats. Selah."
+  },
+  {
+    "pk": 846517,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 16,
+    "text": "Come [and] hear, all who fear God, And I will tell of what He has done for my soul."
+  },
+  {
+    "pk": 846518,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 17,
+    "text": "I cried to Him with my mouth, And He was extolled with my tongue."
+  },
+  {
+    "pk": 846519,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 18,
+    "text": "If I regard wickedness in my heart, The Lord will not hear;"
+  },
+  {
+    "pk": 846520,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 19,
+    "text": "But certainly God has heard; He has given heed to the voice of my prayer."
+  },
+  {
+    "pk": 846521,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 66,
+    "verse": 20,
+    "text": "Blessed be God, Who has not turned away my prayer Nor His lovingkindness from me."
+  }
+];

@@ -1,0 +1,299 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/41/07"] = [
+  {
+    "pk": 856092,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 1,
+    "text": "The Pharisees and some of the scribes gathered around Him when they had come from Jerusalem,"
+  },
+  {
+    "pk": 856093,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 2,
+    "text": "and had seen that some of His disciples were eating their bread with impure hands, that is, unwashed."
+  },
+  {
+    "pk": 856094,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 3,
+    "text": "(For the Pharisees and all the Jews do not eat unless they carefully wash their hands, [thus] observing the traditions of the elders;"
+  },
+  {
+    "pk": 856095,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 4,
+    "text": "and [when they come] from the market place, they do not eat unless they cleanse themselves; and there are many other things which they have received in order to observe, such as the washing of cups and pitchers and copper pots.)"
+  },
+  {
+    "pk": 856096,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 5,
+    "text": "The Pharisees and the scribes asked Him, 'Why do Your disciples not walk according to the tradition of the elders, but eat their bread with impure hands?'"
+  },
+  {
+    "pk": 856097,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 6,
+    "text": "And He said to them, 'Rightly did Isaiah prophesy of you hypocrites, as it is written: 'THIS PEOPLE HONORS ME WITH THEIR LIPS, BUT THEIR HEART IS FAR AWAY FROM ME."
+  },
+  {
+    "pk": 856098,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 7,
+    "text": "'BUT IN VAIN DO THEY WORSHIP ME, TEACHING AS DOCTRINES THE PRECEPTS OF MEN.'"
+  },
+  {
+    "pk": 856099,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 8,
+    "text": "'Neglecting the commandment of God, you hold to the tradition of men.'"
+  },
+  {
+    "pk": 856100,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 9,
+    "text": "He was also saying to them, 'You are experts at setting aside the commandment of God in order to keep your tradition."
+  },
+  {
+    "pk": 856101,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 10,
+    "text": "'For Moses said, 'HONOR YOUR FATHER AND YOUR MOTHER'; and, 'HE WHO SPEAKS EVIL OF FATHER OR MOTHER, IS TO BE PUT TO DEATH';"
+  },
+  {
+    "pk": 856102,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 11,
+    "text": "but you say, 'If a man says to [his] father or [his] mother, whatever I have that would help you is Corban (that is to say, given [to God]),'"
+  },
+  {
+    "pk": 856103,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 12,
+    "text": "you no longer permit him to do anything for [his] father or [his] mother;"
+  },
+  {
+    "pk": 856104,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 13,
+    "text": "[thus] invalidating the word of God by your tradition which you have handed down; and you do many things such as that.'"
+  },
+  {
+    "pk": 856105,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 14,
+    "text": "After He called the crowd to Him again, He [began] saying to them, 'Listen to Me, all of you, and understand:"
+  },
+  {
+    "pk": 856106,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 15,
+    "text": "there is nothing outside the man which can defile him if it goes into him; but the things which proceed out of the man are what defile the man."
+  },
+  {
+    "pk": 856107,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 16,
+    "text": "['If anyone has ears to hear, let him hear.]'"
+  },
+  {
+    "pk": 856108,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 17,
+    "text": "When he had left the crowd [and] entered the house, His disciples questioned Him about the parable."
+  },
+  {
+    "pk": 856109,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 18,
+    "text": "And He said to them, 'Are you so lacking in understanding also? Do you not understand that whatever goes into the man from outside cannot defile him,"
+  },
+  {
+    "pk": 856110,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 19,
+    "text": "because it does not go into his heart, but into his stomach, and is eliminated?' ([Thus He] declared all foods clean.)"
+  },
+  {
+    "pk": 856111,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 20,
+    "text": "And He was saying, 'That which proceeds out of the man, that is what defiles the man."
+  },
+  {
+    "pk": 856112,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 21,
+    "text": "'For from within, out of the heart of men, proceed the evil thoughts, fornications, thefts, murders, adulteries,"
+  },
+  {
+    "pk": 856113,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 22,
+    "text": "deeds of coveting [and] wickedness, [as well] [as] deceit, sensuality, envy, slander, pride [and] foolishness."
+  },
+  {
+    "pk": 856114,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 23,
+    "text": "'All these evil things proceed from within and defile the man.'"
+  },
+  {
+    "pk": 856115,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 24,
+    "text": "Jesus got up and went away from there to the region of Tyre. And when He had entered a house, He wanted no one to know [of it]; yet He could not escape notice."
+  },
+  {
+    "pk": 856116,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 25,
+    "text": "But after hearing of Him, a woman whose little daughter had an unclean spirit immediately came and fell at His feet."
+  },
+  {
+    "pk": 856117,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 26,
+    "text": "Now the woman was a Gentile, of the Syrophoenician race. And she kept asking Him to cast the demon out of her daughter."
+  },
+  {
+    "pk": 856118,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 27,
+    "text": "And He was saying to her, 'Let the children be satisfied first, for it is not good to take the children's bread and throw it to the dogs.'"
+  },
+  {
+    "pk": 856119,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 28,
+    "text": "But she answered and said to Him, 'Yes, Lord, [but] even the dogs under the table feed on the children's crumbs.'"
+  },
+  {
+    "pk": 856120,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 29,
+    "text": "And He said to her, 'Because of this answer go; the demon has gone out of your daughter.'"
+  },
+  {
+    "pk": 856121,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 30,
+    "text": "And going back to her home, she found the child lying on the bed, the demon having left."
+  },
+  {
+    "pk": 856122,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 31,
+    "text": "Again He went out from the region of Tyre, and came through Sidon to the Sea of Galilee, within the region of Decapolis."
+  },
+  {
+    "pk": 856123,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 32,
+    "text": "They brought to Him one who was deaf and spoke with difficulty, and they implored Him to lay His hand on him."
+  },
+  {
+    "pk": 856124,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 33,
+    "text": "Jesus took him aside from the crowd, by himself, and put His fingers into his ears, and after spitting, He touched his tongue [with the saliva];"
+  },
+  {
+    "pk": 856125,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 34,
+    "text": "and looking up to heaven with a deep sigh, He said to him, 'Ephphatha!' that is, 'Be opened!'"
+  },
+  {
+    "pk": 856126,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 35,
+    "text": "And his ears were opened, and the impediment of his tongue was removed, and he [began] speaking plainly."
+  },
+  {
+    "pk": 856127,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 36,
+    "text": "And He gave them orders not to tell anyone; but the more He ordered them, the more widely they continued to proclaim it."
+  },
+  {
+    "pk": 856128,
+    "translation": "NASB",
+    "book": 41,
+    "chapter": 7,
+    "verse": 37,
+    "text": "They were utterly astonished, saying, 'He has done all things well; He makes even the deaf to hear and the mute to speak.'"
+  }
+];

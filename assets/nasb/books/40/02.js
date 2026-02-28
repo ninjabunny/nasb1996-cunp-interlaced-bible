@@ -1,0 +1,187 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/40/02"] = [
+  {
+    "pk": 854798,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 1,
+    "text": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, magi from the east arrived in Jerusalem, saying,"
+  },
+  {
+    "pk": 854799,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 2,
+    "text": "'Where is He who has been born King of the Jews? For we saw His star in the east and have come to worship Him.'"
+  },
+  {
+    "pk": 854800,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 3,
+    "text": "When Herod the king heard [this], he was troubled, and all Jerusalem with him."
+  },
+  {
+    "pk": 854801,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 4,
+    "text": "Gathering together all the chief priests and scribes of the people, he inquired of them where the Messiah was to be born."
+  },
+  {
+    "pk": 854802,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 5,
+    "text": "They said to him, 'In Bethlehem of Judea; for this is what has been written by the prophet:"
+  },
+  {
+    "pk": 854803,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 6,
+    "text": "'AND YOU, BETHLEHEM, LAND OF JUDAH, ARE BY NO MEANS LEAST AMONG THE LEADERS OF JUDAH; FOR OUT OF YOU SHALL COME FORTH A RULER WHO WILL SHEPHERD MY PEOPLE ISRAEL.''"
+  },
+  {
+    "pk": 854804,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 7,
+    "text": "Then Herod secretly called the magi and determined from them the exact time the star appeared."
+  },
+  {
+    "pk": 854805,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 8,
+    "text": "And he sent them to Bethlehem and said, 'Go and search carefully for the Child; and when you have found [Him], report to me, so that I too may come and worship Him.'"
+  },
+  {
+    "pk": 854806,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 9,
+    "text": "After hearing the king, they went their way; and the star, which they had seen in the east, went on before them until it came and stood over [the place] where the Child was."
+  },
+  {
+    "pk": 854807,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 10,
+    "text": "When they saw the star, they rejoiced exceedingly with great joy."
+  },
+  {
+    "pk": 854808,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 11,
+    "text": "After coming into the house they saw the Child with Mary His mother; and they fell to the ground and worshiped Him. Then, opening their treasures, they presented to Him gifts of gold, frankincense, and myrrh."
+  },
+  {
+    "pk": 854809,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 12,
+    "text": "And having been warned [by God] in a dream not to return to Herod, the magi left for their own country by another way."
+  },
+  {
+    "pk": 854810,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 13,
+    "text": "Now when they had gone, behold, an angel of the Lord appeared to Joseph in a dream and said, 'Get up! Take the Child and His mother and flee to Egypt, and remain there until I tell you; for Herod is going to search for the Child to destroy Him.'"
+  },
+  {
+    "pk": 854811,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 14,
+    "text": "So Joseph got up and took the Child and His mother while it was still night, and left for Egypt."
+  },
+  {
+    "pk": 854812,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 15,
+    "text": "He remained there until the death of Herod. [This was] to fulfill what had been spoken by the Lord through the prophet: 'OUT OF EGYPT I CALLED MY SON.'"
+  },
+  {
+    "pk": 854813,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 16,
+    "text": "Then when Herod saw that he had been tricked by the magi, he became very enraged, and sent and slew all the male children who were in Bethlehem and all its vicinity, from two years old and under, according to the time which he had determined from the magi."
+  },
+  {
+    "pk": 854814,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 17,
+    "text": "Then what had been spoken through Jeremiah the prophet was fulfilled:"
+  },
+  {
+    "pk": 854815,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 18,
+    "text": "'A VOICE WAS HEARD IN RAMAH, WEEPING AND GREAT MOURNING, RACHEL WEEPING FOR HER CHILDREN; AND SHE REFUSED TO BE COMFORTED, BECAUSE THEY WERE NO MORE.'"
+  },
+  {
+    "pk": 854816,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 19,
+    "text": "But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, and said,"
+  },
+  {
+    "pk": 854817,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 20,
+    "text": "'Get up, take the Child and His mother, and go into the land of Israel; for those who sought the Child's life are dead.'"
+  },
+  {
+    "pk": 854818,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 21,
+    "text": "So Joseph got up, took the Child and His mother, and came into the land of Israel."
+  },
+  {
+    "pk": 854819,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 22,
+    "text": "But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there. Then after being warned [by God] in a dream, he left for the regions of Galilee,"
+  },
+  {
+    "pk": 854820,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 2,
+    "verse": 23,
+    "text": "and came and lived in a city called Nazareth. [This was] to fulfill what was spoken through the prophets: 'He shall be called a Nazarene.'"
+  }
+];

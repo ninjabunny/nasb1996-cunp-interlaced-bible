@@ -1,0 +1,123 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/14/14"] = [
+  {
+    "pk": 843104,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 1,
+    "text": "So Abijah slept with his fathers, and they buried him in the city of David, and his son Asa became king in his place. The land was undisturbed for ten years during his days."
+  },
+  {
+    "pk": 843105,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 2,
+    "text": "Asa did good and right in the sight of the LORD his God,"
+  },
+  {
+    "pk": 843106,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 3,
+    "text": "for he removed the foreign altars and high places, tore down the [sacred] pillars, cut down the Asherim,"
+  },
+  {
+    "pk": 843107,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 4,
+    "text": "and commanded Judah to seek the LORD God of their fathers and to observe the law and the commandment."
+  },
+  {
+    "pk": 843108,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 5,
+    "text": "He also removed the high places and the incense altars from all the cities of Judah. And the kingdom was undisturbed under him."
+  },
+  {
+    "pk": 843109,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 6,
+    "text": "He built fortified cities in Judah, since the land was undisturbed, and there was no one at war with him during those years, because the LORD had given him rest."
+  },
+  {
+    "pk": 843110,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 7,
+    "text": "For he said to Judah, 'Let us build these cities and surround [them] with walls and towers, gates and bars. The land is still ours because we have sought the LORD our God; we have sought Him, and He has given us rest on every side.' So they built and prospered."
+  },
+  {
+    "pk": 843111,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 8,
+    "text": "Now Asa had an army of 300,000 from Judah, bearing large shields and spears, and 280,000 from Benjamin, bearing shields and wielding bows; all of them were valiant warriors."
+  },
+  {
+    "pk": 843112,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 9,
+    "text": "Now Zerah the Ethiopian came out against them with an army of a million men and 300 chariots, and he came to Mareshah."
+  },
+  {
+    "pk": 843113,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 10,
+    "text": "So Asa went out to meet him, and they drew up in battle formation in the valley of Zephathah at Mareshah."
+  },
+  {
+    "pk": 843114,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 11,
+    "text": "Then Asa called to the LORD his God and said, 'LORD, there is no one besides You to help [in the battle] between the powerful and those who have no strength; so help us, O LORD our God, for we trust in You, and in Your name have come against this multitude. O LORD, You are our God; let not man prevail against You.'"
+  },
+  {
+    "pk": 843115,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 12,
+    "text": "So the LORD routed the Ethiopians before Asa and before Judah, and the Ethiopians fled."
+  },
+  {
+    "pk": 843116,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 13,
+    "text": "Asa and the people who [were] with him pursued them as far as Gerar; and so many Ethiopians fell that they could not recover, for they were shattered before the LORD and before His army. And they carried away very much plunder."
+  },
+  {
+    "pk": 843117,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 14,
+    "text": "They destroyed all the cities around Gerar, for the dread of the LORD had fallen on them; and they despoiled all the cities, for there was much plunder in them."
+  },
+  {
+    "pk": 843118,
+    "translation": "NASB",
+    "book": 14,
+    "chapter": 14,
+    "verse": 15,
+    "text": "They also struck down those who owned livestock, and they carried away large numbers of sheep and camels. Then they returned to Jerusalem."
+  }
+];

@@ -1,0 +1,59 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/120"] = [
+  {
+    "pk": 847703,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 1,
+    "text": "A Song of Ascents. In my trouble I cried to the LORD, And He answered me."
+  },
+  {
+    "pk": 847704,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 2,
+    "text": "Deliver my soul, O LORD, from lying lips, From a deceitful tongue."
+  },
+  {
+    "pk": 847705,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 3,
+    "text": "What shall be given to you, and what more shall be done to you, You deceitful tongue?"
+  },
+  {
+    "pk": 847706,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 4,
+    "text": "Sharp arrows of the warrior, With the [burning] coals of the broom tree."
+  },
+  {
+    "pk": 847707,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 5,
+    "text": "Woe is me, for I sojourn in Meshech, For I dwell among the tents of Kedar!"
+  },
+  {
+    "pk": 847708,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 6,
+    "text": "Too long has my soul had its dwelling With those who hate peace."
+  },
+  {
+    "pk": 847709,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 120,
+    "verse": 7,
+    "text": "I am [for] peace, but when I speak, They are for war."
+  }
+];

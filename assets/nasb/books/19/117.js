@@ -1,0 +1,19 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/117"] = [
+  {
+    "pk": 847496,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 117,
+    "verse": 1,
+    "text": "Praise the LORD, all nations; Laud Him, all peoples!"
+  },
+  {
+    "pk": 847497,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 117,
+    "verse": 2,
+    "text": "For His lovingkindness is great toward us, And the truth of the LORD is everlasting. Praise the LORD!"
+  }
+];

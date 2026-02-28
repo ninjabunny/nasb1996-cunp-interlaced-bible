@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/40/28"] = [
+  {
+    "pk": 855824,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 1,
+    "text": "Now after the Sabbath, as it began to dawn toward the first [day] of the week, Mary Magdalene and the other Mary came to look at the grave."
+  },
+  {
+    "pk": 855825,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 2,
+    "text": "And behold, a severe earthquake had occurred, for an angel of the Lord descended from heaven and came and rolled away the stone and sat upon it."
+  },
+  {
+    "pk": 855826,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 3,
+    "text": "And his appearance was like lightning, and his clothing as white as snow."
+  },
+  {
+    "pk": 855827,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 4,
+    "text": "The guards shook for fear of him and became like dead men."
+  },
+  {
+    "pk": 855828,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 5,
+    "text": "The angel said to the women, 'Do not be afraid; for I know that you are looking for Jesus who has been crucified."
+  },
+  {
+    "pk": 855829,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 6,
+    "text": "'He is not here, for He has risen, just as He said. Come, see the place where He was lying."
+  },
+  {
+    "pk": 855830,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 7,
+    "text": "'Go quickly and tell His disciples that He has risen from the dead; and behold, He is going ahead of you into Galilee, there you will see Him; behold, I have told you.'"
+  },
+  {
+    "pk": 855831,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 8,
+    "text": "And they left the tomb quickly with fear and great joy and ran to report it to His disciples."
+  },
+  {
+    "pk": 855832,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 9,
+    "text": "And behold, Jesus met them and greeted them. And they came up and took hold of His feet and worshiped Him."
+  },
+  {
+    "pk": 855833,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 10,
+    "text": "Then Jesus said to them, 'Do not be afraid; go and take word to My brethren to leave for Galilee, and there they will see Me.'"
+  },
+  {
+    "pk": 855834,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 11,
+    "text": "Now while they were on their way, some of the guard came into the city and reported to the chief priests all that had happened."
+  },
+  {
+    "pk": 855835,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 12,
+    "text": "And when they had assembled with the elders and consulted together, they gave a large sum of money to the soldiers,"
+  },
+  {
+    "pk": 855836,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 13,
+    "text": "and said, 'You are to say, 'His disciples came by night and stole Him away while we were asleep.'"
+  },
+  {
+    "pk": 855837,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 14,
+    "text": "'And if this should come to the governor's ears, we will win him over and keep you out of trouble.'"
+  },
+  {
+    "pk": 855838,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 15,
+    "text": "And they took the money and did as they had been instructed; and this story was widely spread among the Jews, [and is] to this day."
+  },
+  {
+    "pk": 855839,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 16,
+    "text": "But the eleven disciples proceeded to Galilee, to the mountain which Jesus had designated."
+  },
+  {
+    "pk": 855840,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 17,
+    "text": "When they saw Him, they worshiped [Him]; but some were doubtful."
+  },
+  {
+    "pk": 855841,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 18,
+    "text": "And Jesus came up and spoke to them, saying, 'All authority has been given to Me in heaven and on earth."
+  },
+  {
+    "pk": 855842,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 19,
+    "text": "'Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit,"
+  },
+  {
+    "pk": 855843,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 28,
+    "verse": 20,
+    "text": "teaching them to observe all that I commanded you; and lo, I am with you always, even to the end of the age.'"
+  }
+];

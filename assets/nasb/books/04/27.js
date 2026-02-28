@@ -1,0 +1,187 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/04/27"] = [
+  {
+    "pk": 836183,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 1,
+    "text": "Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph, came near; and these are the names of his daughters: Mahlah, Noah and Hoglah and Milcah and Tirzah."
+  },
+  {
+    "pk": 836184,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 2,
+    "text": "They stood before Moses and before Eleazar the priest and before the leaders and all the congregation, at the doorway of the tent of meeting, saying,"
+  },
+  {
+    "pk": 836185,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 3,
+    "text": "'Our father died in the wilderness, yet he was not among the company of those who gathered themselves together against the LORD in the company of Korah; but he died in his own sin, and he had no sons."
+  },
+  {
+    "pk": 836186,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 4,
+    "text": "'Why should the name of our father be withdrawn from among his family because he had no son? Give us a possession among our father's brothers.'"
+  },
+  {
+    "pk": 836187,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 5,
+    "text": "So Moses brought their case before the LORD."
+  },
+  {
+    "pk": 836188,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 6,
+    "text": "Then the LORD spoke to Moses, saying,"
+  },
+  {
+    "pk": 836189,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 7,
+    "text": "'The daughters of Zelophehad are right in [their] statements. You shall surely give them a hereditary possession among their father's brothers, and you shall transfer the inheritance of their father to them."
+  },
+  {
+    "pk": 836190,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 8,
+    "text": "'Further, you shall speak to the sons of Israel, saying, 'If a man dies and has no son, then you shall transfer his inheritance to his daughter."
+  },
+  {
+    "pk": 836191,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 9,
+    "text": "'If he has no daughter, then you shall give his inheritance to his brothers."
+  },
+  {
+    "pk": 836192,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 10,
+    "text": "'If he has no brothers, then you shall give his inheritance to his father's brothers."
+  },
+  {
+    "pk": 836193,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 11,
+    "text": "'If his father has no brothers, then you shall give his inheritance to his nearest relative in his own family, and he shall possess it; and it shall be a statutory ordinance to the sons of Israel, just as the LORD commanded Moses.''"
+  },
+  {
+    "pk": 836194,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 12,
+    "text": "Then the LORD said to Moses, 'Go up to this mountain of Abarim, and see the land which I have given to the sons of Israel."
+  },
+  {
+    "pk": 836195,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 13,
+    "text": "'When you have seen it, you too will be gathered to your people, as Aaron your brother was;"
+  },
+  {
+    "pk": 836196,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 14,
+    "text": "for in the wilderness of Zin, during the strife of the congregation, you rebelled against My command to treat Me as holy before their eyes at the water.' (These are the waters of Meribah of Kadesh in the wilderness of Zin.)"
+  },
+  {
+    "pk": 836197,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 15,
+    "text": "Then Moses spoke to the LORD, saying,"
+  },
+  {
+    "pk": 836198,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 16,
+    "text": "'May the LORD, the God of the spirits of all flesh, appoint a man over the congregation,"
+  },
+  {
+    "pk": 836199,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 17,
+    "text": "who will go out and come in before them, and who will lead them out and bring them in, so that the congregation of the LORD will not be like sheep which have no shepherd.'"
+  },
+  {
+    "pk": 836200,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 18,
+    "text": "So the LORD said to Moses, 'Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him;"
+  },
+  {
+    "pk": 836201,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 19,
+    "text": "and have him stand before Eleazar the priest and before all the congregation, and commission him in their sight."
+  },
+  {
+    "pk": 836202,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 20,
+    "text": "'You shall put some of your authority on him, in order that all the congregation of the sons of Israel may obey [him]."
+  },
+  {
+    "pk": 836203,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 21,
+    "text": "'Moreover, he shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before the LORD. At his command they shall go out and at his command they shall come in, [both] he and the sons of Israel with him, even all the congregation.'"
+  },
+  {
+    "pk": 836204,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 22,
+    "text": "Moses did just as the LORD commanded him; and he took Joshua and set him before Eleazar the priest and before all the congregation."
+  },
+  {
+    "pk": 836205,
+    "translation": "NASB",
+    "book": 4,
+    "chapter": 27,
+    "verse": 23,
+    "text": "Then he laid his hands on him and commissioned him, just as the LORD had spoken through Moses."
+  }
+];

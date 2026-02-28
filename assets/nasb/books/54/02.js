@@ -1,0 +1,123 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/54/02"] = [
+  {
+    "pk": 861345,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 1,
+    "text": "First of all, then, I urge that entreaties [and] prayers, petitions [and] thanksgivings, be made on behalf of all men,"
+  },
+  {
+    "pk": 861346,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 2,
+    "text": "for kings and all who are in authority, so that we may lead a tranquil and quiet life in all godliness and dignity."
+  },
+  {
+    "pk": 861347,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 3,
+    "text": "This is good and acceptable in the sight of God our Savior,"
+  },
+  {
+    "pk": 861348,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 4,
+    "text": "who desires all men to be saved and to come to the knowledge of the truth."
+  },
+  {
+    "pk": 861349,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 5,
+    "text": "For there is one God, [and] one mediator also between God and men, [the] man Christ Jesus,"
+  },
+  {
+    "pk": 861350,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 6,
+    "text": "who gave Himself as a ransom for all, the testimony [given] at the proper time."
+  },
+  {
+    "pk": 861351,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 7,
+    "text": "For this I was appointed a preacher and an apostle (I am telling the truth, I am not lying) as a teacher of the Gentiles in faith and truth."
+  },
+  {
+    "pk": 861352,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 8,
+    "text": "Therefore I want the men in every place to pray, lifting up holy hands, without wrath and dissension."
+  },
+  {
+    "pk": 861353,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 9,
+    "text": "Likewise, [I want] women to adorn themselves with proper clothing, modestly and discreetly, not with braided hair and gold or pearls or costly garments,"
+  },
+  {
+    "pk": 861354,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 10,
+    "text": "but rather by means of good works, as is proper for women making a claim to godliness."
+  },
+  {
+    "pk": 861355,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 11,
+    "text": "A woman must quietly receive instruction with entire submissiveness."
+  },
+  {
+    "pk": 861356,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 12,
+    "text": "But I do not allow a woman to teach or exercise authority over a man, but to remain quiet."
+  },
+  {
+    "pk": 861357,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 13,
+    "text": "For it was Adam who was first created, [and] then Eve."
+  },
+  {
+    "pk": 861358,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 14,
+    "text": "And [it was] not Adam [who] was deceived, but the woman being deceived, fell into transgression."
+  },
+  {
+    "pk": 861359,
+    "translation": "NASB",
+    "book": 54,
+    "chapter": 2,
+    "verse": 15,
+    "text": "But [women] will be preserved through the bearing of children if they continue in faith and love and sanctity with self-restraint."
+  }
+];

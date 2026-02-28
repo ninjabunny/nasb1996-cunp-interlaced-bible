@@ -1,0 +1,75 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/99"] = [
+  {
+    "pk": 847128,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 1,
+    "text": "The LORD reigns, let the peoples tremble; He is enthroned [above] the cherubim, let the earth shake!"
+  },
+  {
+    "pk": 847129,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 2,
+    "text": "The LORD is great in Zion, And He is exalted above all the peoples."
+  },
+  {
+    "pk": 847130,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 3,
+    "text": "Let them praise Your great and awesome name; Holy is He."
+  },
+  {
+    "pk": 847131,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 4,
+    "text": "The strength of the King loves justice; You have established equity; You have executed justice and righteousness in Jacob."
+  },
+  {
+    "pk": 847132,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 5,
+    "text": "Exalt the LORD our God And worship at His footstool; Holy is He."
+  },
+  {
+    "pk": 847133,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 6,
+    "text": "Moses and Aaron were among His priests, And Samuel was among those who called on His name; They called upon the LORD and He answered them."
+  },
+  {
+    "pk": 847134,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 7,
+    "text": "He spoke to them in the pillar of cloud; They kept His testimonies And the statute that He gave them."
+  },
+  {
+    "pk": 847135,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 8,
+    "text": "O LORD our God, You answered them; You were a forgiving God to them, And [yet] an avenger of their [evil] deeds."
+  },
+  {
+    "pk": 847136,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 99,
+    "verse": 9,
+    "text": "Exalt the LORD our God And worship at His holy hill, For holy is the LORD our God."
+  }
+];

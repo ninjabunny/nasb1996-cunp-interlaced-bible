@@ -1,0 +1,882 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/33/book"] = {
+  "translation": "NASB",
+  "book": 33,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 854208,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 1,
+          "text": "The word of the LORD which came [to] Micah of Moresheth in the days of Jotham, Ahaz [and] Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
+        },
+        {
+          "pk": 854209,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 2,
+          "text": "Hear, O peoples, all of you; Listen, O earth and all it contains, And let the Lord GOD be a witness against you, The Lord from His holy temple."
+        },
+        {
+          "pk": 854210,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 3,
+          "text": "For behold, the LORD is coming forth from His place. He will come down and tread on the high places of the earth."
+        },
+        {
+          "pk": 854211,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 4,
+          "text": "The mountains will melt under Him And the valleys will be split, Like wax before the fire, Like water poured down a steep place."
+        },
+        {
+          "pk": 854212,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 5,
+          "text": "All this is for the rebellion of Jacob And for the sins of the house of Israel. What is the rebellion of Jacob? Is it not Samaria? What is the high place of Judah? Is it not Jerusalem?"
+        },
+        {
+          "pk": 854213,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 6,
+          "text": "For I will make Samaria a heap of ruins in the open country, Planting places for a vineyard. I will pour her stones down into the valley And will lay bare her foundations."
+        },
+        {
+          "pk": 854214,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 7,
+          "text": "All of her idols will be smashed, All of her earnings will be burned with fire And all of her images I will make desolate, For she collected [them] from a harlot's earnings, And to the earnings of a harlot they will return."
+        },
+        {
+          "pk": 854215,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 8,
+          "text": "Because of this I must lament and wail, I must go barefoot and naked; I must make a lament like the jackals And a mourning like the ostriches."
+        },
+        {
+          "pk": 854216,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 9,
+          "text": "For her wound is incurable, For it has come to Judah; It has reached the gate of my people, [Even] to Jerusalem."
+        },
+        {
+          "pk": 854217,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 10,
+          "text": "Tell it not in Gath, Weep not at all. At Beth-le-aphrah roll yourself in the dust."
+        },
+        {
+          "pk": 854218,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 11,
+          "text": "Go on your way, inhabitant of Shaphir, in shameful nakedness. The inhabitant of Zaanan does not escape. The lamentation of Beth-ezel: 'He will take from you its support.'"
+        },
+        {
+          "pk": 854219,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 12,
+          "text": "For the inhabitant of Maroth Becomes weak waiting for good, Because a calamity has come down from the LORD To the gate of Jerusalem."
+        },
+        {
+          "pk": 854220,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 13,
+          "text": "Harness the chariot to the team of horses, O inhabitant of Lachish-- She was the beginning of sin To the daughter of Zion-- Because in you were found The rebellious acts of Israel."
+        },
+        {
+          "pk": 854221,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 14,
+          "text": "Therefore you will give parting gifts On behalf of Moresheth-gath; The houses of Achzib [will] become a deception To the kings of Israel."
+        },
+        {
+          "pk": 854222,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 15,
+          "text": "Moreover, I will bring on you The one who takes possession, O inhabitant of Mareshah. The glory of Israel will enter Adullam."
+        },
+        {
+          "pk": 854223,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 1,
+          "verse": 16,
+          "text": "Make yourself bald and cut off your hair, Because of the children of your delight; Extend your baldness like the eagle, For they will go from you into exile."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 854224,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 1,
+          "text": "Woe to those who scheme iniquity, Who work out evil on their beds! When morning comes, they do it, For it is in the power of their hands."
+        },
+        {
+          "pk": 854225,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 2,
+          "text": "They covet fields and then seize [them], And houses, and take [them] away. They rob a man and his house, A man and his inheritance."
+        },
+        {
+          "pk": 854226,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 3,
+          "text": "Therefore thus says the LORD, 'Behold, I am planning against this family a calamity From which you cannot remove your necks; And you will not walk haughtily, For it will be an evil time."
+        },
+        {
+          "pk": 854227,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 4,
+          "text": "'On that day they will take up against you a taunt And utter a bitter lamentation [and] say, 'We are completely destroyed! He exchanges the portion of my people; How He removes it from me! To the apostate He apportions our fields.'"
+        },
+        {
+          "pk": 854228,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 5,
+          "text": "'Therefore you will have no one stretching a measuring line For you by lot in the assembly of the LORD."
+        },
+        {
+          "pk": 854229,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 6,
+          "text": "'Do not speak out,' [so] they speak out. [But if] they do not speak out concerning these things, Reproaches will not be turned back."
+        },
+        {
+          "pk": 854230,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 7,
+          "text": "'Is it being said, O house of Jacob: 'Is the Spirit of the LORD impatient? Are these His doings?' Do not My words do good To the one walking uprightly?"
+        },
+        {
+          "pk": 854231,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 8,
+          "text": "'Recently My people have arisen as an enemy-- You strip the robe off the garment From unsuspecting passers-by, [From] those returned from war."
+        },
+        {
+          "pk": 854232,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 9,
+          "text": "'The women of My people you evict, Each [one] from her pleasant house. From her children you take My splendor forever."
+        },
+        {
+          "pk": 854233,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 10,
+          "text": "'Arise and go, For this is no place of rest Because of the uncleanness that brings on destruction, A painful destruction."
+        },
+        {
+          "pk": 854234,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 11,
+          "text": "'If a man walking after wind and falsehood Had told lies [and said], 'I will speak out to you concerning wine and liquor,' He would be spokesman to this people."
+        },
+        {
+          "pk": 854235,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 12,
+          "text": "'I will surely assemble all of you, Jacob, I will surely gather the remnant of Israel. I will put them together like sheep in the fold; Like a flock in the midst of its pasture They will be noisy with men."
+        },
+        {
+          "pk": 854236,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 2,
+          "verse": 13,
+          "text": "'The breaker goes up before them; They break out, pass through the gate and go out by it. So their king goes on before them, And the LORD at their head.'"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 854237,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 1,
+          "text": "And I said, 'Hear now, heads of Jacob And rulers of the house of Israel. Is it not for you to know justice?"
+        },
+        {
+          "pk": 854238,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 2,
+          "text": "'You who hate good and love evil, Who tear off their skin from them And their flesh from their bones,"
+        },
+        {
+          "pk": 854239,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 3,
+          "text": "Who eat the flesh of my people, Strip off their skin from them, Break their bones And chop [them] up as for the pot And as meat in a kettle.'"
+        },
+        {
+          "pk": 854240,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 4,
+          "text": "Then they will cry out to the LORD, But He will not answer them. Instead, He will hide His face from them at that time Because they have practiced evil deeds."
+        },
+        {
+          "pk": 854241,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 5,
+          "text": "Thus says the LORD concerning the prophets who lead my people astray; When they have [something] to bite with their teeth, They cry, 'Peace,' But against him who puts nothing in their mouths They declare holy war."
+        },
+        {
+          "pk": 854242,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 6,
+          "text": "Therefore [it will be] night for you-- without vision, And darkness for you-- without divination. The sun will go down on the prophets, And the day will become dark over them."
+        },
+        {
+          "pk": 854243,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 7,
+          "text": "The seers will be ashamed And the diviners will be embarrassed. Indeed, they will all cover [their] mouths Because there is no answer from God."
+        },
+        {
+          "pk": 854244,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 8,
+          "text": "On the other hand I am filled with power-- With the Spirit of the LORD-- And with justice and courage To make known to Jacob his rebellious act, Even to Israel his sin."
+        },
+        {
+          "pk": 854245,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 9,
+          "text": "Now hear this, heads of the house of Jacob And rulers of the house of Israel, Who abhor justice And twist everything that is straight,"
+        },
+        {
+          "pk": 854246,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 10,
+          "text": "Who build Zion with bloodshed And Jerusalem with violent injustice."
+        },
+        {
+          "pk": 854247,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 11,
+          "text": "Her leaders pronounce judgment for a bribe, Her priests instruct for a price And her prophets divine for money. Yet they lean on the LORD saying, 'Is not the LORD in our midst? Calamity will not come upon us.'"
+        },
+        {
+          "pk": 854248,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 3,
+          "verse": 12,
+          "text": "Therefore, on account of you Zion will be plowed as a field, Jerusalem will become a heap of ruins, And the mountain of the temple [will become] high places of a forest."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 854249,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 1,
+          "text": "And it will come about in the last days That the mountain of the house of the LORD Will be established as the chief of the mountains. It will be raised above the hills, And the peoples will stream to it."
+        },
+        {
+          "pk": 854250,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 2,
+          "text": "Many nations will come and say, 'Come and let us go up to the mountain of the LORD And to the house of the God of Jacob, That He may teach us about His ways And that we may walk in His paths.' For from Zion will go forth the law, Even the word of the LORD from Jerusalem."
+        },
+        {
+          "pk": 854251,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 3,
+          "text": "And He will judge between many peoples And render decisions for mighty, distant nations. Then they will hammer their swords into plowshares And their spears into pruning hooks; Nation will not lift up sword against nation, And never again will they train for war."
+        },
+        {
+          "pk": 854252,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 4,
+          "text": "Each of them will sit under his vine And under his fig tree, With no one to make [them] afraid, For the mouth of the LORD of hosts has spoken."
+        },
+        {
+          "pk": 854253,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 5,
+          "text": "Though all the peoples walk Each in the name of his god, As for us, we will walk In the name of the LORD our God forever and ever."
+        },
+        {
+          "pk": 854254,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 6,
+          "text": "'In that day,' declares the LORD, 'I will assemble the lame And gather the outcasts, Even those whom I have afflicted."
+        },
+        {
+          "pk": 854255,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 7,
+          "text": "'I will make the lame a remnant And the outcasts a strong nation, And the LORD will reign over them in Mount Zion From now on and forever."
+        },
+        {
+          "pk": 854256,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 8,
+          "text": "'As for you, tower of the flock, Hill of the daughter of Zion, To you it will come-- Even the former dominion will come, The kingdom of the daughter of Jerusalem."
+        },
+        {
+          "pk": 854257,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 9,
+          "text": "'Now, why do you cry out loudly? Is there no king among you, Or has your counselor perished, That agony has gripped you like a woman in childbirth?"
+        },
+        {
+          "pk": 854258,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 10,
+          "text": "'Writhe and labor to give birth, Daughter of Zion, Like a woman in childbirth; For now you will go out of the city, Dwell in the field, And go to Babylon. There you will be rescued; There the LORD will redeem you From the hand of your enemies."
+        },
+        {
+          "pk": 854259,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 11,
+          "text": "'And now many nations have been assembled against you Who say, 'Let her be polluted, And let our eyes gloat over Zion.'"
+        },
+        {
+          "pk": 854260,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 12,
+          "text": "'But they do not know the thoughts of the LORD, And they do not understand His purpose; For He has gathered them like sheaves to the threshing floor."
+        },
+        {
+          "pk": 854261,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 4,
+          "verse": 13,
+          "text": "'Arise and thresh, daughter of Zion, For your horn I will make iron And your hoofs I will make bronze, That you may pulverize many peoples, That you may devote to the LORD their unjust gain And their wealth to the Lord of all the earth."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 854262,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 1,
+          "text": "'Now muster yourselves in troops, daughter of troops; They have laid siege against us; With a rod they will smite the judge of Israel on the cheek."
+        },
+        {
+          "pk": 854263,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 2,
+          "text": "'But as for you, Bethlehem Ephrathah, [Too] little to be among the clans of Judah, From you One will go forth for Me to be ruler in Israel. His goings forth are from long ago, From the days of eternity.'"
+        },
+        {
+          "pk": 854264,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 3,
+          "text": "Therefore He will give them [up] until the time When she who is in labor has borne a child. Then the remainder of His brethren Will return to the sons of Israel."
+        },
+        {
+          "pk": 854265,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 4,
+          "text": "And He will arise and shepherd [His flock] In the strength of the LORD, In the majesty of the name of the LORD His God. And they will remain, Because at that time He will be great To the ends of the earth."
+        },
+        {
+          "pk": 854266,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 5,
+          "text": "This One will be [our] peace. When the Assyrian invades our land, When he tramples on our citadels, Then we will raise against him Seven shepherds and eight leaders of men."
+        },
+        {
+          "pk": 854267,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 6,
+          "text": "They will shepherd the land of Assyria with the sword, The land of Nimrod at its entrances; And He will deliver [us] from the Assyrian When he attacks our land And when he tramples our territory."
+        },
+        {
+          "pk": 854268,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 7,
+          "text": "Then the remnant of Jacob Will be among many peoples Like dew from the LORD, Like showers on vegetation Which do not wait for man Or delay for the sons of men."
+        },
+        {
+          "pk": 854269,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 8,
+          "text": "The remnant of Jacob Will be among the nations, Among many peoples Like a lion among the beasts of the forest, Like a young lion among flocks of sheep, Which, if he passes through, Tramples down and tears, And there is none to rescue."
+        },
+        {
+          "pk": 854270,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 9,
+          "text": "Your hand will be lifted up against your adversaries, And all your enemies will be cut off."
+        },
+        {
+          "pk": 854271,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 10,
+          "text": "'It will be in that day,' declares the LORD, 'That I will cut off your horses from among you And destroy your chariots."
+        },
+        {
+          "pk": 854272,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 11,
+          "text": "'I will also cut off the cities of your land And tear down all your fortifications."
+        },
+        {
+          "pk": 854273,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 12,
+          "text": "'I will cut off sorceries from your hand, And you will have fortune-tellers no more."
+        },
+        {
+          "pk": 854274,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 13,
+          "text": "'I will cut off your carved images And your [sacred] pillars from among you, So that you will no longer bow down To the work of your hands."
+        },
+        {
+          "pk": 854275,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 14,
+          "text": "'I will root out your Asherim from among you And destroy your cities."
+        },
+        {
+          "pk": 854276,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 5,
+          "verse": 15,
+          "text": "'And I will execute vengeance in anger and wrath On the nations which have not obeyed.'"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 854277,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 1,
+          "text": "Hear now what the LORD is saying, 'Arise, plead your case before the mountains, And let the hills hear your voice."
+        },
+        {
+          "pk": 854278,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 2,
+          "text": "'Listen, you mountains, to the indictment of the LORD, And you enduring foundations of the earth, Because the LORD has a case against His people; Even with Israel He will dispute."
+        },
+        {
+          "pk": 854279,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 3,
+          "text": "'My people, what have I done to you, And how have I wearied you? Answer Me."
+        },
+        {
+          "pk": 854280,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 4,
+          "text": "'Indeed, I brought you up from the land of Egypt And ransomed you from the house of slavery, And I sent before you Moses, Aaron and Miriam."
+        },
+        {
+          "pk": 854281,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 5,
+          "text": "'My people, remember now What Balak king of Moab counseled And what Balaam son of Beor answered him, [And] from Shittim to Gilgal, So that you might know the righteous acts of the LORD.'"
+        },
+        {
+          "pk": 854282,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 6,
+          "text": "With what shall I come to the LORD [And] bow myself before the God on high? Shall I come to Him with burnt offerings, With yearling calves?"
+        },
+        {
+          "pk": 854283,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 7,
+          "text": "Does the LORD take delight in thousands of rams, In ten thousand rivers of oil? Shall I present my firstborn [for] my rebellious acts, The fruit of my body for the sin of my soul?"
+        },
+        {
+          "pk": 854284,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 8,
+          "text": "He has told you, O man, what is good; And what does the LORD require of you But to do justice, to love kindness, And to walk humbly with your God?"
+        },
+        {
+          "pk": 854285,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 9,
+          "text": "The voice of the LORD will call to the city-- And it is sound wisdom to fear Your name: 'Hear, O tribe. Who has appointed its time?"
+        },
+        {
+          "pk": 854286,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 10,
+          "text": "'Is there yet a man in the wicked house, [Along with] treasures of wickedness And a short measure [that is] cursed?"
+        },
+        {
+          "pk": 854287,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 11,
+          "text": "'Can I justify wicked scales And a bag of deceptive weights?"
+        },
+        {
+          "pk": 854288,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 12,
+          "text": "'For the rich men of [the] city are full of violence, Her residents speak lies, And their tongue is deceitful in their mouth."
+        },
+        {
+          "pk": 854289,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 13,
+          "text": "'So also I will make [you] sick, striking you down, Desolating [you] because of your sins."
+        },
+        {
+          "pk": 854290,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 14,
+          "text": "'You will eat, but you will not be satisfied, And your vileness will be in your midst. You will [try to] remove [for safekeeping], But you will not preserve [anything], And what you do preserve I will give to the sword."
+        },
+        {
+          "pk": 854291,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 15,
+          "text": "'You will sow but you will not reap. You will tread the olive but will not anoint yourself with oil; And the grapes, but you will not drink wine."
+        },
+        {
+          "pk": 854292,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 6,
+          "verse": 16,
+          "text": "'The statutes of Omri And all the works of the house of Ahab are observed; And in their devices you walk. Therefore I will give you up for destruction And your inhabitants for derision, And you will bear the reproach of My people.'"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 854293,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 1,
+          "text": "Woe is me! For I am Like the fruit pickers, like the grape gatherers. There is not a cluster of grapes to eat, [Or] a first-ripe fig [which] I crave."
+        },
+        {
+          "pk": 854294,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 2,
+          "text": "The godly person has perished from the land, And there is no upright [person] among men. All of them lie in wait for bloodshed; Each of them hunts the other with a net."
+        },
+        {
+          "pk": 854295,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 3,
+          "text": "Concerning evil, both hands do it well. The prince asks, also the judge, for a bribe, And a great man speaks the desire of his soul; So they weave it together."
+        },
+        {
+          "pk": 854296,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 4,
+          "text": "The best of them is like a briar, The most upright like a thorn hedge. The day when you post your watchmen, Your punishment will come. Then their confusion will occur."
+        },
+        {
+          "pk": 854297,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 5,
+          "text": "Do not trust in a neighbor; Do not have confidence in a friend. From her who lies in your bosom Guard your lips."
+        },
+        {
+          "pk": 854298,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 6,
+          "text": "For son treats father contemptuously, Daughter rises up against her mother, Daughter-in-law against her mother-in-law; A man's enemies are the men of his own household."
+        },
+        {
+          "pk": 854299,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 7,
+          "text": "But as for me, I will watch expectantly for the LORD; I will wait for the God of my salvation. My God will hear me."
+        },
+        {
+          "pk": 854300,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 8,
+          "text": "Do not rejoice over me, O my enemy. Though I fall I will rise; Though I dwell in darkness, the LORD is a light for me."
+        },
+        {
+          "pk": 854301,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 9,
+          "text": "I will bear the indignation of the LORD Because I have sinned against Him, Until He pleads my case and executes justice for me. He will bring me out to the light, [And] I will see His righteousness."
+        },
+        {
+          "pk": 854302,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 10,
+          "text": "Then my enemy will see, And shame will cover her who said to me, 'Where is the LORD your God?' My eyes will look on her; At that time she will be trampled down Like mire of the streets."
+        },
+        {
+          "pk": 854303,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 11,
+          "text": "[It will be] a day for building your walls. On that day will your boundary be extended."
+        },
+        {
+          "pk": 854304,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 12,
+          "text": "It [will be] a day when they will come to you From Assyria and the cities of Egypt, From Egypt even to the Euphrates, Even from sea to sea and mountain to mountain."
+        },
+        {
+          "pk": 854305,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 13,
+          "text": "And the earth will become desolate because of her inhabitants, On account of the fruit of their deeds."
+        },
+        {
+          "pk": 854306,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 14,
+          "text": "Shepherd Your people with Your scepter, The flock of Your possession Which dwells by itself in the woodland, In the midst of a fruitful field. Let them feed in Bashan and Gilead As in the days of old."
+        },
+        {
+          "pk": 854307,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 15,
+          "text": "'As in the days when you came out from the land of Egypt, I will show you miracles.'"
+        },
+        {
+          "pk": 854308,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 16,
+          "text": "Nations will see and be ashamed Of all their might. They will put [their] hand on [their] mouth, Their ears will be deaf."
+        },
+        {
+          "pk": 854309,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 17,
+          "text": "They will lick the dust like a serpent, Like reptiles of the earth. They will come trembling out of their fortresses; To the LORD our God they will come in dread And they will be afraid before You."
+        },
+        {
+          "pk": 854310,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 18,
+          "text": "Who is a God like You, who pardons iniquity And passes over the rebellious act of the remnant of His possession? He does not retain His anger forever, Because He delights in unchanging love."
+        },
+        {
+          "pk": 854311,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 19,
+          "text": "He will again have compassion on us; He will tread our iniquities under foot. Yes, You will cast all their sins Into the depths of the sea."
+        },
+        {
+          "pk": 854312,
+          "translation": "NASB",
+          "book": 33,
+          "chapter": 7,
+          "verse": 20,
+          "text": "You will give truth to Jacob [And] unchanging love to Abraham, Which You swore to our forefathers From the days of old."
+        }
+      ]
+    }
+  ]
+};

@@ -1,0 +1,291 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/40/14"] = [
+  {
+    "pk": 855226,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 1,
+    "text": "At that time Herod the tetrarch heard the news about Jesus,"
+  },
+  {
+    "pk": 855227,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 2,
+    "text": "and said to his servants, 'This is John the Baptist; he has risen from the dead, and that is why miraculous powers are at work in him.'"
+  },
+  {
+    "pk": 855228,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 3,
+    "text": "For when Herod had John arrested, he bound him and put him in prison because of Herodias, the wife of his brother Philip."
+  },
+  {
+    "pk": 855229,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 4,
+    "text": "For John had been saying to him, 'It is not lawful for you to have her.'"
+  },
+  {
+    "pk": 855230,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 5,
+    "text": "Although Herod wanted to put him to death, he feared the crowd, because they regarded John as a prophet."
+  },
+  {
+    "pk": 855231,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 6,
+    "text": "But when Herod's birthday came, the daughter of Herodias danced before [them] and pleased Herod,"
+  },
+  {
+    "pk": 855232,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 7,
+    "text": "so [much] that he promised with an oath to give her whatever she asked."
+  },
+  {
+    "pk": 855233,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 8,
+    "text": "Having been prompted by her mother, she said, 'Give me here on a platter the head of John the Baptist.'"
+  },
+  {
+    "pk": 855234,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 9,
+    "text": "Although he was grieved, the king commanded [it] to be given because of his oaths, and because of his dinner guests."
+  },
+  {
+    "pk": 855235,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 10,
+    "text": "He sent and had John beheaded in the prison."
+  },
+  {
+    "pk": 855236,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 11,
+    "text": "And his head was brought on a platter and given to the girl, and she brought it to her mother."
+  },
+  {
+    "pk": 855237,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 12,
+    "text": "His disciples came and took away the body and buried it; and they went and reported to Jesus."
+  },
+  {
+    "pk": 855238,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 13,
+    "text": "Now when Jesus heard [about John], He withdrew from there in a boat to a secluded place by Himself; and when the people heard [of this], they followed Him on foot from the cities."
+  },
+  {
+    "pk": 855239,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 14,
+    "text": "When He went ashore, He saw a large crowd, and felt compassion for them and healed their sick."
+  },
+  {
+    "pk": 855240,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 15,
+    "text": "When it was evening, the disciples came to Him and said, 'This place is desolate and the hour is already late; so send the crowds away, that they may go into the villages and buy food for themselves.'"
+  },
+  {
+    "pk": 855241,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 16,
+    "text": "But Jesus said to them, 'They do not need to go away; you give them [something] to eat!'"
+  },
+  {
+    "pk": 855242,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 17,
+    "text": "They said to Him, 'We have here only five loaves and two fish.'"
+  },
+  {
+    "pk": 855243,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 18,
+    "text": "And He said, 'Bring them here to Me.'"
+  },
+  {
+    "pk": 855244,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 19,
+    "text": "Ordering the people to sit down on the grass, He took the five loaves and the two fish, and looking up toward heaven, He blessed [the food], and breaking the loaves He gave them to the disciples, and the disciples [gave them] to the crowds,"
+  },
+  {
+    "pk": 855245,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 20,
+    "text": "and they all ate and were satisfied. They picked up what was left over of the broken pieces, twelve full baskets."
+  },
+  {
+    "pk": 855246,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 21,
+    "text": "There were about five thousand men who ate, besides women and children."
+  },
+  {
+    "pk": 855247,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 22,
+    "text": "Immediately He made the disciples get into the boat and go ahead of Him to the other side, while He sent the crowds away."
+  },
+  {
+    "pk": 855248,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 23,
+    "text": "After He had sent the crowds away, He went up on the mountain by Himself to pray; and when it was evening, He was there alone."
+  },
+  {
+    "pk": 855249,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 24,
+    "text": "But the boat was already a long distance from the land, battered by the waves; for the wind was contrary."
+  },
+  {
+    "pk": 855250,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 25,
+    "text": "And in the fourth watch of the night He came to them, walking on the sea."
+  },
+  {
+    "pk": 855251,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 26,
+    "text": "When the disciples saw Him walking on the sea, they were terrified, and said, 'It is a ghost!' And they cried out in fear."
+  },
+  {
+    "pk": 855252,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 27,
+    "text": "But immediately Jesus spoke to them, saying, 'Take courage, it is I; do not be afraid.'"
+  },
+  {
+    "pk": 855253,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 28,
+    "text": "Peter said to Him, 'Lord, if it is You, command me to come to You on the water.'"
+  },
+  {
+    "pk": 855254,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 29,
+    "text": "And He said, 'Come!' And Peter got out of the boat, and walked on the water and came toward Jesus."
+  },
+  {
+    "pk": 855255,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 30,
+    "text": "But seeing the wind, he became frightened, and beginning to sink, he cried out, 'Lord, save me!'"
+  },
+  {
+    "pk": 855256,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 31,
+    "text": "Immediately Jesus stretched out His hand and took hold of him, and said to him, 'You of little faith, why did you doubt?'"
+  },
+  {
+    "pk": 855257,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 32,
+    "text": "When they got into the boat, the wind stopped."
+  },
+  {
+    "pk": 855258,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 33,
+    "text": "And those who were in the boat worshiped Him, saying, 'You are certainly God's Son!'"
+  },
+  {
+    "pk": 855259,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 34,
+    "text": "When they had crossed over, they came to land at Gennesaret."
+  },
+  {
+    "pk": 855260,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 35,
+    "text": "And when the men of that place recognized Him, they sent [word] into all that surrounding district and brought to Him all who were sick;"
+  },
+  {
+    "pk": 855261,
+    "translation": "NASB",
+    "book": 40,
+    "chapter": 14,
+    "verse": 36,
+    "text": "and they implored Him that they might just touch the fringe of His cloak; and as many as touched [it] were cured."
+  }
+];

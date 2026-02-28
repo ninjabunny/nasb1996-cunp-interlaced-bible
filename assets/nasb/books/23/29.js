@@ -1,0 +1,195 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/29"] = [
+  {
+    "pk": 849822,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 1,
+    "text": "Woe, O Ariel, Ariel the city [where] David [once] camped! Add year to year, observe [your] feasts on schedule."
+  },
+  {
+    "pk": 849823,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 2,
+    "text": "I will bring distress to Ariel, And she will be [a city of] lamenting and mourning; And she will be like an Ariel to me."
+  },
+  {
+    "pk": 849824,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 3,
+    "text": "I will camp against you encircling [you], And I will set siegeworks against you, And I will raise up battle towers against you."
+  },
+  {
+    "pk": 849825,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 4,
+    "text": "Then you will be brought low; From the earth you will speak, And from the dust [where] you are prostrate Your words [will come]. Your voice will also be like that of a spirit from the ground, And your speech will whisper from the dust."
+  },
+  {
+    "pk": 849826,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 5,
+    "text": "But the multitude of your enemies will become like fine dust, And the multitude of the ruthless ones like the chaff which blows away; And it will happen instantly, suddenly."
+  },
+  {
+    "pk": 849827,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 6,
+    "text": "From the LORD of hosts you will be punished with thunder and earthquake and loud noise, [With] whirlwind and tempest and the flame of a consuming fire."
+  },
+  {
+    "pk": 849828,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 7,
+    "text": "And the multitude of all the nations who wage war against Ariel, Even all who wage war against her and her stronghold, and who distress her, Will be like a dream, a vision of the night."
+  },
+  {
+    "pk": 849829,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 8,
+    "text": "It will be as when a hungry man dreams-- And behold, he is eating; But when he awakens, his hunger is not satisfied, Or as when a thirsty man dreams-- And behold, he is drinking, But when he awakens, behold, he is faint And his thirst is not quenched. Thus the multitude of all the nations will be Who wage war against Mount Zion."
+  },
+  {
+    "pk": 849830,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 9,
+    "text": "Be delayed and wait, Blind yourselves and be blind; They become drunk, but not with wine, They stagger, but not with strong drink."
+  },
+  {
+    "pk": 849831,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 10,
+    "text": "For the LORD has poured over you a spirit of deep sleep, He has shut your eyes, the prophets; And He has covered your heads, the seers."
+  },
+  {
+    "pk": 849832,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 11,
+    "text": "The entire vision will be to you like the words of a sealed book, which when they give it to the one who is literate, saying, 'Please read this,' he will say, 'I cannot, for it is sealed.'"
+  },
+  {
+    "pk": 849833,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 12,
+    "text": "Then the book will be given to the one who is illiterate, saying, 'Please read this.' And he will say, 'I cannot read.'"
+  },
+  {
+    "pk": 849834,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 13,
+    "text": "Then the Lord said, 'Because this people draw near with their words And honor Me with their lip service, But they remove their hearts far from Me, And their reverence for Me consists of tradition learned [by rote],"
+  },
+  {
+    "pk": 849835,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 14,
+    "text": "Therefore behold, I will once again deal marvelously with this people, wondrously marvelous; And the wisdom of their wise men will perish, And the discernment of their discerning men will be concealed.'"
+  },
+  {
+    "pk": 849836,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 15,
+    "text": "Woe to those who deeply hide their plans from the LORD, And whose deeds are [done] in a dark place, And they say, 'Who sees us?' or 'Who knows us?'"
+  },
+  {
+    "pk": 849837,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 16,
+    "text": "You turn [things] around! Shall the potter be considered as equal with the clay, That what is made would say to its maker, 'He did not make me'; Or what is formed say to him who formed it, 'He has no understanding '?"
+  },
+  {
+    "pk": 849838,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 17,
+    "text": "Is it not yet just a little while Before Lebanon will be turned into a fertile field, And the fertile field will be considered as a forest?"
+  },
+  {
+    "pk": 849839,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 18,
+    "text": "On that day the deaf will hear words of a book, And out of [their] gloom and darkness the eyes of the blind will see."
+  },
+  {
+    "pk": 849840,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 19,
+    "text": "The afflicted also will increase their gladness in the LORD, And the needy of mankind will rejoice in the Holy One of Israel."
+  },
+  {
+    "pk": 849841,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 20,
+    "text": "For the ruthless will come to an end and the scorner will be finished, Indeed all who are intent on doing evil will be cut off;"
+  },
+  {
+    "pk": 849842,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 21,
+    "text": "Who cause a person to be indicted by a word, And ensnare him who adjudicates at the gate, And defraud the one in the right with meaningless arguments."
+  },
+  {
+    "pk": 849843,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 22,
+    "text": "Therefore thus says the LORD, who redeemed Abraham, concerning the house of Jacob: 'Jacob shall not now be ashamed, nor shall his face now turn pale;"
+  },
+  {
+    "pk": 849844,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 23,
+    "text": "But when he sees his children, the work of My hands, in his midst, They will sanctify My name; Indeed, they will sanctify the Holy One of Jacob And will stand in awe of the God of Israel."
+  },
+  {
+    "pk": 849845,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 29,
+    "verse": 24,
+    "text": "'Those who err in mind will know the truth, And those who criticize will accept instruction."
+  }
+];

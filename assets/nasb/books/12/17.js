@@ -1,0 +1,331 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/12/17"] = [
+  {
+    "pk": 841612,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 1,
+    "text": "In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah became king over Israel in Samaria, [and reigned] nine years."
+  },
+  {
+    "pk": 841613,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 2,
+    "text": "He did evil in the sight of the LORD, only not as the kings of Israel who were before him."
+  },
+  {
+    "pk": 841614,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 3,
+    "text": "Shalmaneser king of Assyria came up against him, and Hoshea became his servant and paid him tribute."
+  },
+  {
+    "pk": 841615,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 4,
+    "text": "But the king of Assyria found conspiracy in Hoshea, who had sent messengers to So king of Egypt and had offered no tribute to the king of Assyria, as [he had done] year by year; so the king of Assyria shut him up and bound him in prison."
+  },
+  {
+    "pk": 841616,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 5,
+    "text": "Then the king of Assyria invaded the whole land and went up to Samaria and besieged it three years."
+  },
+  {
+    "pk": 841617,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 6,
+    "text": "In the ninth year of Hoshea, the king of Assyria captured Samaria and carried Israel away into exile to Assyria, and settled them in Halah and Habor, [on] the river of Gozan, and in the cities of the Medes."
+  },
+  {
+    "pk": 841618,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 7,
+    "text": "Now [this] came about because the sons of Israel had sinned against the LORD their God, who had brought them up from the land of Egypt from under the hand of Pharaoh, king of Egypt, and they had feared other gods"
+  },
+  {
+    "pk": 841619,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 8,
+    "text": "and walked in the customs of the nations whom the LORD had driven out before the sons of Israel, and [in the customs] of the kings of Israel which they had introduced."
+  },
+  {
+    "pk": 841620,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 9,
+    "text": "The sons of Israel did things secretly which were not right against the LORD their God. Moreover, they built for themselves high places in all their towns, from watchtower to fortified city."
+  },
+  {
+    "pk": 841621,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 10,
+    "text": "They set for themselves [sacred] pillars and Asherim on every high hill and under every green tree,"
+  },
+  {
+    "pk": 841622,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 11,
+    "text": "and there they burned incense on all the high places as the nations [did] which the LORD had carried away to exile before them; and they did evil things provoking the LORD."
+  },
+  {
+    "pk": 841623,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 12,
+    "text": "They served idols, concerning which the LORD had said to them, 'You shall not do this thing.'"
+  },
+  {
+    "pk": 841624,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 13,
+    "text": "Yet the LORD warned Israel and Judah through all His prophets [and] every seer, saying, 'Turn from your evil ways and keep My commandments, My statutes according to all the law which I commanded your fathers, and which I sent to you through My servants the prophets.'"
+  },
+  {
+    "pk": 841625,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 14,
+    "text": "However, they did not listen, but stiffened their neck like their fathers, who did not believe in the LORD their God."
+  },
+  {
+    "pk": 841626,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 15,
+    "text": "They rejected His statutes and His covenant which He made with their fathers and His warnings with which He warned them. And they followed vanity and became vain, and [went] after the nations which surrounded them, concerning which the LORD had commanded them not to do like them."
+  },
+  {
+    "pk": 841627,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 16,
+    "text": "They forsook all the commandments of the LORD their God and made for themselves molten images, [even] two calves, and made an Asherah and worshiped all the host of heaven and served Baal."
+  },
+  {
+    "pk": 841628,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 17,
+    "text": "Then they made their sons and their daughters pass through the fire, and practiced divination and enchantments, and sold themselves to do evil in the sight of the LORD, provoking Him."
+  },
+  {
+    "pk": 841629,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 18,
+    "text": "So the LORD was very angry with Israel and removed them from His sight; none was left except the tribe of Judah."
+  },
+  {
+    "pk": 841630,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 19,
+    "text": "Also Judah did not keep the commandments of the LORD their God, but walked in the customs which Israel had introduced."
+  },
+  {
+    "pk": 841631,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 20,
+    "text": "The LORD rejected all the descendants of Israel and afflicted them and gave them into the hand of plunderers, until He had cast them out of His sight."
+  },
+  {
+    "pk": 841632,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 21,
+    "text": "When He had torn Israel from the house of David, they made Jeroboam the son of Nebat king. Then Jeroboam drove Israel away from following the LORD and made them commit a great sin."
+  },
+  {
+    "pk": 841633,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 22,
+    "text": "The sons of Israel walked in all the sins of Jeroboam which he did; they did not depart from them"
+  },
+  {
+    "pk": 841634,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 23,
+    "text": "until the LORD removed Israel from His sight, as He spoke through all His servants the prophets. So Israel was carried away into exile from their own land to Assyria until this day."
+  },
+  {
+    "pk": 841635,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 24,
+    "text": "The king of Assyria brought [men] from Babylon and from Cuthah and from Avva and from Hamath and Sephar-vaim, and settled [them] in the cities of Samaria in place of the sons of Israel. So they possessed Samaria and lived in its cities."
+  },
+  {
+    "pk": 841636,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 25,
+    "text": "At the beginning of their living there, they did not fear the LORD; therefore the LORD sent lions among them which killed some of them."
+  },
+  {
+    "pk": 841637,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 26,
+    "text": "So they spoke to the king of Assyria, saying, 'The nations whom you have carried away into exile in the cities of Samaria do not know the custom of the god of the land; so he has sent lions among them, and behold, they kill them because they do not know the custom of the god of the land.'"
+  },
+  {
+    "pk": 841638,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 27,
+    "text": "Then the king of Assyria commanded, saying, 'Take there one of the priests whom you carried away into exile and let him go and live there; and let him teach them the custom of the god of the land.'"
+  },
+  {
+    "pk": 841639,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 28,
+    "text": "So one of the priests whom they had carried away into exile from Samaria came and lived at Bethel, and taught them how they should fear the LORD."
+  },
+  {
+    "pk": 841640,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 29,
+    "text": "But every nation still made gods of its own and put them in the houses of the high places which the people of Samaria had made, every nation in their cities in which they lived."
+  },
+  {
+    "pk": 841641,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 30,
+    "text": "The men of Babylon made Succoth-benoth, the men of Cuth made Nergal, the men of Hamath made Ashima,"
+  },
+  {
+    "pk": 841642,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 31,
+    "text": "and the Avvites made Nibhaz and Tartak; and the Sepharvites burned their children in the fire to Adrammelech and Anammelech the gods of Sepharvaim."
+  },
+  {
+    "pk": 841643,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 32,
+    "text": "They also feared the LORD and appointed from among themselves priests of the high places, who acted for them in the houses of the high places."
+  },
+  {
+    "pk": 841644,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 33,
+    "text": "They feared the LORD and served their own gods according to the custom of the nations from among whom they had been carried away into exile."
+  },
+  {
+    "pk": 841645,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 34,
+    "text": "To this day they do according to the earlier customs: they do not fear the LORD, nor do they follow their statutes or their ordinances or the law, or the commandments which the LORD commanded the sons of Jacob, whom He named Israel;"
+  },
+  {
+    "pk": 841646,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 35,
+    "text": "with whom the LORD made a covenant and commanded them, saying, 'You shall not fear other gods, nor bow down yourselves to them nor serve them nor sacrifice to them."
+  },
+  {
+    "pk": 841647,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 36,
+    "text": "'But the LORD, who brought you up from the land of Egypt with great power and with an outstretched arm, Him you shall fear, and to Him you shall bow yourselves down, and to Him you shall sacrifice."
+  },
+  {
+    "pk": 841648,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 37,
+    "text": "'The statutes and the ordinances and the law and the commandment which He wrote for you, you shall observe to do forever; and you shall not fear other gods."
+  },
+  {
+    "pk": 841649,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 38,
+    "text": "'The covenant that I have made with you, you shall not forget, nor shall you fear other gods."
+  },
+  {
+    "pk": 841650,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 39,
+    "text": "'But the LORD your God you shall fear; and He will deliver you from the hand of all your enemies.'"
+  },
+  {
+    "pk": 841651,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 40,
+    "text": "However, they did not listen, but they did according to their earlier custom."
+  },
+  {
+    "pk": 841652,
+    "translation": "NASB",
+    "book": 12,
+    "chapter": 17,
+    "verse": 41,
+    "text": "So while these nations feared the LORD, they also served their idols; their children likewise and their grandchildren, as their fathers did, so they do to this day."
+  }
+];

@@ -1,0 +1,155 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/80"] = [
+  {
+    "pk": 846827,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 1,
+    "text": "For the choir director; [set to] El Shoshannim; Eduth. A Psalm of Asaph. Oh, give ear, Shepherd of Israel, You who lead Joseph like a flock; You who are enthroned [above] the cherubim, shine forth!"
+  },
+  {
+    "pk": 846828,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 2,
+    "text": "Before Ephraim and Benjamin and Manasseh, stir up Your power And come to save us!"
+  },
+  {
+    "pk": 846829,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 3,
+    "text": "O God, restore us And cause Your face to shine [upon us], and we will be saved."
+  },
+  {
+    "pk": 846830,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 4,
+    "text": "O LORD God [of] hosts, How long will You be angry with the prayer of Your people?"
+  },
+  {
+    "pk": 846831,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 5,
+    "text": "You have fed them with the bread of tears, And You have made them to drink tears in large measure."
+  },
+  {
+    "pk": 846832,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 6,
+    "text": "You make us an object of contention to our neighbors, And our enemies laugh among themselves."
+  },
+  {
+    "pk": 846833,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 7,
+    "text": "O God [of] hosts, restore us And cause Your face to shine [upon us], and we will be saved."
+  },
+  {
+    "pk": 846834,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 8,
+    "text": "You removed a vine from Egypt; You drove out the nations and planted it."
+  },
+  {
+    "pk": 846835,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 9,
+    "text": "You cleared [the ground] before it, And it took deep root and filled the land."
+  },
+  {
+    "pk": 846836,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 10,
+    "text": "The mountains were covered with its shadow, And the cedars of God with its boughs."
+  },
+  {
+    "pk": 846837,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 11,
+    "text": "It was sending out its branches to the sea And its shoots to the River."
+  },
+  {
+    "pk": 846838,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 12,
+    "text": "Why have You broken down its hedges, So that all who pass [that] way pick its [fruit]?"
+  },
+  {
+    "pk": 846839,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 13,
+    "text": "A boar from the forest eats it away And whatever moves in the field feeds on it."
+  },
+  {
+    "pk": 846840,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 14,
+    "text": "O God [of] hosts, turn again now, we beseech You; Look down from heaven and see, and take care of this vine,"
+  },
+  {
+    "pk": 846841,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 15,
+    "text": "Even the shoot which Your right hand has planted, And on the son whom You have strengthened for Yourself."
+  },
+  {
+    "pk": 846842,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 16,
+    "text": "It is burned with fire, it is cut down; They perish at the rebuke of Your countenance."
+  },
+  {
+    "pk": 846843,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 17,
+    "text": "Let Your hand be upon the man of Your right hand, Upon the son of man whom You made strong for Yourself."
+  },
+  {
+    "pk": 846844,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 18,
+    "text": "Then we shall not turn back from You; Revive us, and we will call upon Your name."
+  },
+  {
+    "pk": 846845,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 80,
+    "verse": 19,
+    "text": "O LORD God of hosts, restore us; Cause Your face to shine [upon us], and we will be saved."
+  }
+];

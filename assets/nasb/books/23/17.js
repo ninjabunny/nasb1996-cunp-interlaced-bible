@@ -1,0 +1,115 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/17"] = [
+  {
+    "pk": 849612,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 1,
+    "text": "The oracle concerning Damascus. 'Behold, Damascus is about to be removed from being a city And will become a fallen ruin."
+  },
+  {
+    "pk": 849613,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 2,
+    "text": "'The cities of Aroer are forsaken; They will be for flocks to lie down in, And there will be no one to frighten [them]."
+  },
+  {
+    "pk": 849614,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 3,
+    "text": "'The fortified city will disappear from Ephraim, And sovereignty from Damascus And the remnant of Aram; They will be like the glory of the sons of Israel,' Declares the LORD of hosts."
+  },
+  {
+    "pk": 849615,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 4,
+    "text": "Now in that day the glory of Jacob will fade, And the fatness of his flesh will become lean."
+  },
+  {
+    "pk": 849616,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 5,
+    "text": "It will be even like the reaper gathering the standing grain, As his arm harvests the ears, Or it will be like one gleaning ears of grain In the valley of Rephaim."
+  },
+  {
+    "pk": 849617,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 6,
+    "text": "Yet gleanings will be left in it like the shaking of an olive tree, Two [or] three olives on the topmost bough, Four [or] five on the branches of a fruitful tree, Declares the LORD, the God of Israel."
+  },
+  {
+    "pk": 849618,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 7,
+    "text": "In that day man will have regard for his Maker And his eyes will look to the Holy One of Israel."
+  },
+  {
+    "pk": 849619,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 8,
+    "text": "He will not have regard for the altars, the work of his hands, Nor will he look to that which his fingers have made, Even the Asherim and incense stands."
+  },
+  {
+    "pk": 849620,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 9,
+    "text": "In that day their strong cities will be like forsaken places in the forest, Or like branches which they abandoned before the sons of Israel; And the land will be a desolation."
+  },
+  {
+    "pk": 849621,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 10,
+    "text": "For you have forgotten the God of your salvation And have not remembered the rock of your refuge. Therefore you plant delightful plants And set them with vine slips of a strange [god]."
+  },
+  {
+    "pk": 849622,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 11,
+    "text": "In the day that you plant [it] you carefully fence [it] in, And in the morning you bring your seed to blossom; [But] the harvest will [be] a heap In a day of sickliness and incurable pain."
+  },
+  {
+    "pk": 849623,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 12,
+    "text": "Alas, the uproar of many peoples Who roar like the roaring of the seas, And the rumbling of nations Who rush on like the rumbling of mighty waters!"
+  },
+  {
+    "pk": 849624,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 13,
+    "text": "The nations rumble on like the rumbling of many waters, But He will rebuke them and they will flee far away, And be chased like chaff in the mountains before the wind, Or like whirling dust before a gale."
+  },
+  {
+    "pk": 849625,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 17,
+    "verse": 14,
+    "text": "At evening time, behold, [there is] terror! Before morning they are no more. Such [will be] the portion of those who plunder us And the lot of those who pillage us."
+  }
+];

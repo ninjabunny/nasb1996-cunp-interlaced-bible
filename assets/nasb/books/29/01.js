@@ -1,0 +1,163 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/29/01"] = [
+  {
+    "pk": 853920,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 1,
+    "text": "The word of the LORD that came to Joel, the son of Pethuel:"
+  },
+  {
+    "pk": 853921,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 2,
+    "text": "Hear this, O elders, And listen, all inhabitants of the land. Has [anything like] this happened in your days Or in your fathers' days?"
+  },
+  {
+    "pk": 853922,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 3,
+    "text": "Tell your sons about it, And [let] your sons [tell] their sons, And their sons the next generation."
+  },
+  {
+    "pk": 853923,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 4,
+    "text": "What the gnawing locust has left, the swarming locust has eaten; And what the swarming locust has left, the creeping locust has eaten; And what the creeping locust has left, the stripping locust has eaten."
+  },
+  {
+    "pk": 853924,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 5,
+    "text": "Awake, drunkards, and weep; And wail, all you wine drinkers, On account of the sweet wine That is cut off from your mouth."
+  },
+  {
+    "pk": 853925,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 6,
+    "text": "For a nation has invaded my land, Mighty and without number; Its teeth are the teeth of a lion, And it has the fangs of a lioness."
+  },
+  {
+    "pk": 853926,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 7,
+    "text": "It has made my vine a waste And my fig tree splinters. It has stripped them bare and cast [them] away; Their branches have become white."
+  },
+  {
+    "pk": 853927,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Wail like a virgin girded with sackcloth For the bridegroom of her youth."
+  },
+  {
+    "pk": 853928,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 9,
+    "text": "The grain offering and the drink offering are cut off From the house of the LORD. The priests mourn, The ministers of the LORD."
+  },
+  {
+    "pk": 853929,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 10,
+    "text": "The field is ruined, The land mourns; For the grain is ruined, The new wine dries up, Fresh oil fails."
+  },
+  {
+    "pk": 853930,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 11,
+    "text": "Be ashamed, O farmers, Wail, O vinedressers, For the wheat and the barley; Because the harvest of the field is destroyed."
+  },
+  {
+    "pk": 853931,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 12,
+    "text": "The vine dries up And the fig tree fails; The pomegranate, the palm also, and the apple tree, All the trees of the field dry up. Indeed, rejoicing dries up From the sons of men."
+  },
+  {
+    "pk": 853932,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 13,
+    "text": "Gird yourselves [with sackcloth] And lament, O priests; Wail, O ministers of the altar! Come, spend the night in sackcloth O ministers of my God, For the grain offering and the drink offering Are withheld from the house of your God."
+  },
+  {
+    "pk": 853933,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 14,
+    "text": "Consecrate a fast, Proclaim a solemn assembly; Gather the elders [And] all the inhabitants of the land To the house of the LORD your God, And cry out to the LORD."
+  },
+  {
+    "pk": 853934,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 15,
+    "text": "Alas for the day! For the day of the LORD is near, And it will come as destruction from the Almighty."
+  },
+  {
+    "pk": 853935,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 16,
+    "text": "Has not food been cut off before our eyes, Gladness and joy from the house of our God?"
+  },
+  {
+    "pk": 853936,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 17,
+    "text": "The seeds shrivel under their clods; The storehouses are desolate, The barns are torn down, For the grain is dried up."
+  },
+  {
+    "pk": 853937,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 18,
+    "text": "How the beasts groan! The herds of cattle wander aimlessly Because there is no pasture for them; Even the flocks of sheep suffer."
+  },
+  {
+    "pk": 853938,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 19,
+    "text": "To You, O LORD, I cry; For fire has devoured the pastures of the wilderness And the flame has burned up all the trees of the field."
+  },
+  {
+    "pk": 853939,
+    "translation": "NASB",
+    "book": 29,
+    "chapter": 1,
+    "verse": 20,
+    "text": "Even the beasts of the field pant for You; For the water brooks are dried up And fire has devoured the pastures of the wilderness."
+  }
+];

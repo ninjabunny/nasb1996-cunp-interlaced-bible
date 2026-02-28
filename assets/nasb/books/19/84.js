@@ -1,0 +1,99 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/84"] = [
+  {
+    "pk": 846888,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 1,
+    "text": "For the choir director; on the Gittith. A Psalm of the sons of Korah. How lovely are Your dwelling places, O LORD of hosts!"
+  },
+  {
+    "pk": 846889,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 2,
+    "text": "My soul longed and even yearned for the courts of the LORD; My heart and my flesh sing for joy to the living God."
+  },
+  {
+    "pk": 846890,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 3,
+    "text": "The bird also has found a house, And the swallow a nest for herself, where she may lay her young, Even Your altars, O LORD of hosts, My King and my God."
+  },
+  {
+    "pk": 846891,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 4,
+    "text": "How blessed are those who dwell in Your house! They are ever praising You. Selah."
+  },
+  {
+    "pk": 846892,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 5,
+    "text": "How blessed is the man whose strength is in You, In whose heart are the highways [to Zion]!"
+  },
+  {
+    "pk": 846893,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 6,
+    "text": "Passing through the valley of Baca they make it a spring; The early rain also covers it with blessings."
+  },
+  {
+    "pk": 846894,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 7,
+    "text": "They go from strength to strength, [Every one of them] appears before God in Zion."
+  },
+  {
+    "pk": 846895,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 8,
+    "text": "O LORD God of hosts, hear my prayer; Give ear, O God of Jacob! Selah."
+  },
+  {
+    "pk": 846896,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 9,
+    "text": "Behold our shield, O God, And look upon the face of Your anointed."
+  },
+  {
+    "pk": 846897,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 10,
+    "text": "For a day in Your courts is better than a thousand [outside]. I would rather stand at the threshold of the house of my God Than dwell in the tents of wickedness."
+  },
+  {
+    "pk": 846898,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 11,
+    "text": "For the LORD God is a sun and shield; The LORD gives grace and glory; No good thing does He withhold from those who walk uprightly."
+  },
+  {
+    "pk": 846899,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 84,
+    "verse": 12,
+    "text": "O LORD of hosts, How blessed is the man who trusts in You!"
+  }
+];

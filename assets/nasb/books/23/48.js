@@ -1,0 +1,179 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/48"] = [
+  {
+    "pk": 850243,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 1,
+    "text": "'Hear this, O house of Jacob, who are named Israel And who came forth from the loins of Judah, Who swear by the name of the LORD And invoke the God of Israel, [But] not in truth nor in righteousness."
+  },
+  {
+    "pk": 850244,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 2,
+    "text": "'For they call themselves after the holy city And lean on the God of Israel; The LORD of hosts is His name."
+  },
+  {
+    "pk": 850245,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 3,
+    "text": "'I declared the former things long ago And they went forth from My mouth, and I proclaimed them. Suddenly I acted, and they came to pass."
+  },
+  {
+    "pk": 850246,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 4,
+    "text": "'Because I know that you are obstinate, And your neck is an iron sinew And your forehead bronze,"
+  },
+  {
+    "pk": 850247,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 5,
+    "text": "Therefore I declared [them] to you long ago, Before they took place I proclaimed [them] to you, So that you would not say, 'My idol has done them, And my graven image and my molten image have commanded them.'"
+  },
+  {
+    "pk": 850248,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 6,
+    "text": "'You have heard; look at all this. And you, will you not declare it? I proclaim to you new things from this time, Even hidden things which you have not known."
+  },
+  {
+    "pk": 850249,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 7,
+    "text": "'They are created now and not long ago; And before today you have not heard them, So that you will not say, 'Behold, I knew them.'"
+  },
+  {
+    "pk": 850250,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 8,
+    "text": "'You have not heard, you have not known. Even from long ago your ear has not been open, Because I knew that you would deal very treacherously; And you have been called a rebel from birth."
+  },
+  {
+    "pk": 850251,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 9,
+    "text": "'For the sake of My name I delay My wrath, And [for] My praise I restrain [it] for you, In order not to cut you off."
+  },
+  {
+    "pk": 850252,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 10,
+    "text": "'Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction."
+  },
+  {
+    "pk": 850253,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 11,
+    "text": "'For My own sake, for My own sake, I will act; For how can [My name] be profaned? And My glory I will not give to another."
+  },
+  {
+    "pk": 850254,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 12,
+    "text": "'Listen to Me, O Jacob, even Israel whom I called; I am He, I am the first, I am also the last."
+  },
+  {
+    "pk": 850255,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 13,
+    "text": "'Surely My hand founded the earth, And My right hand spread out the heavens; When I call to them, they stand together."
+  },
+  {
+    "pk": 850256,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 14,
+    "text": "'Assemble, all of you, and listen! Who among them has declared these things? The LORD loves him; he will carry out His good pleasure on Babylon, And His arm [will be against] the Chaldeans."
+  },
+  {
+    "pk": 850257,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 15,
+    "text": "'I, even I, have spoken; indeed I have called him, I have brought him, and He will make his ways successful."
+  },
+  {
+    "pk": 850258,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 16,
+    "text": "'Come near to Me, listen to this: From the first I have not spoken in secret, From the time it took place, I was there. And now the Lord GOD has sent Me, and His Spirit.'"
+  },
+  {
+    "pk": 850259,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 17,
+    "text": "Thus says the LORD, your Redeemer, the Holy One of Israel, 'I am the LORD your God, who teaches you to profit, Who leads you in the way you should go."
+  },
+  {
+    "pk": 850260,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 18,
+    "text": "'If only you had paid attention to My commandments! Then your well-being would have been like a river, And your righteousness like the waves of the sea."
+  },
+  {
+    "pk": 850261,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 19,
+    "text": "'Your descendants would have been like the sand, And your offspring like its grains; Their name would never be cut off or destroyed from My presence.'"
+  },
+  {
+    "pk": 850262,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 20,
+    "text": "Go forth from Babylon! Flee from the Chaldeans! Declare with the sound of joyful shouting, proclaim this, Send it out to the end of the earth; Say, 'The LORD has redeemed His servant Jacob.'"
+  },
+  {
+    "pk": 850263,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 21,
+    "text": "They did not thirst when He led them through the deserts. He made the water flow out of the rock for them; He split the rock and the water gushed forth."
+  },
+  {
+    "pk": 850264,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 48,
+    "verse": 22,
+    "text": "'There is no peace for the wicked,' says the LORD."
+  }
+];

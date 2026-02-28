@@ -1,0 +1,12521 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/01/book"] = {
+  "translation": "NASB",
+  "book": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 831628,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the beginning God created the heavens and the earth."
+        },
+        {
+          "pk": 831629,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 2,
+          "text": "The earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was moving over the surface of the waters."
+        },
+        {
+          "pk": 831630,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 3,
+          "text": "Then God said, 'Let there be light'; and there was light."
+        },
+        {
+          "pk": 831631,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 4,
+          "text": "God saw that the light was good; and God separated the light from the darkness."
+        },
+        {
+          "pk": 831632,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 5,
+          "text": "God called the light day, and the darkness He called night. And there was evening and there was morning, one day."
+        },
+        {
+          "pk": 831633,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 6,
+          "text": "Then God said, 'Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.'"
+        },
+        {
+          "pk": 831634,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 7,
+          "text": "God made the expanse, and separated the waters which were below the expanse from the waters which were above the expanse; and it was so."
+        },
+        {
+          "pk": 831635,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 8,
+          "text": "God called the expanse heaven. And there was evening and there was morning, a second day."
+        },
+        {
+          "pk": 831636,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 9,
+          "text": "Then God said, 'Let the waters below the heavens be gathered into one place, and let the dry land appear'; and it was so."
+        },
+        {
+          "pk": 831637,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 10,
+          "text": "God called the dry land earth, and the gathering of the waters He called seas; and God saw that it was good."
+        },
+        {
+          "pk": 831638,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 11,
+          "text": "Then God said, 'Let the earth sprout vegetation: plants yielding seed, [and] fruit trees on the earth bearing fruit after their kind with seed in them'; and it was so."
+        },
+        {
+          "pk": 831639,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 12,
+          "text": "The earth brought forth vegetation, plants yielding seed after their kind, and trees bearing fruit with seed in them, after their kind; and God saw that it was good."
+        },
+        {
+          "pk": 831640,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 13,
+          "text": "There was evening and there was morning, a third day."
+        },
+        {
+          "pk": 831641,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 14,
+          "text": "Then God said, 'Let there be lights in the expanse of the heavens to separate the day from the night, and let them be for signs and for seasons and for days and years;"
+        },
+        {
+          "pk": 831642,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 15,
+          "text": "and let them be for lights in the expanse of the heavens to give light on the earth'; and it was so."
+        },
+        {
+          "pk": 831643,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 16,
+          "text": "God made the two great lights, the greater light to govern the day, and the lesser light to govern the night; [He made] the stars also."
+        },
+        {
+          "pk": 831644,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 17,
+          "text": "God placed them in the expanse of the heavens to give light on the earth,"
+        },
+        {
+          "pk": 831645,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 18,
+          "text": "and to govern the day and the night, and to separate the light from the darkness; and God saw that it was good."
+        },
+        {
+          "pk": 831646,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 19,
+          "text": "There was evening and there was morning, a fourth day."
+        },
+        {
+          "pk": 831647,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 20,
+          "text": "Then God said, 'Let the waters teem with swarms of living creatures, and let birds fly above the earth in the open expanse of the heavens.'"
+        },
+        {
+          "pk": 831648,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 21,
+          "text": "God created the great sea monsters and every living creature that moves, with which the waters swarmed after their kind, and every winged bird after its kind; and God saw that it was good."
+        },
+        {
+          "pk": 831649,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 22,
+          "text": "God blessed them, saying, 'Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.'"
+        },
+        {
+          "pk": 831650,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 23,
+          "text": "There was evening and there was morning, a fifth day."
+        },
+        {
+          "pk": 831651,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 24,
+          "text": "Then God said, 'Let the earth bring forth living creatures after their kind: cattle and creeping things and beasts of the earth after their kind'; and it was so."
+        },
+        {
+          "pk": 831652,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 25,
+          "text": "God made the beasts of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind; and God saw that it was good."
+        },
+        {
+          "pk": 831653,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 26,
+          "text": "Then God said, 'Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the cattle and over all the earth, and over every creeping thing that creeps on the earth.'"
+        },
+        {
+          "pk": 831654,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 27,
+          "text": "God created man in His own image, in the image of God He created him; male and female He created them."
+        },
+        {
+          "pk": 831655,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 28,
+          "text": "God blessed them; and God said to them, 'Be fruitful and multiply, and fill the earth, and subdue it; and rule over the fish of the sea and over the birds of the sky and over every living thing that moves on the earth.'"
+        },
+        {
+          "pk": 831656,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 29,
+          "text": "Then God said, 'Behold, I have given you every plant yielding seed that is on the surface of all the earth, and every tree which has fruit yielding seed; it shall be food for you;"
+        },
+        {
+          "pk": 831657,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 30,
+          "text": "and to every beast of the earth and to every bird of the sky and to every thing that moves on the earth which has life, [I have given] every green plant for food'; and it was so."
+        },
+        {
+          "pk": 831658,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 1,
+          "verse": 31,
+          "text": "God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 831659,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 1,
+          "text": "Thus the heavens and the earth were completed, and all their hosts."
+        },
+        {
+          "pk": 831660,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 2,
+          "text": "By the seventh day God completed His work which He had done, and He rested on the seventh day from all His work which He had done."
+        },
+        {
+          "pk": 831661,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 3,
+          "text": "Then God blessed the seventh day and sanctified it, because in it He rested from all His work which God had created and made."
+        },
+        {
+          "pk": 831662,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 4,
+          "text": "This is the account of the heavens and the earth when they were created, in the day that the LORD God made earth and heaven."
+        },
+        {
+          "pk": 831663,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 5,
+          "text": "Now no shrub of the field was yet in the earth, and no plant of the field had yet sprouted, for the LORD God had not sent rain upon the earth, and there was no man to cultivate the ground."
+        },
+        {
+          "pk": 831664,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 6,
+          "text": "But a mist used to rise from the earth and water the whole surface of the ground."
+        },
+        {
+          "pk": 831665,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 7,
+          "text": "Then the LORD God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being."
+        },
+        {
+          "pk": 831666,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 8,
+          "text": "The LORD God planted a garden toward the east, in Eden; and there He placed the man whom He had formed."
+        },
+        {
+          "pk": 831667,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 9,
+          "text": "Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil."
+        },
+        {
+          "pk": 831668,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 10,
+          "text": "Now a river flowed out of Eden to water the garden; and from there it divided and became four rivers."
+        },
+        {
+          "pk": 831669,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 11,
+          "text": "The name of the first is Pishon; it flows around the whole land of Havilah, where there is gold."
+        },
+        {
+          "pk": 831670,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 12,
+          "text": "The gold of that land is good; the bdellium and the onyx stone are there."
+        },
+        {
+          "pk": 831671,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 13,
+          "text": "The name of the second river is Gihon; it flows around the whole land of Cush."
+        },
+        {
+          "pk": 831672,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 14,
+          "text": "The name of the third river is Tigris; it flows east of Assyria. And the fourth river is the Euphrates."
+        },
+        {
+          "pk": 831673,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 15,
+          "text": "Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it."
+        },
+        {
+          "pk": 831674,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 16,
+          "text": "The LORD God commanded the man, saying, 'From any tree of the garden you may eat freely;"
+        },
+        {
+          "pk": 831675,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 17,
+          "text": "but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat from it you will surely die.'"
+        },
+        {
+          "pk": 831676,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 18,
+          "text": "Then the LORD God said, 'It is not good for the man to be alone; I will make him a helper suitable for him.'"
+        },
+        {
+          "pk": 831677,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 19,
+          "text": "Out of the ground the LORD God formed every beast of the field and every bird of the sky, and brought [them] to the man to see what he would call them; and whatever the man called a living creature, that was its name."
+        },
+        {
+          "pk": 831678,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 20,
+          "text": "The man gave names to all the cattle, and to the birds of the sky, and to every beast of the field, but for Adam there was not found a helper suitable for him."
+        },
+        {
+          "pk": 831679,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 21,
+          "text": "So the LORD God caused a deep sleep to fall upon the man, and he slept; then He took one of his ribs and closed up the flesh at that place."
+        },
+        {
+          "pk": 831680,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 22,
+          "text": "The LORD God fashioned into a woman the rib which He had taken from the man, and brought her to the man."
+        },
+        {
+          "pk": 831681,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 23,
+          "text": "The man said, 'This is now bone of my bones, And flesh of my flesh; She shall be called Woman, Because she was taken out of Man.'"
+        },
+        {
+          "pk": 831682,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 24,
+          "text": "For this reason a man shall leave his father and his mother, and be joined to his wife; and they shall become one flesh."
+        },
+        {
+          "pk": 831683,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 2,
+          "verse": 25,
+          "text": "And the man and his wife were both naked and were not ashamed."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 831684,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 1,
+          "text": "Now the serpent was more crafty than any beast of the field which the LORD God had made. And he said to the woman, 'Indeed, has God said, 'You shall not eat from any tree of the garden '?'"
+        },
+        {
+          "pk": 831685,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 2,
+          "text": "The woman said to the serpent, 'From the fruit of the trees of the garden we may eat;"
+        },
+        {
+          "pk": 831686,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 3,
+          "text": "but from the fruit of the tree which is in the middle of the garden, God has said, 'You shall not eat from it or touch it, or you will die.''"
+        },
+        {
+          "pk": 831687,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 4,
+          "text": "The serpent said to the woman, 'You surely will not die!"
+        },
+        {
+          "pk": 831688,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 5,
+          "text": "'For God knows that in the day you eat from it your eyes will be opened, and you will be like God, knowing good and evil.'"
+        },
+        {
+          "pk": 831689,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 6,
+          "text": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make [one] wise, she took from its fruit and ate; and she gave also to her husband with her, and he ate."
+        },
+        {
+          "pk": 831690,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 7,
+          "text": "Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loin coverings."
+        },
+        {
+          "pk": 831691,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 8,
+          "text": "They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden."
+        },
+        {
+          "pk": 831692,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 9,
+          "text": "Then the LORD God called to the man, and said to him, 'Where are you?'"
+        },
+        {
+          "pk": 831693,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 10,
+          "text": "He said, 'I heard the sound of You in the garden, and I was afraid because I was naked; so I hid myself.'"
+        },
+        {
+          "pk": 831694,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 11,
+          "text": "And He said, 'Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?'"
+        },
+        {
+          "pk": 831695,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 12,
+          "text": "The man said, 'The woman whom You gave [to be] with me, she gave me from the tree, and I ate.'"
+        },
+        {
+          "pk": 831696,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 13,
+          "text": "Then the LORD God said to the woman, 'What is this you have done?' And the woman said, 'The serpent deceived me, and I ate.'"
+        },
+        {
+          "pk": 831697,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 14,
+          "text": "The LORD God said to the serpent, 'Because you have done this, Cursed are you more than all cattle, And more than every beast of the field; On your belly you will go, And dust you will eat All the days of your life;"
+        },
+        {
+          "pk": 831698,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 15,
+          "text": "And I will put enmity Between you and the woman, And between your seed and her seed; He shall bruise you on the head, And you shall bruise him on the heel.'"
+        },
+        {
+          "pk": 831699,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 16,
+          "text": "To the woman He said, 'I will greatly multiply Your pain in childbirth, In pain you will bring forth children; Yet your desire will be for your husband, And he will rule over you.'"
+        },
+        {
+          "pk": 831700,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 17,
+          "text": "Then to Adam He said, 'Because you have listened to the voice of your wife, and have eaten from the tree about which I commanded you, saying, 'You shall not eat from it'; Cursed is the ground because of you; In toil you will eat of it All the days of your life."
+        },
+        {
+          "pk": 831701,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 18,
+          "text": "'Both thorns and thistles it shall grow for you; And you will eat the plants of the field;"
+        },
+        {
+          "pk": 831702,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 19,
+          "text": "By the sweat of your face You will eat bread, Till you return to the ground, Because from it you were taken; For you are dust, And to dust you shall return.'"
+        },
+        {
+          "pk": 831703,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 20,
+          "text": "Now the man called his wife's name Eve, because she was the mother of all [the] living."
+        },
+        {
+          "pk": 831704,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 21,
+          "text": "The LORD God made garments of skin for Adam and his wife, and clothed them."
+        },
+        {
+          "pk": 831705,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 22,
+          "text": "Then the LORD God said, 'Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and take also from the tree of life, and eat, and live forever '--"
+        },
+        {
+          "pk": 831706,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 23,
+          "text": "therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken."
+        },
+        {
+          "pk": 831707,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 3,
+          "verse": 24,
+          "text": "So He drove the man out; and at the east of the garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 831708,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Now the man had relations with his wife Eve, and she conceived and gave birth to Cain, and she said, 'I have gotten a manchild with [the help of] the LORD.'"
+        },
+        {
+          "pk": 831709,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 2,
+          "text": "Again, she gave birth to his brother Abel. And Abel was a keeper of flocks, but Cain was a tiller of the ground."
+        },
+        {
+          "pk": 831710,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 3,
+          "text": "So it came about in the course of time that Cain brought an offering to the LORD of the fruit of the ground."
+        },
+        {
+          "pk": 831711,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 4,
+          "text": "Abel, on his part also brought of the firstlings of his flock and of their fat portions. And the LORD had regard for Abel and for his offering;"
+        },
+        {
+          "pk": 831712,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 5,
+          "text": "but for Cain and for his offering He had no regard. So Cain became very angry and his countenance fell."
+        },
+        {
+          "pk": 831713,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 6,
+          "text": "Then the LORD said to Cain, 'Why are you angry? And why has your countenance fallen?"
+        },
+        {
+          "pk": 831714,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 7,
+          "text": "'If you do well, will not [your countenance] be lifted up? And if you do not do well, sin is crouching at the door; and its desire is for you, but you must master it.'"
+        },
+        {
+          "pk": 831715,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 8,
+          "text": "Cain told Abel his brother. And it came about when they were in the field, that Cain rose up against Abel his brother and killed him."
+        },
+        {
+          "pk": 831716,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 9,
+          "text": "Then the LORD said to Cain, 'Where is Abel your brother?' And he said, 'I do not know. Am I my brother's keeper?'"
+        },
+        {
+          "pk": 831717,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 10,
+          "text": "He said, 'What have you done? The voice of your brother's blood is crying to Me from the ground."
+        },
+        {
+          "pk": 831718,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 11,
+          "text": "'Now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand."
+        },
+        {
+          "pk": 831719,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 12,
+          "text": "'When you cultivate the ground, it will no longer yield its strength to you; you will be a vagrant and a wanderer on the earth.'"
+        },
+        {
+          "pk": 831720,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 13,
+          "text": "Cain said to the LORD, 'My punishment is too great to bear!"
+        },
+        {
+          "pk": 831721,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 14,
+          "text": "'Behold, You have driven me this day from the face of the ground; and from Your face I will be hidden, and I will be a vagrant and a wanderer on the earth, and whoever finds me will kill me.'"
+        },
+        {
+          "pk": 831722,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 15,
+          "text": "So the LORD said to him, 'Therefore whoever kills Cain, vengeance will be taken on him sevenfold.' And the LORD appointed a sign for Cain, so that no one finding him would slay him."
+        },
+        {
+          "pk": 831723,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 16,
+          "text": "Then Cain went out from the presence of the LORD, and settled in the land of Nod, east of Eden."
+        },
+        {
+          "pk": 831724,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 17,
+          "text": "Cain had relations with his wife and she conceived, and gave birth to Enoch; and he built a city, and called the name of the city Enoch, after the name of his son."
+        },
+        {
+          "pk": 831725,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 18,
+          "text": "Now to Enoch was born Irad, and Irad became the father of Mehujael, and Mehujael became the father of Methushael, and Methushael became the father of Lamech."
+        },
+        {
+          "pk": 831726,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 19,
+          "text": "Lamech took to himself two wives: the name of the one was Adah, and the name of the other, Zillah."
+        },
+        {
+          "pk": 831727,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 20,
+          "text": "Adah gave birth to Jabal; he was the father of those who dwell in tents and [have] livestock."
+        },
+        {
+          "pk": 831728,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 21,
+          "text": "His brother's name was Jubal; he was the father of all those who play the lyre and pipe."
+        },
+        {
+          "pk": 831729,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 22,
+          "text": "As for Zillah, she also gave birth to Tubal-cain, the forger of all implements of bronze and iron; and the sister of Tubal-cain was Naamah."
+        },
+        {
+          "pk": 831730,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 23,
+          "text": "Lamech said to his wives, 'Adah and Zillah, Listen to my voice, You wives of Lamech, Give heed to my speech, For I have killed a man for wounding me; And a boy for striking me;"
+        },
+        {
+          "pk": 831731,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 24,
+          "text": "If Cain is avenged sevenfold, Then Lamech seventy-sevenfold.'"
+        },
+        {
+          "pk": 831732,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 25,
+          "text": "Adam had relations with his wife again; and she gave birth to a son, and named him Seth, for, [she said], 'God has appointed me another offspring in place of Abel, for Cain killed him.'"
+        },
+        {
+          "pk": 831733,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 4,
+          "verse": 26,
+          "text": "To Seth, to him also a son was born; and he called his name Enosh. Then [men] began to call upon the name of the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 831734,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 1,
+          "text": "This is the book of the generations of Adam. In the day when God created man, He made him in the likeness of God."
+        },
+        {
+          "pk": 831735,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 2,
+          "text": "He created them male and female, and He blessed them and named them Man in the day when they were created."
+        },
+        {
+          "pk": 831736,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 3,
+          "text": "When Adam had lived one hundred and thirty years, he became the father of [a son] in his own likeness, according to his image, and named him Seth."
+        },
+        {
+          "pk": 831737,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 4,
+          "text": "Then the days of Adam after he became the father of Seth were eight hundred years, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831738,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 5,
+          "text": "So all the days that Adam lived were nine hundred and thirty years, and he died."
+        },
+        {
+          "pk": 831739,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 6,
+          "text": "Seth lived one hundred and five years, and became the father of Enosh."
+        },
+        {
+          "pk": 831740,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 7,
+          "text": "Then Seth lived eight hundred and seven years after he became the father of Enosh, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831741,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 8,
+          "text": "So all the days of Seth were nine hundred and twelve years, and he died."
+        },
+        {
+          "pk": 831742,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 9,
+          "text": "Enosh lived ninety years, and became the father of Kenan."
+        },
+        {
+          "pk": 831743,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 10,
+          "text": "Then Enosh lived eight hundred and fifteen years after he became the father of Kenan, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831744,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 11,
+          "text": "So all the days of Enosh were nine hundred and five years, and he died."
+        },
+        {
+          "pk": 831745,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 12,
+          "text": "Kenan lived seventy years, and became the father of Mahalalel."
+        },
+        {
+          "pk": 831746,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 13,
+          "text": "Then Kenan lived eight hundred and forty years after he became the father of Mahalalel, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831747,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 14,
+          "text": "So all the days of Kenan were nine hundred and ten years, and he died."
+        },
+        {
+          "pk": 831748,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 15,
+          "text": "Mahalalel lived sixty-five years, and became the father of Jared."
+        },
+        {
+          "pk": 831749,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 16,
+          "text": "Then Mahalalel lived eight hundred and thirty years after he became the father of Jared, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831750,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 17,
+          "text": "So all the days of Mahalalel were eight hundred and ninety-five years, and he died."
+        },
+        {
+          "pk": 831751,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 18,
+          "text": "Jared lived one hundred and sixty-two years, and became the father of Enoch."
+        },
+        {
+          "pk": 831752,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 19,
+          "text": "Then Jared lived eight hundred years after he became the father of Enoch, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831753,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 20,
+          "text": "So all the days of Jared were nine hundred and sixty-two years, and he died."
+        },
+        {
+          "pk": 831754,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 21,
+          "text": "Enoch lived sixty-five years, and became the father of Methuselah."
+        },
+        {
+          "pk": 831755,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 22,
+          "text": "Then Enoch walked with God three hundred years after he became the father of Methuselah, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831756,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 23,
+          "text": "So all the days of Enoch were three hundred and sixty-five years."
+        },
+        {
+          "pk": 831757,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 24,
+          "text": "Enoch walked with God; and he was not, for God took him."
+        },
+        {
+          "pk": 831758,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 25,
+          "text": "Methuselah lived one hundred and eighty-seven years, and became the father of Lamech."
+        },
+        {
+          "pk": 831759,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 26,
+          "text": "Then Methuselah lived seven hundred and eighty-two years after he became the father of Lamech, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831760,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 27,
+          "text": "So all the days of Methuselah were nine hundred and sixty-nine years, and he died."
+        },
+        {
+          "pk": 831761,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 28,
+          "text": "Lamech lived one hundred and eighty-two years, and became the father of a son."
+        },
+        {
+          "pk": 831762,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 29,
+          "text": "Now he called his name Noah, saying, 'This one will give us rest from our work and from the toil of our hands [arising] from the ground which the LORD has cursed.'"
+        },
+        {
+          "pk": 831763,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 30,
+          "text": "Then Lamech lived five hundred and ninety-five years after he became the father of Noah, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831764,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 31,
+          "text": "So all the days of Lamech were seven hundred and seventy-seven years, and he died."
+        },
+        {
+          "pk": 831765,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 5,
+          "verse": 32,
+          "text": "Noah was five hundred years old, and Noah became the father of Shem, Ham, and Japheth."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 831766,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 1,
+          "text": "Now it came about, when men began to multiply on the face of the land, and daughters were born to them,"
+        },
+        {
+          "pk": 831767,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 2,
+          "text": "that the sons of God saw that the daughters of men were beautiful; and they took wives for themselves, whomever they chose."
+        },
+        {
+          "pk": 831768,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 3,
+          "text": "Then the LORD said, 'My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years.'"
+        },
+        {
+          "pk": 831769,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 4,
+          "text": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore [children] to them. Those were the mighty men who [were] of old, men of renown."
+        },
+        {
+          "pk": 831770,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 5,
+          "text": "Then the LORD saw that the wickedness of man was great on the earth, and that every intent of the thoughts of his heart was only evil continually."
+        },
+        {
+          "pk": 831771,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 6,
+          "text": "The LORD was sorry that He had made man on the earth, and He was grieved in His heart."
+        },
+        {
+          "pk": 831772,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 7,
+          "text": "The LORD said, 'I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them.'"
+        },
+        {
+          "pk": 831773,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 8,
+          "text": "But Noah found favor in the eyes of the LORD."
+        },
+        {
+          "pk": 831774,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 9,
+          "text": "These are [the records of] the generations of Noah. Noah was a righteous man, blameless in his time; Noah walked with God."
+        },
+        {
+          "pk": 831775,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 10,
+          "text": "Noah became the father of three sons: Shem, Ham, and Japheth."
+        },
+        {
+          "pk": 831776,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 11,
+          "text": "Now the earth was corrupt in the sight of God, and the earth was filled with violence."
+        },
+        {
+          "pk": 831777,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 12,
+          "text": "God looked on the earth, and behold, it was corrupt; for all flesh had corrupted their way upon the earth."
+        },
+        {
+          "pk": 831778,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 13,
+          "text": "Then God said to Noah, 'The end of all flesh has come before Me; for the earth is filled with violence because of them; and behold, I am about to destroy them with the earth."
+        },
+        {
+          "pk": 831779,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 14,
+          "text": "'Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch."
+        },
+        {
+          "pk": 831780,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 15,
+          "text": "'This is how you shall make it: the length of the ark three hundred cubits, its breadth fifty cubits, and its height thirty cubits."
+        },
+        {
+          "pk": 831781,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 16,
+          "text": "'You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; you shall make it with lower, second, and third decks."
+        },
+        {
+          "pk": 831782,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 17,
+          "text": "'Behold, I, even I am bringing the flood of water upon the earth, to destroy all flesh in which is the breath of life, from under heaven; everything that is on the earth shall perish."
+        },
+        {
+          "pk": 831783,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 18,
+          "text": "'But I will establish My covenant with you; and you shall enter the ark-- you and your sons and your wife, and your sons' wives with you."
+        },
+        {
+          "pk": 831784,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 19,
+          "text": "'And of every living thing of all flesh, you shall bring two of every [kind] into the ark, to keep [them] alive with you; they shall be male and female."
+        },
+        {
+          "pk": 831785,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 20,
+          "text": "'Of the birds after their kind, and of the animals after their kind, of every creeping thing of the ground after its kind, two of every [kind] will come to you to keep [them] alive."
+        },
+        {
+          "pk": 831786,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 21,
+          "text": "'As for you, take for yourself some of all food which is edible, and gather [it] to yourself; and it shall be for food for you and for them.'"
+        },
+        {
+          "pk": 831787,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 6,
+          "verse": 22,
+          "text": "Thus Noah did; according to all that God had commanded him, so he did."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 831788,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 1,
+          "text": "Then the LORD said to Noah, 'Enter the ark, you and all your household, for you [alone] I have seen [to be] righteous before Me in this time."
+        },
+        {
+          "pk": 831789,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 2,
+          "text": "'You shall take with you of every clean animal by sevens, a male and his female; and of the animals that are not clean two, a male and his female;"
+        },
+        {
+          "pk": 831790,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 3,
+          "text": "also of the birds of the sky, by sevens, male and female, to keep offspring alive on the face of all the earth."
+        },
+        {
+          "pk": 831791,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 4,
+          "text": "'For after seven more days, I will send rain on the earth forty days and forty nights; and I will blot out from the face of the land every living thing that I have made.'"
+        },
+        {
+          "pk": 831792,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 5,
+          "text": "Noah did according to all that the LORD had commanded him."
+        },
+        {
+          "pk": 831793,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 6,
+          "text": "Now Noah was six hundred years old when the flood of water came upon the earth."
+        },
+        {
+          "pk": 831794,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 7,
+          "text": "Then Noah and his sons and his wife and his sons' wives with him entered the ark because of the water of the flood."
+        },
+        {
+          "pk": 831795,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 8,
+          "text": "Of clean animals and animals that are not clean and birds and everything that creeps on the ground,"
+        },
+        {
+          "pk": 831796,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 9,
+          "text": "there went into the ark to Noah by twos, male and female, as God had commanded Noah."
+        },
+        {
+          "pk": 831797,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 10,
+          "text": "It came about after the seven days, that the water of the flood came upon the earth."
+        },
+        {
+          "pk": 831798,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 11,
+          "text": "In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep burst open, and the floodgates of the sky were opened."
+        },
+        {
+          "pk": 831799,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 12,
+          "text": "The rain fell upon the earth for forty days and forty nights."
+        },
+        {
+          "pk": 831800,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 13,
+          "text": "On the very same day Noah and Shem and Ham and Japheth, the sons of Noah, and Noah's wife and the three wives of his sons with them, entered the ark,"
+        },
+        {
+          "pk": 831801,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 14,
+          "text": "they and every beast after its kind, and all the cattle after their kind, and every creeping thing that creeps on the earth after its kind, and every bird after its kind, all sorts of birds."
+        },
+        {
+          "pk": 831802,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 15,
+          "text": "So they went into the ark to Noah, by twos of all flesh in which was the breath of life."
+        },
+        {
+          "pk": 831803,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 16,
+          "text": "Those that entered, male and female of all flesh, entered as God had commanded him; and the LORD closed [it] behind him."
+        },
+        {
+          "pk": 831804,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 17,
+          "text": "Then the flood came upon the earth for forty days, and the water increased and lifted up the ark, so that it rose above the earth."
+        },
+        {
+          "pk": 831805,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 18,
+          "text": "The water prevailed and increased greatly upon the earth, and the ark floated on the surface of the water."
+        },
+        {
+          "pk": 831806,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 19,
+          "text": "The water prevailed more and more upon the earth, so that all the high mountains everywhere under the heavens were covered."
+        },
+        {
+          "pk": 831807,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 20,
+          "text": "The water prevailed fifteen cubits higher, and the mountains were covered."
+        },
+        {
+          "pk": 831808,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 21,
+          "text": "All flesh that moved on the earth perished, birds and cattle and beasts and every swarming thing that swarms upon the earth, and all mankind;"
+        },
+        {
+          "pk": 831809,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 22,
+          "text": "of all that was on the dry land, all in whose nostrils was the breath of the spirit of life, died."
+        },
+        {
+          "pk": 831810,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 23,
+          "text": "Thus He blotted out every living thing that was upon the face of the land, from man to animals to creeping things and to birds of the sky, and they were blotted out from the earth; and only Noah was left, together with those that were with him in the ark."
+        },
+        {
+          "pk": 831811,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 7,
+          "verse": 24,
+          "text": "The water prevailed upon the earth one hundred and fifty days."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 831812,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 1,
+          "text": "But God remembered Noah and all the beasts and all the cattle that were with him in the ark; and God caused a wind to pass over the earth, and the water subsided."
+        },
+        {
+          "pk": 831813,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 2,
+          "text": "Also the fountains of the deep and the floodgates of the sky were closed, and the rain from the sky was restrained;"
+        },
+        {
+          "pk": 831814,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 3,
+          "text": "and the water receded steadily from the earth, and at the end of one hundred and fifty days the water decreased."
+        },
+        {
+          "pk": 831815,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 4,
+          "text": "In the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat."
+        },
+        {
+          "pk": 831816,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 5,
+          "text": "The water decreased steadily until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains became visible."
+        },
+        {
+          "pk": 831817,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 6,
+          "text": "Then it came about at the end of forty days, that Noah opened the window of the ark which he had made;"
+        },
+        {
+          "pk": 831818,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 7,
+          "text": "and he sent out a raven, and it flew here and there until the water was dried up from the earth."
+        },
+        {
+          "pk": 831819,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 8,
+          "text": "Then he sent out a dove from him, to see if the water was abated from the face of the land;"
+        },
+        {
+          "pk": 831820,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 9,
+          "text": "but the dove found no resting place for the sole of her foot, so she returned to him into the ark, for the water was on the surface of all the earth. Then he put out his hand and took her, and brought her into the ark to himself."
+        },
+        {
+          "pk": 831821,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 10,
+          "text": "So he waited yet another seven days; and again he sent out the dove from the ark."
+        },
+        {
+          "pk": 831822,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 11,
+          "text": "The dove came to him toward evening, and behold, in her beak was a freshly picked olive leaf. So Noah knew that the water was abated from the earth."
+        },
+        {
+          "pk": 831823,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 12,
+          "text": "Then he waited yet another seven days, and sent out the dove; but she did not return to him again."
+        },
+        {
+          "pk": 831824,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 13,
+          "text": "Now it came about in the six hundred and first year, in the first [month], on the first of the month, the water was dried up from the earth. Then Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried up."
+        },
+        {
+          "pk": 831825,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 14,
+          "text": "In the second month, on the twenty-seventh day of the month, the earth was dry."
+        },
+        {
+          "pk": 831826,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 15,
+          "text": "Then God spoke to Noah, saying,"
+        },
+        {
+          "pk": 831827,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 16,
+          "text": "'Go out of the ark, you and your wife and your sons and your sons' wives with you."
+        },
+        {
+          "pk": 831828,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 17,
+          "text": "'Bring out with you every living thing of all flesh that is with you, birds and animals and every creeping thing that creeps on the earth, that they may breed abundantly on the earth, and be fruitful and multiply on the earth.'"
+        },
+        {
+          "pk": 831829,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 18,
+          "text": "So Noah went out, and his sons and his wife and his sons' wives with him."
+        },
+        {
+          "pk": 831830,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 19,
+          "text": "Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by their families from the ark."
+        },
+        {
+          "pk": 831831,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 20,
+          "text": "Then Noah built an altar to the LORD, and took of every clean animal and of every clean bird and offered burnt offerings on the altar."
+        },
+        {
+          "pk": 831832,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 21,
+          "text": "The LORD smelled the soothing aroma; and the LORD said to Himself, 'I will never again curse the ground on account of man, for the intent of man's heart is evil from his youth; and I will never again destroy every living thing, as I have done."
+        },
+        {
+          "pk": 831833,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 8,
+          "verse": 22,
+          "text": "'While the earth remains, Seedtime and harvest, And cold and heat, And summer and winter, And day and night Shall not cease.'"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 831834,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 1,
+          "text": "And God blessed Noah and his sons and said to them, 'Be fruitful and multiply, and fill the earth."
+        },
+        {
+          "pk": 831835,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 2,
+          "text": "'The fear of you and the terror of you will be on every beast of the earth and on every bird of the sky; with everything that creeps on the ground, and all the fish of the sea, into your hand they are given."
+        },
+        {
+          "pk": 831836,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 3,
+          "text": "'Every moving thing that is alive shall be food for you; I give all to you, as [I gave] the green plant."
+        },
+        {
+          "pk": 831837,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 4,
+          "text": "'Only you shall not eat flesh with its life, [that is], its blood."
+        },
+        {
+          "pk": 831838,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 5,
+          "text": "'Surely I will require your lifeblood; from every beast I will require it. And from [every] man, from every man's brother I will require the life of man."
+        },
+        {
+          "pk": 831839,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 6,
+          "text": "'Whoever sheds man's blood, By man his blood shall be shed, For in the image of God He made man."
+        },
+        {
+          "pk": 831840,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 7,
+          "text": "'As for you, be fruitful and multiply; Populate the earth abundantly and multiply in it.'"
+        },
+        {
+          "pk": 831841,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 8,
+          "text": "Then God spoke to Noah and to his sons with him, saying,"
+        },
+        {
+          "pk": 831842,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 9,
+          "text": "'Now behold, I Myself do establish My covenant with you, and with your descendants after you;"
+        },
+        {
+          "pk": 831843,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 10,
+          "text": "and with every living creature that is with you, the birds, the cattle, and every beast of the earth with you; of all that comes out of the ark, even every beast of the earth."
+        },
+        {
+          "pk": 831844,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 11,
+          "text": "'I establish My covenant with you; and all flesh shall never again be cut off by the water of the flood, neither shall there again be a flood to destroy the earth.'"
+        },
+        {
+          "pk": 831845,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 12,
+          "text": "God said, 'This is the sign of the covenant which I am making between Me and you and every living creature that is with you, for all successive generations;"
+        },
+        {
+          "pk": 831846,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 13,
+          "text": "I set My bow in the cloud, and it shall be for a sign of a covenant between Me and the earth."
+        },
+        {
+          "pk": 831847,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 14,
+          "text": "'It shall come about, when I bring a cloud over the earth, that the bow will be seen in the cloud,"
+        },
+        {
+          "pk": 831848,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 15,
+          "text": "and I will remember My covenant, which is between Me and you and every living creature of all flesh; and never again shall the water become a flood to destroy all flesh."
+        },
+        {
+          "pk": 831849,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 16,
+          "text": "'When the bow is in the cloud, then I will look upon it, to remember the everlasting covenant between God and every living creature of all flesh that is on the earth.'"
+        },
+        {
+          "pk": 831850,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 17,
+          "text": "And God said to Noah, 'This is the sign of the covenant which I have established between Me and all flesh that is on the earth.'"
+        },
+        {
+          "pk": 831851,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 18,
+          "text": "Now the sons of Noah who came out of the ark were Shem and Ham and Japheth; and Ham was the father of Canaan."
+        },
+        {
+          "pk": 831852,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 19,
+          "text": "These three [were] the sons of Noah, and from these the whole earth was populated."
+        },
+        {
+          "pk": 831853,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 20,
+          "text": "Then Noah began farming and planted a vineyard."
+        },
+        {
+          "pk": 831854,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 21,
+          "text": "He drank of the wine and became drunk, and uncovered himself inside his tent."
+        },
+        {
+          "pk": 831855,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 22,
+          "text": "Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside."
+        },
+        {
+          "pk": 831856,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 23,
+          "text": "But Shem and Japheth took a garment and laid it upon both their shoulders and walked backward and covered the nakedness of their father; and their faces were turned away, so that they did not see their father's nakedness."
+        },
+        {
+          "pk": 831857,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 24,
+          "text": "When Noah awoke from his wine, he knew what his youngest son had done to him."
+        },
+        {
+          "pk": 831858,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 25,
+          "text": "So he said, 'Cursed be Canaan; A servant of servants He shall be to his brothers.'"
+        },
+        {
+          "pk": 831859,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 26,
+          "text": "He also said, 'Blessed be the LORD, The God of Shem; And let Canaan be his servant."
+        },
+        {
+          "pk": 831860,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 27,
+          "text": "'May God enlarge Japheth, And let him dwell in the tents of Shem; And let Canaan be his servant.'"
+        },
+        {
+          "pk": 831861,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 28,
+          "text": "Noah lived three hundred and fifty years after the flood."
+        },
+        {
+          "pk": 831862,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 9,
+          "verse": 29,
+          "text": "So all the days of Noah were nine hundred and fifty years, and he died."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 831863,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 1,
+          "text": "Now these are [the records of] the generations of Shem, Ham, and Japheth, the sons of Noah; and sons were born to them after the flood."
+        },
+        {
+          "pk": 831864,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 2,
+          "text": "The sons of Japheth [were] Gomer and Magog and Madai and Javan and Tubal and Meshech and Tiras."
+        },
+        {
+          "pk": 831865,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 3,
+          "text": "The sons of Gomer [were] Ashkenaz and Riphath and Togarmah."
+        },
+        {
+          "pk": 831866,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 4,
+          "text": "The sons of Javan [were] Elishah and Tarshish, Kittim and Dodanim."
+        },
+        {
+          "pk": 831867,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 5,
+          "text": "From these the coastlands of the nations were separated into their lands, every one according to his language, according to their families, into their nations."
+        },
+        {
+          "pk": 831868,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 6,
+          "text": "The sons of Ham [were] Cush and Mizraim and Put and Canaan."
+        },
+        {
+          "pk": 831869,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 7,
+          "text": "The sons of Cush [were] Seba and Havilah and Sabtah and Raamah and Sabteca; and the sons of Raamah [were] Sheba and Dedan."
+        },
+        {
+          "pk": 831870,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 8,
+          "text": "Now Cush became the father of Nimrod; he became a mighty one on the earth."
+        },
+        {
+          "pk": 831871,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 9,
+          "text": "He was a mighty hunter before the LORD; therefore it is said, 'Like Nimrod a mighty hunter before the LORD.'"
+        },
+        {
+          "pk": 831872,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 10,
+          "text": "The beginning of his kingdom was Babel and Erech and Accad and Calneh, in the land of Shinar."
+        },
+        {
+          "pk": 831873,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 11,
+          "text": "From that land he went forth into Assyria, and built Nineveh and Rehoboth-Ir and Calah,"
+        },
+        {
+          "pk": 831874,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 12,
+          "text": "and Resen between Nineveh and Calah; that is the great city."
+        },
+        {
+          "pk": 831875,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 13,
+          "text": "Mizraim became the father of Ludim and Anamim and Lehabim and Naphtuhim"
+        },
+        {
+          "pk": 831876,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 14,
+          "text": "and Pathrusim and Casluhim (from which came the Philistines) and Caphtorim."
+        },
+        {
+          "pk": 831877,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 15,
+          "text": "Canaan became the father of Sidon, his firstborn, and Heth"
+        },
+        {
+          "pk": 831878,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 16,
+          "text": "and the Jebusite and the Amorite and the Girgashite"
+        },
+        {
+          "pk": 831879,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 17,
+          "text": "and the Hivite and the Arkite and the Sinite"
+        },
+        {
+          "pk": 831880,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 18,
+          "text": "and the Arvadite and the Zemarite and the Hamathite; and afterward the families of the Canaanite were spread abroad."
+        },
+        {
+          "pk": 831881,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 19,
+          "text": "The territory of the Canaanite extended from Sidon as you go toward Gerar, as far as Gaza; as you go toward Sodom and Gomorrah and Admah and Zeboiim, as far as Lasha."
+        },
+        {
+          "pk": 831882,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 20,
+          "text": "These are the sons of Ham, according to their families, according to their languages, by their lands, by their nations."
+        },
+        {
+          "pk": 831883,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 21,
+          "text": "Also to Shem, the father of all the children of Eber, [and] the older brother of Japheth, children were born."
+        },
+        {
+          "pk": 831884,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 22,
+          "text": "The sons of Shem [were] Elam and Asshur and Arpachshad and Lud and Aram."
+        },
+        {
+          "pk": 831885,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 23,
+          "text": "The sons of Aram [were] Uz and Hul and Gether and Mash."
+        },
+        {
+          "pk": 831886,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 24,
+          "text": "Arpachshad became the father of Shelah; and Shelah became the father of Eber."
+        },
+        {
+          "pk": 831887,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 25,
+          "text": "Two sons were born to Eber; the name of the one [was] Peleg, for in his days the earth was divided; and his brother's name [was] Joktan."
+        },
+        {
+          "pk": 831888,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 26,
+          "text": "Joktan became the father of Almodad and Sheleph and Hazarmaveth and Jerah"
+        },
+        {
+          "pk": 831889,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 27,
+          "text": "and Hadoram and Uzal and Diklah"
+        },
+        {
+          "pk": 831890,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 28,
+          "text": "and Obal and Abimael and Sheba"
+        },
+        {
+          "pk": 831891,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 29,
+          "text": "and Ophir and Havilah and Jobab; all these were the sons of Joktan."
+        },
+        {
+          "pk": 831892,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 30,
+          "text": "Now their settlement extended from Mesha as you go toward Sephar, the hill country of the east."
+        },
+        {
+          "pk": 831893,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 31,
+          "text": "These are the sons of Shem, according to their families, according to their languages, by their lands, according to their nations."
+        },
+        {
+          "pk": 831894,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 10,
+          "verse": 32,
+          "text": "These are the families of the sons of Noah, according to their genealogies, by their nations; and out of these the nations were separated on the earth after the flood."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 831895,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 1,
+          "text": "Now the whole earth used the same language and the same words."
+        },
+        {
+          "pk": 831896,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 2,
+          "text": "It came about as they journeyed east, that they found a plain in the land of Shinar and settled there."
+        },
+        {
+          "pk": 831897,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 3,
+          "text": "They said to one another, 'Come, let us make bricks and burn [them] thoroughly.' And they used brick for stone, and they used tar for mortar."
+        },
+        {
+          "pk": 831898,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 4,
+          "text": "They said, 'Come, let us build for ourselves a city, and a tower whose top [will reach] into heaven, and let us make for ourselves a name, otherwise we will be scattered abroad over the face of the whole earth.'"
+        },
+        {
+          "pk": 831899,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 5,
+          "text": "The LORD came down to see the city and the tower which the sons of men had built."
+        },
+        {
+          "pk": 831900,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 6,
+          "text": "The LORD said, 'Behold, they are one people, and they all have the same language. And this is what they began to do, and now nothing which they purpose to do will be impossible for them."
+        },
+        {
+          "pk": 831901,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 7,
+          "text": "'Come, let Us go down and there confuse their language, so that they will not understand one another's speech.'"
+        },
+        {
+          "pk": 831902,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 8,
+          "text": "So the LORD scattered them abroad from there over the face of the whole earth; and they stopped building the city."
+        },
+        {
+          "pk": 831903,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 9,
+          "text": "Therefore its name was called Babel, because there the LORD confused the language of the whole earth; and from there the LORD scattered them abroad over the face of the whole earth."
+        },
+        {
+          "pk": 831904,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 10,
+          "text": "These are [the records of] the generations of Shem. Shem was one hundred years old, and became the father of Arpachshad two years after the flood;"
+        },
+        {
+          "pk": 831905,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 11,
+          "text": "and Shem lived five hundred years after he became the father of Arpachshad, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831906,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 12,
+          "text": "Arpachshad lived thirty-five years, and became the father of Shelah;"
+        },
+        {
+          "pk": 831907,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 13,
+          "text": "and Arpachshad lived four hundred and three years after he became the father of Shelah, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831908,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 14,
+          "text": "Shelah lived thirty years, and became the father of Eber;"
+        },
+        {
+          "pk": 831909,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 15,
+          "text": "and Shelah lived four hundred and three years after he became the father of Eber, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831910,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 16,
+          "text": "Eber lived thirty-four years, and became the father of Peleg;"
+        },
+        {
+          "pk": 831911,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 17,
+          "text": "and Eber lived four hundred and thirty years after he became the father of Peleg, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831912,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 18,
+          "text": "Peleg lived thirty years, and became the father of Reu;"
+        },
+        {
+          "pk": 831913,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 19,
+          "text": "and Peleg lived two hundred and nine years after he became the father of Reu, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831914,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 20,
+          "text": "Reu lived thirty-two years, and became the father of Serug;"
+        },
+        {
+          "pk": 831915,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 21,
+          "text": "and Reu lived two hundred and seven years after he became the father of Serug, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831916,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 22,
+          "text": "Serug lived thirty years, and became the father of Nahor;"
+        },
+        {
+          "pk": 831917,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 23,
+          "text": "and Serug lived two hundred years after he became the father of Nahor, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831918,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 24,
+          "text": "Nahor lived twenty-nine years, and became the father of Terah;"
+        },
+        {
+          "pk": 831919,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 25,
+          "text": "and Nahor lived one hundred and nineteen years after he became the father of Terah, and he had [other] sons and daughters."
+        },
+        {
+          "pk": 831920,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 26,
+          "text": "Terah lived seventy years, and became the father of Abram, Nahor and Haran."
+        },
+        {
+          "pk": 831921,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 27,
+          "text": "Now these are [the records of] the generations of Terah. Terah became the father of Abram, Nahor and Haran; and Haran became the father of Lot."
+        },
+        {
+          "pk": 831922,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 28,
+          "text": "Haran died in the presence of his father Terah in the land of his birth, in Ur of the Chaldeans."
+        },
+        {
+          "pk": 831923,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 29,
+          "text": "Abram and Nahor took wives for themselves. The name of Abram's wife was Sarai; and the name of Nahor's wife was Milcah, the daughter of Haran, the father of Milcah and Iscah."
+        },
+        {
+          "pk": 831924,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 30,
+          "text": "Sarai was barren; she had no child."
+        },
+        {
+          "pk": 831925,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 31,
+          "text": "Terah took Abram his son, and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife; and they went out together from Ur of the Chaldeans in order to enter the land of Canaan; and they went as far as Haran, and settled there."
+        },
+        {
+          "pk": 831926,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 11,
+          "verse": 32,
+          "text": "The days of Terah were two hundred and five years; and Terah died in Haran."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 831927,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 1,
+          "text": "Now the LORD said to Abram, 'Go forth from your country, And from your relatives And from your father's house, To the land which I will show you;"
+        },
+        {
+          "pk": 831928,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 2,
+          "text": "And I will make you a great nation, And I will bless you, And make your name great; And so you shall be a blessing;"
+        },
+        {
+          "pk": 831929,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 3,
+          "text": "And I will bless those who bless you, And the one who curses you I will curse. And in you all the families of the earth will be blessed.'"
+        },
+        {
+          "pk": 831930,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 4,
+          "text": "So Abram went forth as the LORD had spoken to him; and Lot went with him. Now Abram was seventy-five years old when he departed from Haran."
+        },
+        {
+          "pk": 831931,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 5,
+          "text": "Abram took Sarai his wife and Lot his nephew, and all their possessions which they had accumulated, and the persons which they had acquired in Haran, and they set out for the land of Canaan; thus they came to the land of Canaan."
+        },
+        {
+          "pk": 831932,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 6,
+          "text": "Abram passed through the land as far as the site of Shechem, to the oak of Moreh. Now the Canaanite [was] then in the land."
+        },
+        {
+          "pk": 831933,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 7,
+          "text": "The LORD appeared to Abram and said, 'To your descendants I will give this land.' So he built an altar there to the LORD who had appeared to him."
+        },
+        {
+          "pk": 831934,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 8,
+          "text": "Then he proceeded from there to the mountain on the east of Bethel, and pitched his tent, with Bethel on the west and Ai on the east; and there he built an altar to the LORD and called upon the name of the LORD."
+        },
+        {
+          "pk": 831935,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 9,
+          "text": "Abram journeyed on, continuing toward the Negev."
+        },
+        {
+          "pk": 831936,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 10,
+          "text": "Now there was a famine in the land; so Abram went down to Egypt to sojourn there, for the famine was severe in the land."
+        },
+        {
+          "pk": 831937,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 11,
+          "text": "It came about when he came near to Egypt, that he said to Sarai his wife, 'See now, I know that you are a beautiful woman;"
+        },
+        {
+          "pk": 831938,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 12,
+          "text": "and when the Egyptians see you, they will say, 'This is his wife'; and they will kill me, but they will let you live."
+        },
+        {
+          "pk": 831939,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 13,
+          "text": "'Please say that you are my sister so that it may go well with me because of you, and that I may live on account of you.'"
+        },
+        {
+          "pk": 831940,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 14,
+          "text": "It came about when Abram came into Egypt, the Egyptians saw that the woman was very beautiful."
+        },
+        {
+          "pk": 831941,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 15,
+          "text": "Pharaoh's officials saw her and praised her to Pharaoh; and the woman was taken into Pharaoh's house."
+        },
+        {
+          "pk": 831942,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 16,
+          "text": "Therefore he treated Abram well for her sake; and gave him sheep and oxen and donkeys and male and female servants and female donkeys and camels."
+        },
+        {
+          "pk": 831943,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 17,
+          "text": "But the LORD struck Pharaoh and his house with great plagues because of Sarai, Abram's wife."
+        },
+        {
+          "pk": 831944,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 18,
+          "text": "Then Pharaoh called Abram and said, 'What is this you have done to me? Why did you not tell me that she was your wife?"
+        },
+        {
+          "pk": 831945,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 19,
+          "text": "'Why did you say, 'She is my sister,' so that I took her for my wife? Now then, here is your wife, take her and go.'"
+        },
+        {
+          "pk": 831946,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 12,
+          "verse": 20,
+          "text": "Pharaoh commanded [his] men concerning him; and they escorted him away, with his wife and all that belonged to him."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 831947,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 1,
+          "text": "So Abram went up from Egypt to the Negev, he and his wife and all that belonged to him, and Lot with him."
+        },
+        {
+          "pk": 831948,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 2,
+          "text": "Now Abram was very rich in livestock, in silver and in gold."
+        },
+        {
+          "pk": 831949,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 3,
+          "text": "He went on his journeys from the Negev as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,"
+        },
+        {
+          "pk": 831950,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 4,
+          "text": "to the place of the altar which he had made there formerly; and there Abram called on the name of the LORD."
+        },
+        {
+          "pk": 831951,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 5,
+          "text": "Now Lot, who went with Abram, also had flocks and herds and tents."
+        },
+        {
+          "pk": 831952,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 6,
+          "text": "And the land could not sustain them while dwelling together, for their possessions were so great that they were not able to remain together."
+        },
+        {
+          "pk": 831953,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 7,
+          "text": "And there was strife between the herdsmen of Abram's livestock and the herdsmen of Lot's livestock. Now the Canaanite and the Perizzite were dwelling then in the land."
+        },
+        {
+          "pk": 831954,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 8,
+          "text": "So Abram said to Lot, 'Please let there be no strife between you and me, nor between my herdsmen and your herdsmen, for we are brothers."
+        },
+        {
+          "pk": 831955,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 9,
+          "text": "'Is not the whole land before you? Please separate from me; if [to] the left, then I will go to the right; or if [to] the right, then I will go to the left.'"
+        },
+        {
+          "pk": 831956,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 10,
+          "text": "Lot lifted up his eyes and saw all the valley of the Jordan, that it was well watered everywhere-- [this was] before the LORD destroyed Sodom and Gomorrah-- like the garden of the LORD, like the land of Egypt as you go to Zoar."
+        },
+        {
+          "pk": 831957,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 11,
+          "text": "So Lot chose for himself all the valley of the Jordan, and Lot journeyed eastward. Thus they separated from each other."
+        },
+        {
+          "pk": 831958,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 12,
+          "text": "Abram settled in the land of Canaan, while Lot settled in the cities of the valley, and moved his tents as far as Sodom."
+        },
+        {
+          "pk": 831959,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 13,
+          "text": "Now the men of Sodom were wicked exceedingly and sinners against the LORD."
+        },
+        {
+          "pk": 831960,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 14,
+          "text": "The LORD said to Abram, after Lot had separated from him, 'Now lift up your eyes and look from the place where you are, northward and southward and eastward and westward;"
+        },
+        {
+          "pk": 831961,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 15,
+          "text": "for all the land which you see, I will give it to you and to your descendants forever."
+        },
+        {
+          "pk": 831962,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 16,
+          "text": "'I will make your descendants as the dust of the earth, so that if anyone can number the dust of the earth, then your descendants can also be numbered."
+        },
+        {
+          "pk": 831963,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 17,
+          "text": "'Arise, walk about the land through its length and breadth; for I will give it to you.'"
+        },
+        {
+          "pk": 831964,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 13,
+          "verse": 18,
+          "text": "Then Abram moved his tent and came and dwelt by the oaks of Mamre, which are in Hebron, and there he built an altar to the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "pk": 831965,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 1,
+          "text": "And it came about in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim,"
+        },
+        {
+          "pk": 831966,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 2,
+          "text": "[that] they made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela (that is, Zoar)."
+        },
+        {
+          "pk": 831967,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 3,
+          "text": "All these came as allies to the valley of Siddim (that is, the Salt Sea)."
+        },
+        {
+          "pk": 831968,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 4,
+          "text": "Twelve years they had served Chedorlaomer, but the thirteenth year they rebelled."
+        },
+        {
+          "pk": 831969,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 5,
+          "text": "In the fourteenth year Chedorlaomer and the kings that were with him, came and defeated the Rephaim in Ashteroth-karnaim and the Zuzim in Ham and the Emim in Shaveh-kiriathaim,"
+        },
+        {
+          "pk": 831970,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 6,
+          "text": "and the Horites in their Mount Seir, as far as El-paran, which is by the wilderness."
+        },
+        {
+          "pk": 831971,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 7,
+          "text": "Then they turned back and came to En-mishpat (that is, Kadesh), and conquered all the country of the Amalekites, and also the Amorites, who lived in Hazazon-tamar."
+        },
+        {
+          "pk": 831972,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 8,
+          "text": "And the king of Sodom and the king of Gomorrah and the king of Admah and the king of Zeboiim and the king of Bela (that is, Zoar) came out; and they arrayed for battle against them in the valley of Siddim,"
+        },
+        {
+          "pk": 831973,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 9,
+          "text": "against Chedorlaomer king of Elam and Tidal king of Goiim and Amraphel king of Shinar and Arioch king of Ellasar-- four kings against five."
+        },
+        {
+          "pk": 831974,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 10,
+          "text": "Now the valley of Siddim was full of tar pits; and the kings of Sodom and Gomorrah fled, and they fell into them. But those who survived fled to the hill country."
+        },
+        {
+          "pk": 831975,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 11,
+          "text": "Then they took all the goods of Sodom and Gomorrah and all their food supply, and departed."
+        },
+        {
+          "pk": 831976,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 12,
+          "text": "They also took Lot, Abram's nephew, and his possessions and departed, for he was living in Sodom."
+        },
+        {
+          "pk": 831977,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 13,
+          "text": "Then a fugitive came and told Abram the Hebrew. Now he was living by the oaks of Mamre the Amorite, brother of Eshcol and brother of Aner, and these were allies with Abram."
+        },
+        {
+          "pk": 831978,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 14,
+          "text": "When Abram heard that his relative had been taken captive, he led out his trained men, born in his house, three hundred and eighteen, and went in pursuit as far as Dan."
+        },
+        {
+          "pk": 831979,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 15,
+          "text": "He divided his forces against them by night, he and his servants, and defeated them, and pursued them as far as Hobah, which is north of Damascus."
+        },
+        {
+          "pk": 831980,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 16,
+          "text": "He brought back all the goods, and also brought back his relative Lot with his possessions, and also the women, and the people."
+        },
+        {
+          "pk": 831981,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 17,
+          "text": "Then after his return from the defeat of Chedorlaomer and the kings who were with him, the king of Sodom went out to meet him at the valley of Shaveh (that is, the King's Valley)."
+        },
+        {
+          "pk": 831982,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 18,
+          "text": "And Melchizedek king of Salem brought out bread and wine; now he was a priest of God Most High."
+        },
+        {
+          "pk": 831983,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 19,
+          "text": "He blessed him and said, 'Blessed be Abram of God Most High, Possessor of heaven and earth;"
+        },
+        {
+          "pk": 831984,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 20,
+          "text": "And blessed be God Most High, Who has delivered your enemies into your hand.' He gave him a tenth of all."
+        },
+        {
+          "pk": 831985,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 21,
+          "text": "The king of Sodom said to Abram, 'Give the people to me and take the goods for yourself.'"
+        },
+        {
+          "pk": 831986,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 22,
+          "text": "Abram said to the king of Sodom, 'I have sworn to the LORD God Most High, possessor of heaven and earth,"
+        },
+        {
+          "pk": 831987,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 23,
+          "text": "that I will not take a thread or a sandal thong or anything that is yours, for fear you would say, 'I have made Abram rich.'"
+        },
+        {
+          "pk": 831988,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 14,
+          "verse": 24,
+          "text": "'I will take nothing except what the young men have eaten, and the share of the men who went with me, Aner, Eshcol, and Mamre; let them take their share.'"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "pk": 831989,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 1,
+          "text": "After these things the word of the LORD came to Abram in a vision, saying, 'Do not fear, Abram, I am a shield to you; Your reward shall be very great.'"
+        },
+        {
+          "pk": 831990,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 2,
+          "text": "Abram said, 'O Lord GOD, what will You give me, since I am childless, and the heir of my house is Eliezer of Damascus?'"
+        },
+        {
+          "pk": 831991,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 3,
+          "text": "And Abram said, 'Since You have given no offspring to me, one born in my house is my heir.'"
+        },
+        {
+          "pk": 831992,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 4,
+          "text": "Then behold, the word of the LORD came to him, saying, 'This man will not be your heir; but one who will come forth from your own body, he shall be your heir.'"
+        },
+        {
+          "pk": 831993,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 5,
+          "text": "And He took him outside and said, 'Now look toward the heavens, and count the stars, if you are able to count them.' And He said to him, 'So shall your descendants be.'"
+        },
+        {
+          "pk": 831994,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 6,
+          "text": "Then he believed in the LORD; and He reckoned it to him as righteousness."
+        },
+        {
+          "pk": 831995,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 7,
+          "text": "And He said to him, 'I am the LORD who brought you out of Ur of the Chaldeans, to give you this land to possess it.'"
+        },
+        {
+          "pk": 831996,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 8,
+          "text": "He said, 'O Lord GOD, how may I know that I will possess it?'"
+        },
+        {
+          "pk": 831997,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 9,
+          "text": "So He said to him, 'Bring Me a three year old heifer, and a three year old female goat, and a three year old ram, and a turtledove, and a young pigeon.'"
+        },
+        {
+          "pk": 831998,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 10,
+          "text": "Then he brought all these to Him and cut them in two, and laid each half opposite the other; but he did not cut the birds."
+        },
+        {
+          "pk": 831999,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 11,
+          "text": "The birds of prey came down upon the carcasses, and Abram drove them away."
+        },
+        {
+          "pk": 832000,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 12,
+          "text": "Now when the sun was going down, a deep sleep fell upon Abram; and behold, terror [and] great darkness fell upon him."
+        },
+        {
+          "pk": 832001,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 13,
+          "text": "[God] said to Abram, 'Know for certain that your descendants will be strangers in a land that is not theirs, where they will be enslaved and oppressed four hundred years."
+        },
+        {
+          "pk": 832002,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 14,
+          "text": "'But I will also judge the nation whom they will serve, and afterward they will come out with many possessions."
+        },
+        {
+          "pk": 832003,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 15,
+          "text": "'As for you, you shall go to your fathers in peace; you will be buried at a good old age."
+        },
+        {
+          "pk": 832004,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 16,
+          "text": "'Then in the fourth generation they will return here, for the iniquity of the Amorite is not yet complete.'"
+        },
+        {
+          "pk": 832005,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 17,
+          "text": "It came about when the sun had set, that it was very dark, and behold, [there appeared] a smoking oven and a flaming torch which passed between these pieces."
+        },
+        {
+          "pk": 832006,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 18,
+          "text": "On that day the LORD made a covenant with Abram, saying, 'To your descendants I have given this land, From the river of Egypt as far as the great river, the river Euphrates:"
+        },
+        {
+          "pk": 832007,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 19,
+          "text": "the Kenite and the Kenizzite and the Kadmonite"
+        },
+        {
+          "pk": 832008,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 20,
+          "text": "and the Hittite and the Perizzite and the Rephaim"
+        },
+        {
+          "pk": 832009,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 15,
+          "verse": 21,
+          "text": "and the Amorite and the Canaanite and the Girgashite and the Jebusite.'"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "pk": 832010,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 1,
+          "text": "Now Sarai, Abram's wife had borne him no [children], and she had an Egyptian maid whose name was Hagar."
+        },
+        {
+          "pk": 832011,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 2,
+          "text": "So Sarai said to Abram, 'Now behold, the LORD has prevented me from bearing [children]. Please go in to my maid; perhaps I will obtain children through her.' And Abram listened to the voice of Sarai."
+        },
+        {
+          "pk": 832012,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 3,
+          "text": "After Abram had lived ten years in the land of Canaan, Abram's wife Sarai took Hagar the Egyptian, her maid, and gave her to her husband Abram as his wife."
+        },
+        {
+          "pk": 832013,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 4,
+          "text": "He went in to Hagar, and she conceived; and when she saw that she had conceived, her mistress was despised in her sight."
+        },
+        {
+          "pk": 832014,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 5,
+          "text": "And Sarai said to Abram, 'May the wrong done me be upon you. I gave my maid into your arms, but when she saw that she had conceived, I was despised in her sight. May the LORD judge between you and me.'"
+        },
+        {
+          "pk": 832015,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 6,
+          "text": "But Abram said to Sarai, 'Behold, your maid is in your power; do to her what is good in your sight.' So Sarai treated her harshly, and she fled from her presence."
+        },
+        {
+          "pk": 832016,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 7,
+          "text": "Now the angel of the LORD found her by a spring of water in the wilderness, by the spring on the way to Shur."
+        },
+        {
+          "pk": 832017,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 8,
+          "text": "He said, 'Hagar, Sarai's maid, where have you come from and where are you going?' And she said, 'I am fleeing from the presence of my mistress Sarai.'"
+        },
+        {
+          "pk": 832018,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 9,
+          "text": "Then the angel of the LORD said to her, 'Return to your mistress, and submit yourself to her authority.'"
+        },
+        {
+          "pk": 832019,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 10,
+          "text": "Moreover, the angel of the LORD said to her, 'I will greatly multiply your descendants so that they will be too many to count.'"
+        },
+        {
+          "pk": 832020,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 11,
+          "text": "The angel of the LORD said to her further, 'Behold, you are with child, And you will bear a son; And you shall call his name Ishmael, Because the LORD has given heed to your affliction."
+        },
+        {
+          "pk": 832021,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 12,
+          "text": "'He will be a wild donkey of a man, His hand [will be] against everyone, And everyone's hand [will be] against him; And he will live to the east of all his brothers.'"
+        },
+        {
+          "pk": 832022,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 13,
+          "text": "Then she called the name of the LORD who spoke to her, 'You are a God who sees'; for she said, 'Have I even remained alive here after seeing Him?'"
+        },
+        {
+          "pk": 832023,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 14,
+          "text": "Therefore the well was called Beer-lahai-roi; behold, it is between Kadesh and Bered."
+        },
+        {
+          "pk": 832024,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 15,
+          "text": "So Hagar bore Abram a son; and Abram called the name of his son, whom Hagar bore, Ishmael."
+        },
+        {
+          "pk": 832025,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 16,
+          "verse": 16,
+          "text": "Abram was eighty-six years old when Hagar bore Ishmael to him."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "pk": 832026,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 1,
+          "text": "Now when Abram was ninety-nine years old, the LORD appeared to Abram and said to him, 'I am God Almighty; Walk before Me, and be blameless."
+        },
+        {
+          "pk": 832027,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 2,
+          "text": "'I will establish My covenant between Me and you, And I will multiply you exceedingly.'"
+        },
+        {
+          "pk": 832028,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 3,
+          "text": "Abram fell on his face, and God talked with him, saying,"
+        },
+        {
+          "pk": 832029,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 4,
+          "text": "'As for Me, behold, My covenant is with you, And you will be the father of a multitude of nations."
+        },
+        {
+          "pk": 832030,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 5,
+          "text": "'No longer shall your name be called Abram, But your name shall be Abraham; For I will make you the father of a multitude of nations."
+        },
+        {
+          "pk": 832031,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 6,
+          "text": "'I will make you exceedingly fruitful, and I will make nations of you, and kings will come forth from you."
+        },
+        {
+          "pk": 832032,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 7,
+          "text": "'I will establish My covenant between Me and you and your descendants after you throughout their generations for an everlasting covenant, to be God to you and to your descendants after you."
+        },
+        {
+          "pk": 832033,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 8,
+          "text": "'I will give to you and to your descendants after you, the land of your sojournings, all the land of Canaan, for an everlasting possession; and I will be their God.'"
+        },
+        {
+          "pk": 832034,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 9,
+          "text": "God said further to Abraham, 'Now as for you, you shall keep My covenant, you and your descendants after you throughout their generations."
+        },
+        {
+          "pk": 832035,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 10,
+          "text": "'This is My covenant, which you shall keep, between Me and you and your descendants after you: every male among you shall be circumcised."
+        },
+        {
+          "pk": 832036,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 11,
+          "text": "'And you shall be circumcised in the flesh of your foreskin, and it shall be the sign of the covenant between Me and you."
+        },
+        {
+          "pk": 832037,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 12,
+          "text": "'And every male among you who is eight days old shall be circumcised throughout your generations, a [servant] who is born in the house or who is bought with money from any foreigner, who is not of your descendants."
+        },
+        {
+          "pk": 832038,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 13,
+          "text": "'A [servant] who is born in your house or who is bought with your money shall surely be circumcised; thus shall My covenant be in your flesh for an everlasting covenant."
+        },
+        {
+          "pk": 832039,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 14,
+          "text": "'But an uncircumcised male who is not circumcised in the flesh of his foreskin, that person shall be cut off from his people; he has broken My covenant.'"
+        },
+        {
+          "pk": 832040,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 15,
+          "text": "Then God said to Abraham, 'As for Sarai your wife, you shall not call her name Sarai, but Sarah [shall be] her name."
+        },
+        {
+          "pk": 832041,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 16,
+          "text": "'I will bless her, and indeed I will give you a son by her. Then I will bless her, and she shall be [a mother of] nations; kings of peoples will come from her.'"
+        },
+        {
+          "pk": 832042,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 17,
+          "text": "Then Abraham fell on his face and laughed, and said in his heart, 'Will a child be born to a man one hundred years old? And will Sarah, who is ninety years old, bear [a child]?'"
+        },
+        {
+          "pk": 832043,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 18,
+          "text": "And Abraham said to God, 'Oh that Ishmael might live before You!'"
+        },
+        {
+          "pk": 832044,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 19,
+          "text": "But God said, 'No, but Sarah your wife will bear you a son, and you shall call his name Isaac; and I will establish My covenant with him for an everlasting covenant for his descendants after him."
+        },
+        {
+          "pk": 832045,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 20,
+          "text": "'As for Ishmael, I have heard you; behold, I will bless him, and will make him fruitful and will multiply him exceedingly. He shall become the father of twelve princes, and I will make him a great nation."
+        },
+        {
+          "pk": 832046,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 21,
+          "text": "'But My covenant I will establish with Isaac, whom Sarah will bear to you at this season next year.'"
+        },
+        {
+          "pk": 832047,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 22,
+          "text": "When He finished talking with him, God went up from Abraham."
+        },
+        {
+          "pk": 832048,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 23,
+          "text": "Then Abraham took Ishmael his son, and all [the servants] who were born in his house and all who were bought with his money, every male among the men of Abraham's household, and circumcised the flesh of their foreskin in the very same day, as God had said to him."
+        },
+        {
+          "pk": 832049,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 24,
+          "text": "Now Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin."
+        },
+        {
+          "pk": 832050,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 25,
+          "text": "And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin."
+        },
+        {
+          "pk": 832051,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 26,
+          "text": "In the very same day Abraham was circumcised, and Ishmael his son."
+        },
+        {
+          "pk": 832052,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 17,
+          "verse": 27,
+          "text": "All the men of his household, who were born in the house or bought with money from a foreigner, were circumcised with him."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "pk": 832053,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 1,
+          "text": "Now the LORD appeared to him by the oaks of Mamre, while he was sitting at the tent door in the heat of the day."
+        },
+        {
+          "pk": 832054,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 2,
+          "text": "When he lifted up his eyes and looked, behold, three men were standing opposite him; and when he saw [them], he ran from the tent door to meet them and bowed himself to the earth,"
+        },
+        {
+          "pk": 832055,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 3,
+          "text": "and said, 'My lord, if now I have found favor in your sight, please do not pass your servant by."
+        },
+        {
+          "pk": 832056,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 4,
+          "text": "'Please let a little water be brought and wash your feet, and rest yourselves under the tree;"
+        },
+        {
+          "pk": 832057,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 5,
+          "text": "and I will bring a piece of bread, that you may refresh yourselves; after that you may go on, since you have visited your servant.' And they said, 'So do, as you have said.'"
+        },
+        {
+          "pk": 832058,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 6,
+          "text": "So Abraham hurried into the tent to Sarah, and said, 'Quickly, prepare three measures of fine flour, knead [it] and make bread cakes.'"
+        },
+        {
+          "pk": 832059,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 7,
+          "text": "Abraham also ran to the herd, and took a tender and choice calf and gave [it] to the servant, and he hurried to prepare it."
+        },
+        {
+          "pk": 832060,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 8,
+          "text": "He took curds and milk and the calf which he had prepared, and placed [it] before them; and he was standing by them under the tree as they ate."
+        },
+        {
+          "pk": 832061,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 9,
+          "text": "Then they said to him, 'Where is Sarah your wife?' And he said, 'There, in the tent.'"
+        },
+        {
+          "pk": 832062,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 10,
+          "text": "He said, 'I will surely return to you at this time next year; and behold, Sarah your wife will have a son.' And Sarah was listening at the tent door, which was behind him."
+        },
+        {
+          "pk": 832063,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 11,
+          "text": "Now Abraham and Sarah were old, advanced in age; Sarah was past childbearing."
+        },
+        {
+          "pk": 832064,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 12,
+          "text": "Sarah laughed to herself, saying, 'After I have become old, shall I have pleasure, my lord being old also?'"
+        },
+        {
+          "pk": 832065,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 13,
+          "text": "And the LORD said to Abraham, 'Why did Sarah laugh, saying, 'Shall I indeed bear [a child], when I am [so] old?'"
+        },
+        {
+          "pk": 832066,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 14,
+          "text": "'Is anything too difficult for the LORD? At the appointed time I will return to you, at this time next year, and Sarah will have a son.'"
+        },
+        {
+          "pk": 832067,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 15,
+          "text": "Sarah denied [it] however, saying, 'I did not laugh'; for she was afraid. And He said, 'No, but you did laugh.'"
+        },
+        {
+          "pk": 832068,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 16,
+          "text": "Then the men rose up from there, and looked down toward Sodom; and Abraham was walking with them to send them off."
+        },
+        {
+          "pk": 832069,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 17,
+          "text": "The LORD said, 'Shall I hide from Abraham what I am about to do,"
+        },
+        {
+          "pk": 832070,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 18,
+          "text": "since Abraham will surely become a great and mighty nation, and in him all the nations of the earth will be blessed?"
+        },
+        {
+          "pk": 832071,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 19,
+          "text": "'For I have chosen him, so that he may command his children and his household after him to keep the way of the LORD by doing righteousness and justice, so that the LORD may bring upon Abraham what He has spoken about him.'"
+        },
+        {
+          "pk": 832072,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 20,
+          "text": "And the LORD said, 'The outcry of Sodom and Gomorrah is indeed great, and their sin is exceedingly grave."
+        },
+        {
+          "pk": 832073,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 21,
+          "text": "'I will go down now, and see if they have done entirely according to its outcry, which has come to Me; and if not, I will know.'"
+        },
+        {
+          "pk": 832074,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 22,
+          "text": "Then the men turned away from there and went toward Sodom, while Abraham was still standing before the LORD."
+        },
+        {
+          "pk": 832075,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 23,
+          "text": "Abraham came near and said, 'Will You indeed sweep away the righteous with the wicked?"
+        },
+        {
+          "pk": 832076,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 24,
+          "text": "'Suppose there are fifty righteous within the city; will You indeed sweep [it] away and not spare the place for the sake of the fifty righteous who are in it?"
+        },
+        {
+          "pk": 832077,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 25,
+          "text": "'Far be it from You to do such a thing, to slay the righteous with the wicked, so that the righteous and the wicked are [treated] alike. Far be it from You! Shall not the Judge of all the earth deal justly?'"
+        },
+        {
+          "pk": 832078,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 26,
+          "text": "So the LORD said, 'If I find in Sodom fifty righteous within the city, then I will spare the whole place on their account.'"
+        },
+        {
+          "pk": 832079,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 27,
+          "text": "And Abraham replied, 'Now behold, I have ventured to speak to the Lord, although I am [but] dust and ashes."
+        },
+        {
+          "pk": 832080,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 28,
+          "text": "'Suppose the fifty righteous are lacking five, will You destroy the whole city because of five?' And He said, 'I will not destroy [it] if I find forty-five there.'"
+        },
+        {
+          "pk": 832081,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 29,
+          "text": "He spoke to Him yet again and said, 'Suppose forty are found there?' And He said, 'I will not do [it] on account of the forty.'"
+        },
+        {
+          "pk": 832082,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 30,
+          "text": "Then he said, 'Oh may the Lord not be angry, and I shall speak; suppose thirty are found there?' And He said, 'I will not do [it] if I find thirty there.'"
+        },
+        {
+          "pk": 832083,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 31,
+          "text": "And he said, 'Now behold, I have ventured to speak to the Lord; suppose twenty are found there?' And He said, 'I will not destroy [it] on account of the twenty.'"
+        },
+        {
+          "pk": 832084,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 32,
+          "text": "Then he said, 'Oh may the Lord not be angry, and I shall speak only this once; suppose ten are found there?' And He said, 'I will not destroy [it] on account of the ten.'"
+        },
+        {
+          "pk": 832085,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 18,
+          "verse": 33,
+          "text": "As soon as He had finished speaking to Abraham the LORD departed, and Abraham returned to his place."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "pk": 832086,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 1,
+          "text": "Now the two angels came to Sodom in the evening as Lot was sitting in the gate of Sodom. When Lot saw [them], he rose to meet them and bowed down [with his] face to the ground."
+        },
+        {
+          "pk": 832087,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 2,
+          "text": "And he said, 'Now behold, my lords, please turn aside into your servant's house, and spend the night, and wash your feet; then you may rise early and go on your way.' They said however, 'No, but we shall spend the night in the square.'"
+        },
+        {
+          "pk": 832088,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 3,
+          "text": "Yet he urged them strongly, so they turned aside to him and entered his house; and he prepared a feast for them, and baked unleavened bread, and they ate."
+        },
+        {
+          "pk": 832089,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 4,
+          "text": "Before they lay down, the men of the city, the men of Sodom, surrounded the house, both young and old, all the people from every quarter;"
+        },
+        {
+          "pk": 832090,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 5,
+          "text": "and they called to Lot and said to him, 'Where are the men who came to you tonight? Bring them out to us that we may have relations with them.'"
+        },
+        {
+          "pk": 832091,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 6,
+          "text": "But Lot went out to them at the doorway, and shut the door behind him,"
+        },
+        {
+          "pk": 832092,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 7,
+          "text": "and said, 'Please, my brothers, do not act wickedly."
+        },
+        {
+          "pk": 832093,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 8,
+          "text": "'Now behold, I have two daughters who have not had relations with man; please let me bring them out to you, and do to them whatever you like; only do nothing to these men, inasmuch as they have come under the shelter of my roof.'"
+        },
+        {
+          "pk": 832094,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 9,
+          "text": "But they said, 'Stand aside.' Furthermore, they said, 'This one came in as an alien, and already he is acting like a judge; now we will treat you worse than them.' So they pressed hard against Lot and came near to break the door."
+        },
+        {
+          "pk": 832095,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 10,
+          "text": "But the men reached out their hands and brought Lot into the house with them, and shut the door."
+        },
+        {
+          "pk": 832096,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 11,
+          "text": "They struck the men who were at the doorway of the house with blindness, both small and great, so that they wearied [themselves trying] to find the doorway."
+        },
+        {
+          "pk": 832097,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 12,
+          "text": "Then the [two] men said to Lot, 'Whom else have you here? A son-in-law, and your sons, and your daughters, and whomever you have in the city, bring [them] out of the place;"
+        },
+        {
+          "pk": 832098,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 13,
+          "text": "for we are about to destroy this place, because their outcry has become so great before the LORD that the LORD has sent us to destroy it.'"
+        },
+        {
+          "pk": 832099,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 14,
+          "text": "Lot went out and spoke to his sons-in-law, who were to marry his daughters, and said, 'Up, get out of this place, for the LORD will destroy the city.' But he appeared to his sons-in-law to be jesting."
+        },
+        {
+          "pk": 832100,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 15,
+          "text": "When morning dawned, the angels urged Lot, saying, 'Up, take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.'"
+        },
+        {
+          "pk": 832101,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 16,
+          "text": "But he hesitated. So the men seized his hand and the hand of his wife and the hands of his two daughters, for the compassion of the LORD [was] upon him; and they brought him out, and put him outside the city."
+        },
+        {
+          "pk": 832102,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 17,
+          "text": "When they had brought them outside, one said, 'Escape for your life! Do not look behind you, and do not stay anywhere in the valley; escape to the mountains, or you will be swept away.'"
+        },
+        {
+          "pk": 832103,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 18,
+          "text": "But Lot said to them, 'Oh no, my lords!"
+        },
+        {
+          "pk": 832104,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 19,
+          "text": "'Now behold, your servant has found favor in your sight, and you have magnified your lovingkindness, which you have shown me by saving my life; but I cannot escape to the mountains, for the disaster will overtake me and I will die;"
+        },
+        {
+          "pk": 832105,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 20,
+          "text": "now behold, this town is near [enough] to flee to, and it is small. Please, let me escape there (is it not small?) that my life may be saved.'"
+        },
+        {
+          "pk": 832106,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 21,
+          "text": "He said to him, 'Behold, I grant you this request also, not to overthrow the town of which you have spoken."
+        },
+        {
+          "pk": 832107,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 22,
+          "text": "'Hurry, escape there, for I cannot do anything until you arrive there.' Therefore the name of the town was called Zoar."
+        },
+        {
+          "pk": 832108,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 23,
+          "text": "The sun had risen over the earth when Lot came to Zoar."
+        },
+        {
+          "pk": 832109,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 24,
+          "text": "Then the LORD rained on Sodom and Gomorrah brimstone and fire from the LORD out of heaven,"
+        },
+        {
+          "pk": 832110,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 25,
+          "text": "and He overthrew those cities, and all the valley, and all the inhabitants of the cities, and what grew on the ground."
+        },
+        {
+          "pk": 832111,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 26,
+          "text": "But his wife, from behind him, looked [back], and she became a pillar of salt."
+        },
+        {
+          "pk": 832112,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 27,
+          "text": "Now Abraham arose early in the morning [and went] to the place where he had stood before the LORD;"
+        },
+        {
+          "pk": 832113,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 28,
+          "text": "and he looked down toward Sodom and Gomorrah, and toward all the land of the valley, and he saw, and behold, the smoke of the land ascended like the smoke of a furnace."
+        },
+        {
+          "pk": 832114,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 29,
+          "text": "Thus it came about, when God destroyed the cities of the valley, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when He overthrew the cities in which Lot lived."
+        },
+        {
+          "pk": 832115,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 30,
+          "text": "Lot went up from Zoar, and stayed in the mountains, and his two daughters with him; for he was afraid to stay in Zoar; and he stayed in a cave, he and his two daughters."
+        },
+        {
+          "pk": 832116,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 31,
+          "text": "Then the firstborn said to the younger, 'Our father is old, and there is not a man on earth to come in to us after the manner of the earth."
+        },
+        {
+          "pk": 832117,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 32,
+          "text": "'Come, let us make our father drink wine, and let us lie with him that we may preserve our family through our father.'"
+        },
+        {
+          "pk": 832118,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 33,
+          "text": "So they made their father drink wine that night, and the firstborn went in and lay with her father; and he did not know when she lay down or when she arose."
+        },
+        {
+          "pk": 832119,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 34,
+          "text": "On the following day, the firstborn said to the younger, 'Behold, I lay last night with my father; let us make him drink wine tonight also; then you go in and lie with him, that we may preserve our family through our father.'"
+        },
+        {
+          "pk": 832120,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 35,
+          "text": "So they made their father drink wine that night also, and the younger arose and lay with him; and he did not know when she lay down or when she arose."
+        },
+        {
+          "pk": 832121,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 36,
+          "text": "Thus both the daughters of Lot were with child by their father."
+        },
+        {
+          "pk": 832122,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 37,
+          "text": "The firstborn bore a son, and called his name Moab; he is the father of the Moabites to this day."
+        },
+        {
+          "pk": 832123,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 19,
+          "verse": 38,
+          "text": "As for the younger, she also bore a son, and called his name Ben-ammi; he is the father of the sons of Ammon to this day."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "pk": 832124,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 1,
+          "text": "Now Abraham journeyed from there toward the land of the Negev, and settled between Kadesh and Shur; then he sojourned in Gerar."
+        },
+        {
+          "pk": 832125,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 2,
+          "text": "Abraham said of Sarah his wife, 'She is my sister.' So Abimelech king of Gerar sent and took Sarah."
+        },
+        {
+          "pk": 832126,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 3,
+          "text": "But God came to Abimelech in a dream of the night, and said to him, 'Behold, you are a dead man because of the woman whom you have taken, for she is married.'"
+        },
+        {
+          "pk": 832127,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 4,
+          "text": "Now Abimelech had not come near her; and he said, 'Lord, will You slay a nation, even [though] blameless?"
+        },
+        {
+          "pk": 832128,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 5,
+          "text": "'Did he not himself say to me, 'She is my sister '? And she herself said, 'He is my brother.' In the integrity of my heart and the innocence of my hands I have done this.'"
+        },
+        {
+          "pk": 832129,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 6,
+          "text": "Then God said to him in the dream, 'Yes, I know that in the integrity of your heart you have done this, and I also kept you from sinning against Me; therefore I did not let you touch her."
+        },
+        {
+          "pk": 832130,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 7,
+          "text": "'Now therefore, restore the man's wife, for he is a prophet, and he will pray for you and you will live. But if you do not restore [her], know that you shall surely die, you and all who are yours.'"
+        },
+        {
+          "pk": 832131,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 8,
+          "text": "So Abimelech arose early in the morning and called all his servants and told all these things in their hearing; and the men were greatly frightened."
+        },
+        {
+          "pk": 832132,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 9,
+          "text": "Then Abimelech called Abraham and said to him, 'What have you done to us? And how have I sinned against you, that you have brought on me and on my kingdom a great sin? You have done to me things that ought not to be done.'"
+        },
+        {
+          "pk": 832133,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 10,
+          "text": "And Abimelech said to Abraham, 'What have you encountered, that you have done this thing?'"
+        },
+        {
+          "pk": 832134,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 11,
+          "text": "Abraham said, 'Because I thought, surely there is no fear of God in this place, and they will kill me because of my wife."
+        },
+        {
+          "pk": 832135,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 12,
+          "text": "'Besides, she actually is my sister, the daughter of my father, but not the daughter of my mother, and she became my wife;"
+        },
+        {
+          "pk": 832136,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 13,
+          "text": "and it came about, when God caused me to wander from my father's house, that I said to her, 'This is the kindness which you will show to me: everywhere we go, say of me, 'He is my brother.'''"
+        },
+        {
+          "pk": 832137,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 14,
+          "text": "Abimelech then took sheep and oxen and male and female servants, and gave them to Abraham, and restored his wife Sarah to him."
+        },
+        {
+          "pk": 832138,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 15,
+          "text": "Abimelech said, 'Behold, my land is before you; settle wherever you please.'"
+        },
+        {
+          "pk": 832139,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 16,
+          "text": "To Sarah he said, 'Behold, I have given your brother a thousand pieces of silver; behold, it is your vindication before all who are with you, and before all men you are cleared.'"
+        },
+        {
+          "pk": 832140,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 17,
+          "text": "Abraham prayed to God, and God healed Abimelech and his wife and his maids, so that they bore [children]."
+        },
+        {
+          "pk": 832141,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 20,
+          "verse": 18,
+          "text": "For the LORD had closed fast all the wombs of the household of Abimelech because of Sarah, Abraham's wife."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "pk": 832142,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 1,
+          "text": "Then the LORD took note of Sarah as He had said, and the LORD did for Sarah as He had promised."
+        },
+        {
+          "pk": 832143,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 2,
+          "text": "So Sarah conceived and bore a son to Abraham in his old age, at the appointed time of which God had spoken to him."
+        },
+        {
+          "pk": 832144,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 3,
+          "text": "Abraham called the name of his son who was born to him, whom Sarah bore to him, Isaac."
+        },
+        {
+          "pk": 832145,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 4,
+          "text": "Then Abraham circumcised his son Isaac when he was eight days old, as God had commanded him."
+        },
+        {
+          "pk": 832146,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 5,
+          "text": "Now Abraham was one hundred years old when his son Isaac was born to him."
+        },
+        {
+          "pk": 832147,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 6,
+          "text": "Sarah said, 'God has made laughter for me; everyone who hears will laugh with me.'"
+        },
+        {
+          "pk": 832148,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 7,
+          "text": "And she said, 'Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.'"
+        },
+        {
+          "pk": 832149,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 8,
+          "text": "The child grew and was weaned, and Abraham made a great feast on the day that Isaac was weaned."
+        },
+        {
+          "pk": 832150,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 9,
+          "text": "Now Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking."
+        },
+        {
+          "pk": 832151,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 10,
+          "text": "Therefore she said to Abraham, 'Drive out this maid and her son, for the son of this maid shall not be an heir with my son Isaac.'"
+        },
+        {
+          "pk": 832152,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 11,
+          "text": "The matter distressed Abraham greatly because of his son."
+        },
+        {
+          "pk": 832153,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 12,
+          "text": "But God said to Abraham, 'Do not be distressed because of the lad and your maid; whatever Sarah tells you, listen to her, for through Isaac your descendants shall be named."
+        },
+        {
+          "pk": 832154,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 13,
+          "text": "'And of the son of the maid I will make a nation also, because he is your descendant.'"
+        },
+        {
+          "pk": 832155,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 14,
+          "text": "So Abraham rose early in the morning and took bread and a skin of water and gave [them] to Hagar, putting [them] on her shoulder, and [gave her] the boy, and sent her away. And she departed and wandered about in the wilderness of Beersheba."
+        },
+        {
+          "pk": 832156,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 15,
+          "text": "When the water in the skin was used up, she left the boy under one of the bushes."
+        },
+        {
+          "pk": 832157,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 16,
+          "text": "Then she went and sat down opposite him, about a bowshot away, for she said, 'Do not let me see the boy die.' And she sat opposite him, and lifted up her voice and wept."
+        },
+        {
+          "pk": 832158,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 17,
+          "text": "God heard the lad crying; and the angel of God called to Hagar from heaven and said to her, 'What is the matter with you, Hagar? Do not fear, for God has heard the voice of the lad where he is."
+        },
+        {
+          "pk": 832159,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 18,
+          "text": "'Arise, lift up the lad, and hold him by the hand, for I will make a great nation of him.'"
+        },
+        {
+          "pk": 832160,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 19,
+          "text": "Then God opened her eyes and she saw a well of water; and she went and filled the skin with water and gave the lad a drink."
+        },
+        {
+          "pk": 832161,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 20,
+          "text": "God was with the lad, and he grew; and he lived in the wilderness and became an archer."
+        },
+        {
+          "pk": 832162,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 21,
+          "text": "He lived in the wilderness of Paran, and his mother took a wife for him from the land of Egypt."
+        },
+        {
+          "pk": 832163,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 22,
+          "text": "Now it came about at that time that Abimelech and Phicol, the commander of his army, spoke to Abraham, saying, 'God is with you in all that you do;"
+        },
+        {
+          "pk": 832164,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 23,
+          "text": "now therefore, swear to me here by God that you will not deal falsely with me or with my offspring or with my posterity, but according to the kindness that I have shown to you, you shall show to me and to the land in which you have sojourned.'"
+        },
+        {
+          "pk": 832165,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 24,
+          "text": "Abraham said, 'I swear it.'"
+        },
+        {
+          "pk": 832166,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 25,
+          "text": "But Abraham complained to Abimelech because of the well of water which the servants of Abimelech had seized."
+        },
+        {
+          "pk": 832167,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 26,
+          "text": "And Abimelech said, 'I do not know who has done this thing; you did not tell me, nor did I hear of it until today.'"
+        },
+        {
+          "pk": 832168,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 27,
+          "text": "Abraham took sheep and oxen and gave them to Abimelech, and the two of them made a covenant."
+        },
+        {
+          "pk": 832169,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 28,
+          "text": "Then Abraham set seven ewe lambs of the flock by themselves."
+        },
+        {
+          "pk": 832170,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 29,
+          "text": "Abimelech said to Abraham, 'What do these seven ewe lambs mean, which you have set by themselves?'"
+        },
+        {
+          "pk": 832171,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 30,
+          "text": "He said, 'You shall take these seven ewe lambs from my hand so that it may be a witness to me, that I dug this well.'"
+        },
+        {
+          "pk": 832172,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 31,
+          "text": "Therefore he called that place Beersheba, because there the two of them took an oath."
+        },
+        {
+          "pk": 832173,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 32,
+          "text": "So they made a covenant at Beersheba; and Abimelech and Phicol, the commander of his army, arose and returned to the land of the Philistines."
+        },
+        {
+          "pk": 832174,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 33,
+          "text": "[Abraham] planted a tamarisk tree at Beersheba, and there he called on the name of the LORD, the Everlasting God."
+        },
+        {
+          "pk": 832175,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 21,
+          "verse": 34,
+          "text": "And Abraham sojourned in the land of the Philistines for many days."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "pk": 832176,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 1,
+          "text": "Now it came about after these things, that God tested Abraham, and said to him, 'Abraham!' And he said, 'Here I am.'"
+        },
+        {
+          "pk": 832177,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 2,
+          "text": "He said, 'Take now your son, your only son, whom you love, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.'"
+        },
+        {
+          "pk": 832178,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 3,
+          "text": "So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him and Isaac his son; and he split wood for the burnt offering, and arose and went to the place of which God had told him."
+        },
+        {
+          "pk": 832179,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 4,
+          "text": "On the third day Abraham raised his eyes and saw the place from a distance."
+        },
+        {
+          "pk": 832180,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 5,
+          "text": "Abraham said to his young men, 'Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.'"
+        },
+        {
+          "pk": 832181,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 6,
+          "text": "Abraham took the wood of the burnt offering and laid it on Isaac his son, and he took in his hand the fire and the knife. So the two of them walked on together."
+        },
+        {
+          "pk": 832182,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 7,
+          "text": "Isaac spoke to Abraham his father and said, 'My father!' And he said, 'Here I am, my son.' And he said, 'Behold, the fire and the wood, but where is the lamb for the burnt offering?'"
+        },
+        {
+          "pk": 832183,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 8,
+          "text": "Abraham said, 'God will provide for Himself the lamb for the burnt offering, my son.' So the two of them walked on together."
+        },
+        {
+          "pk": 832184,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 9,
+          "text": "Then they came to the place of which God had told him; and Abraham built the altar there and arranged the wood, and bound his son Isaac and laid him on the altar, on top of the wood."
+        },
+        {
+          "pk": 832185,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 10,
+          "text": "Abraham stretched out his hand and took the knife to slay his son."
+        },
+        {
+          "pk": 832186,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 11,
+          "text": "But the angel of the LORD called to him from heaven and said, 'Abraham, Abraham!' And he said, 'Here I am.'"
+        },
+        {
+          "pk": 832187,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 12,
+          "text": "He said, 'Do not stretch out your hand against the lad, and do nothing to him; for now I know that you fear God, since you have not withheld your son, your only son, from Me.'"
+        },
+        {
+          "pk": 832188,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 13,
+          "text": "Then Abraham raised his eyes and looked, and behold, behind [him] a ram caught in the thicket by his horns; and Abraham went and took the ram and offered him up for a burnt offering in the place of his son."
+        },
+        {
+          "pk": 832189,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 14,
+          "text": "Abraham called the name of that place The LORD Will Provide, as it is said to this day, 'In the mount of the LORD it will be provided.'"
+        },
+        {
+          "pk": 832190,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 15,
+          "text": "Then the angel of the LORD called to Abraham a second time from heaven,"
+        },
+        {
+          "pk": 832191,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 16,
+          "text": "and said, 'By Myself I have sworn, declares the LORD, because you have done this thing and have not withheld your son, your only son,"
+        },
+        {
+          "pk": 832192,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 17,
+          "text": "indeed I will greatly bless you, and I will greatly multiply your seed as the stars of the heavens and as the sand which is on the seashore; and your seed shall possess the gate of their enemies."
+        },
+        {
+          "pk": 832193,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 18,
+          "text": "'In your seed all the nations of the earth shall be blessed, because you have obeyed My voice.'"
+        },
+        {
+          "pk": 832194,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 19,
+          "text": "So Abraham returned to his young men, and they arose and went together to Beersheba; and Abraham lived at Beersheba."
+        },
+        {
+          "pk": 832195,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 20,
+          "text": "Now it came about after these things, that it was told Abraham, saying, 'Behold, Milcah also has borne children to your brother Nahor:"
+        },
+        {
+          "pk": 832196,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 21,
+          "text": "Uz his firstborn and Buz his brother and Kemuel the father of Aram"
+        },
+        {
+          "pk": 832197,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 22,
+          "text": "and Chesed and Hazo and Pildash and Jidlaph and Bethuel.'"
+        },
+        {
+          "pk": 832198,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 23,
+          "text": "Bethuel became the father of Rebekah; these eight Milcah bore to Nahor, Abraham's brother."
+        },
+        {
+          "pk": 832199,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 22,
+          "verse": 24,
+          "text": "His concubine, whose name was Reumah, also bore Tebah and Gaham and Tahash and Maacah."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "pk": 832200,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 1,
+          "text": "Now Sarah lived one hundred and twenty-seven years; [these were] the years of the life of Sarah."
+        },
+        {
+          "pk": 832201,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 2,
+          "text": "Sarah died in Kiriath-arba (that is, Hebron) in the land of Canaan; and Abraham went in to mourn for Sarah and to weep for her."
+        },
+        {
+          "pk": 832202,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 3,
+          "text": "Then Abraham rose from before his dead, and spoke to the sons of Heth, saying,"
+        },
+        {
+          "pk": 832203,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 4,
+          "text": "'I am a stranger and a sojourner among you; give me a burial site among you that I may bury my dead out of my sight.'"
+        },
+        {
+          "pk": 832204,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 5,
+          "text": "The sons of Heth answered Abraham, saying to him,"
+        },
+        {
+          "pk": 832205,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 6,
+          "text": "'Hear us, my lord, you are a mighty prince among us; bury your dead in the choicest of our graves; none of us will refuse you his grave for burying your dead.'"
+        },
+        {
+          "pk": 832206,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 7,
+          "text": "So Abraham rose and bowed to the people of the land, the sons of Heth."
+        },
+        {
+          "pk": 832207,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 8,
+          "text": "And he spoke with them, saying, 'If it is your wish [for me] to bury my dead out of my sight, hear me, and approach Ephron the son of Zohar for me,"
+        },
+        {
+          "pk": 832208,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 9,
+          "text": "that he may give me the cave of Machpelah which he owns, which is at the end of his field; for the full price let him give it to me in your presence for a burial site.'"
+        },
+        {
+          "pk": 832209,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 10,
+          "text": "Now Ephron was sitting among the sons of Heth; and Ephron the Hittite answered Abraham in the hearing of the sons of Heth; [even] of all who went in at the gate of his city, saying,"
+        },
+        {
+          "pk": 832210,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 11,
+          "text": "'No, my lord, hear me; I give you the field, and I give you the cave that is in it. In the presence of the sons of my people I give it to you; bury your dead.'"
+        },
+        {
+          "pk": 832211,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 12,
+          "text": "And Abraham bowed before the people of the land."
+        },
+        {
+          "pk": 832212,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 13,
+          "text": "He spoke to Ephron in the hearing of the people of the land, saying, 'If you will only please listen to me; I will give the price of the field, accept [it] from me that I may bury my dead there.'"
+        },
+        {
+          "pk": 832213,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 14,
+          "text": "Then Ephron answered Abraham, saying to him,"
+        },
+        {
+          "pk": 832214,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 15,
+          "text": "'My lord, listen to me; a piece of land worth four hundred shekels of silver, what is that between me and you? So bury your dead.'"
+        },
+        {
+          "pk": 832215,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 16,
+          "text": "Abraham listened to Ephron; and Abraham weighed out for Ephron the silver which he had named in the hearing of the sons of Heth, four hundred shekels of silver, commercial standard."
+        },
+        {
+          "pk": 832216,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 17,
+          "text": "So Ephron's field, which was in Machpelah, which faced Mamre, the field and cave which was in it, and all the trees which were in the field, that were within all the confines of its border, were deeded over"
+        },
+        {
+          "pk": 832217,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 18,
+          "text": "to Abraham for a possession in the presence of the sons of Heth, before all who went in at the gate of his city."
+        },
+        {
+          "pk": 832218,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 19,
+          "text": "After this, Abraham buried Sarah his wife in the cave of the field at Machpelah facing Mamre (that is, Hebron) in the land of Canaan."
+        },
+        {
+          "pk": 832219,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 23,
+          "verse": 20,
+          "text": "So the field and the cave that is in it, were deeded over to Abraham for a burial site by the sons of Heth."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "pk": 832220,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 1,
+          "text": "Now Abraham was old, advanced in age; and the LORD had blessed Abraham in every way."
+        },
+        {
+          "pk": 832221,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 2,
+          "text": "Abraham said to his servant, the oldest of his household, who had charge of all that he owned, 'Please place your hand under my thigh,"
+        },
+        {
+          "pk": 832222,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 3,
+          "text": "and I will make you swear by the LORD, the God of heaven and the God of earth, that you shall not take a wife for my son from the daughters of the Canaanites, among whom I live,"
+        },
+        {
+          "pk": 832223,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 4,
+          "text": "but you will go to my country and to my relatives, and take a wife for my son Isaac.'"
+        },
+        {
+          "pk": 832224,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 5,
+          "text": "The servant said to him, 'Suppose the woman is not willing to follow me to this land; should I take your son back to the land from where you came?'"
+        },
+        {
+          "pk": 832225,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 6,
+          "text": "Then Abraham said to him, 'Beware that you do not take my son back there!"
+        },
+        {
+          "pk": 832226,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 7,
+          "text": "'The LORD, the God of heaven, who took me from my father's house and from the land of my birth, and who spoke to me and who swore to me, saying, 'To your descendants I will give this land,' He will send His angel before you, and you will take a wife for my son from there."
+        },
+        {
+          "pk": 832227,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 8,
+          "text": "'But if the woman is not willing to follow you, then you will be free from this my oath; only do not take my son back there.'"
+        },
+        {
+          "pk": 832228,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 9,
+          "text": "So the servant placed his hand under the thigh of Abraham his master, and swore to him concerning this matter."
+        },
+        {
+          "pk": 832229,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 10,
+          "text": "Then the servant took ten camels from the camels of his master, and set out with a variety of good things of his master's in his hand; and he arose and went to Mesopotamia, to the city of Nahor."
+        },
+        {
+          "pk": 832230,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 11,
+          "text": "He made the camels kneel down outside the city by the well of water at evening time, the time when women go out to draw water."
+        },
+        {
+          "pk": 832231,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 12,
+          "text": "He said, 'O LORD, the God of my master Abraham, please grant me success today, and show lovingkindness to my master Abraham."
+        },
+        {
+          "pk": 832232,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 13,
+          "text": "'Behold, I am standing by the spring, and the daughters of the men of the city are coming out to draw water;"
+        },
+        {
+          "pk": 832233,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 14,
+          "text": "now may it be that the girl to whom I say, 'Please let down your jar so that I may drink,' and who answers, 'Drink, and I will water your camels also '-- [may] she [be the one] whom You have appointed for Your servant Isaac; and by this I will know that You have shown lovingkindness to my master.'"
+        },
+        {
+          "pk": 832234,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 15,
+          "text": "Before he had finished speaking, behold, Rebekah who was born to Bethuel the son of Milcah, the wife of Abraham's brother Nahor, came out with her jar on her shoulder."
+        },
+        {
+          "pk": 832235,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 16,
+          "text": "The girl was very beautiful, a virgin, and no man had had relations with her; and she went down to the spring and filled her jar and came up."
+        },
+        {
+          "pk": 832236,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 17,
+          "text": "Then the servant ran to meet her, and said, 'Please let me drink a little water from your jar.'"
+        },
+        {
+          "pk": 832237,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 18,
+          "text": "She said, 'Drink, my lord'; and she quickly lowered her jar to her hand, and gave him a drink."
+        },
+        {
+          "pk": 832238,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 19,
+          "text": "Now when she had finished giving him a drink, she said, 'I will draw also for your camels until they have finished drinking.'"
+        },
+        {
+          "pk": 832239,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 20,
+          "text": "So she quickly emptied her jar into the trough, and ran back to the well to draw, and she drew for all his camels."
+        },
+        {
+          "pk": 832240,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 21,
+          "text": "Meanwhile, the man was gazing at her in silence, to know whether the LORD had made his journey successful or not."
+        },
+        {
+          "pk": 832241,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 22,
+          "text": "When the camels had finished drinking, the man took a gold ring weighing a half-shekel and two bracelets for her wrists weighing ten shekels in gold,"
+        },
+        {
+          "pk": 832242,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 23,
+          "text": "and said, 'Whose daughter are you? Please tell me, is there room for us to lodge in your father's house?'"
+        },
+        {
+          "pk": 832243,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 24,
+          "text": "She said to him, 'I am the daughter of Bethuel, the son of Milcah, whom she bore to Nahor.'"
+        },
+        {
+          "pk": 832244,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 25,
+          "text": "Again she said to him, 'We have plenty of both straw and feed, and room to lodge in.'"
+        },
+        {
+          "pk": 832245,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 26,
+          "text": "Then the man bowed low and worshiped the LORD."
+        },
+        {
+          "pk": 832246,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 27,
+          "text": "He said, 'Blessed be the LORD, the God of my master Abraham, who has not forsaken His lovingkindness and His truth toward my master; as for me, the LORD has guided me in the way to the house of my master's brothers.'"
+        },
+        {
+          "pk": 832247,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 28,
+          "text": "Then the girl ran and told her mother's household about these things."
+        },
+        {
+          "pk": 832248,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 29,
+          "text": "Now Rebekah had a brother whose name was Laban; and Laban ran outside to the man at the spring."
+        },
+        {
+          "pk": 832249,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 30,
+          "text": "When he saw the ring and the bracelets on his sister's wrists, and when he heard the words of Rebekah his sister, saying, 'This is what the man said to me,' he went to the man; and behold, he was standing by the camels at the spring."
+        },
+        {
+          "pk": 832250,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 31,
+          "text": "And he said, 'Come in, blessed of the LORD! Why do you stand outside since I have prepared the house, and a place for the camels?'"
+        },
+        {
+          "pk": 832251,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 32,
+          "text": "So the man entered the house. Then Laban unloaded the camels, and he gave straw and feed to the camels, and water to wash his feet and the feet of the men who were with him."
+        },
+        {
+          "pk": 832252,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 33,
+          "text": "But when [food] was set before him to eat, he said, 'I will not eat until I have told my business.' And he said, 'Speak on.'"
+        },
+        {
+          "pk": 832253,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 34,
+          "text": "So he said, 'I am Abraham's servant."
+        },
+        {
+          "pk": 832254,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 35,
+          "text": "'The LORD has greatly blessed my master, so that he has become rich; and He has given him flocks and herds, and silver and gold, and servants and maids, and camels and donkeys."
+        },
+        {
+          "pk": 832255,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 36,
+          "text": "'Now Sarah my master's wife bore a son to my master in her old age, and he has given him all that he has."
+        },
+        {
+          "pk": 832256,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 37,
+          "text": "'My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites, in whose land I live;"
+        },
+        {
+          "pk": 832257,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 38,
+          "text": "but you shall go to my father's house and to my relatives, and take a wife for my son.'"
+        },
+        {
+          "pk": 832258,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 39,
+          "text": "'I said to my master, 'Suppose the woman does not follow me.'"
+        },
+        {
+          "pk": 832259,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 40,
+          "text": "'He said to me, 'The LORD, before whom I have walked, will send His angel with you to make your journey successful, and you will take a wife for my son from my relatives and from my father's house;"
+        },
+        {
+          "pk": 832260,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 41,
+          "text": "then you will be free from my oath, when you come to my relatives; and if they do not give her to you, you will be free from my oath.'"
+        },
+        {
+          "pk": 832261,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 42,
+          "text": "'So I came today to the spring, and said, 'O LORD, the God of my master Abraham, if now You will make my journey on which I go successful;"
+        },
+        {
+          "pk": 832262,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 43,
+          "text": "behold, I am standing by the spring, and may it be that the maiden who comes out to draw, and to whom I say, 'Please let me drink a little water from your jar';"
+        },
+        {
+          "pk": 832263,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 44,
+          "text": "and she will say to me, 'You drink, and I will draw for your camels also'; let her be the woman whom the LORD has appointed for my master's son.'"
+        },
+        {
+          "pk": 832264,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 45,
+          "text": "'Before I had finished speaking in my heart, behold, Rebekah came out with her jar on her shoulder, and went down to the spring and drew, and I said to her, 'Please let me drink.'"
+        },
+        {
+          "pk": 832265,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 46,
+          "text": "'She quickly lowered her jar from her [shoulder], and said, 'Drink, and I will water your camels also'; so I drank, and she watered the camels also."
+        },
+        {
+          "pk": 832266,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 47,
+          "text": "'Then I asked her, and said, 'Whose daughter are you?' And she said, 'The daughter of Bethuel, Nahor's son, whom Milcah bore to him'; and I put the ring on her nose, and the bracelets on her wrists."
+        },
+        {
+          "pk": 832267,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 48,
+          "text": "'And I bowed low and worshiped the LORD, and blessed the LORD, the God of my master Abraham, who had guided me in the right way to take the daughter of my master's kinsman for his son."
+        },
+        {
+          "pk": 832268,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 49,
+          "text": "'So now if you are going to deal kindly and truly with my master, tell me; and if not, let me know, that I may turn to the right hand or the left.'"
+        },
+        {
+          "pk": 832269,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 50,
+          "text": "Then Laban and Bethuel replied, 'The matter comes from the LORD; [so] we cannot speak to you bad or good."
+        },
+        {
+          "pk": 832270,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 51,
+          "text": "'Here is Rebekah before you, take [her] and go, and let her be the wife of your master's son, as the LORD has spoken.'"
+        },
+        {
+          "pk": 832271,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 52,
+          "text": "When Abraham's servant heard their words, he bowed himself to the ground before the LORD."
+        },
+        {
+          "pk": 832272,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 53,
+          "text": "The servant brought out articles of silver and articles of gold, and garments, and gave them to Rebekah; he also gave precious things to her brother and to her mother."
+        },
+        {
+          "pk": 832273,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 54,
+          "text": "Then he and the men who were with him ate and drank and spent the night. When they arose in the morning, he said, 'Send me away to my master.'"
+        },
+        {
+          "pk": 832274,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 55,
+          "text": "But her brother and her mother said, 'Let the girl stay with us [a few] days, say ten; afterward she may go.'"
+        },
+        {
+          "pk": 832275,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 56,
+          "text": "He said to them, 'Do not delay me, since the LORD has prospered my way. Send me away that I may go to my master.'"
+        },
+        {
+          "pk": 832276,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 57,
+          "text": "And they said, 'We will call the girl and consult her wishes.'"
+        },
+        {
+          "pk": 832277,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 58,
+          "text": "Then they called Rebekah and said to her, 'Will you go with this man?' And she said, 'I will go.'"
+        },
+        {
+          "pk": 832278,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 59,
+          "text": "Thus they sent away their sister Rebekah and her nurse with Abraham's servant and his men."
+        },
+        {
+          "pk": 832279,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 60,
+          "text": "They blessed Rebekah and said to her, 'May you, our sister, Become thousands of ten thousands, And may your descendants possess The gate of those who hate them.'"
+        },
+        {
+          "pk": 832280,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 61,
+          "text": "Then Rebekah arose with her maids, and they mounted the camels and followed the man. So the servant took Rebekah and departed."
+        },
+        {
+          "pk": 832281,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 62,
+          "text": "Now Isaac had come from going to Beer-lahai-roi; for he was living in the Negev."
+        },
+        {
+          "pk": 832282,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 63,
+          "text": "Isaac went out to meditate in the field toward evening; and he lifted up his eyes and looked, and behold, camels were coming."
+        },
+        {
+          "pk": 832283,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 64,
+          "text": "Rebekah lifted up her eyes, and when she saw Isaac she dismounted from the camel."
+        },
+        {
+          "pk": 832284,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 65,
+          "text": "She said to the servant, 'Who is that man walking in the field to meet us?' And the servant said, 'He is my master.' Then she took her veil and covered herself."
+        },
+        {
+          "pk": 832285,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 66,
+          "text": "The servant told Isaac all the things that he had done."
+        },
+        {
+          "pk": 832286,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 24,
+          "verse": 67,
+          "text": "Then Isaac brought her into his mother Sarah's tent, and he took Rebekah, and she became his wife, and he loved her; thus Isaac was comforted after his mother's death."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "pk": 832287,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 1,
+          "text": "Now Abraham took another wife, whose name was Keturah."
+        },
+        {
+          "pk": 832288,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 2,
+          "text": "She bore to him Zimran and Jokshan and Medan and Midian and Ishbak and Shuah."
+        },
+        {
+          "pk": 832289,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 3,
+          "text": "Jokshan became the father of Sheba and Dedan. And the sons of Dedan were Asshurim and Letushim and Leummim."
+        },
+        {
+          "pk": 832290,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 4,
+          "text": "The sons of Midian [were] Ephah and Epher and Hanoch and Abida and Eldaah. All these [were] the sons of Keturah."
+        },
+        {
+          "pk": 832291,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 5,
+          "text": "Now Abraham gave all that he had to Isaac;"
+        },
+        {
+          "pk": 832292,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 6,
+          "text": "but to the sons of his concubines, Abraham gave gifts while he was still living, and sent them away from his son Isaac eastward, to the land of the east."
+        },
+        {
+          "pk": 832293,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 7,
+          "text": "These are all the years of Abraham's life that he lived, one hundred and seventy-five years."
+        },
+        {
+          "pk": 832294,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 8,
+          "text": "Abraham breathed his last and died in a ripe old age, an old man and satisfied [with life]; and he was gathered to his people."
+        },
+        {
+          "pk": 832295,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 9,
+          "text": "Then his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, facing Mamre,"
+        },
+        {
+          "pk": 832296,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 10,
+          "text": "the field which Abraham purchased from the sons of Heth; there Abraham was buried with Sarah his wife."
+        },
+        {
+          "pk": 832297,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 11,
+          "text": "It came about after the death of Abraham, that God blessed his son Isaac; and Isaac lived by Beer-lahai-roi."
+        },
+        {
+          "pk": 832298,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 12,
+          "text": "Now these are [the records of] the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's maid, bore to Abraham;"
+        },
+        {
+          "pk": 832299,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 13,
+          "text": "and these are the names of the sons of Ishmael, by their names, in the order of their birth: Nebaioth, the firstborn of Ishmael, and Kedar and Adbeel and Mibsam"
+        },
+        {
+          "pk": 832300,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 14,
+          "text": "and Mishma and Dumah and Massa,"
+        },
+        {
+          "pk": 832301,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 15,
+          "text": "Hadad and Tema, Jetur, Naphish and Kedemah."
+        },
+        {
+          "pk": 832302,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 16,
+          "text": "These are the sons of Ishmael and these are their names, by their villages, and by their camps; twelve princes according to their tribes."
+        },
+        {
+          "pk": 832303,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 17,
+          "text": "These are the years of the life of Ishmael, one hundred and thirty-seven years; and he breathed his last and died, and was gathered to his people."
+        },
+        {
+          "pk": 832304,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 18,
+          "text": "They settled from Havilah to Shur which is east of Egypt as one goes toward Assyria; he settled in defiance of all his relatives."
+        },
+        {
+          "pk": 832305,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 19,
+          "text": "Now these are [the records of] the generations of Isaac, Abraham's son: Abraham became the father of Isaac;"
+        },
+        {
+          "pk": 832306,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 20,
+          "text": "and Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife."
+        },
+        {
+          "pk": 832307,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 21,
+          "text": "Isaac prayed to the LORD on behalf of his wife, because she was barren; and the LORD answered him and Rebekah his wife conceived."
+        },
+        {
+          "pk": 832308,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 22,
+          "text": "But the children struggled together within her; and she said, 'If it is so, why then am I [this way]?' So she went to inquire of the LORD."
+        },
+        {
+          "pk": 832309,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 23,
+          "text": "The LORD said to her, 'Two nations are in your womb; And two peoples will be separated from your body; And one people shall be stronger than the other; And the older shall serve the younger.'"
+        },
+        {
+          "pk": 832310,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 24,
+          "text": "When her days to be delivered were fulfilled, behold, there were twins in her womb."
+        },
+        {
+          "pk": 832311,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 25,
+          "text": "Now the first came forth red, all over like a hairy garment; and they named him Esau."
+        },
+        {
+          "pk": 832312,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 26,
+          "text": "Afterward his brother came forth with his hand holding on to Esau's heel, so his name was called Jacob; and Isaac was sixty years old when she gave birth to them."
+        },
+        {
+          "pk": 832313,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 27,
+          "text": "When the boys grew up, Esau became a skillful hunter, a man of the field, but Jacob was a peaceful man, living in tents."
+        },
+        {
+          "pk": 832314,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 28,
+          "text": "Now Isaac loved Esau, because he had a taste for game, but Rebekah loved Jacob."
+        },
+        {
+          "pk": 832315,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 29,
+          "text": "When Jacob had cooked stew, Esau came in from the field and he was famished;"
+        },
+        {
+          "pk": 832316,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 30,
+          "text": "and Esau said to Jacob, 'Please let me have a swallow of that red stuff there, for I am famished.' Therefore his name was called Edom."
+        },
+        {
+          "pk": 832317,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 31,
+          "text": "But Jacob said, 'First sell me your birthright.'"
+        },
+        {
+          "pk": 832318,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 32,
+          "text": "Esau said, 'Behold, I am about to die; so of what [use] then is the birthright to me?'"
+        },
+        {
+          "pk": 832319,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 33,
+          "text": "And Jacob said, 'First swear to me'; so he swore to him, and sold his birthright to Jacob."
+        },
+        {
+          "pk": 832320,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 25,
+          "verse": 34,
+          "text": "Then Jacob gave Esau bread and lentil stew; and he ate and drank, and rose and went on his way. Thus Esau despised his birthright."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "pk": 832321,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 1,
+          "text": "Now there was a famine in the land, besides the previous famine that had occurred in the days of Abraham. So Isaac went to Gerar, to Abimelech king of the Philistines."
+        },
+        {
+          "pk": 832322,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 2,
+          "text": "The LORD appeared to him and said, 'Do not go down to Egypt; stay in the land of which I shall tell you."
+        },
+        {
+          "pk": 832323,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 3,
+          "text": "'Sojourn in this land and I will be with you and bless you, for to you and to your descendants I will give all these lands, and I will establish the oath which I swore to your father Abraham."
+        },
+        {
+          "pk": 832324,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 4,
+          "text": "'I will multiply your descendants as the stars of heaven, and will give your descendants all these lands; and by your descendants all the nations of the earth shall be blessed;"
+        },
+        {
+          "pk": 832325,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 5,
+          "text": "because Abraham obeyed Me and kept My charge, My commandments, My statutes and My laws.'"
+        },
+        {
+          "pk": 832326,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 6,
+          "text": "So Isaac lived in Gerar."
+        },
+        {
+          "pk": 832327,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 7,
+          "text": "When the men of the place asked about his wife, he said, 'She is my sister,' for he was afraid to say, 'my wife,' [thinking], 'the men of the place might kill me on account of Rebekah, for she is beautiful.'"
+        },
+        {
+          "pk": 832328,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 8,
+          "text": "It came about, when he had been there a long time, that Abimelech king of the Philistines looked out through a window, and saw, and behold, Isaac was caressing his wife Rebekah."
+        },
+        {
+          "pk": 832329,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 9,
+          "text": "Then Abimelech called Isaac and said, 'Behold, certainly she is your wife! How then did you say, 'She is my sister '?' And Isaac said to him, 'Because I said, 'I might die on account of her.''"
+        },
+        {
+          "pk": 832330,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 10,
+          "text": "Abimelech said, 'What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us.'"
+        },
+        {
+          "pk": 832331,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 11,
+          "text": "So Abimelech charged all the people, saying, 'He who touches this man or his wife shall surely be put to death.'"
+        },
+        {
+          "pk": 832332,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 12,
+          "text": "Now Isaac sowed in that land and reaped in the same year a hundredfold. And the LORD blessed him,"
+        },
+        {
+          "pk": 832333,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 13,
+          "text": "and the man became rich, and continued to grow richer until he became very wealthy;"
+        },
+        {
+          "pk": 832334,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 14,
+          "text": "for he had possessions of flocks and herds and a great household, so that the Philistines envied him."
+        },
+        {
+          "pk": 832335,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 15,
+          "text": "Now all the wells which his father's servants had dug in the days of Abraham his father, the Philistines stopped up by filling them with earth."
+        },
+        {
+          "pk": 832336,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 16,
+          "text": "Then Abimelech said to Isaac, 'Go away from us, for you are too powerful for us.'"
+        },
+        {
+          "pk": 832337,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 17,
+          "text": "And Isaac departed from there and camped in the valley of Gerar, and settled there."
+        },
+        {
+          "pk": 832338,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 18,
+          "text": "Then Isaac dug again the wells of water which had been dug in the days of his father Abraham, for the Philistines had stopped them up after the death of Abraham; and he gave them the same names which his father had given them."
+        },
+        {
+          "pk": 832339,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 19,
+          "text": "But when Isaac's servants dug in the valley and found there a well of flowing water,"
+        },
+        {
+          "pk": 832340,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 20,
+          "text": "the herdsmen of Gerar quarreled with the herdsmen of Isaac, saying, 'The water is ours!' So he named the well Esek, because they contended with him."
+        },
+        {
+          "pk": 832341,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 21,
+          "text": "Then they dug another well, and they quarreled over it too, so he named it Sitnah."
+        },
+        {
+          "pk": 832342,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 22,
+          "text": "He moved away from there and dug another well, and they did not quarrel over it; so he named it Rehoboth, for he said, 'At last the LORD has made room for us, and we will be fruitful in the land.'"
+        },
+        {
+          "pk": 832343,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 23,
+          "text": "Then he went up from there to Beersheba."
+        },
+        {
+          "pk": 832344,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 24,
+          "text": "The LORD appeared to him the same night and said, 'I am the God of your father Abraham; Do not fear, for I am with you. I will bless you, and multiply your descendants, For the sake of My servant Abraham.'"
+        },
+        {
+          "pk": 832345,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 25,
+          "text": "So he built an altar there and called upon the name of the LORD, and pitched his tent there; and there Isaac's servants dug a well."
+        },
+        {
+          "pk": 832346,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 26,
+          "text": "Then Abimelech came to him from Gerar with his adviser Ahuzzath and Phicol the commander of his army."
+        },
+        {
+          "pk": 832347,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 27,
+          "text": "Isaac said to them, 'Why have you come to me, since you hate me and have sent me away from you?'"
+        },
+        {
+          "pk": 832348,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 28,
+          "text": "They said, 'We see plainly that the LORD has been with you; so we said, 'Let there now be an oath between us, [even] between you and us, and let us make a covenant with you,"
+        },
+        {
+          "pk": 832349,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 29,
+          "text": "that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of the LORD.''"
+        },
+        {
+          "pk": 832350,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 30,
+          "text": "Then he made them a feast, and they ate and drank."
+        },
+        {
+          "pk": 832351,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 31,
+          "text": "In the morning they arose early and exchanged oaths; then Isaac sent them away and they departed from him in peace."
+        },
+        {
+          "pk": 832352,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 32,
+          "text": "Now it came about on the same day, that Isaac's servants came in and told him about the well which they had dug, and said to him, 'We have found water.'"
+        },
+        {
+          "pk": 832353,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 33,
+          "text": "So he called it Shibah; therefore the name of the city is Beersheba to this day."
+        },
+        {
+          "pk": 832354,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 34,
+          "text": "When Esau was forty years old he married Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite;"
+        },
+        {
+          "pk": 832355,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 26,
+          "verse": 35,
+          "text": "and they brought grief to Isaac and Rebekah."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "pk": 832356,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 1,
+          "text": "Now it came about, when Isaac was old and his eyes were too dim to see, that he called his older son Esau and said to him, 'My son.' And he said to him, 'Here I am.'"
+        },
+        {
+          "pk": 832357,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 2,
+          "text": "Isaac said, 'Behold now, I am old [and] I do not know the day of my death."
+        },
+        {
+          "pk": 832358,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 3,
+          "text": "'Now then, please take your gear, your quiver and your bow, and go out to the field and hunt game for me;"
+        },
+        {
+          "pk": 832359,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 4,
+          "text": "and prepare a savory dish for me such as I love, and bring it to me that I may eat, so that my soul may bless you before I die.'"
+        },
+        {
+          "pk": 832360,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 5,
+          "text": "Rebekah was listening while Isaac spoke to his son Esau. So when Esau went to the field to hunt for game to bring [home],"
+        },
+        {
+          "pk": 832361,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 6,
+          "text": "Rebekah said to her son Jacob, 'Behold, I heard your father speak to your brother Esau, saying,"
+        },
+        {
+          "pk": 832362,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 7,
+          "text": "'Bring me [some] game and prepare a savory dish for me, that I may eat, and bless you in the presence of the LORD before my death.'"
+        },
+        {
+          "pk": 832363,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 8,
+          "text": "'Now therefore, my son, listen to me as I command you."
+        },
+        {
+          "pk": 832364,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 9,
+          "text": "'Go now to the flock and bring me two choice young goats from there, that I may prepare them [as] a savory dish for your father, such as he loves."
+        },
+        {
+          "pk": 832365,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 10,
+          "text": "'Then you shall bring [it] to your father, that he may eat, so that he may bless you before his death.'"
+        },
+        {
+          "pk": 832366,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 11,
+          "text": "Jacob answered his mother Rebekah, 'Behold, Esau my brother is a hairy man and I am a smooth man."
+        },
+        {
+          "pk": 832367,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 12,
+          "text": "'Perhaps my father will feel me, then I will be as a deceiver in his sight, and I will bring upon myself a curse and not a blessing.'"
+        },
+        {
+          "pk": 832368,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 13,
+          "text": "But his mother said to him, 'Your curse be on me, my son; only obey my voice, and go, get [them] for me.'"
+        },
+        {
+          "pk": 832369,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 14,
+          "text": "So he went and got [them], and brought [them] to his mother; and his mother made savory food such as his father loved."
+        },
+        {
+          "pk": 832370,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 15,
+          "text": "Then Rebekah took the best garments of Esau her elder son, which were with her in the house, and put them on Jacob her younger son."
+        },
+        {
+          "pk": 832371,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 16,
+          "text": "And she put the skins of the young goats on his hands and on the smooth part of his neck."
+        },
+        {
+          "pk": 832372,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 17,
+          "text": "She also gave the savory food and the bread, which she had made, to her son Jacob."
+        },
+        {
+          "pk": 832373,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 18,
+          "text": "Then he came to his father and said, 'My father.' And he said, 'Here I am. Who are you, my son?'"
+        },
+        {
+          "pk": 832374,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 19,
+          "text": "Jacob said to his father, 'I am Esau your firstborn; I have done as you told me. Get up, please, sit and eat of my game, that you may bless me.'"
+        },
+        {
+          "pk": 832375,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 20,
+          "text": "Isaac said to his son, 'How is it that you have [it] so quickly, my son?' And he said, 'Because the LORD your God caused [it] to happen to me.'"
+        },
+        {
+          "pk": 832376,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 21,
+          "text": "Then Isaac said to Jacob, 'Please come close, that I may feel you, my son, whether you are really my son Esau or not.'"
+        },
+        {
+          "pk": 832377,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 22,
+          "text": "So Jacob came close to Isaac his father, and he felt him and said, 'The voice is the voice of Jacob, but the hands are the hands of Esau.'"
+        },
+        {
+          "pk": 832378,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 23,
+          "text": "He did not recognize him, because his hands were hairy like his brother Esau's hands; so he blessed him."
+        },
+        {
+          "pk": 832379,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 24,
+          "text": "And he said, 'Are you really my son Esau?' And he said, 'I am.'"
+        },
+        {
+          "pk": 832380,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 25,
+          "text": "So he said, 'Bring [it] to me, and I will eat of my son's game, that I may bless you.' And he brought [it] to him, and he ate; he also brought him wine and he drank."
+        },
+        {
+          "pk": 832381,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 26,
+          "text": "Then his father Isaac said to him, 'Please come close and kiss me, my son.'"
+        },
+        {
+          "pk": 832382,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 27,
+          "text": "So he came close and kissed him; and when he smelled the smell of his garments, he blessed him and said, 'See, the smell of my son Is like the smell of a field which the LORD has blessed;"
+        },
+        {
+          "pk": 832383,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 28,
+          "text": "Now may God give you of the dew of heaven, And of the fatness of the earth, And an abundance of grain and new wine;"
+        },
+        {
+          "pk": 832384,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 29,
+          "text": "May peoples serve you, And nations bow down to you; Be master of your brothers, And may your mother's sons bow down to you. Cursed be those who curse you, And blessed be those who bless you.'"
+        },
+        {
+          "pk": 832385,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 30,
+          "text": "Now it came about, as soon as Isaac had finished blessing Jacob, and Jacob had hardly gone out from the presence of Isaac his father, that Esau his brother came in from his hunting."
+        },
+        {
+          "pk": 832386,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 31,
+          "text": "Then he also made savory food, and brought it to his father; and he said to his father, 'Let my father arise and eat of his son's game, that you may bless me.'"
+        },
+        {
+          "pk": 832387,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 32,
+          "text": "Isaac his father said to him, 'Who are you?' And he said, 'I am your son, your firstborn, Esau.'"
+        },
+        {
+          "pk": 832388,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 33,
+          "text": "Then Isaac trembled violently, and said, 'Who was he then that hunted game and brought [it] to me, so that I ate of all [of it] before you came, and blessed him? Yes, and he shall be blessed.'"
+        },
+        {
+          "pk": 832389,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 34,
+          "text": "When Esau heard the words of his father, he cried out with an exceedingly great and bitter cry, and said to his father, 'Bless me, [even] me also, O my father!'"
+        },
+        {
+          "pk": 832390,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 35,
+          "text": "And he said, 'Your brother came deceitfully and has taken away your blessing.'"
+        },
+        {
+          "pk": 832391,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 36,
+          "text": "Then he said, 'Is he not rightly named Jacob, for he has supplanted me these two times? He took away my birthright, and behold, now he has taken away my blessing.' And he said, 'Have you not reserved a blessing for me?'"
+        },
+        {
+          "pk": 832392,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 37,
+          "text": "But Isaac replied to Esau, 'Behold, I have made him your master, and all his relatives I have given to him as servants; and with grain and new wine I have sustained him. Now as for you then, what can I do, my son?'"
+        },
+        {
+          "pk": 832393,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 38,
+          "text": "Esau said to his father, 'Do you have only one blessing, my father? Bless me, [even] me also, O my father.' So Esau lifted his voice and wept."
+        },
+        {
+          "pk": 832394,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 39,
+          "text": "Then Isaac his father answered and said to him, 'Behold, away from the fertility of the earth shall be your dwelling, And away from the dew of heaven from above."
+        },
+        {
+          "pk": 832395,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 40,
+          "text": "'By your sword you shall live, And your brother you shall serve; But it shall come about when you become restless, That you will break his yoke from your neck.'"
+        },
+        {
+          "pk": 832396,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 41,
+          "text": "So Esau bore a grudge against Jacob because of the blessing with which his father had blessed him; and Esau said to himself, 'The days of mourning for my father are near; then I will kill my brother Jacob.'"
+        },
+        {
+          "pk": 832397,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 42,
+          "text": "Now when the words of her elder son Esau were reported to Rebekah, she sent and called her younger son Jacob, and said to him, 'Behold your brother Esau is consoling himself concerning you [by planning] to kill you."
+        },
+        {
+          "pk": 832398,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 43,
+          "text": "'Now therefore, my son, obey my voice, and arise, flee to Haran, to my brother Laban!"
+        },
+        {
+          "pk": 832399,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 44,
+          "text": "'Stay with him a few days, until your brother's fury subsides,"
+        },
+        {
+          "pk": 832400,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 45,
+          "text": "until your brother's anger against you subsides and he forgets what you did to him. Then I will send and get you from there. Why should I be bereaved of you both in one day?'"
+        },
+        {
+          "pk": 832401,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 27,
+          "verse": 46,
+          "text": "Rebekah said to Isaac, 'I am tired of living because of the daughters of Heth; if Jacob takes a wife from the daughters of Heth, like these, from the daughters of the land, what good will my life be to me?'"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "pk": 832402,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 1,
+          "text": "So Isaac called Jacob and blessed him and charged him, and said to him, 'You shall not take a wife from the daughters of Canaan."
+        },
+        {
+          "pk": 832403,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 2,
+          "text": "'Arise, go to Paddan-aram, to the house of Bethuel your mother's father; and from there take to yourself a wife from the daughters of Laban your mother's brother."
+        },
+        {
+          "pk": 832404,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 3,
+          "text": "'May God Almighty bless you and make you fruitful and multiply you, that you may become a company of peoples."
+        },
+        {
+          "pk": 832405,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 4,
+          "text": "'May He also give you the blessing of Abraham, to you and to your descendants with you, that you may possess the land of your sojournings, which God gave to Abraham.'"
+        },
+        {
+          "pk": 832406,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 5,
+          "text": "Then Isaac sent Jacob away, and he went to Paddan-aram to Laban, son of Bethuel the Aramean, the brother of Rebekah, the mother of Jacob and Esau."
+        },
+        {
+          "pk": 832407,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 6,
+          "text": "Now Esau saw that Isaac had blessed Jacob and sent him away to Paddan-aram to take to himself a wife from there, [and that] when he blessed him he charged him, saying, 'You shall not take a wife from the daughters of Canaan,'"
+        },
+        {
+          "pk": 832408,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 7,
+          "text": "and that Jacob had obeyed his father and his mother and had gone to Paddan-aram."
+        },
+        {
+          "pk": 832409,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 8,
+          "text": "So Esau saw that the daughters of Canaan displeased his father Isaac;"
+        },
+        {
+          "pk": 832410,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 9,
+          "text": "and Esau went to Ishmael, and married, besides the wives that he had, Mahalath the daughter of Ishmael, Abraham's son, the sister of Nebaioth."
+        },
+        {
+          "pk": 832411,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 10,
+          "text": "Then Jacob departed from Beersheba and went toward Haran."
+        },
+        {
+          "pk": 832412,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 11,
+          "text": "He came to a certain place and spent the night there, because the sun had set; and he took one of the stones of the place and put it under his head, and lay down in that place."
+        },
+        {
+          "pk": 832413,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 12,
+          "text": "He had a dream, and behold, a ladder was set on the earth with its top reaching to heaven; and behold, the angels of God were ascending and descending on it."
+        },
+        {
+          "pk": 832414,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 13,
+          "text": "And behold, the LORD stood above it and said, 'I am the LORD, the God of your father Abraham and the God of Isaac; the land on which you lie, I will give it to you and to your descendants."
+        },
+        {
+          "pk": 832415,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 14,
+          "text": "'Your descendants will also be like the dust of the earth, and you will spread out to the west and to the east and to the north and to the south; and in you and in your descendants shall all the families of the earth be blessed."
+        },
+        {
+          "pk": 832416,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 15,
+          "text": "'Behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have promised you.'"
+        },
+        {
+          "pk": 832417,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 16,
+          "text": "Then Jacob awoke from his sleep and said, 'Surely the LORD is in this place, and I did not know it.'"
+        },
+        {
+          "pk": 832418,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 17,
+          "text": "He was afraid and said, 'How awesome is this place! This is none other than the house of God, and this is the gate of heaven.'"
+        },
+        {
+          "pk": 832419,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 18,
+          "text": "So Jacob rose early in the morning, and took the stone that he had put under his head and set it up as a pillar and poured oil on its top."
+        },
+        {
+          "pk": 832420,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 19,
+          "text": "He called the name of that place Bethel; however, previously the name of the city had been Luz."
+        },
+        {
+          "pk": 832421,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 20,
+          "text": "Then Jacob made a vow, saying, 'If God will be with me and will keep me on this journey that I take, and will give me food to eat and garments to wear,"
+        },
+        {
+          "pk": 832422,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 21,
+          "text": "and I return to my father's house in safety, then the LORD will be my God."
+        },
+        {
+          "pk": 832423,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 28,
+          "verse": 22,
+          "text": "'This stone, which I have set up as a pillar, will be God's house, and of all that You give me I will surely give a tenth to You.'"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "pk": 832424,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 1,
+          "text": "Then Jacob went on his journey, and came to the land of the sons of the east."
+        },
+        {
+          "pk": 832425,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 2,
+          "text": "He looked, and saw a well in the field, and behold, three flocks of sheep were lying there beside it, for from that well they watered the flocks. Now the stone on the mouth of the well was large."
+        },
+        {
+          "pk": 832426,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 3,
+          "text": "When all the flocks were gathered there, they would then roll the stone from the mouth of the well and water the sheep, and put the stone back in its place on the mouth of the well."
+        },
+        {
+          "pk": 832427,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 4,
+          "text": "Jacob said to them, 'My brothers, where are you from?' And they said, 'We are from Haran.'"
+        },
+        {
+          "pk": 832428,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 5,
+          "text": "He said to them, 'Do you know Laban the son of Nahor?' And they said, 'We know [him].'"
+        },
+        {
+          "pk": 832429,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 6,
+          "text": "And he said to them, 'Is it well with him?' And they said, 'It is well, and here is Rachel his daughter coming with the sheep.'"
+        },
+        {
+          "pk": 832430,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 7,
+          "text": "He said, 'Behold, it is still high day; it is not time for the livestock to be gathered. Water the sheep, and go, pasture them.'"
+        },
+        {
+          "pk": 832431,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 8,
+          "text": "But they said, 'We cannot, until all the flocks are gathered, and they roll the stone from the mouth of the well; then we water the sheep.'"
+        },
+        {
+          "pk": 832432,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 9,
+          "text": "While he was still speaking with them, Rachel came with her father's sheep, for she was a shepherdess."
+        },
+        {
+          "pk": 832433,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 10,
+          "text": "When Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, Jacob went up and rolled the stone from the mouth of the well and watered the flock of Laban his mother's brother."
+        },
+        {
+          "pk": 832434,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 11,
+          "text": "Then Jacob kissed Rachel, and lifted his voice and wept."
+        },
+        {
+          "pk": 832435,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 12,
+          "text": "Jacob told Rachel that he was a relative of her father and that he was Rebekah's son, and she ran and told her father."
+        },
+        {
+          "pk": 832436,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 13,
+          "text": "So when Laban heard the news of Jacob his sister's son, he ran to meet him, and embraced him and kissed him and brought him to his house. Then he related to Laban all these things."
+        },
+        {
+          "pk": 832437,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 14,
+          "text": "Laban said to him, 'Surely you are my bone and my flesh.' And he stayed with him a month."
+        },
+        {
+          "pk": 832438,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 15,
+          "text": "Then Laban said to Jacob, 'Because you are my relative, should you therefore serve me for nothing? Tell me, what shall your wages be?'"
+        },
+        {
+          "pk": 832439,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 16,
+          "text": "Now Laban had two daughters; the name of the older was Leah, and the name of the younger was Rachel."
+        },
+        {
+          "pk": 832440,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 17,
+          "text": "And Leah's eyes were weak, but Rachel was beautiful of form and face."
+        },
+        {
+          "pk": 832441,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 18,
+          "text": "Now Jacob loved Rachel, so he said, 'I will serve you seven years for your younger daughter Rachel.'"
+        },
+        {
+          "pk": 832442,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 19,
+          "text": "Laban said, 'It is better that I give her to you than to give her to another man; stay with me.'"
+        },
+        {
+          "pk": 832443,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 20,
+          "text": "So Jacob served seven years for Rachel and they seemed to him but a few days because of his love for her."
+        },
+        {
+          "pk": 832444,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 21,
+          "text": "Then Jacob said to Laban, 'Give [me] my wife, for my time is completed, that I may go in to her.'"
+        },
+        {
+          "pk": 832445,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 22,
+          "text": "Laban gathered all the men of the place and made a feast."
+        },
+        {
+          "pk": 832446,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 23,
+          "text": "Now in the evening he took his daughter Leah, and brought her to him; and [Jacob] went in to her."
+        },
+        {
+          "pk": 832447,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 24,
+          "text": "Laban also gave his maid Zilpah to his daughter Leah as a maid."
+        },
+        {
+          "pk": 832448,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 25,
+          "text": "So it came about in the morning that, behold, it was Leah! And he said to Laban, 'What is this you have done to me? Was it not for Rachel that I served with you? Why then have you deceived me?'"
+        },
+        {
+          "pk": 832449,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 26,
+          "text": "But Laban said, 'It is not the practice in our place to marry off the younger before the firstborn."
+        },
+        {
+          "pk": 832450,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 27,
+          "text": "'Complete the week of this one, and we will give you the other also for the service which you shall serve with me for another seven years.'"
+        },
+        {
+          "pk": 832451,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 28,
+          "text": "Jacob did so and completed her week, and he gave him his daughter Rachel as his wife."
+        },
+        {
+          "pk": 832452,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 29,
+          "text": "Laban also gave his maid Bilhah to his daughter Rachel as her maid."
+        },
+        {
+          "pk": 832453,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 30,
+          "text": "So [Jacob] went in to Rachel also, and indeed he loved Rachel more than Leah, and he served with Laban for another seven years."
+        },
+        {
+          "pk": 832454,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 31,
+          "text": "Now the LORD saw that Leah was unloved, and He opened her womb, but Rachel was barren."
+        },
+        {
+          "pk": 832455,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 32,
+          "text": "Leah conceived and bore a son and named him Reuben, for she said, 'Because the LORD has seen my affliction; surely now my husband will love me.'"
+        },
+        {
+          "pk": 832456,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 33,
+          "text": "Then she conceived again and bore a son and said, 'Because the LORD has heard that I am unloved, He has therefore given me this [son] also.' So she named him Simeon."
+        },
+        {
+          "pk": 832457,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 34,
+          "text": "She conceived again and bore a son and said, 'Now this time my husband will become attached to me, because I have borne him three sons.' Therefore he was named Levi."
+        },
+        {
+          "pk": 832458,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 29,
+          "verse": 35,
+          "text": "And she conceived again and bore a son and said, 'This time I will praise the LORD.' Therefore she named him Judah. Then she stopped bearing."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "pk": 832459,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 1,
+          "text": "Now when Rachel saw that she bore Jacob no children, she became jealous of her sister; and she said to Jacob, 'Give me children, or else I die.'"
+        },
+        {
+          "pk": 832460,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 2,
+          "text": "Then Jacob's anger burned against Rachel, and he said, 'Am I in the place of God, who has withheld from you the fruit of the womb?'"
+        },
+        {
+          "pk": 832461,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 3,
+          "text": "She said, 'Here is my maid Bilhah, go in to her that she may bear on my knees, that through her I too may have children.'"
+        },
+        {
+          "pk": 832462,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 4,
+          "text": "So she gave him her maid Bilhah as a wife, and Jacob went in to her."
+        },
+        {
+          "pk": 832463,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 5,
+          "text": "Bilhah conceived and bore Jacob a son."
+        },
+        {
+          "pk": 832464,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 6,
+          "text": "Then Rachel said, 'God has vindicated me, and has indeed heard my voice and has given me a son.' Therefore she named him Dan."
+        },
+        {
+          "pk": 832465,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 7,
+          "text": "Rachel's maid Bilhah conceived again and bore Jacob a second son."
+        },
+        {
+          "pk": 832466,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 8,
+          "text": "So Rachel said, 'With mighty wrestlings I have wrestled with my sister, [and] I have indeed prevailed.' And she named him Naphtali."
+        },
+        {
+          "pk": 832467,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 9,
+          "text": "When Leah saw that she had stopped bearing, she took her maid Zilpah and gave her to Jacob as a wife."
+        },
+        {
+          "pk": 832468,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 10,
+          "text": "Leah's maid Zilpah bore Jacob a son."
+        },
+        {
+          "pk": 832469,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 11,
+          "text": "Then Leah said, 'How fortunate!' So she named him Gad."
+        },
+        {
+          "pk": 832470,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 12,
+          "text": "Leah's maid Zilpah bore Jacob a second son."
+        },
+        {
+          "pk": 832471,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 13,
+          "text": "Then Leah said, 'Happy am I! For women will call me happy.' So she named him Asher."
+        },
+        {
+          "pk": 832472,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 14,
+          "text": "Now in the days of wheat harvest Reuben went and found mandrakes in the field, and brought them to his mother Leah. Then Rachel said to Leah, 'Please give me some of your son's mandrakes.'"
+        },
+        {
+          "pk": 832473,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 15,
+          "text": "But she said to her, 'Is it a small matter for you to take my husband? And would you take my son's mandrakes also?' So Rachel said, 'Therefore he may lie with you tonight in return for your son's mandrakes.'"
+        },
+        {
+          "pk": 832474,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 16,
+          "text": "When Jacob came in from the field in the evening, then Leah went out to meet him and said, 'You must come in to me, for I have surely hired you with my son's mandrakes.' So he lay with her that night."
+        },
+        {
+          "pk": 832475,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 17,
+          "text": "God gave heed to Leah, and she conceived and bore Jacob a fifth son."
+        },
+        {
+          "pk": 832476,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 18,
+          "text": "Then Leah said, 'God has given me my wages because I gave my maid to my husband.' So she named him Issachar."
+        },
+        {
+          "pk": 832477,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 19,
+          "text": "Leah conceived again and bore a sixth son to Jacob."
+        },
+        {
+          "pk": 832478,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 20,
+          "text": "Then Leah said, 'God has endowed me with a good gift; now my husband will dwell with me, because I have borne him six sons.' So she named him Zebulun."
+        },
+        {
+          "pk": 832479,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 21,
+          "text": "Afterward she bore a daughter and named her Dinah."
+        },
+        {
+          "pk": 832480,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 22,
+          "text": "Then God remembered Rachel, and God gave heed to her and opened her womb."
+        },
+        {
+          "pk": 832481,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 23,
+          "text": "So she conceived and bore a son and said, 'God has taken away my reproach.'"
+        },
+        {
+          "pk": 832482,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 24,
+          "text": "She named him Joseph, saying, 'May the LORD give me another son.'"
+        },
+        {
+          "pk": 832483,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 25,
+          "text": "Now it came about when Rachel had borne Joseph, that Jacob said to Laban, 'Send me away, that I may go to my own place and to my own country."
+        },
+        {
+          "pk": 832484,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 26,
+          "text": "'Give [me] my wives and my children for whom I have served you, and let me depart; for you yourself know my service which I have rendered you.'"
+        },
+        {
+          "pk": 832485,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 27,
+          "text": "But Laban said to him, 'If now it pleases you, [stay with me]; I have divined that the LORD has blessed me on your account.'"
+        },
+        {
+          "pk": 832486,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 28,
+          "text": "He continued, 'Name me your wages, and I will give it.'"
+        },
+        {
+          "pk": 832487,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 29,
+          "text": "But he said to him, 'You yourself know how I have served you and how your cattle have fared with me."
+        },
+        {
+          "pk": 832488,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 30,
+          "text": "'For you had little before I came and it has increased to a multitude, and the LORD has blessed you wherever I turned. But now, when shall I provide for my own household also?'"
+        },
+        {
+          "pk": 832489,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 31,
+          "text": "So he said, 'What shall I give you?' And Jacob said, 'You shall not give me anything. If you will do this [one] thing for me, I will again pasture [and] keep your flock:"
+        },
+        {
+          "pk": 832490,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 32,
+          "text": "let me pass through your entire flock today, removing from there every speckled and spotted sheep and every black one among the lambs and the spotted and speckled among the goats; and [such] shall be my wages."
+        },
+        {
+          "pk": 832491,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 33,
+          "text": "'So my honesty will answer for me later, when you come concerning my wages. Every one that is not speckled and spotted among the goats and black among the lambs, [if found] with me, will be considered stolen.'"
+        },
+        {
+          "pk": 832492,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 34,
+          "text": "Laban said, 'Good, let it be according to your word.'"
+        },
+        {
+          "pk": 832493,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 35,
+          "text": "So he removed on that day the striped and spotted male goats and all the speckled and spotted female goats, every one with white in it, and all the black ones among the sheep, and gave them into the care of his sons."
+        },
+        {
+          "pk": 832494,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 36,
+          "text": "And he put [a distance of] three days' journey between himself and Jacob, and Jacob fed the rest of Laban's flocks."
+        },
+        {
+          "pk": 832495,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 37,
+          "text": "Then Jacob took fresh rods of poplar and almond and plane trees, and peeled white stripes in them, exposing the white which [was] in the rods."
+        },
+        {
+          "pk": 832496,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 38,
+          "text": "He set the rods which he had peeled in front of the flocks in the gutters, [even] in the watering troughs, where the flocks came to drink; and they mated when they came to drink."
+        },
+        {
+          "pk": 832497,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 39,
+          "text": "So the flocks mated by the rods, and the flocks brought forth striped, speckled, and spotted."
+        },
+        {
+          "pk": 832498,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 40,
+          "text": "Jacob separated the lambs, and made the flocks face toward the striped and all the black in the flock of Laban; and he put his own herds apart, and did not put them with Laban's flock."
+        },
+        {
+          "pk": 832499,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 41,
+          "text": "Moreover, whenever the stronger of the flock were mating, Jacob would place the rods in the sight of the flock in the gutters, so that they might mate by the rods;"
+        },
+        {
+          "pk": 832500,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 42,
+          "text": "but when the flock was feeble, he did not put [them] in; so the feebler were Laban's and the stronger Jacob's."
+        },
+        {
+          "pk": 832501,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 30,
+          "verse": 43,
+          "text": "So the man became exceedingly prosperous, and had large flocks and female and male servants and camels and donkeys."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "pk": 832502,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 1,
+          "text": "Now Jacob heard the words of Laban's sons, saying, 'Jacob has taken away all that was our father's, and from what belonged to our father he has made all this wealth.'"
+        },
+        {
+          "pk": 832503,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 2,
+          "text": "Jacob saw the attitude of Laban, and behold, it was not [friendly] toward him as formerly."
+        },
+        {
+          "pk": 832504,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 3,
+          "text": "Then the LORD said to Jacob, 'Return to the land of your fathers and to your relatives, and I will be with you.'"
+        },
+        {
+          "pk": 832505,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 4,
+          "text": "So Jacob sent and called Rachel and Leah to his flock in the field,"
+        },
+        {
+          "pk": 832506,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 5,
+          "text": "and said to them, 'I see your father's attitude, that it is not [friendly] toward me as formerly, but the God of my father has been with me."
+        },
+        {
+          "pk": 832507,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 6,
+          "text": "'You know that I have served your father with all my strength."
+        },
+        {
+          "pk": 832508,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 7,
+          "text": "'Yet your father has cheated me and changed my wages ten times; however, God did not allow him to hurt me."
+        },
+        {
+          "pk": 832509,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 8,
+          "text": "'If he spoke thus, 'The speckled shall be your wages,' then all the flock brought forth speckled; and if he spoke thus, 'The striped shall be your wages,' then all the flock brought forth striped."
+        },
+        {
+          "pk": 832510,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 9,
+          "text": "'Thus God has taken away your father's livestock and given [them] to me."
+        },
+        {
+          "pk": 832511,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 10,
+          "text": "'And it came about at the time when the flock were mating that I lifted up my eyes and saw in a dream, and behold, the male goats which were mating [were] striped, speckled, and mottled."
+        },
+        {
+          "pk": 832512,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 11,
+          "text": "'Then the angel of God said to me in the dream, 'Jacob,' and I said, 'Here I am.'"
+        },
+        {
+          "pk": 832513,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 12,
+          "text": "'He said, 'Lift up now your eyes and see [that] all the male goats which are mating are striped, speckled, and mottled; for I have seen all that Laban has been doing to you."
+        },
+        {
+          "pk": 832514,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 13,
+          "text": "'I am the God [of] Bethel, where you anointed a pillar, where you made a vow to Me; now arise, leave this land, and return to the land of your birth.''"
+        },
+        {
+          "pk": 832515,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 14,
+          "text": "Rachel and Leah said to him, 'Do we still have any portion or inheritance in our father's house?"
+        },
+        {
+          "pk": 832516,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 15,
+          "text": "'Are we not reckoned by him as foreigners? For he has sold us, and has also entirely consumed our purchase price."
+        },
+        {
+          "pk": 832517,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 16,
+          "text": "'Surely all the wealth which God has taken away from our father belongs to us and our children; now then, do whatever God has said to you.'"
+        },
+        {
+          "pk": 832518,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 17,
+          "text": "Then Jacob arose and put his children and his wives upon camels;"
+        },
+        {
+          "pk": 832519,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 18,
+          "text": "and he drove away all his livestock and all his property which he had gathered, his acquired livestock which he had gathered in Paddan-aram, to go to the land of Canaan to his father Isaac."
+        },
+        {
+          "pk": 832520,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 19,
+          "text": "When Laban had gone to shear his flock, then Rachel stole the household idols that were her father's."
+        },
+        {
+          "pk": 832521,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 20,
+          "text": "And Jacob deceived Laban the Aramean by not telling him that he was fleeing."
+        },
+        {
+          "pk": 832522,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 21,
+          "text": "So he fled with all that he had; and he arose and crossed the [Euphrates] River, and set his face toward the hill country of Gilead."
+        },
+        {
+          "pk": 832523,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 22,
+          "text": "When it was told Laban on the third day that Jacob had fled,"
+        },
+        {
+          "pk": 832524,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 23,
+          "text": "then he took his kinsmen with him and pursued him [a distance of] seven days' journey, and he overtook him in the hill country of Gilead."
+        },
+        {
+          "pk": 832525,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 24,
+          "text": "God came to Laban the Aramean in a dream of the night and said to him, 'Be careful that you do not speak to Jacob either good or bad.'"
+        },
+        {
+          "pk": 832526,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 25,
+          "text": "Laban caught up with Jacob. Now Jacob had pitched his tent in the hill country, and Laban with his kinsmen camped in the hill country of Gilead."
+        },
+        {
+          "pk": 832527,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 26,
+          "text": "Then Laban said to Jacob, 'What have you done by deceiving me and carrying away my daughters like captives of the sword?"
+        },
+        {
+          "pk": 832528,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 27,
+          "text": "'Why did you flee secretly and deceive me, and did not tell me so that I might have sent you away with joy and with songs, with timbrel and with lyre;"
+        },
+        {
+          "pk": 832529,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 28,
+          "text": "and did not allow me to kiss my sons and my daughters? Now you have done foolishly."
+        },
+        {
+          "pk": 832530,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 29,
+          "text": "'It is in my power to do you harm, but the God of your father spoke to me last night, saying, 'Be careful not to speak either good or bad to Jacob.'"
+        },
+        {
+          "pk": 832531,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 30,
+          "text": "'Now you have indeed gone away because you longed greatly for your father's house; [but] why did you steal my gods?'"
+        },
+        {
+          "pk": 832532,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 31,
+          "text": "Then Jacob replied to Laban, 'Because I was afraid, for I thought that you would take your daughters from me by force."
+        },
+        {
+          "pk": 832533,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 32,
+          "text": "'The one with whom you find your gods shall not live; in the presence of our kinsmen point out what is yours among my belongings and take [it] for yourself.' For Jacob did not know that Rachel had stolen them."
+        },
+        {
+          "pk": 832534,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 33,
+          "text": "So Laban went into Jacob's tent and into Leah's tent and into the tent of the two maids, but he did not find [them]. Then he went out of Leah's tent and entered Rachel's tent."
+        },
+        {
+          "pk": 832535,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 34,
+          "text": "Now Rachel had taken the household idols and put them in the camel's saddle, and she sat on them. And Laban felt through all the tent but did not find [them]."
+        },
+        {
+          "pk": 832536,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 35,
+          "text": "She said to her father, 'Let not my lord be angry that I cannot rise before you, for the manner of women is upon me.' So he searched but did not find the household idols."
+        },
+        {
+          "pk": 832537,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 36,
+          "text": "Then Jacob became angry and contended with Laban; and Jacob said to Laban, 'What is my transgression? What is my sin that you have hotly pursued me?"
+        },
+        {
+          "pk": 832538,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 37,
+          "text": "'Though you have felt through all my goods, what have you found of all your household goods? Set [it] here before my kinsmen and your kinsmen, that they may decide between us two."
+        },
+        {
+          "pk": 832539,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 38,
+          "text": "'These twenty years I [have been] with you; your ewes and your female goats have not miscarried, nor have I eaten the rams of your flocks."
+        },
+        {
+          "pk": 832540,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 39,
+          "text": "'That which was torn [of beasts] I did not bring to you; I bore the loss of it myself. You required it of my hand [whether] stolen by day or stolen by night."
+        },
+        {
+          "pk": 832541,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 40,
+          "text": "'[Thus] I was: by day the heat consumed me and the frost by night, and my sleep fled from my eyes."
+        },
+        {
+          "pk": 832542,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 41,
+          "text": "'These twenty years I have been in your house; I served you fourteen years for your two daughters and six years for your flock, and you changed my wages ten times."
+        },
+        {
+          "pk": 832543,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 42,
+          "text": "'If the God of my father, the God of Abraham, and the fear of Isaac, had not been for me, surely now you would have sent me away empty-handed. God has seen my affliction and the toil of my hands, so He rendered judgment last night.'"
+        },
+        {
+          "pk": 832544,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 43,
+          "text": "Then Laban replied to Jacob, 'The daughters are my daughters, and the children are my children, and the flocks are my flocks, and all that you see is mine. But what can I do this day to these my daughters or to their children whom they have borne?"
+        },
+        {
+          "pk": 832545,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 44,
+          "text": "'So now come, let us make a covenant, you and I, and let it be a witness between you and me.'"
+        },
+        {
+          "pk": 832546,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 45,
+          "text": "Then Jacob took a stone and set it up [as] a pillar."
+        },
+        {
+          "pk": 832547,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 46,
+          "text": "Jacob said to his kinsmen, 'Gather stones.' So they took stones and made a heap, and they ate there by the heap."
+        },
+        {
+          "pk": 832548,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 47,
+          "text": "Now Laban called it Jegar-sahadutha, but Jacob called it Galeed."
+        },
+        {
+          "pk": 832549,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 48,
+          "text": "Laban said, 'This heap is a witness between you and me this day.' Therefore it was named Galeed,"
+        },
+        {
+          "pk": 832550,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 49,
+          "text": "and Mizpah, for he said, 'May the LORD watch between you and me when we are absent one from the other."
+        },
+        {
+          "pk": 832551,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 50,
+          "text": "'If you mistreat my daughters, or if you take wives besides my daughters, [although] no man is with us, see, God is witness between you and me.'"
+        },
+        {
+          "pk": 832552,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 51,
+          "text": "Laban said to Jacob, 'Behold this heap and behold the pillar which I have set between you and me."
+        },
+        {
+          "pk": 832553,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 52,
+          "text": "'This heap is a witness, and the pillar is a witness, that I will not pass by this heap to you for harm, and you will not pass by this heap and this pillar to me, for harm."
+        },
+        {
+          "pk": 832554,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 53,
+          "text": "'The God of Abraham and the God of Nahor, the God of their father, judge between us.' So Jacob swore by the fear of his father Isaac."
+        },
+        {
+          "pk": 832555,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 54,
+          "text": "Then Jacob offered a sacrifice on the mountain, and called his kinsmen to the meal; and they ate the meal and spent the night on the mountain."
+        },
+        {
+          "pk": 832556,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 31,
+          "verse": 55,
+          "text": "Early in the morning Laban arose, and kissed his sons and his daughters and blessed them. Then Laban departed and returned to his place."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "pk": 832557,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 1,
+          "text": "Now as Jacob went on his way, the angels of God met him."
+        },
+        {
+          "pk": 832558,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 2,
+          "text": "Jacob said when he saw them, 'This is God's camp.' So he named that place Mahanaim."
+        },
+        {
+          "pk": 832559,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 3,
+          "text": "Then Jacob sent messengers before him to his brother Esau in the land of Seir, the country of Edom."
+        },
+        {
+          "pk": 832560,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 4,
+          "text": "He also commanded them saying, 'Thus you shall say to my lord Esau: 'Thus says your servant Jacob, 'I have sojourned with Laban, and stayed until now;"
+        },
+        {
+          "pk": 832561,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 5,
+          "text": "I have oxen and donkeys [and] flocks and male and female servants; and I have sent to tell my lord, that I may find favor in your sight.'''"
+        },
+        {
+          "pk": 832562,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 6,
+          "text": "The messengers returned to Jacob, saying, 'We came to your brother Esau, and furthermore he is coming to meet you, and four hundred men are with him.'"
+        },
+        {
+          "pk": 832563,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 7,
+          "text": "Then Jacob was greatly afraid and distressed; and he divided the people who were with him, and the flocks and the herds and the camels, into two companies;"
+        },
+        {
+          "pk": 832564,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 8,
+          "text": "for he said, 'If Esau comes to the one company and attacks it, then the company which is left will escape.'"
+        },
+        {
+          "pk": 832565,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 9,
+          "text": "Jacob said, 'O God of my father Abraham and God of my father Isaac, O LORD, who said to me, 'Return to your country and to your relatives, and I will prosper you,'"
+        },
+        {
+          "pk": 832566,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 10,
+          "text": "I am unworthy of all the lovingkindness and of all the faithfulness which You have shown to Your servant; for with my staff [only] I crossed this Jordan, and now I have become two companies."
+        },
+        {
+          "pk": 832567,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 11,
+          "text": "'Deliver me, I pray, from the hand of my brother, from the hand of Esau; for I fear him, that he will come and attack me [and] the mothers with the children."
+        },
+        {
+          "pk": 832568,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 12,
+          "text": "'For You said, 'I will surely prosper you and make your descendants as the sand of the sea, which is too great to be numbered.''"
+        },
+        {
+          "pk": 832569,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 13,
+          "text": "So he spent the night there. Then he selected from what he had with him a present for his brother Esau:"
+        },
+        {
+          "pk": 832570,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 14,
+          "text": "two hundred female goats and twenty male goats, two hundred ewes and twenty rams,"
+        },
+        {
+          "pk": 832571,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 15,
+          "text": "thirty milking camels and their colts, forty cows and ten bulls, twenty female donkeys and ten male donkeys."
+        },
+        {
+          "pk": 832572,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 16,
+          "text": "He delivered [them] into the hand of his servants, every drove by itself, and said to his servants, 'Pass on before me, and put a space between droves.'"
+        },
+        {
+          "pk": 832573,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 17,
+          "text": "He commanded the one in front, saying, 'When my brother Esau meets you and asks you, saying, 'To whom do you belong, and where are you going, and to whom do these [animals] in front of you belong?'"
+        },
+        {
+          "pk": 832574,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 18,
+          "text": "then you shall say, '[These] belong to your servant Jacob; it is a present sent to my lord Esau. And behold, he also is behind us.''"
+        },
+        {
+          "pk": 832575,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 19,
+          "text": "Then he commanded also the second and the third, and all those who followed the droves, saying, 'After this manner you shall speak to Esau when you find him;"
+        },
+        {
+          "pk": 832576,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 20,
+          "text": "and you shall say, 'Behold, your servant Jacob also is behind us.'' For he said, 'I will appease him with the present that goes before me. Then afterward I will see his face; perhaps he will accept me.'"
+        },
+        {
+          "pk": 832577,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 21,
+          "text": "So the present passed on before him, while he himself spent that night in the camp."
+        },
+        {
+          "pk": 832578,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 22,
+          "text": "Now he arose that same night and took his two wives and his two maids and his eleven children, and crossed the ford of the Jabbok."
+        },
+        {
+          "pk": 832579,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 23,
+          "text": "He took them and sent them across the stream. And he sent across whatever he had."
+        },
+        {
+          "pk": 832580,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 24,
+          "text": "Then Jacob was left alone, and a man wrestled with him until daybreak."
+        },
+        {
+          "pk": 832581,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 25,
+          "text": "When he saw that he had not prevailed against him, he touched the socket of his thigh; so the socket of Jacob's thigh was dislocated while he wrestled with him."
+        },
+        {
+          "pk": 832582,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 26,
+          "text": "Then he said, 'Let me go, for the dawn is breaking.' But he said, 'I will not let you go unless you bless me.'"
+        },
+        {
+          "pk": 832583,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 27,
+          "text": "So he said to him, 'What is your name?' And he said, 'Jacob.'"
+        },
+        {
+          "pk": 832584,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 28,
+          "text": "He said, 'Your name shall no longer be Jacob, but Israel; for you have striven with God and with men and have prevailed.'"
+        },
+        {
+          "pk": 832585,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 29,
+          "text": "Then Jacob asked him and said, 'Please tell me your name.' But he said, 'Why is it that you ask my name?' And he blessed him there."
+        },
+        {
+          "pk": 832586,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 30,
+          "text": "So Jacob named the place Peniel, for [he said], 'I have seen God face to face, yet my life has been preserved.'"
+        },
+        {
+          "pk": 832587,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 31,
+          "text": "Now the sun rose upon him just as he crossed over Penuel, and he was limping on his thigh."
+        },
+        {
+          "pk": 832588,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 32,
+          "verse": 32,
+          "text": "Therefore, to this day the sons of Israel do not eat the sinew of the hip which is on the socket of the thigh, because he touched the socket of Jacob's thigh in the sinew of the hip."
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verses": [
+        {
+          "pk": 832589,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 1,
+          "text": "Then Jacob lifted his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two maids."
+        },
+        {
+          "pk": 832590,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 2,
+          "text": "He put the maids and their children in front, and Leah and her children next, and Rachel and Joseph last."
+        },
+        {
+          "pk": 832591,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 3,
+          "text": "But he himself passed on ahead of them and bowed down to the ground seven times, until he came near to his brother."
+        },
+        {
+          "pk": 832592,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 4,
+          "text": "Then Esau ran to meet him and embraced him, and fell on his neck and kissed him, and they wept."
+        },
+        {
+          "pk": 832593,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 5,
+          "text": "He lifted his eyes and saw the women and the children, and said, 'Who are these with you?' So he said, 'The children whom God has graciously given your servant.'"
+        },
+        {
+          "pk": 832594,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 6,
+          "text": "Then the maids came near with their children, and they bowed down."
+        },
+        {
+          "pk": 832595,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 7,
+          "text": "Leah likewise came near with her children, and they bowed down; and afterward Joseph came near with Rachel, and they bowed down."
+        },
+        {
+          "pk": 832596,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 8,
+          "text": "And he said, 'What do you mean by all this company which I have met?' And he said, 'To find favor in the sight of my lord.'"
+        },
+        {
+          "pk": 832597,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 9,
+          "text": "But Esau said, 'I have plenty, my brother; let what you have be your own.'"
+        },
+        {
+          "pk": 832598,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 10,
+          "text": "Jacob said, 'No, please, if now I have found favor in your sight, then take my present from my hand, for I see your face as one sees the face of God, and you have received me favorably."
+        },
+        {
+          "pk": 832599,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 11,
+          "text": "'Please take my gift which has been brought to you, because God has dealt graciously with me and because I have plenty.' Thus he urged him and he took [it]."
+        },
+        {
+          "pk": 832600,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 12,
+          "text": "Then Esau said, 'Let us take our journey and go, and I will go before you.'"
+        },
+        {
+          "pk": 832601,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 13,
+          "text": "But he said to him, 'My lord knows that the children are frail and that the flocks and herds which are nursing are a care to me. And if they are driven hard one day, all the flocks will die."
+        },
+        {
+          "pk": 832602,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 14,
+          "text": "'Please let my lord pass on before his servant, and I will proceed at my leisure, according to the pace of the cattle that are before me and according to the pace of the children, until I come to my lord at Seir.'"
+        },
+        {
+          "pk": 832603,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 15,
+          "text": "Esau said, 'Please let me leave with you some of the people who are with me.' But he said, 'What need is there? Let me find favor in the sight of my lord.'"
+        },
+        {
+          "pk": 832604,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 16,
+          "text": "So Esau returned that day on his way to Seir."
+        },
+        {
+          "pk": 832605,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 17,
+          "text": "Jacob journeyed to Succoth, and built for himself a house and made booths for his livestock; therefore the place is named Succoth."
+        },
+        {
+          "pk": 832606,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 18,
+          "text": "Now Jacob came safely to the city of Shechem, which is in the land of Canaan, when he came from Paddan-aram, and camped before the city."
+        },
+        {
+          "pk": 832607,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 19,
+          "text": "He bought the piece of land where he had pitched his tent from the hand of the sons of Hamor, Shechem's father, for one hundred pieces of money."
+        },
+        {
+          "pk": 832608,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 33,
+          "verse": 20,
+          "text": "Then he erected there an altar and called it El-Elohe-Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "pk": 832609,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 1,
+          "text": "Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to visit the daughters of the land."
+        },
+        {
+          "pk": 832610,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 2,
+          "text": "When Shechem the son of Hamor the Hivite, the prince of the land, saw her, he took her and lay with her by force."
+        },
+        {
+          "pk": 832611,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 3,
+          "text": "He was deeply attracted to Dinah the daughter of Jacob, and he loved the girl and spoke tenderly to her."
+        },
+        {
+          "pk": 832612,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 4,
+          "text": "So Shechem spoke to his father Hamor, saying, 'Get me this young girl for a wife.'"
+        },
+        {
+          "pk": 832613,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 5,
+          "text": "Now Jacob heard that he had defiled Dinah his daughter; but his sons were with his livestock in the field, so Jacob kept silent until they came in."
+        },
+        {
+          "pk": 832614,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 6,
+          "text": "Then Hamor the father of Shechem went out to Jacob to speak with him."
+        },
+        {
+          "pk": 832615,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 7,
+          "text": "Now the sons of Jacob came in from the field when they heard [it]; and the men were grieved, and they were very angry because he had done a disgraceful thing in Israel by lying with Jacob's daughter, for such a thing ought not to be done."
+        },
+        {
+          "pk": 832616,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 8,
+          "text": "But Hamor spoke with them, saying, 'The soul of my son Shechem longs for your daughter; please give her to him in marriage."
+        },
+        {
+          "pk": 832617,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 9,
+          "text": "'Intermarry with us; give your daughters to us and take our daughters for yourselves."
+        },
+        {
+          "pk": 832618,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 10,
+          "text": "'Thus you shall live with us, and the land shall be [open] before you; live and trade in it and acquire property in it.'"
+        },
+        {
+          "pk": 832619,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 11,
+          "text": "Shechem also said to her father and to her brothers, 'If I find favor in your sight, then I will give whatever you say to me."
+        },
+        {
+          "pk": 832620,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 12,
+          "text": "'Ask me ever so much bridal payment and gift, and I will give according as you say to me; but give me the girl in marriage.'"
+        },
+        {
+          "pk": 832621,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 13,
+          "text": "But Jacob's sons answered Shechem and his father Hamor with deceit, because he had defiled Dinah their sister."
+        },
+        {
+          "pk": 832622,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 14,
+          "text": "They said to them, 'We cannot do this thing, to give our sister to one who is uncircumcised, for that would be a disgrace to us."
+        },
+        {
+          "pk": 832623,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 15,
+          "text": "'Only on this [condition] will we consent to you: if you will become like us, in that every male of you be circumcised,"
+        },
+        {
+          "pk": 832624,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 16,
+          "text": "then we will give our daughters to you, and we will take your daughters for ourselves, and we will live with you and become one people."
+        },
+        {
+          "pk": 832625,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 17,
+          "text": "'But if you will not listen to us to be circumcised, then we will take our daughter and go.'"
+        },
+        {
+          "pk": 832626,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 18,
+          "text": "Now their words seemed reasonable to Hamor and Shechem, Hamor's son."
+        },
+        {
+          "pk": 832627,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 19,
+          "text": "The young man did not delay to do the thing, because he was delighted with Jacob's daughter. Now he was more respected than all the household of his father."
+        },
+        {
+          "pk": 832628,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 20,
+          "text": "So Hamor and his son Shechem came to the gate of their city and spoke to the men of their city, saying,"
+        },
+        {
+          "pk": 832629,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 21,
+          "text": "'These men are friendly with us; therefore let them live in the land and trade in it, for behold, the land is large enough for them. Let us take their daughters in marriage, and give our daughters to them."
+        },
+        {
+          "pk": 832630,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 22,
+          "text": "'Only on this [condition] will the men consent to us to live with us, to become one people: that every male among us be circumcised as they are circumcised."
+        },
+        {
+          "pk": 832631,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 23,
+          "text": "'Will not their livestock and their property and all their animals be ours? Only let us consent to them, and they will live with us.'"
+        },
+        {
+          "pk": 832632,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 24,
+          "text": "All who went out of the gate of his city listened to Hamor and to his son Shechem, and every male was circumcised, all who went out of the gate of his city."
+        },
+        {
+          "pk": 832633,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 25,
+          "text": "Now it came about on the third day, when they were in pain, that two of Jacob's sons, Simeon and Levi, Dinah's brothers, each took his sword and came upon the city unawares, and killed every male."
+        },
+        {
+          "pk": 832634,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 26,
+          "text": "They killed Hamor and his son Shechem with the edge of the sword, and took Dinah from Shechem's house, and went forth."
+        },
+        {
+          "pk": 832635,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 27,
+          "text": "Jacob's sons came upon the slain and looted the city, because they had defiled their sister."
+        },
+        {
+          "pk": 832636,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 28,
+          "text": "They took their flocks and their herds and their donkeys, and that which was in the city and that which was in the field;"
+        },
+        {
+          "pk": 832637,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 29,
+          "text": "and they captured and looted all their wealth and all their little ones and their wives, even all that [was] in the houses."
+        },
+        {
+          "pk": 832638,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 30,
+          "text": "Then Jacob said to Simeon and Levi, 'You have brought trouble on me by making me odious among the inhabitants of the land, among the Canaanites and the Perizzites; and my men being few in number, they will gather together against me and attack me and I will be destroyed, I and my household.'"
+        },
+        {
+          "pk": 832639,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 34,
+          "verse": 31,
+          "text": "But they said, 'Should he treat our sister as a harlot?'"
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": [
+        {
+          "pk": 832640,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 1,
+          "text": "Then God said to Jacob, 'Arise, go up to Bethel and live there, and make an altar there to God, who appeared to you when you fled from your brother Esau.'"
+        },
+        {
+          "pk": 832641,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 2,
+          "text": "So Jacob said to his household and to all who were with him, 'Put away the foreign gods which are among you, and purify yourselves and change your garments;"
+        },
+        {
+          "pk": 832642,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 3,
+          "text": "and let us arise and go up to Bethel, and I will make an altar there to God, who answered me in the day of my distress and has been with me wherever I have gone.'"
+        },
+        {
+          "pk": 832643,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 4,
+          "text": "So they gave to Jacob all the foreign gods which they had and the rings which were in their ears, and Jacob hid them under the oak which was near Shechem."
+        },
+        {
+          "pk": 832644,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 5,
+          "text": "As they journeyed, there was a great terror upon the cities which were around them, and they did not pursue the sons of Jacob."
+        },
+        {
+          "pk": 832645,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 6,
+          "text": "So Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him."
+        },
+        {
+          "pk": 832646,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 7,
+          "text": "He built an altar there, and called the place El-bethel, because there God had revealed Himself to him when he fled from his brother."
+        },
+        {
+          "pk": 832647,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 8,
+          "text": "Now Deborah, Rebekah's nurse, died, and she was buried below Bethel under the oak; it was named Allon-bacuth."
+        },
+        {
+          "pk": 832648,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 9,
+          "text": "Then God appeared to Jacob again when he came from Paddan-aram, and He blessed him."
+        },
+        {
+          "pk": 832649,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 10,
+          "text": "God said to him, 'Your name is Jacob; You shall no longer be called Jacob, But Israel shall be your name.' Thus He called him Israel."
+        },
+        {
+          "pk": 832650,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 11,
+          "text": "God also said to him, 'I am God Almighty; Be fruitful and multiply; A nation and a company of nations shall come from you, And kings shall come forth from you."
+        },
+        {
+          "pk": 832651,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 12,
+          "text": "'The land which I gave to Abraham and Isaac, I will give it to you, And I will give the land to your descendants after you.'"
+        },
+        {
+          "pk": 832652,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 13,
+          "text": "Then God went up from him in the place where He had spoken with him."
+        },
+        {
+          "pk": 832653,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 14,
+          "text": "Jacob set up a pillar in the place where He had spoken with him, a pillar of stone, and he poured out a drink offering on it; he also poured oil on it."
+        },
+        {
+          "pk": 832654,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 15,
+          "text": "So Jacob named the place where God had spoken with him, Bethel."
+        },
+        {
+          "pk": 832655,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 16,
+          "text": "Then they journeyed from Bethel; and when there was still some distance to go to Ephrath, Rachel began to give birth and she suffered severe labor."
+        },
+        {
+          "pk": 832656,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 17,
+          "text": "When she was in severe labor the midwife said to her, 'Do not fear, for now you have another son.'"
+        },
+        {
+          "pk": 832657,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 18,
+          "text": "It came about as her soul was departing (for she died), that she named him Ben-oni; but his father called him Benjamin."
+        },
+        {
+          "pk": 832658,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 19,
+          "text": "So Rachel died and was buried on the way to Ephrath (that is, Bethlehem)."
+        },
+        {
+          "pk": 832659,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 20,
+          "text": "Jacob set up a pillar over her grave; that is the pillar of Rachel's grave to this day."
+        },
+        {
+          "pk": 832660,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 21,
+          "text": "Then Israel journeyed on and pitched his tent beyond the tower of Eder."
+        },
+        {
+          "pk": 832661,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 22,
+          "text": "It came about while Israel was dwelling in that land, that Reuben went and lay with Bilhah his father's concubine, and Israel heard [of it]. Now there were twelve sons of Jacob--"
+        },
+        {
+          "pk": 832662,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 23,
+          "text": "the sons of Leah: Reuben, Jacob's firstborn, then Simeon and Levi and Judah and Issachar and Zebulun;"
+        },
+        {
+          "pk": 832663,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 24,
+          "text": "the sons of Rachel: Joseph and Benjamin;"
+        },
+        {
+          "pk": 832664,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 25,
+          "text": "and the sons of Bilhah, Rachel's maid: Dan and Naphtali;"
+        },
+        {
+          "pk": 832665,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 26,
+          "text": "and the sons of Zilpah, Leah's maid: Gad and Asher. These are the sons of Jacob who were born to him in Paddan-aram."
+        },
+        {
+          "pk": 832666,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 27,
+          "text": "Jacob came to his father Isaac at Mamre of Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned."
+        },
+        {
+          "pk": 832667,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 28,
+          "text": "Now the days of Isaac were one hundred and eighty years."
+        },
+        {
+          "pk": 832668,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 35,
+          "verse": 29,
+          "text": "Isaac breathed his last and died and was gathered to his people, an old man of ripe age; and his sons Esau and Jacob buried him."
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "pk": 832669,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 1,
+          "text": "Now these are [the records of] the generations of Esau (that is, Edom)."
+        },
+        {
+          "pk": 832670,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 2,
+          "text": "Esau took his wives from the daughters of Canaan: Adah the daughter of Elon the Hittite, and Oholibamah the daughter of Anah and the granddaughter of Zibeon the Hivite;"
+        },
+        {
+          "pk": 832671,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 3,
+          "text": "also Basemath, Ishmael's daughter, the sister of Nebaioth."
+        },
+        {
+          "pk": 832672,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 4,
+          "text": "Adah bore Eliphaz to Esau, and Basemath bore Reuel,"
+        },
+        {
+          "pk": 832673,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 5,
+          "text": "and Oholibamah bore Jeush and Jalam and Korah. These are the sons of Esau who were born to him in the land of Canaan."
+        },
+        {
+          "pk": 832674,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 6,
+          "text": "Then Esau took his wives and his sons and his daughters and all his household, and his livestock and all his cattle and all his goods which he had acquired in the land of Canaan, and went to [another] land away from his brother Jacob."
+        },
+        {
+          "pk": 832675,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 7,
+          "text": "For their property had become too great for them to live together, and the land where they sojourned could not sustain them because of their livestock."
+        },
+        {
+          "pk": 832676,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 8,
+          "text": "So Esau lived in the hill country of Seir; Esau is Edom."
+        },
+        {
+          "pk": 832677,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 9,
+          "text": "These then are [the records of] the generations of Esau the father of the Edomites in the hill country of Seir."
+        },
+        {
+          "pk": 832678,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 10,
+          "text": "These are the names of Esau's sons: Eliphaz the son of Esau's wife Adah, Reuel the son of Esau's wife Basemath."
+        },
+        {
+          "pk": 832679,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 11,
+          "text": "The sons of Eliphaz were Teman, Omar, Zepho and Gatam and Kenaz."
+        },
+        {
+          "pk": 832680,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 12,
+          "text": "Timna was a concubine of Esau's son Eliphaz and she bore Amalek to Eliphaz. These are the sons of Esau's wife Adah."
+        },
+        {
+          "pk": 832681,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 13,
+          "text": "These are the sons of Reuel: Nahath and Zerah, Shammah and Mizzah. These were the sons of Esau's wife Basemath."
+        },
+        {
+          "pk": 832682,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 14,
+          "text": "These were the sons of Esau's wife Oholibamah, the daughter of Anah and the granddaughter of Zibeon: she bore to Esau, Jeush and Jalam and Korah."
+        },
+        {
+          "pk": 832683,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 15,
+          "text": "These are the chiefs of the sons of Esau. The sons of Eliphaz, the firstborn of Esau, are chief Teman, chief Omar, chief Zepho, chief Kenaz,"
+        },
+        {
+          "pk": 832684,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 16,
+          "text": "chief Korah, chief Gatam, chief Amalek. These are the chiefs descended from Eliphaz in the land of Edom; these are the sons of Adah."
+        },
+        {
+          "pk": 832685,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 17,
+          "text": "These are the sons of Reuel, Esau's son: chief Nahath, chief Zerah, chief Shammah, chief Mizzah. These are the chiefs descended from Reuel in the land of Edom; these are the sons of Esau's wife Basemath."
+        },
+        {
+          "pk": 832686,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 18,
+          "text": "These are the sons of Esau's wife Oholibamah: chief Jeush, chief Jalam, chief Korah. These are the chiefs descended from Esau's wife Oholibamah, the daughter of Anah."
+        },
+        {
+          "pk": 832687,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 19,
+          "text": "These are the sons of Esau (that is, Edom), and these are their chiefs."
+        },
+        {
+          "pk": 832688,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 20,
+          "text": "These are the sons of Seir the Horite, the inhabitants of the land: Lotan and Shobal and Zibeon and Anah,"
+        },
+        {
+          "pk": 832689,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 21,
+          "text": "and Dishon and Ezer and Dishan. These are the chiefs descended from the Horites, the sons of Seir in the land of Edom."
+        },
+        {
+          "pk": 832690,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 22,
+          "text": "The sons of Lotan were Hori and Hemam; and Lotan's sister was Timna."
+        },
+        {
+          "pk": 832691,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 23,
+          "text": "These are the sons of Shobal: Alvan and Manahath and Ebal, Shepho and Onam."
+        },
+        {
+          "pk": 832692,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 24,
+          "text": "These are the sons of Zibeon: Aiah and Anah-- he is the Anah who found the hot springs in the wilderness when he was pasturing the donkeys of his father Zibeon."
+        },
+        {
+          "pk": 832693,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 25,
+          "text": "These are the children of Anah: Dishon, and Oholibamah, the daughter of Anah."
+        },
+        {
+          "pk": 832694,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 26,
+          "text": "These are the sons of Dishon: Hemdan and Eshban and Ithran and Cheran."
+        },
+        {
+          "pk": 832695,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 27,
+          "text": "These are the sons of Ezer: Bilhan and Zaavan and Akan."
+        },
+        {
+          "pk": 832696,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 28,
+          "text": "These are the sons of Dishan: Uz and Aran."
+        },
+        {
+          "pk": 832697,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 29,
+          "text": "These are the chiefs descended from the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,"
+        },
+        {
+          "pk": 832698,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 30,
+          "text": "chief Dishon, chief Ezer, chief Dishan. These are the chiefs descended from the Horites, according to their [various] chiefs in the land of Seir."
+        },
+        {
+          "pk": 832699,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 31,
+          "text": "Now these are the kings who reigned in the land of Edom before any king reigned over the sons of Israel."
+        },
+        {
+          "pk": 832700,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 32,
+          "text": "Bela the son of Beor reigned in Edom, and the name of his city was Dinhabah."
+        },
+        {
+          "pk": 832701,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 33,
+          "text": "Then Bela died, and Jobab the son of Zerah of Bozrah became king in his place."
+        },
+        {
+          "pk": 832702,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 34,
+          "text": "Then Jobab died, and Husham of the land of the Temanites became king in his place."
+        },
+        {
+          "pk": 832703,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 35,
+          "text": "Then Husham died, and Hadad the son of Bedad, who defeated Midian in the field of Moab, became king in his place; and the name of his city was Avith."
+        },
+        {
+          "pk": 832704,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 36,
+          "text": "Then Hadad died, and Samlah of Masrekah became king in his place."
+        },
+        {
+          "pk": 832705,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 37,
+          "text": "Then Samlah died, and Shaul of Rehoboth on the [Euphrates] River became king in his place."
+        },
+        {
+          "pk": 832706,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 38,
+          "text": "Then Shaul died, and Baal-hanan the son of Achbor became king in his place."
+        },
+        {
+          "pk": 832707,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 39,
+          "text": "Then Baal-hanan the son of Achbor died, and Hadar became king in his place; and the name of his city was Pau; and his wife's name was Mehetabel, the daughter of Matred, daughter of Mezahab."
+        },
+        {
+          "pk": 832708,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 40,
+          "text": "Now these are the names of the chiefs descended from Esau, according to their families [and] their localities, by their names: chief Timna, chief Alvah, chief Jetheth,"
+        },
+        {
+          "pk": 832709,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 41,
+          "text": "chief Oholibamah, chief Elah, chief Pinon,"
+        },
+        {
+          "pk": 832710,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 42,
+          "text": "chief Kenaz, chief Teman, chief Mibzar,"
+        },
+        {
+          "pk": 832711,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 36,
+          "verse": 43,
+          "text": "chief Magdiel, chief Iram. These are the chiefs of Edom (that is, Esau, the father of the Edomites), according to their habitations in the land of their possession."
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": [
+        {
+          "pk": 832712,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 1,
+          "text": "Now Jacob lived in the land where his father had sojourned, in the land of Canaan."
+        },
+        {
+          "pk": 832713,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 2,
+          "text": "These are [the records of] the generations of Jacob. Joseph, when seventeen years of age, was pasturing the flock with his brothers while he was [still] a youth, along with the sons of Bilhah and the sons of Zilpah, his father's wives. And Joseph brought back a bad report about them to their father."
+        },
+        {
+          "pk": 832714,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 3,
+          "text": "Now Israel loved Joseph more than all his sons, because he was the son of his old age; and he made him a varicolored tunic."
+        },
+        {
+          "pk": 832715,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 4,
+          "text": "His brothers saw that their father loved him more than all his brothers; and [so] they hated him and could not speak to him on friendly terms."
+        },
+        {
+          "pk": 832716,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 5,
+          "text": "Then Joseph had a dream, and when he told it to his brothers, they hated him even more."
+        },
+        {
+          "pk": 832717,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 6,
+          "text": "He said to them, 'Please listen to this dream which I have had;"
+        },
+        {
+          "pk": 832718,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 7,
+          "text": "for behold, we were binding sheaves in the field, and lo, my sheaf rose up and also stood erect; and behold, your sheaves gathered around and bowed down to my sheaf.'"
+        },
+        {
+          "pk": 832719,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 8,
+          "text": "Then his brothers said to him, 'Are you actually going to reign over us? Or are you really going to rule over us?' So they hated him even more for his dreams and for his words."
+        },
+        {
+          "pk": 832720,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 9,
+          "text": "Now he had still another dream, and related it to his brothers, and said, 'Lo, I have had still another dream; and behold, the sun and the moon and eleven stars were bowing down to me.'"
+        },
+        {
+          "pk": 832721,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 10,
+          "text": "He related [it] to his father and to his brothers; and his father rebuked him and said to him, 'What is this dream that you have had? Shall I and your mother and your brothers actually come to bow ourselves down before you to the ground?'"
+        },
+        {
+          "pk": 832722,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 11,
+          "text": "His brothers were jealous of him, but his father kept the saying [in mind]."
+        },
+        {
+          "pk": 832723,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 12,
+          "text": "Then his brothers went to pasture their father's flock in Shechem."
+        },
+        {
+          "pk": 832724,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 13,
+          "text": "Israel said to Joseph, 'Are not your brothers pasturing [the flock] in Shechem? Come, and I will send you to them.' And he said to him, 'I will go.'"
+        },
+        {
+          "pk": 832725,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 14,
+          "text": "Then he said to him, 'Go now and see about the welfare of your brothers and the welfare of the flock, and bring word back to me.' So he sent him from the valley of Hebron, and he came to Shechem."
+        },
+        {
+          "pk": 832726,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 15,
+          "text": "A man found him, and behold, he was wandering in the field; and the man asked him, 'What are you looking for?'"
+        },
+        {
+          "pk": 832727,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 16,
+          "text": "He said, 'I am looking for my brothers; please tell me where they are pasturing [the flock].'"
+        },
+        {
+          "pk": 832728,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 17,
+          "text": "Then the man said, 'They have moved from here; for I heard [them] say, 'Let us go to Dothan.'' So Joseph went after his brothers and found them at Dothan."
+        },
+        {
+          "pk": 832729,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 18,
+          "text": "When they saw him from a distance and before he came close to them, they plotted against him to put him to death."
+        },
+        {
+          "pk": 832730,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 19,
+          "text": "They said to one another, 'Here comes this dreamer!"
+        },
+        {
+          "pk": 832731,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 20,
+          "text": "'Now then, come and let us kill him and throw him into one of the pits; and we will say, 'A wild beast devoured him.' Then let us see what will become of his dreams!'"
+        },
+        {
+          "pk": 832732,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 21,
+          "text": "But Reuben heard [this] and rescued him out of their hands and said, 'Let us not take his life.'"
+        },
+        {
+          "pk": 832733,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 22,
+          "text": "Reuben further said to them, 'Shed no blood. Throw him into this pit that is in the wilderness, but do not lay hands on him'-- that he might rescue him out of their hands, to restore him to his father."
+        },
+        {
+          "pk": 832734,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 23,
+          "text": "So it came about, when Joseph reached his brothers, that they stripped Joseph of his tunic, the varicolored tunic that was on him;"
+        },
+        {
+          "pk": 832735,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 24,
+          "text": "and they took him and threw him into the pit. Now the pit was empty, without any water in it."
+        },
+        {
+          "pk": 832736,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 25,
+          "text": "Then they sat down to eat a meal. And as they raised their eyes and looked, behold, a caravan of Ishmaelites was coming from Gilead, with their camels bearing aromatic gum and balm and myrrh, on their way to bring [them] down to Egypt."
+        },
+        {
+          "pk": 832737,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 26,
+          "text": "Judah said to his brothers, 'What profit is it for us to kill our brother and cover up his blood?"
+        },
+        {
+          "pk": 832738,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 27,
+          "text": "'Come and let us sell him to the Ishmaelites and not lay our hands on him, for he is our brother, our [own] flesh.' And his brothers listened [to him]."
+        },
+        {
+          "pk": 832739,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 28,
+          "text": "Then some Midianite traders passed by, so they pulled [him] up and lifted Joseph out of the pit, and sold him to the Ishmaelites for twenty [shekels] of silver. Thus they brought Joseph into Egypt."
+        },
+        {
+          "pk": 832740,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 29,
+          "text": "Now Reuben returned to the pit, and behold, Joseph was not in the pit; so he tore his garments."
+        },
+        {
+          "pk": 832741,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 30,
+          "text": "He returned to his brothers and said, 'The boy is not [there]; as for me, where am I to go?'"
+        },
+        {
+          "pk": 832742,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 31,
+          "text": "So they took Joseph's tunic, and slaughtered a male goat and dipped the tunic in the blood;"
+        },
+        {
+          "pk": 832743,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 32,
+          "text": "and they sent the varicolored tunic and brought it to their father and said, 'We found this; please examine [it] to [see] whether it is your son's tunic or not.'"
+        },
+        {
+          "pk": 832744,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 33,
+          "text": "Then he examined it and said, 'It is my son's tunic. A wild beast has devoured him; Joseph has surely been torn to pieces!'"
+        },
+        {
+          "pk": 832745,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 34,
+          "text": "So Jacob tore his clothes, and put sackcloth on his loins and mourned for his son many days."
+        },
+        {
+          "pk": 832746,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 35,
+          "text": "Then all his sons and all his daughters arose to comfort him, but he refused to be comforted. And he said, 'Surely I will go down to Sheol in mourning for my son.' So his father wept for him."
+        },
+        {
+          "pk": 832747,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 37,
+          "verse": 36,
+          "text": "Meanwhile, the Midianites sold him in Egypt to Potiphar, Pharaoh's officer, the captain of the bodyguard."
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "pk": 832748,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 1,
+          "text": "And it came about at that time, that Judah departed from his brothers and visited a certain Adullamite, whose name was Hirah."
+        },
+        {
+          "pk": 832749,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 2,
+          "text": "Judah saw there a daughter of a certain Canaanite whose name was Shua; and he took her and went in to her."
+        },
+        {
+          "pk": 832750,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 3,
+          "text": "So she conceived and bore a son and he named him Er."
+        },
+        {
+          "pk": 832751,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 4,
+          "text": "Then she conceived again and bore a son and named him Onan."
+        },
+        {
+          "pk": 832752,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 5,
+          "text": "She bore still another son and named him Shelah; and it was at Chezib that she bore him."
+        },
+        {
+          "pk": 832753,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 6,
+          "text": "Now Judah took a wife for Er his firstborn, and her name [was] Tamar."
+        },
+        {
+          "pk": 832754,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 7,
+          "text": "But Er, Judah's firstborn, was evil in the sight of the LORD, so the LORD took his life."
+        },
+        {
+          "pk": 832755,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 8,
+          "text": "Then Judah said to Onan, 'Go in to your brother's wife, and perform your duty as a brother-in-law to her, and raise up offspring for your brother.'"
+        },
+        {
+          "pk": 832756,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 9,
+          "text": "Onan knew that the offspring would not be his; so when he went in to his brother's wife, he wasted his seed on the ground in order not to give offspring to his brother."
+        },
+        {
+          "pk": 832757,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 10,
+          "text": "But what he did was displeasing in the sight of the LORD; so He took his life also."
+        },
+        {
+          "pk": 832758,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 11,
+          "text": "Then Judah said to his daughter-in-law Tamar, 'Remain a widow in your father's house until my son Shelah grows up'; for he thought, '[I am afraid] that he too may die like his brothers.' So Tamar went and lived in her father's house."
+        },
+        {
+          "pk": 832759,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 12,
+          "text": "Now after a considerable time Shua's daughter, the wife of Judah, died; and when the time of mourning was ended, Judah went up to his sheepshearers at Timnah, he and his friend Hirah the Adullamite."
+        },
+        {
+          "pk": 832760,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 13,
+          "text": "It was told to Tamar, 'Behold, your father-in-law is going up to Timnah to shear his sheep.'"
+        },
+        {
+          "pk": 832761,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 14,
+          "text": "So she removed her widow's garments and covered [herself] with a veil, and wrapped herself, and sat in the gateway of Enaim, which is on the road to Timnah; for she saw that Shelah had grown up, and she had not been given to him as a wife."
+        },
+        {
+          "pk": 832762,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 15,
+          "text": "When Judah saw her, he thought she [was] a harlot, for she had covered her face."
+        },
+        {
+          "pk": 832763,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 16,
+          "text": "So he turned aside to her by the road, and said, 'Here now, let me come in to you'; for he did not know that she was his daughter-in-law. And she said, 'What will you give me, that you may come in to me?'"
+        },
+        {
+          "pk": 832764,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 17,
+          "text": "He said, therefore, 'I will send you a young goat from the flock.' She said, moreover, 'Will you give a pledge until you send [it]?'"
+        },
+        {
+          "pk": 832765,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 18,
+          "text": "He said, 'What pledge shall I give you?' And she said, 'Your seal and your cord, and your staff that is in your hand.' So he gave [them] to her and went in to her, and she conceived by him."
+        },
+        {
+          "pk": 832766,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 19,
+          "text": "Then she arose and departed, and removed her veil and put on her widow's garments."
+        },
+        {
+          "pk": 832767,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 20,
+          "text": "When Judah sent the young goat by his friend the Adullamite, to receive the pledge from the woman's hand, he did not find her."
+        },
+        {
+          "pk": 832768,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 21,
+          "text": "He asked the men of her place, saying, 'Where is the temple prostitute who was by the road at Enaim?' But they said, 'There has been no temple prostitute here.'"
+        },
+        {
+          "pk": 832769,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 22,
+          "text": "So he returned to Judah, and said, 'I did not find her; and furthermore, the men of the place said, 'There has been no temple prostitute here.''"
+        },
+        {
+          "pk": 832770,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 23,
+          "text": "Then Judah said, 'Let her keep them, otherwise we will become a laughingstock. After all, I sent this young goat, but you did not find her.'"
+        },
+        {
+          "pk": 832771,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 24,
+          "text": "Now it was about three months later that Judah was informed, 'Your daughter-in-law Tamar has played the harlot, and behold, she is also with child by harlotry.' Then Judah said, 'Bring her out and let her be burned!'"
+        },
+        {
+          "pk": 832772,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 25,
+          "text": "It was while she was being brought out that she sent to her father-in-law, saying, 'I am with child by the man to whom these things belong.' And she said, 'Please examine and see, whose signet ring and cords and staff are these?'"
+        },
+        {
+          "pk": 832773,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 26,
+          "text": "Judah recognized [them], and said, 'She is more righteous than I, inasmuch as I did not give her to my son Shelah.' And he did not have relations with her again."
+        },
+        {
+          "pk": 832774,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 27,
+          "text": "It came about at the time she was giving birth, that behold, there were twins in her womb."
+        },
+        {
+          "pk": 832775,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 28,
+          "text": "Moreover, it took place while she was giving birth, one put out a hand, and the midwife took and tied a scarlet [thread] on his hand, saying, 'This one came out first.'"
+        },
+        {
+          "pk": 832776,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 29,
+          "text": "But it came about as he drew back his hand, that behold, his brother came out. Then she said, 'What a breach you have made for yourself!' So he was named Perez."
+        },
+        {
+          "pk": 832777,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 38,
+          "verse": 30,
+          "text": "Afterward his brother came out who had the scarlet [thread] on his hand; and he was named Zerah."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "pk": 832778,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 1,
+          "text": "Now Joseph had been taken down to Egypt; and Potiphar, an Egyptian officer of Pharaoh, the captain of the bodyguard, bought him from the Ishmaelites, who had taken him down there."
+        },
+        {
+          "pk": 832779,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 2,
+          "text": "The LORD was with Joseph, so he became a successful man. And he was in the house of his master, the Egyptian."
+        },
+        {
+          "pk": 832780,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 3,
+          "text": "Now his master saw that the LORD was with him and [how] the LORD caused all that he did to prosper in his hand."
+        },
+        {
+          "pk": 832781,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 4,
+          "text": "So Joseph found favor in his sight and became his personal servant; and he made him overseer over his house, and all that he owned he put in his charge."
+        },
+        {
+          "pk": 832782,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 5,
+          "text": "It came about that from the time he made him overseer in his house and over all that he owned, the LORD blessed the Egyptian's house on account of Joseph; thus the LORD'S blessing was upon all that he owned, in the house and in the field."
+        },
+        {
+          "pk": 832783,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 6,
+          "text": "So he left everything he owned in Joseph's charge; and with him [there] he did not concern himself with anything except the food which he ate. Now Joseph was handsome in form and appearance."
+        },
+        {
+          "pk": 832784,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 7,
+          "text": "It came about after these events that his master's wife looked with desire at Joseph, and she said, 'Lie with me.'"
+        },
+        {
+          "pk": 832785,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 8,
+          "text": "But he refused and said to his master's wife, 'Behold, with me [here], my master does not concern himself with anything in the house, and he has put all that he owns in my charge."
+        },
+        {
+          "pk": 832786,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 9,
+          "text": "'There is no one greater in this house than I, and he has withheld nothing from me except you, because you are his wife. How then could I do this great evil and sin against God?'"
+        },
+        {
+          "pk": 832787,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 10,
+          "text": "As she spoke to Joseph day after day, he did not listen to her to lie beside her [or] be with her."
+        },
+        {
+          "pk": 832788,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 11,
+          "text": "Now it happened one day that he went into the house to do his work, and none of the men of the household was there inside."
+        },
+        {
+          "pk": 832789,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 12,
+          "text": "She caught him by his garment, saying, 'Lie with me!' And he left his garment in her hand and fled, and went outside."
+        },
+        {
+          "pk": 832790,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 13,
+          "text": "When she saw that he had left his garment in her hand and had fled outside,"
+        },
+        {
+          "pk": 832791,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 14,
+          "text": "she called to the men of her household and said to them, 'See, he has brought in a Hebrew to us to make sport of us; he came in to me to lie with me, and I screamed."
+        },
+        {
+          "pk": 832792,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 15,
+          "text": "'When he heard that I raised my voice and screamed, he left his garment beside me and fled and went outside.'"
+        },
+        {
+          "pk": 832793,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 16,
+          "text": "So she left his garment beside her until his master came home."
+        },
+        {
+          "pk": 832794,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 17,
+          "text": "Then she spoke to him with these words, 'The Hebrew slave, whom you brought to us, came in to me to make sport of me;"
+        },
+        {
+          "pk": 832795,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 18,
+          "text": "and as I raised my voice and screamed, he left his garment beside me and fled outside.'"
+        },
+        {
+          "pk": 832796,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 19,
+          "text": "Now when his master heard the words of his wife, which she spoke to him, saying, 'This is what your slave did to me,' his anger burned."
+        },
+        {
+          "pk": 832797,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 20,
+          "text": "So Joseph's master took him and put him into the jail, the place where the king's prisoners were confined; and he was there in the jail."
+        },
+        {
+          "pk": 832798,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 21,
+          "text": "But the LORD was with Joseph and extended kindness to him, and gave him favor in the sight of the chief jailer."
+        },
+        {
+          "pk": 832799,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 22,
+          "text": "The chief jailer committed to Joseph's charge all the prisoners who were in the jail; so that whatever was done there, he was responsible [for it]."
+        },
+        {
+          "pk": 832800,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 39,
+          "verse": 23,
+          "text": "The chief jailer did not supervise anything under Joseph's charge because the LORD was with him; and whatever he did, the LORD made to prosper."
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "pk": 832801,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 1,
+          "text": "Then it came about after these things, the cupbearer and the baker for the king of Egypt offended their lord, the king of Egypt."
+        },
+        {
+          "pk": 832802,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 2,
+          "text": "Pharaoh was furious with his two officials, the chief cupbearer and the chief baker."
+        },
+        {
+          "pk": 832803,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 3,
+          "text": "So he put them in confinement in the house of the captain of the bodyguard, in the jail, the [same] place where Joseph was imprisoned."
+        },
+        {
+          "pk": 832804,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 4,
+          "text": "The captain of the bodyguard put Joseph in charge of them, and he took care of them; and they were in confinement for some time."
+        },
+        {
+          "pk": 832805,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 5,
+          "text": "Then the cupbearer and the baker for the king of Egypt, who were confined in jail, both had a dream the same night, each man with his [own] dream [and] each dream with its [own] interpretation."
+        },
+        {
+          "pk": 832806,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 6,
+          "text": "When Joseph came to them in the morning and observed them, behold, they were dejected."
+        },
+        {
+          "pk": 832807,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 7,
+          "text": "He asked Pharaoh's officials who were with him in confinement in his master's house, 'Why are your faces so sad today?'"
+        },
+        {
+          "pk": 832808,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 8,
+          "text": "Then they said to him, 'We have had a dream and there is no one to interpret it.' Then Joseph said to them, 'Do not interpretations belong to God? Tell [it] to me, please.'"
+        },
+        {
+          "pk": 832809,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 9,
+          "text": "So the chief cupbearer told his dream to Joseph, and said to him, 'In my dream, behold, [there was] a vine in front of me;"
+        },
+        {
+          "pk": 832810,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 10,
+          "text": "and on the vine [were] three branches. And as it was budding, its blossoms came out, [and] its clusters produced ripe grapes."
+        },
+        {
+          "pk": 832811,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 11,
+          "text": "'Now Pharaoh's cup was in my hand; so I took the grapes and squeezed them into Pharaoh's cup, and I put the cup into Pharaoh's hand.'"
+        },
+        {
+          "pk": 832812,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 12,
+          "text": "Then Joseph said to him, 'This is the interpretation of it: the three branches are three days;"
+        },
+        {
+          "pk": 832813,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 13,
+          "text": "within three more days Pharaoh will lift up your head and restore you to your office; and you will put Pharaoh's cup into his hand according to your former custom when you were his cupbearer."
+        },
+        {
+          "pk": 832814,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 14,
+          "text": "'Only keep me in mind when it goes well with you, and please do me a kindness by mentioning me to Pharaoh and get me out of this house."
+        },
+        {
+          "pk": 832815,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 15,
+          "text": "'For I was in fact kidnapped from the land of the Hebrews, and even here I have done nothing that they should have put me into the dungeon.'"
+        },
+        {
+          "pk": 832816,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 16,
+          "text": "When the chief baker saw that he had interpreted favorably, he said to Joseph, 'I also [saw] in my dream, and behold, [there were] three baskets of white bread on my head;"
+        },
+        {
+          "pk": 832817,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 17,
+          "text": "and in the top basket [there were] some of all sorts of baked food for Pharaoh, and the birds were eating them out of the basket on my head.'"
+        },
+        {
+          "pk": 832818,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 18,
+          "text": "Then Joseph answered and said, 'This is its interpretation: the three baskets are three days;"
+        },
+        {
+          "pk": 832819,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 19,
+          "text": "within three more days Pharaoh will lift up your head from you and will hang you on a tree, and the birds will eat your flesh off you.'"
+        },
+        {
+          "pk": 832820,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 20,
+          "text": "Thus it came about on the third day, [which was] Pharaoh's birthday, that he made a feast for all his servants; and he lifted up the head of the chief cupbearer and the head of the chief baker among his servants."
+        },
+        {
+          "pk": 832821,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 21,
+          "text": "He restored the chief cupbearer to his office, and he put the cup into Pharaoh's hand;"
+        },
+        {
+          "pk": 832822,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 22,
+          "text": "but he hanged the chief baker, just as Joseph had interpreted to them."
+        },
+        {
+          "pk": 832823,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 40,
+          "verse": 23,
+          "text": "Yet the chief cupbearer did not remember Joseph, but forgot him."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verses": [
+        {
+          "pk": 832824,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 1,
+          "text": "Now it happened at the end of two full years that Pharaoh had a dream, and behold, he was standing by the Nile."
+        },
+        {
+          "pk": 832825,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 2,
+          "text": "And lo, from the Nile there came up seven cows, sleek and fat; and they grazed in the marsh grass."
+        },
+        {
+          "pk": 832826,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 3,
+          "text": "Then behold, seven other cows came up after them from the Nile, ugly and gaunt, and they stood by the [other] cows on the bank of the Nile."
+        },
+        {
+          "pk": 832827,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 4,
+          "text": "The ugly and gaunt cows ate up the seven sleek and fat cows. Then Pharaoh awoke."
+        },
+        {
+          "pk": 832828,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 5,
+          "text": "He fell asleep and dreamed a second time; and behold, seven ears of grain came up on a single stalk, plump and good."
+        },
+        {
+          "pk": 832829,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 6,
+          "text": "Then behold, seven ears, thin and scorched by the east wind, sprouted up after them."
+        },
+        {
+          "pk": 832830,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 7,
+          "text": "The thin ears swallowed up the seven plump and full ears. Then Pharaoh awoke, and behold, [it was] a dream."
+        },
+        {
+          "pk": 832831,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 8,
+          "text": "Now in the morning his spirit was troubled, so he sent and called for all the magicians of Egypt, and all its wise men. And Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh."
+        },
+        {
+          "pk": 832832,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 9,
+          "text": "Then the chief cupbearer spoke to Pharaoh, saying, 'I would make mention today of my [own] offenses."
+        },
+        {
+          "pk": 832833,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 10,
+          "text": "'Pharaoh was furious with his servants, and he put me in confinement in the house of the captain of the bodyguard, [both] me and the chief baker."
+        },
+        {
+          "pk": 832834,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 11,
+          "text": "'We had a dream on the same night, he and I; each of us dreamed according to the interpretation of his [own] dream."
+        },
+        {
+          "pk": 832835,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 12,
+          "text": "'Now a Hebrew youth [was] with us there, a servant of the captain of the bodyguard, and we related [them] to him, and he interpreted our dreams for us. To each one he interpreted according to his [own] dream."
+        },
+        {
+          "pk": 832836,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 13,
+          "text": "'And just as he interpreted for us, so it happened; he restored me in my office, but he hanged him.'"
+        },
+        {
+          "pk": 832837,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 14,
+          "text": "Then Pharaoh sent and called for Joseph, and they hurriedly brought him out of the dungeon; and when he had shaved himself and changed his clothes, he came to Pharaoh."
+        },
+        {
+          "pk": 832838,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 15,
+          "text": "Pharaoh said to Joseph, 'I have had a dream, but no one can interpret it; and I have heard it said about you, that when you hear a dream you can interpret it.'"
+        },
+        {
+          "pk": 832839,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 16,
+          "text": "Joseph then answered Pharaoh, saying, 'It is not in me; God will give Pharaoh a favorable answer.'"
+        },
+        {
+          "pk": 832840,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 17,
+          "text": "So Pharaoh spoke to Joseph, 'In my dream, behold, I was standing on the bank of the Nile;"
+        },
+        {
+          "pk": 832841,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 18,
+          "text": "and behold, seven cows, fat and sleek came up out of the Nile, and they grazed in the marsh grass."
+        },
+        {
+          "pk": 832842,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 19,
+          "text": "'Lo, seven other cows came up after them, poor and very ugly and gaunt, such as I had never seen for ugliness in all the land of Egypt;"
+        },
+        {
+          "pk": 832843,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 20,
+          "text": "and the lean and ugly cows ate up the first seven fat cows."
+        },
+        {
+          "pk": 832844,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 21,
+          "text": "'Yet when they had devoured them, it could not be detected that they had devoured them, for they were just as ugly as before. Then I awoke."
+        },
+        {
+          "pk": 832845,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 22,
+          "text": "'I saw also in my dream, and behold, seven ears, full and good, came up on a single stalk;"
+        },
+        {
+          "pk": 832846,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 23,
+          "text": "and lo, seven ears, withered, thin, [and] scorched by the east wind, sprouted up after them;"
+        },
+        {
+          "pk": 832847,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 24,
+          "text": "and the thin ears swallowed the seven good ears. Then I told it to the magicians, but there was no one who could explain it to me.'"
+        },
+        {
+          "pk": 832848,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 25,
+          "text": "Now Joseph said to Pharaoh, 'Pharaoh's dreams are one [and the same]; God has told to Pharaoh what He is about to do."
+        },
+        {
+          "pk": 832849,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 26,
+          "text": "'The seven good cows are seven years; and the seven good ears are seven years; the dreams are one [and the same]."
+        },
+        {
+          "pk": 832850,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 27,
+          "text": "'The seven lean and ugly cows that came up after them are seven years, and the seven thin ears scorched by the east wind will be seven years of famine."
+        },
+        {
+          "pk": 832851,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 28,
+          "text": "'It is as I have spoken to Pharaoh: God has shown to Pharaoh what He is about to do."
+        },
+        {
+          "pk": 832852,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 29,
+          "text": "'Behold, seven years of great abundance are coming in all the land of Egypt;"
+        },
+        {
+          "pk": 832853,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 30,
+          "text": "and after them seven years of famine will come, and all the abundance will be forgotten in the land of Egypt, and the famine will ravage the land."
+        },
+        {
+          "pk": 832854,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 31,
+          "text": "'So the abundance will be unknown in the land because of that subsequent famine; for it [will be] very severe."
+        },
+        {
+          "pk": 832855,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 32,
+          "text": "'Now as for the repeating of the dream to Pharaoh twice, [it means] that the matter is determined by God, and God will quickly bring it about."
+        },
+        {
+          "pk": 832856,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 33,
+          "text": "'Now let Pharaoh look for a man discerning and wise, and set him over the land of Egypt."
+        },
+        {
+          "pk": 832857,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 34,
+          "text": "'Let Pharaoh take action to appoint overseers in charge of the land, and let him exact a fifth [of the produce] of the land of Egypt in the seven years of abundance."
+        },
+        {
+          "pk": 832858,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 35,
+          "text": "'Then let them gather all the food of these good years that are coming, and store up the grain for food in the cities under Pharaoh's authority, and let them guard [it]."
+        },
+        {
+          "pk": 832859,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 36,
+          "text": "'Let the food become as a reserve for the land for the seven years of famine which will occur in the land of Egypt, so that the land will not perish during the famine.'"
+        },
+        {
+          "pk": 832860,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 37,
+          "text": "Now the proposal seemed good to Pharaoh and to all his servants."
+        },
+        {
+          "pk": 832861,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 38,
+          "text": "Then Pharaoh said to his servants, 'Can we find a man like this, in whom is a divine spirit?'"
+        },
+        {
+          "pk": 832862,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 39,
+          "text": "So Pharaoh said to Joseph, 'Since God has informed you of all this, there is no one so discerning and wise as you are."
+        },
+        {
+          "pk": 832863,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 40,
+          "text": "'You shall be over my house, and according to your command all my people shall do homage; only in the throne I will be greater than you.'"
+        },
+        {
+          "pk": 832864,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 41,
+          "text": "Pharaoh said to Joseph, 'See, I have set you over all the land of Egypt.'"
+        },
+        {
+          "pk": 832865,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 42,
+          "text": "Then Pharaoh took off his signet ring from his hand and put it on Joseph's hand, and clothed him in garments of fine linen and put the gold necklace around his neck."
+        },
+        {
+          "pk": 832866,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 43,
+          "text": "He had him ride in his second chariot; and they proclaimed before him, 'Bow the knee!' And he set him over all the land of Egypt."
+        },
+        {
+          "pk": 832867,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 44,
+          "text": "Moreover, Pharaoh said to Joseph, '[Though] I am Pharaoh, yet without your permission no one shall raise his hand or foot in all the land of Egypt.'"
+        },
+        {
+          "pk": 832868,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 45,
+          "text": "Then Pharaoh named Joseph Zaphenath-paneah; and he gave him Asenath, the daughter of Potiphera priest of On, as his wife. And Joseph went forth over the land of Egypt."
+        },
+        {
+          "pk": 832869,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 46,
+          "text": "Now Joseph was thirty years old when he stood before Pharaoh, king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt."
+        },
+        {
+          "pk": 832870,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 47,
+          "text": "During the seven years of plenty the land brought forth abundantly."
+        },
+        {
+          "pk": 832871,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 48,
+          "text": "So he gathered all the food of [these] seven years which occurred in the land of Egypt and placed the food in the cities; he placed in every city the food from its own surrounding fields."
+        },
+        {
+          "pk": 832872,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 49,
+          "text": "Thus Joseph stored up grain in great abundance like the sand of the sea, until he stopped measuring [it], for it was beyond measure."
+        },
+        {
+          "pk": 832873,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 50,
+          "text": "Now before the year of famine came, two sons were born to Joseph, whom Asenath, the daughter of Potiphera priest of On, bore to him."
+        },
+        {
+          "pk": 832874,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 51,
+          "text": "Joseph named the firstborn Manasseh, 'For,' [he said], 'God has made me forget all my trouble and all my father's household.'"
+        },
+        {
+          "pk": 832875,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 52,
+          "text": "He named the second Ephraim, 'For,' [he said], 'God has made me fruitful in the land of my affliction.'"
+        },
+        {
+          "pk": 832876,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 53,
+          "text": "When the seven years of plenty which had been in the land of Egypt came to an end,"
+        },
+        {
+          "pk": 832877,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 54,
+          "text": "and the seven years of famine began to come, just as Joseph had said, then there was famine in all the lands, but in all the land of Egypt there was bread."
+        },
+        {
+          "pk": 832878,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 55,
+          "text": "So when all the land of Egypt was famished, the people cried out to Pharaoh for bread; and Pharaoh said to all the Egyptians, 'Go to Joseph; whatever he says to you, you shall do.'"
+        },
+        {
+          "pk": 832879,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 56,
+          "text": "When the famine was [spread] over all the face of the earth, then Joseph opened all the storehouses, and sold to the Egyptians; and the famine was severe in the land of Egypt."
+        },
+        {
+          "pk": 832880,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 41,
+          "verse": 57,
+          "text": "[The people of] all the earth came to Egypt to buy grain from Joseph, because the famine was severe in all the earth."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verses": [
+        {
+          "pk": 832881,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 1,
+          "text": "Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, 'Why are you staring at one another?'"
+        },
+        {
+          "pk": 832882,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 2,
+          "text": "He said, 'Behold, I have heard that there is grain in Egypt; go down there and buy [some] for us from that place, so that we may live and not die.'"
+        },
+        {
+          "pk": 832883,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 3,
+          "text": "Then ten brothers of Joseph went down to buy grain from Egypt."
+        },
+        {
+          "pk": 832884,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 4,
+          "text": "But Jacob did not send Joseph's brother Benjamin with his brothers, for he said, 'I am afraid that harm may befall him.'"
+        },
+        {
+          "pk": 832885,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 5,
+          "text": "So the sons of Israel came to buy grain among those who were coming, for the famine was in the land of Canaan [also]."
+        },
+        {
+          "pk": 832886,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 6,
+          "text": "Now Joseph was the ruler over the land; he was the one who sold to all the people of the land. And Joseph's brothers came and bowed down to him with [their] faces to the ground."
+        },
+        {
+          "pk": 832887,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 7,
+          "text": "When Joseph saw his brothers he recognized them, but he disguised himself to them and spoke to them harshly. And he said to them, 'Where have you come from?' And they said, 'From the land of Canaan, to buy food.'"
+        },
+        {
+          "pk": 832888,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 8,
+          "text": "But Joseph had recognized his brothers, although they did not recognize him."
+        },
+        {
+          "pk": 832889,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 9,
+          "text": "Joseph remembered the dreams which he had about them, and said to them, 'You are spies; you have come to look at the undefended parts of our land.'"
+        },
+        {
+          "pk": 832890,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 10,
+          "text": "Then they said to him, 'No, my lord, but your servants have come to buy food."
+        },
+        {
+          "pk": 832891,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 11,
+          "text": "'We are all sons of one man; we are honest men, your servants are not spies.'"
+        },
+        {
+          "pk": 832892,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 12,
+          "text": "Yet he said to them, 'No, but you have come to look at the undefended parts of our land!'"
+        },
+        {
+          "pk": 832893,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 13,
+          "text": "But they said, 'Your servants are twelve brothers [in all], the sons of one man in the land of Canaan; and behold, the youngest is with our father today, and one is no longer alive.'"
+        },
+        {
+          "pk": 832894,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 14,
+          "text": "Joseph said to them, 'It is as I said to you, you are spies;"
+        },
+        {
+          "pk": 832895,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 15,
+          "text": "by this you will be tested: by the life of Pharaoh, you shall not go from this place unless your youngest brother comes here!"
+        },
+        {
+          "pk": 832896,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 16,
+          "text": "'Send one of you that he may get your brother, while you remain confined, that your words may be tested, whether there is truth in you. But if not, by the life of Pharaoh, surely you are spies.'"
+        },
+        {
+          "pk": 832897,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 17,
+          "text": "So he put them all together in prison for three days."
+        },
+        {
+          "pk": 832898,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 18,
+          "text": "Now Joseph said to them on the third day, 'Do this and live, for I fear God:"
+        },
+        {
+          "pk": 832899,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 19,
+          "text": "if you are honest men, let one of your brothers be confined in your prison; but as for [the rest of] you, go, carry grain for the famine of your households,"
+        },
+        {
+          "pk": 832900,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 20,
+          "text": "and bring your youngest brother to me, so your words may be verified, and you will not die.' And they did so."
+        },
+        {
+          "pk": 832901,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 21,
+          "text": "Then they said to one another, 'Truly we are guilty concerning our brother, because we saw the distress of his soul when he pleaded with us, yet we would not listen; therefore this distress has come upon us.'"
+        },
+        {
+          "pk": 832902,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 22,
+          "text": "Reuben answered them, saying, 'Did I not tell you, 'Do not sin against the boy'; and you would not listen? Now comes the reckoning for his blood.'"
+        },
+        {
+          "pk": 832903,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 23,
+          "text": "They did not know, however, that Joseph understood, for there was an interpreter between them."
+        },
+        {
+          "pk": 832904,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 24,
+          "text": "He turned away from them and wept. But when he returned to them and spoke to them, he took Simeon from them and bound him before their eyes."
+        },
+        {
+          "pk": 832905,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 25,
+          "text": "Then Joseph gave orders to fill their bags with grain and to restore every man's money in his sack, and to give them provisions for the journey. And thus it was done for them."
+        },
+        {
+          "pk": 832906,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 26,
+          "text": "So they loaded their donkeys with their grain and departed from there."
+        },
+        {
+          "pk": 832907,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 27,
+          "text": "As one [of them] opened his sack to give his donkey fodder at the lodging place, he saw his money; and behold, it was in the mouth of his sack."
+        },
+        {
+          "pk": 832908,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 28,
+          "text": "Then he said to his brothers, 'My money has been returned, and behold, it is even in my sack.' And their hearts sank, and they [turned] trembling to one another, saying, 'What is this that God has done to us?'"
+        },
+        {
+          "pk": 832909,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 29,
+          "text": "When they came to their father Jacob in the land of Canaan, they told him all that had happened to them, saying,"
+        },
+        {
+          "pk": 832910,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 30,
+          "text": "'The man, the lord of the land, spoke harshly with us, and took us for spies of the country."
+        },
+        {
+          "pk": 832911,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 31,
+          "text": "'But we said to him, 'We are honest men; we are not spies."
+        },
+        {
+          "pk": 832912,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 32,
+          "text": "'We are twelve brothers, sons of our father; one is no longer alive, and the youngest is with our father today in the land of Canaan.'"
+        },
+        {
+          "pk": 832913,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 33,
+          "text": "'The man, the lord of the land, said to us, 'By this I will know that you are honest men: leave one of your brothers with me and take [grain for] the famine of your households, and go."
+        },
+        {
+          "pk": 832914,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 34,
+          "text": "'But bring your youngest brother to me that I may know that you are not spies, but honest men. I will give your brother to you, and you may trade in the land.''"
+        },
+        {
+          "pk": 832915,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 35,
+          "text": "Now it came about as they were emptying their sacks, that behold, every man's bundle of money [was] in his sack; and when they and their father saw their bundles of money, they were dismayed."
+        },
+        {
+          "pk": 832916,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 36,
+          "text": "Their father Jacob said to them, 'You have bereaved me of my children: Joseph is no more, and Simeon is no more, and you would take Benjamin; all these things are against me.'"
+        },
+        {
+          "pk": 832917,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 37,
+          "text": "Then Reuben spoke to his father, saying, 'You may put my two sons to death if I do not bring him [back] to you; put him in my care, and I will return him to you.'"
+        },
+        {
+          "pk": 832918,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 42,
+          "verse": 38,
+          "text": "But Jacob said, 'My son shall not go down with you; for his brother is dead, and he alone is left. If harm should befall him on the journey you are taking, then you will bring my gray hair down to Sheol in sorrow.'"
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verses": [
+        {
+          "pk": 832919,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 1,
+          "text": "Now the famine was severe in the land."
+        },
+        {
+          "pk": 832920,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 2,
+          "text": "So it came about when they had finished eating the grain which they had brought from Egypt, that their father said to them, 'Go back, buy us a little food.'"
+        },
+        {
+          "pk": 832921,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 3,
+          "text": "Judah spoke to him, however, saying, 'The man solemnly warned us, 'You shall not see my face unless your brother is with you.'"
+        },
+        {
+          "pk": 832922,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 4,
+          "text": "'If you send our brother with us, we will go down and buy you food."
+        },
+        {
+          "pk": 832923,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 5,
+          "text": "'But if you do not send [him], we will not go down; for the man said to us, 'You will not see my face unless your brother is with you.''"
+        },
+        {
+          "pk": 832924,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 6,
+          "text": "Then Israel said, 'Why did you treat me so badly by telling the man whether you still had [another] brother?'"
+        },
+        {
+          "pk": 832925,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 7,
+          "text": "But they said, 'The man questioned particularly about us and our relatives, saying, 'Is your father still alive? Have you [another] brother?' So we answered his questions. Could we possibly know that he would say, 'Bring your brother down '?'"
+        },
+        {
+          "pk": 832926,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 8,
+          "text": "Judah said to his father Israel, 'Send the lad with me and we will arise and go, that we may live and not die, we as well as you and our little ones."
+        },
+        {
+          "pk": 832927,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 9,
+          "text": "'I myself will be surety for him; you may hold me responsible for him. If I do not bring him [back] to you and set him before you, then let me bear the blame before you forever."
+        },
+        {
+          "pk": 832928,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 10,
+          "text": "'For if we had not delayed, surely by now we could have returned twice.'"
+        },
+        {
+          "pk": 832929,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 11,
+          "text": "Then their father Israel said to them, 'If [it must be] so, then do this: take some of the best products of the land in your bags, and carry down to the man as a present, a little balm and a little honey, aromatic gum and myrrh, pistachio nuts and almonds."
+        },
+        {
+          "pk": 832930,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 12,
+          "text": "'Take double [the] money in your hand, and take back in your hand the money that was returned in the mouth of your sacks; perhaps it was a mistake."
+        },
+        {
+          "pk": 832931,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 13,
+          "text": "'Take your brother also, and arise, return to the man;"
+        },
+        {
+          "pk": 832932,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 14,
+          "text": "and may God Almighty grant you compassion in the sight of the man, so that he will release to you your other brother and Benjamin. And as for me, if I am bereaved of my children, I am bereaved.'"
+        },
+        {
+          "pk": 832933,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 15,
+          "text": "So the men took this present, and they took double [the] money in their hand, and Benjamin; then they arose and went down to Egypt and stood before Joseph."
+        },
+        {
+          "pk": 832934,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 16,
+          "text": "When Joseph saw Benjamin with them, he said to his house steward, 'Bring the men into the house, and slay an animal and make ready; for the men are to dine with me at noon.'"
+        },
+        {
+          "pk": 832935,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 17,
+          "text": "So the man did as Joseph said, and brought the men to Joseph's house."
+        },
+        {
+          "pk": 832936,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 18,
+          "text": "Now the men were afraid, because they were brought to Joseph's house; and they said, '[It is] because of the money that was returned in our sacks the first time that we are being brought in, that he may seek occasion against us and fall upon us, and take us for slaves with our donkeys.'"
+        },
+        {
+          "pk": 832937,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 19,
+          "text": "So they came near to Joseph's house steward, and spoke to him at the entrance of the house,"
+        },
+        {
+          "pk": 832938,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 20,
+          "text": "and said, 'Oh, my lord, we indeed came down the first time to buy food,"
+        },
+        {
+          "pk": 832939,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 21,
+          "text": "and it came about when we came to the lodging place, that we opened our sacks, and behold, each man's money was in the mouth of his sack, our money in full. So we have brought it back in our hand."
+        },
+        {
+          "pk": 832940,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 22,
+          "text": "'We have also brought down other money in our hand to buy food; we do not know who put our money in our sacks.'"
+        },
+        {
+          "pk": 832941,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 23,
+          "text": "He said, 'Be at ease, do not be afraid. Your God and the God of your father has given you treasure in your sacks; I had your money.' Then he brought Simeon out to them."
+        },
+        {
+          "pk": 832942,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 24,
+          "text": "Then the man brought the men into Joseph's house and gave them water, and they washed their feet; and he gave their donkeys fodder."
+        },
+        {
+          "pk": 832943,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 25,
+          "text": "So they prepared the present for Joseph's coming at noon; for they had heard that they were to eat a meal there."
+        },
+        {
+          "pk": 832944,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 26,
+          "text": "When Joseph came home, they brought into the house to him the present which was in their hand and bowed to the ground before him."
+        },
+        {
+          "pk": 832945,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 27,
+          "text": "Then he asked them about their welfare, and said, 'Is your old father well, of whom you spoke? Is he still alive?'"
+        },
+        {
+          "pk": 832946,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 28,
+          "text": "They said, 'Your servant our father is well; he is still alive.' They bowed down in homage."
+        },
+        {
+          "pk": 832947,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 29,
+          "text": "As he lifted his eyes and saw his brother Benjamin, his mother's son, he said, 'Is this your youngest brother, of whom you spoke to me?' And he said, 'May God be gracious to you, my son.'"
+        },
+        {
+          "pk": 832948,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 30,
+          "text": "Joseph hurried [out] for he was deeply stirred over his brother, and he sought [a place] to weep; and he entered his chamber and wept there."
+        },
+        {
+          "pk": 832949,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 31,
+          "text": "Then he washed his face and came out; and he controlled himself and said, 'Serve the meal.'"
+        },
+        {
+          "pk": 832950,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 32,
+          "text": "So they served him by himself, and them by themselves, and the Egyptians who ate with him by themselves, because the Egyptians could not eat bread with the Hebrews, for that is loathsome to the Egyptians."
+        },
+        {
+          "pk": 832951,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 33,
+          "text": "Now they were seated before him, the firstborn according to his birthright and the youngest according to his youth, and the men looked at one another in astonishment."
+        },
+        {
+          "pk": 832952,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 43,
+          "verse": 34,
+          "text": "He took portions to them from his own table, but Benjamin's portion was five times as much as any of theirs. So they feasted and drank freely with him."
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "verses": [
+        {
+          "pk": 832953,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 1,
+          "text": "Then he commanded his house steward, saying, 'Fill the men's sacks with food, as much as they can carry, and put each man's money in the mouth of his sack."
+        },
+        {
+          "pk": 832954,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 2,
+          "text": "'Put my cup, the silver cup, in the mouth of the sack of the youngest, and his money for the grain.' And he did as Joseph had told [him]."
+        },
+        {
+          "pk": 832955,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 3,
+          "text": "As soon as it was light, the men were sent away, they with their donkeys."
+        },
+        {
+          "pk": 832956,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 4,
+          "text": "They had [just] gone out of the city, [and] were not far off, when Joseph said to his house steward, 'Up, follow the men; and when you overtake them, say to them, 'Why have you repaid evil for good?"
+        },
+        {
+          "pk": 832957,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 5,
+          "text": "'Is not this the one from which my lord drinks and which he indeed uses for divination? You have done wrong in doing this.''"
+        },
+        {
+          "pk": 832958,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 6,
+          "text": "So he overtook them and spoke these words to them."
+        },
+        {
+          "pk": 832959,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 7,
+          "text": "They said to him, 'Why does my lord speak such words as these? Far be it from your servants to do such a thing."
+        },
+        {
+          "pk": 832960,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 8,
+          "text": "'Behold, the money which we found in the mouth of our sacks we have brought back to you from the land of Canaan. How then could we steal silver or gold from your lord's house?"
+        },
+        {
+          "pk": 832961,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 9,
+          "text": "'With whomever of your servants it is found, let him die, and we also will be my lord's slaves.'"
+        },
+        {
+          "pk": 832962,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 10,
+          "text": "So he said, 'Now let it also be according to your words; he with whom it is found shall be my slave, and [the rest of] you shall be innocent.'"
+        },
+        {
+          "pk": 832963,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 11,
+          "text": "Then they hurried, each man lowered his sack to the ground, and each man opened his sack."
+        },
+        {
+          "pk": 832964,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 12,
+          "text": "He searched, beginning with the oldest and ending with the youngest, and the cup was found in Benjamin's sack."
+        },
+        {
+          "pk": 832965,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 13,
+          "text": "Then they tore their clothes, and when each man loaded his donkey, they returned to the city."
+        },
+        {
+          "pk": 832966,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 14,
+          "text": "When Judah and his brothers came to Joseph's house, he was still there, and they fell to the ground before him."
+        },
+        {
+          "pk": 832967,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 15,
+          "text": "Joseph said to them, 'What is this deed that you have done? Do you not know that such a man as I can indeed practice divination?'"
+        },
+        {
+          "pk": 832968,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 16,
+          "text": "So Judah said, 'What can we say to my lord? What can we speak? And how can we justify ourselves? God has found out the iniquity of your servants; behold, we are my lord's slaves, both we and the one in whose possession the cup has been found.'"
+        },
+        {
+          "pk": 832969,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 17,
+          "text": "But he said, 'Far be it from me to do this. The man in whose possession the cup has been found, he shall be my slave; but as for you, go up in peace to your father.'"
+        },
+        {
+          "pk": 832970,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 18,
+          "text": "Then Judah approached him, and said, 'Oh my lord, may your servant please speak a word in my lord's ears, and do not be angry with your servant; for you are equal to Pharaoh."
+        },
+        {
+          "pk": 832971,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 19,
+          "text": "'My lord asked his servants, saying, 'Have you a father or a brother?'"
+        },
+        {
+          "pk": 832972,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 20,
+          "text": "'We said to my lord, 'We have an old father and a little child of [his] old age. Now his brother is dead, so he alone is left of his mother, and his father loves him.'"
+        },
+        {
+          "pk": 832973,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 21,
+          "text": "'Then you said to your servants, 'Bring him down to me that I may set my eyes on him.'"
+        },
+        {
+          "pk": 832974,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 22,
+          "text": "'But we said to my lord, 'The lad cannot leave his father, for if he should leave his father, his father would die.'"
+        },
+        {
+          "pk": 832975,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 23,
+          "text": "'You said to your servants, however, 'Unless your youngest brother comes down with you, you will not see my face again.'"
+        },
+        {
+          "pk": 832976,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 24,
+          "text": "'Thus it came about when we went up to your servant my father, we told him the words of my lord."
+        },
+        {
+          "pk": 832977,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 25,
+          "text": "'Our father said, 'Go back, buy us a little food.'"
+        },
+        {
+          "pk": 832978,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 26,
+          "text": "'But we said, 'We cannot go down. If our youngest brother is with us, then we will go down; for we cannot see the man's face unless our youngest brother is with us.'"
+        },
+        {
+          "pk": 832979,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 27,
+          "text": "'Your servant my father said to us, 'You know that my wife bore me two sons;"
+        },
+        {
+          "pk": 832980,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 28,
+          "text": "and the one went out from me, and I said, 'Surely he is torn in pieces,' and I have not seen him since."
+        },
+        {
+          "pk": 832981,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 29,
+          "text": "'If you take this one also from me, and harm befalls him, you will bring my gray hair down to Sheol in sorrow.'"
+        },
+        {
+          "pk": 832982,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 30,
+          "text": "'Now, therefore, when I come to your servant my father, and the lad is not with us, since his life is bound up in the lad's life,"
+        },
+        {
+          "pk": 832983,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 31,
+          "text": "when he sees that the lad is not [with us], he will die. Thus your servants will bring the gray hair of your servant our father down to Sheol in sorrow."
+        },
+        {
+          "pk": 832984,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 32,
+          "text": "'For your servant became surety for the lad to my father, saying, 'If I do not bring him [back] to you, then let me bear the blame before my father forever.'"
+        },
+        {
+          "pk": 832985,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 33,
+          "text": "'Now, therefore, please let your servant remain instead of the lad a slave to my lord, and let the lad go up with his brothers."
+        },
+        {
+          "pk": 832986,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 44,
+          "verse": 34,
+          "text": "'For how shall I go up to my father if the lad is not with me-- for fear that I see the evil that would overtake my father?'"
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "verses": [
+        {
+          "pk": 832987,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 1,
+          "text": "Then Joseph could not control himself before all those who stood by him, and he cried, 'Have everyone go out from me.' So there was no man with him when Joseph made himself known to his brothers."
+        },
+        {
+          "pk": 832988,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 2,
+          "text": "He wept so loudly that the Egyptians heard [it], and the household of Pharaoh heard [of it]."
+        },
+        {
+          "pk": 832989,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 3,
+          "text": "Then Joseph said to his brothers, 'I am Joseph! Is my father still alive?' But his brothers could not answer him, for they were dismayed at his presence."
+        },
+        {
+          "pk": 832990,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 4,
+          "text": "Then Joseph said to his brothers, 'Please come closer to me.' And they came closer. And he said, 'I am your brother Joseph, whom you sold into Egypt."
+        },
+        {
+          "pk": 832991,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 5,
+          "text": "'Now do not be grieved or angry with yourselves, because you sold me here, for God sent me before you to preserve life."
+        },
+        {
+          "pk": 832992,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 6,
+          "text": "'For the famine [has been] in the land these two years, and there are still five years in which there will be neither plowing nor harvesting."
+        },
+        {
+          "pk": 832993,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 7,
+          "text": "'God sent me before you to preserve for you a remnant in the earth, and to keep you alive by a great deliverance."
+        },
+        {
+          "pk": 832994,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 8,
+          "text": "'Now, therefore, it was not you who sent me here, but God; and He has made me a father to Pharaoh and lord of all his household and ruler over all the land of Egypt."
+        },
+        {
+          "pk": 832995,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 9,
+          "text": "'Hurry and go up to my father, and say to him, 'Thus says your son Joseph, 'God has made me lord of all Egypt; come down to me, do not delay."
+        },
+        {
+          "pk": 832996,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 10,
+          "text": "'You shall live in the land of Goshen, and you shall be near me, you and your children and your children's children and your flocks and your herds and all that you have."
+        },
+        {
+          "pk": 832997,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 11,
+          "text": "'There I will also provide for you, for there are still five years of famine [to come], and you and your household and all that you have would be impoverished.''"
+        },
+        {
+          "pk": 832998,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 12,
+          "text": "'Behold, your eyes see, and the eyes of my brother Benjamin [see], that it is my mouth which is speaking to you."
+        },
+        {
+          "pk": 832999,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 13,
+          "text": "'Now you must tell my father of all my splendor in Egypt, and all that you have seen; and you must hurry and bring my father down here.'"
+        },
+        {
+          "pk": 833000,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 14,
+          "text": "Then he fell on his brother Benjamin's neck and wept, and Benjamin wept on his neck."
+        },
+        {
+          "pk": 833001,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 15,
+          "text": "He kissed all his brothers and wept on them, and afterward his brothers talked with him."
+        },
+        {
+          "pk": 833002,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 16,
+          "text": "Now when the news was heard in Pharaoh's house that Joseph's brothers had come, it pleased Pharaoh and his servants."
+        },
+        {
+          "pk": 833003,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 17,
+          "text": "Then Pharaoh said to Joseph, 'Say to your brothers, 'Do this: load your beasts and go to the land of Canaan,"
+        },
+        {
+          "pk": 833004,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 18,
+          "text": "and take your father and your households and come to me, and I will give you the best of the land of Egypt and you will eat the fat of the land.'"
+        },
+        {
+          "pk": 833005,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 19,
+          "text": "'Now you are ordered, 'Do this: take wagons from the land of Egypt for your little ones and for your wives, and bring your father and come."
+        },
+        {
+          "pk": 833006,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 20,
+          "text": "'Do not concern yourselves with your goods, for the best of all the land of Egypt is yours.''"
+        },
+        {
+          "pk": 833007,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 21,
+          "text": "Then the sons of Israel did so; and Joseph gave them wagons according to the command of Pharaoh, and gave them provisions for the journey."
+        },
+        {
+          "pk": 833008,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 22,
+          "text": "To each of them he gave changes of garments, but to Benjamin he gave three hundred [pieces of] silver and five changes of garments."
+        },
+        {
+          "pk": 833009,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 23,
+          "text": "To his father he sent as follows: ten donkeys loaded with the best things of Egypt, and ten female donkeys loaded with grain and bread and sustenance for his father on the journey."
+        },
+        {
+          "pk": 833010,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 24,
+          "text": "So he sent his brothers away, and as they departed, he said to them, 'Do not quarrel on the journey.'"
+        },
+        {
+          "pk": 833011,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 25,
+          "text": "Then they went up from Egypt, and came to the land of Canaan to their father Jacob."
+        },
+        {
+          "pk": 833012,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 26,
+          "text": "They told him, saying, 'Joseph is still alive, and indeed he is ruler over all the land of Egypt.' But he was stunned, for he did not believe them."
+        },
+        {
+          "pk": 833013,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 27,
+          "text": "When they told him all the words of Joseph that he had spoken to them, and when he saw the wagons that Joseph had sent to carry him, the spirit of their father Jacob revived."
+        },
+        {
+          "pk": 833014,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 45,
+          "verse": 28,
+          "text": "Then Israel said, 'It is enough; my son Joseph is still alive. I will go and see him before I die.'"
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "verses": [
+        {
+          "pk": 833015,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 1,
+          "text": "So Israel set out with all that he had, and came to Beersheba, and offered sacrifices to the God of his father Isaac."
+        },
+        {
+          "pk": 833016,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 2,
+          "text": "God spoke to Israel in visions of the night and said, 'Jacob, Jacob.' And he said, 'Here I am.'"
+        },
+        {
+          "pk": 833017,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 3,
+          "text": "He said, 'I am God, the God of your father; do not be afraid to go down to Egypt, for I will make you a great nation there."
+        },
+        {
+          "pk": 833018,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 4,
+          "text": "'I will go down with you to Egypt, and I will also surely bring you up again; and Joseph will close your eyes.'"
+        },
+        {
+          "pk": 833019,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 5,
+          "text": "Then Jacob arose from Beersheba; and the sons of Israel carried their father Jacob and their little ones and their wives in the wagons which Pharaoh had sent to carry him."
+        },
+        {
+          "pk": 833020,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 6,
+          "text": "They took their livestock and their property, which they had acquired in the land of Canaan, and came to Egypt, Jacob and all his descendants with him:"
+        },
+        {
+          "pk": 833021,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 7,
+          "text": "his sons and his grandsons with him, his daughters and his granddaughters, and all his descendants he brought with him to Egypt."
+        },
+        {
+          "pk": 833022,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 8,
+          "text": "Now these are the names of the sons of Israel, Jacob and his sons, who went to Egypt: Reuben, Jacob's firstborn."
+        },
+        {
+          "pk": 833023,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 9,
+          "text": "The sons of Reuben: Hanoch and Pallu and Hezron and Carmi."
+        },
+        {
+          "pk": 833024,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 10,
+          "text": "The sons of Simeon: Jemuel and Jamin and Ohad and Jachin and Zohar and Shaul the son of a Canaanite woman."
+        },
+        {
+          "pk": 833025,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 11,
+          "text": "The sons of Levi: Gershon, Kohath, and Merari."
+        },
+        {
+          "pk": 833026,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 12,
+          "text": "The sons of Judah: Er and Onan and Shelah and Perez and Zerah (but Er and Onan died in the land of Canaan). And the sons of Perez were Hezron and Hamul."
+        },
+        {
+          "pk": 833027,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 13,
+          "text": "The sons of Issachar: Tola and Puvvah and Iob and Shimron."
+        },
+        {
+          "pk": 833028,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 14,
+          "text": "The sons of Zebulun: Sered and Elon and Jahleel."
+        },
+        {
+          "pk": 833029,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 15,
+          "text": "These are the sons of Leah, whom she bore to Jacob in Paddan-aram, with his daughter Dinah; all his sons and his daughters [numbered] thirty-three."
+        },
+        {
+          "pk": 833030,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 16,
+          "text": "The sons of Gad: Ziphion and Haggi, Shuni and Ezbon, Eri and Arodi and Areli."
+        },
+        {
+          "pk": 833031,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 17,
+          "text": "The sons of Asher: Imnah and Ishvah and Ishvi and Beriah and their sister Serah. And the sons of Beriah: Heber and Malchiel."
+        },
+        {
+          "pk": 833032,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 18,
+          "text": "These are the sons of Zilpah, whom Laban gave to his daughter Leah; and she bore to Jacob these sixteen persons."
+        },
+        {
+          "pk": 833033,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 19,
+          "text": "The sons of Jacob's wife Rachel: Joseph and Benjamin."
+        },
+        {
+          "pk": 833034,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 20,
+          "text": "Now to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera, priest of On, bore to him."
+        },
+        {
+          "pk": 833035,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 21,
+          "text": "The sons of Benjamin: Bela and Becher and Ashbel, Gera and Naaman, Ehi and Rosh, Muppim and Huppim and Ard."
+        },
+        {
+          "pk": 833036,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 22,
+          "text": "These are the sons of Rachel, who were born to Jacob; [there were] fourteen persons in all."
+        },
+        {
+          "pk": 833037,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 23,
+          "text": "The sons of Dan: Hushim."
+        },
+        {
+          "pk": 833038,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 24,
+          "text": "The sons of Naphtali: Jahzeel and Guni and Jezer and Shillem."
+        },
+        {
+          "pk": 833039,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 25,
+          "text": "These are the sons of Bilhah, whom Laban gave to his daughter Rachel, and she bore these to Jacob; [there were] seven persons in all."
+        },
+        {
+          "pk": 833040,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 26,
+          "text": "All the persons belonging to Jacob, who came to Egypt, his direct descendants, not including the wives of Jacob's sons, [were] sixty-six persons in all,"
+        },
+        {
+          "pk": 833041,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 27,
+          "text": "and the sons of Joseph, who were born to him in Egypt were two; all the persons of the house of Jacob, who came to Egypt, [were] seventy."
+        },
+        {
+          "pk": 833042,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 28,
+          "text": "Now he sent Judah before him to Joseph, to point out [the way] before him to Goshen; and they came into the land of Goshen."
+        },
+        {
+          "pk": 833043,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 29,
+          "text": "Joseph prepared his chariot and went up to Goshen to meet his father Israel; as soon as he appeared before him, he fell on his neck and wept on his neck a long time."
+        },
+        {
+          "pk": 833044,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 30,
+          "text": "Then Israel said to Joseph, 'Now let me die, since I have seen your face, that you are still alive.'"
+        },
+        {
+          "pk": 833045,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 31,
+          "text": "Joseph said to his brothers and to his father's household, 'I will go up and tell Pharaoh, and will say to him, 'My brothers and my father's household, who [were] in the land of Canaan, have come to me;"
+        },
+        {
+          "pk": 833046,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 32,
+          "text": "and the men are shepherds, for they have been keepers of livestock; and they have brought their flocks and their herds and all that they have.'"
+        },
+        {
+          "pk": 833047,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 33,
+          "text": "'When Pharaoh calls you and says, 'What is your occupation?'"
+        },
+        {
+          "pk": 833048,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 46,
+          "verse": 34,
+          "text": "you shall say, 'Your servants have been keepers of livestock from our youth even until now, both we and our fathers,' that you may live in the land of Goshen; for every shepherd is loathsome to the Egyptians.'"
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "verses": [
+        {
+          "pk": 833049,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 1,
+          "text": "Then Joseph went in and told Pharaoh, and said, 'My father and my brothers and their flocks and their herds and all that they have, have come out of the land of Canaan; and behold, they are in the land of Goshen.'"
+        },
+        {
+          "pk": 833050,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 2,
+          "text": "He took five men from among his brothers and presented them to Pharaoh."
+        },
+        {
+          "pk": 833051,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 3,
+          "text": "Then Pharaoh said to his brothers, 'What is your occupation?' So they said to Pharaoh, 'Your servants are shepherds, both we and our fathers.'"
+        },
+        {
+          "pk": 833052,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 4,
+          "text": "They said to Pharaoh, 'We have come to sojourn in the land, for there is no pasture for your servants' flocks, for the famine is severe in the land of Canaan. Now, therefore, please let your servants live in the land of Goshen.'"
+        },
+        {
+          "pk": 833053,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 5,
+          "text": "Then Pharaoh said to Joseph, 'Your father and your brothers have come to you."
+        },
+        {
+          "pk": 833054,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 6,
+          "text": "'The land of Egypt is at your disposal; settle your father and your brothers in the best of the land, let them live in the land of Goshen; and if you know any capable men among them, then put them in charge of my livestock.'"
+        },
+        {
+          "pk": 833055,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 7,
+          "text": "Then Joseph brought his father Jacob and presented him to Pharaoh; and Jacob blessed Pharaoh."
+        },
+        {
+          "pk": 833056,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 8,
+          "text": "Pharaoh said to Jacob, 'How many years have you lived?'"
+        },
+        {
+          "pk": 833057,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 9,
+          "text": "So Jacob said to Pharaoh, 'The years of my sojourning are one hundred and thirty; few and unpleasant have been the years of my life, nor have they attained the years that my fathers lived during the days of their sojourning.'"
+        },
+        {
+          "pk": 833058,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 10,
+          "text": "And Jacob blessed Pharaoh, and went out from his presence."
+        },
+        {
+          "pk": 833059,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 11,
+          "text": "So Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had ordered."
+        },
+        {
+          "pk": 833060,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 12,
+          "text": "Joseph provided his father and his brothers and all his father's household with food, according to their little ones."
+        },
+        {
+          "pk": 833061,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 13,
+          "text": "Now there was no food in all the land, because the famine was very severe, so that the land of Egypt and the land of Canaan languished because of the famine."
+        },
+        {
+          "pk": 833062,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 14,
+          "text": "Joseph gathered all the money that was found in the land of Egypt and in the land of Canaan for the grain which they bought, and Joseph brought the money into Pharaoh's house."
+        },
+        {
+          "pk": 833063,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 15,
+          "text": "When the money was all spent in the land of Egypt and in the land of Canaan, all the Egyptians came to Joseph and said, 'Give us food, for why should we die in your presence? For [our] money is gone.'"
+        },
+        {
+          "pk": 833064,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 16,
+          "text": "Then Joseph said, 'Give up your livestock, and I will give you [food] for your livestock, since [your] money is gone.'"
+        },
+        {
+          "pk": 833065,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 17,
+          "text": "So they brought their livestock to Joseph, and Joseph gave them food in exchange for the horses and the flocks and the herds and the donkeys; and he fed them with food in exchange for all their livestock that year."
+        },
+        {
+          "pk": 833066,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 18,
+          "text": "When that year was ended, they came to him the next year and said to him, 'We will not hide from my lord that our money is all spent, and the cattle are my lord's. There is nothing left for my lord except our bodies and our lands."
+        },
+        {
+          "pk": 833067,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 19,
+          "text": "'Why should we die before your eyes, both we and our land? Buy us and our land for food, and we and our land will be slaves to Pharaoh. So give us seed, that we may live and not die, and that the land may not be desolate.'"
+        },
+        {
+          "pk": 833068,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 20,
+          "text": "So Joseph bought all the land of Egypt for Pharaoh, for every Egyptian sold his field, because the famine was severe upon them. Thus the land became Pharaoh's."
+        },
+        {
+          "pk": 833069,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 21,
+          "text": "As for the people, he removed them to the cities from one end of Egypt's border to the other."
+        },
+        {
+          "pk": 833070,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 22,
+          "text": "Only the land of the priests he did not buy, for the priests had an allotment from Pharaoh, and they lived off the allotment which Pharaoh gave them. Therefore, they did not sell their land."
+        },
+        {
+          "pk": 833071,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 23,
+          "text": "Then Joseph said to the people, 'Behold, I have today bought you and your land for Pharaoh; now, [here] is seed for you, and you may sow the land."
+        },
+        {
+          "pk": 833072,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 24,
+          "text": "'At the harvest you shall give a fifth to Pharaoh, and four-fifths shall be your own for seed of the field and for your food and for those of your households and as food for your little ones.'"
+        },
+        {
+          "pk": 833073,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 25,
+          "text": "So they said, 'You have saved our lives! Let us find favor in the sight of my lord, and we will be Pharaoh's slaves.'"
+        },
+        {
+          "pk": 833074,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 26,
+          "text": "Joseph made it a statute concerning the land of Egypt [valid] to this day, that Pharaoh should have the fifth; only the land of the priests did not become Pharaoh's."
+        },
+        {
+          "pk": 833075,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 27,
+          "text": "Now Israel lived in the land of Egypt, in Goshen, and they acquired property in it and were fruitful and became very numerous."
+        },
+        {
+          "pk": 833076,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 28,
+          "text": "Jacob lived in the land of Egypt seventeen years; so the length of Jacob's life was one hundred and forty-seven years."
+        },
+        {
+          "pk": 833077,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 29,
+          "text": "When the time for Israel to die drew near, he called his son Joseph and said to him, 'Please, if I have found favor in your sight, place now your hand under my thigh and deal with me in kindness and faithfulness. Please do not bury me in Egypt,"
+        },
+        {
+          "pk": 833078,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 30,
+          "text": "but when I lie down with my fathers, you shall carry me out of Egypt and bury me in their burial place.' And he said, 'I will do as you have said.'"
+        },
+        {
+          "pk": 833079,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 47,
+          "verse": 31,
+          "text": "He said, 'Swear to me.' So he swore to him. Then Israel bowed [in worship] at the head of the bed."
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "verses": [
+        {
+          "pk": 833080,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 1,
+          "text": "Now it came about after these things that Joseph was told, 'Behold, your father is sick.' So he took his two sons Manasseh and Ephraim with him."
+        },
+        {
+          "pk": 833081,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 2,
+          "text": "When it was told to Jacob, 'Behold, your son Joseph has come to you,' Israel collected his strength and sat up in the bed."
+        },
+        {
+          "pk": 833082,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 3,
+          "text": "Then Jacob said to Joseph, 'God Almighty appeared to me at Luz in the land of Canaan and blessed me,"
+        },
+        {
+          "pk": 833083,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 4,
+          "text": "and He said to me, 'Behold, I will make you fruitful and numerous, and I will make you a company of peoples, and will give this land to your descendants after you for an everlasting possession.'"
+        },
+        {
+          "pk": 833084,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 5,
+          "text": "'Now your two sons, who were born to you in the land of Egypt before I came to you in Egypt, are mine; Ephraim and Manasseh shall be mine, as Reuben and Simeon are."
+        },
+        {
+          "pk": 833085,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 6,
+          "text": "'But your offspring that have been born after them shall be yours; they shall be called by the names of their brothers in their inheritance."
+        },
+        {
+          "pk": 833086,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 7,
+          "text": "'Now as for me, when I came from Paddan, Rachel died, to my sorrow, in the land of Canaan on the journey, when there was still some distance to go to Ephrath; and I buried her there on the way to Ephrath (that is, Bethlehem).'"
+        },
+        {
+          "pk": 833087,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 8,
+          "text": "When Israel saw Joseph's sons, he said, 'Who are these?'"
+        },
+        {
+          "pk": 833088,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 9,
+          "text": "Joseph said to his father, 'They are my sons, whom God has given me here.' So he said, 'Bring them to me, please, that I may bless them.'"
+        },
+        {
+          "pk": 833089,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 10,
+          "text": "Now the eyes of Israel were [so] dim from age [that] he could not see. Then Joseph brought them close to him, and he kissed them and embraced them."
+        },
+        {
+          "pk": 833090,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 11,
+          "text": "Israel said to Joseph, 'I never expected to see your face, and behold, God has let me see your children as well.'"
+        },
+        {
+          "pk": 833091,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 12,
+          "text": "Then Joseph took them from his knees, and bowed with his face to the ground."
+        },
+        {
+          "pk": 833092,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 13,
+          "text": "Joseph took them both, Ephraim with his right hand toward Israel's left, and Manasseh with his left hand toward Israel's right, and brought them close to him."
+        },
+        {
+          "pk": 833093,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 14,
+          "text": "But Israel stretched out his right hand and laid it on the head of Ephraim, who was the younger, and his left hand on Manasseh's head, crossing his hands, although Manasseh was the firstborn."
+        },
+        {
+          "pk": 833094,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 15,
+          "text": "He blessed Joseph, and said, 'The God before whom my fathers Abraham and Isaac walked, The God who has been my shepherd all my life to this day,"
+        },
+        {
+          "pk": 833095,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 16,
+          "text": "The angel who has redeemed me from all evil, Bless the lads; And may my name live on in them, And the names of my fathers Abraham and Isaac; And may they grow into a multitude in the midst of the earth.'"
+        },
+        {
+          "pk": 833096,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 17,
+          "text": "When Joseph saw that his father laid his right hand on Ephraim's head, it displeased him; and he grasped his father's hand to remove it from Ephraim's head to Manasseh's head."
+        },
+        {
+          "pk": 833097,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 18,
+          "text": "Joseph said to his father, 'Not so, my father, for this one is the firstborn. Place your right hand on his head.'"
+        },
+        {
+          "pk": 833098,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 19,
+          "text": "But his father refused and said, 'I know, my son, I know; he also will become a people and he also will be great. However, his younger brother shall be greater than he, and his descendants shall become a multitude of nations.'"
+        },
+        {
+          "pk": 833099,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 20,
+          "text": "He blessed them that day, saying, 'By you Israel will pronounce blessing, saying, 'May God make you like Ephraim and Manasseh!'' Thus he put Ephraim before Manasseh."
+        },
+        {
+          "pk": 833100,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 21,
+          "text": "Then Israel said to Joseph, 'Behold, I am about to die, but God will be with you, and bring you back to the land of your fathers."
+        },
+        {
+          "pk": 833101,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 48,
+          "verse": 22,
+          "text": "'I give you one portion more than your brothers, which I took from the hand of the Amorite with my sword and my bow.'"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "verses": [
+        {
+          "pk": 833102,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 1,
+          "text": "Then Jacob summoned his sons and said, 'Assemble yourselves that I may tell you what will befall you in the days to come."
+        },
+        {
+          "pk": 833103,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 2,
+          "text": "'Gather together and hear, O sons of Jacob; And listen to Israel your father."
+        },
+        {
+          "pk": 833104,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 3,
+          "text": "'Reuben, you are my firstborn; My might and the beginning of my strength, Preeminent in dignity and preeminent in power."
+        },
+        {
+          "pk": 833105,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 4,
+          "text": "'Uncontrolled as water, you shall not have preeminence, Because you went up to your father's bed; Then you defiled [it]-- he went up to my couch."
+        },
+        {
+          "pk": 833106,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 5,
+          "text": "'Simeon and Levi are brothers; Their swords are implements of violence."
+        },
+        {
+          "pk": 833107,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 6,
+          "text": "'Let my soul not enter into their council; Let not my glory be united with their assembly; Because in their anger they slew men, And in their self-will they lamed oxen."
+        },
+        {
+          "pk": 833108,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 7,
+          "text": "'Cursed be their anger, for it is fierce; And their wrath, for it is cruel. I will disperse them in Jacob, And scatter them in Israel."
+        },
+        {
+          "pk": 833109,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 8,
+          "text": "'Judah, your brothers shall praise you; Your hand shall be on the neck of your enemies; Your father's sons shall bow down to you."
+        },
+        {
+          "pk": 833110,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 9,
+          "text": "'Judah is a lion's whelp; From the prey, my son, you have gone up. He couches, he lies down as a lion, And as a lion, who dares rouse him up?"
+        },
+        {
+          "pk": 833111,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 10,
+          "text": "'The scepter shall not depart from Judah, Nor the ruler's staff from between his feet, Until Shiloh comes, And to him [shall be] the obedience of the peoples."
+        },
+        {
+          "pk": 833112,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 11,
+          "text": "'He ties [his] foal to the vine, And his donkey's colt to the choice vine; He washes his garments in wine, And his robes in the blood of grapes."
+        },
+        {
+          "pk": 833113,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 12,
+          "text": "'His eyes are dull from wine, And his teeth white from milk."
+        },
+        {
+          "pk": 833114,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 13,
+          "text": "'Zebulun will dwell at the seashore; And he [shall be] a haven for ships, And his flank [shall be] toward Sidon."
+        },
+        {
+          "pk": 833115,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 14,
+          "text": "'Issachar is a strong donkey, Lying down between the sheepfolds."
+        },
+        {
+          "pk": 833116,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 15,
+          "text": "'When he saw that a resting place was good And that the land was pleasant, He bowed his shoulder to bear [burdens], And became a slave at forced labor."
+        },
+        {
+          "pk": 833117,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 16,
+          "text": "'Dan shall judge his people, As one of the tribes of Israel."
+        },
+        {
+          "pk": 833118,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 17,
+          "text": "'Dan shall be a serpent in the way, A horned snake in the path, That bites the horse's heels, So that his rider falls backward."
+        },
+        {
+          "pk": 833119,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 18,
+          "text": "'For Your salvation I wait, O LORD."
+        },
+        {
+          "pk": 833120,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 19,
+          "text": "'As for Gad, raiders shall raid him, But he will raid [at] their heels."
+        },
+        {
+          "pk": 833121,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 20,
+          "text": "'As for Asher, his food shall be rich, And he will yield royal dainties."
+        },
+        {
+          "pk": 833122,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 21,
+          "text": "'Naphtali is a doe let loose, He gives beautiful words."
+        },
+        {
+          "pk": 833123,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 22,
+          "text": "'Joseph is a fruitful bough, A fruitful bough by a spring; [Its] branches run over a wall."
+        },
+        {
+          "pk": 833124,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 23,
+          "text": "'The archers bitterly attacked him, And shot [at him] and harassed him;"
+        },
+        {
+          "pk": 833125,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 24,
+          "text": "But his bow remained firm, And his arms were agile, From the hands of the Mighty One of Jacob (From there is the Shepherd, the Stone of Israel),"
+        },
+        {
+          "pk": 833126,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 25,
+          "text": "From the God of your father who helps you, And by the Almighty who blesses you [With] blessings of heaven above, Blessings of the deep that lies beneath, Blessings of the breasts and of the womb."
+        },
+        {
+          "pk": 833127,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 26,
+          "text": "'The blessings of your father Have surpassed the blessings of my ancestors Up to the utmost bound of the everlasting hills; May they be on the head of Joseph, And on the crown of the head of the one distinguished among his brothers."
+        },
+        {
+          "pk": 833128,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 27,
+          "text": "'Benjamin is a ravenous wolf; In the morning he devours the prey, And in the evening he divides the spoil.'"
+        },
+        {
+          "pk": 833129,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 28,
+          "text": "All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them. He blessed them, every one with the blessing appropriate to him."
+        },
+        {
+          "pk": 833130,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 29,
+          "text": "Then he charged them and said to them, 'I am about to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,"
+        },
+        {
+          "pk": 833131,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 30,
+          "text": "in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought along with the field from Ephron the Hittite for a burial site."
+        },
+        {
+          "pk": 833132,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 31,
+          "text": "'There they buried Abraham and his wife Sarah, there they buried Isaac and his wife Rebekah, and there I buried Leah--"
+        },
+        {
+          "pk": 833133,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 32,
+          "text": "the field and the cave that is in it, purchased from the sons of Heth.'"
+        },
+        {
+          "pk": 833134,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 49,
+          "verse": 33,
+          "text": "When Jacob finished charging his sons, he drew his feet into the bed and breathed his last, and was gathered to his people."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verses": [
+        {
+          "pk": 833135,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 1,
+          "text": "Then Joseph fell on his father's face, and wept over him and kissed him."
+        },
+        {
+          "pk": 833136,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 2,
+          "text": "Joseph commanded his servants the physicians to embalm his father. So the physicians embalmed Israel."
+        },
+        {
+          "pk": 833137,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 3,
+          "text": "Now forty days were required for it, for such is the period required for embalming. And the Egyptians wept for him seventy days."
+        },
+        {
+          "pk": 833138,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 4,
+          "text": "When the days of mourning for him were past, Joseph spoke to the household of Pharaoh, saying, 'If now I have found favor in your sight, please speak to Pharaoh, saying,"
+        },
+        {
+          "pk": 833139,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 5,
+          "text": "'My father made me swear, saying, 'Behold, I am about to die; in my grave which I dug for myself in the land of Canaan, there you shall bury me.' Now therefore, please let me go up and bury my father; then I will return.''"
+        },
+        {
+          "pk": 833140,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 6,
+          "text": "Pharaoh said, 'Go up and bury your father, as he made you swear.'"
+        },
+        {
+          "pk": 833141,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 7,
+          "text": "So Joseph went up to bury his father, and with him went up all the servants of Pharaoh, the elders of his household and all the elders of the land of Egypt,"
+        },
+        {
+          "pk": 833142,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 8,
+          "text": "and all the household of Joseph and his brothers and his father's household; they left only their little ones and their flocks and their herds in the land of Goshen."
+        },
+        {
+          "pk": 833143,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 9,
+          "text": "There also went up with him both chariots and horsemen; and it was a very great company."
+        },
+        {
+          "pk": 833144,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 10,
+          "text": "When they came to the threshing floor of Atad, which is beyond the Jordan, they lamented there with a very great and sorrowful lamentation; and he observed seven days mourning for his father."
+        },
+        {
+          "pk": 833145,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 11,
+          "text": "Now when the inhabitants of the land, the Canaanites, saw the mourning at the threshing floor of Atad, they said, 'This is a grievous mourning for the Egyptians.' Therefore it was named Abel-mizraim, which is beyond the Jordan."
+        },
+        {
+          "pk": 833146,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 12,
+          "text": "Thus his sons did for him as he had charged them;"
+        },
+        {
+          "pk": 833147,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 13,
+          "text": "for his sons carried him to the land of Canaan and buried him in the cave of the field of Machpelah before Mamre, which Abraham had bought along with the field for a burial site from Ephron the Hittite."
+        },
+        {
+          "pk": 833148,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 14,
+          "text": "After he had buried his father, Joseph returned to Egypt, he and his brothers, and all who had gone up with him to bury his father."
+        },
+        {
+          "pk": 833149,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 15,
+          "text": "When Joseph's brothers saw that their father was dead, they said, 'What if Joseph bears a grudge against us and pays us back in full for all the wrong which we did to him!'"
+        },
+        {
+          "pk": 833150,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 16,
+          "text": "So they sent [a message] to Joseph, saying, 'Your father charged before he died, saying,"
+        },
+        {
+          "pk": 833151,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 17,
+          "text": "'Thus you shall say to Joseph, 'Please forgive, I beg you, the transgression of your brothers and their sin, for they did you wrong.'' And now, please forgive the transgression of the servants of the God of your father.' And Joseph wept when they spoke to him."
+        },
+        {
+          "pk": 833152,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 18,
+          "text": "Then his brothers also came and fell down before him and said, 'Behold, we are your servants.'"
+        },
+        {
+          "pk": 833153,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 19,
+          "text": "But Joseph said to them, 'Do not be afraid, for am I in God's place?"
+        },
+        {
+          "pk": 833154,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 20,
+          "text": "'As for you, you meant evil against me, [but] God meant it for good in order to bring about this present result, to preserve many people alive."
+        },
+        {
+          "pk": 833155,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 21,
+          "text": "'So therefore, do not be afraid; I will provide for you and your little ones.' So he comforted them and spoke kindly to them."
+        },
+        {
+          "pk": 833156,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 22,
+          "text": "Now Joseph stayed in Egypt, he and his father's household, and Joseph lived one hundred and ten years."
+        },
+        {
+          "pk": 833157,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 23,
+          "text": "Joseph saw the third generation of Ephraim's sons; also the sons of Machir, the son of Manasseh, were born on Joseph's knees."
+        },
+        {
+          "pk": 833158,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 24,
+          "text": "Joseph said to his brothers, 'I am about to die, but God will surely take care of you and bring you up from this land to the land which He promised on oath to Abraham, to Isaac and to Jacob.'"
+        },
+        {
+          "pk": 833159,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 25,
+          "text": "Then Joseph made the sons of Israel swear, saying, 'God will surely take care of you, and you shall carry my bones up from here.'"
+        },
+        {
+          "pk": 833160,
+          "translation": "NASB",
+          "book": 1,
+          "chapter": 50,
+          "verse": 26,
+          "text": "So Joseph died at the age of one hundred and ten years; and he was embalmed and placed in a coffin in Egypt."
+        }
+      ]
+    }
+  ]
+};

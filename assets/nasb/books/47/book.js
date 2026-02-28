@@ -1,0 +1,2128 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/47/book"] = {
+  "translation": "NASB",
+  "book": 47,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "pk": 860429,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, an apostle of Christ Jesus by the will of God, and Timothy [our] brother, To the church of God which is at Corinth with all the saints who are throughout Achaia:"
+        },
+        {
+          "pk": 860430,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 2,
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+        },
+        {
+          "pk": 860431,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 3,
+          "text": "Blessed [be] the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,"
+        },
+        {
+          "pk": 860432,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 4,
+          "text": "who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God."
+        },
+        {
+          "pk": 860433,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 5,
+          "text": "For just as the sufferings of Christ are ours in abundance, so also our comfort is abundant through Christ."
+        },
+        {
+          "pk": 860434,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 6,
+          "text": "But if we are afflicted, it is for your comfort and salvation; or if we are comforted, it is for your comfort, which is effective in the patient enduring of the same sufferings which we also suffer;"
+        },
+        {
+          "pk": 860435,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 7,
+          "text": "and our hope for you is firmly grounded, knowing that as you are sharers of our sufferings, so also you are [sharers] of our comfort."
+        },
+        {
+          "pk": 860436,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 8,
+          "text": "For we do not want you to be unaware, brethren, of our affliction which came [to us] in Asia, that we were burdened excessively, beyond our strength, so that we despaired even of life;"
+        },
+        {
+          "pk": 860437,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 9,
+          "text": "indeed, we had the sentence of death within ourselves so that we would not trust in ourselves, but in God who raises the dead;"
+        },
+        {
+          "pk": 860438,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 10,
+          "text": "who delivered us from so great a [peril of] death, and will deliver [us], He on whom we have set our hope. And He will yet deliver us,"
+        },
+        {
+          "pk": 860439,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 11,
+          "text": "you also joining in helping us through your prayers, so that thanks may be given by many persons on our behalf for the favor bestowed on us through [the prayers] [of] many."
+        },
+        {
+          "pk": 860440,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 12,
+          "text": "For our proud confidence is this: the testimony of our conscience, that in holiness and godly sincerity, not in fleshly wisdom but in the grace of God, we have conducted ourselves in the world, and especially toward you."
+        },
+        {
+          "pk": 860441,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 13,
+          "text": "For we write nothing else to you than what you read and understand, and I hope you will understand until the end;"
+        },
+        {
+          "pk": 860442,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 14,
+          "text": "just as you also partially did understand us, that we are your reason to be proud as you also are ours, in the day of our Lord Jesus."
+        },
+        {
+          "pk": 860443,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 15,
+          "text": "In this confidence I intended at first to come to you, so that you might twice receive a blessing;"
+        },
+        {
+          "pk": 860444,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 16,
+          "text": "that is, to pass your way into Macedonia, and again from Macedonia to come to you, and by you to be helped on my journey to Judea."
+        },
+        {
+          "pk": 860445,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 17,
+          "text": "Therefore, I was not vacillating when I intended to do this, was I? Or what I purpose, do I purpose according to the flesh, so that with me there will be yes, yes and no, no [at the same time]?"
+        },
+        {
+          "pk": 860446,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 18,
+          "text": "But as God is faithful, our word to you is not yes and no."
+        },
+        {
+          "pk": 860447,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 19,
+          "text": "For the Son of God, Christ Jesus, who was preached among you by us-- by me and Silvanus and Timothy-- was not yes and no, but is yes in Him."
+        },
+        {
+          "pk": 860448,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 20,
+          "text": "For as many as are the promises of God, in Him they are yes; therefore also through Him is our Amen to the glory of God through us."
+        },
+        {
+          "pk": 860449,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 21,
+          "text": "Now He who establishes us with you in Christ and anointed us is God,"
+        },
+        {
+          "pk": 860450,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 22,
+          "text": "who also sealed us and gave [us] the Spirit in our hearts as a pledge."
+        },
+        {
+          "pk": 860451,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 23,
+          "text": "But I call God as witness to my soul, that to spare you I did not come again to Corinth."
+        },
+        {
+          "pk": 860452,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 1,
+          "verse": 24,
+          "text": "Not that we lord it over your faith, but are workers with you for your joy; for in your faith you are standing firm."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "pk": 860453,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 1,
+          "text": "But I determined this for my own sake, that I would not come to you in sorrow again."
+        },
+        {
+          "pk": 860454,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 2,
+          "text": "For if I cause you sorrow, who then makes me glad but the one whom I made sorrowful?"
+        },
+        {
+          "pk": 860455,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 3,
+          "text": "This is the very thing I wrote you, so that when I came, I would not have sorrow from those who ought to make me rejoice; having confidence in you all that my joy would be [the joy] of you all."
+        },
+        {
+          "pk": 860456,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 4,
+          "text": "For out of much affliction and anguish of heart I wrote to you with many tears; not so that you would be made sorrowful, but that you might know the love which I have especially for you."
+        },
+        {
+          "pk": 860457,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 5,
+          "text": "But if any has caused sorrow, he has caused sorrow not to me, but in some degree-- in order not to say too much-- to all of you."
+        },
+        {
+          "pk": 860458,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 6,
+          "text": "Sufficient for such a one is this punishment which [was] [inflicted] by the majority,"
+        },
+        {
+          "pk": 860459,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 7,
+          "text": "so that on the contrary you should rather forgive and comfort [him], otherwise such a one might be overwhelmed by excessive sorrow."
+        },
+        {
+          "pk": 860460,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 8,
+          "text": "Wherefore I urge you to reaffirm [your] love for him."
+        },
+        {
+          "pk": 860461,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 9,
+          "text": "For to this end also I wrote, so that I might put you to the test, whether you are obedient in all things."
+        },
+        {
+          "pk": 860462,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 10,
+          "text": "But one whom you forgive anything, I [forgive] also; for indeed what I have forgiven, if I have forgiven anything, [I did it] for your sakes in the presence of Christ,"
+        },
+        {
+          "pk": 860463,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 11,
+          "text": "so that no advantage would be taken of us by Satan, for we are not ignorant of his schemes."
+        },
+        {
+          "pk": 860464,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 12,
+          "text": "Now when I came to Troas for the gospel of Christ and when a door was opened for me in the Lord,"
+        },
+        {
+          "pk": 860465,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 13,
+          "text": "I had no rest for my spirit, not finding Titus my brother; but taking my leave of them, I went on to Macedonia."
+        },
+        {
+          "pk": 860466,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 14,
+          "text": "But thanks be to God, who always leads us in triumph in Christ, and manifests through us the sweet aroma of the knowledge of Him in every place."
+        },
+        {
+          "pk": 860467,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 15,
+          "text": "For we are a fragrance of Christ to God among those who are being saved and among those who are perishing;"
+        },
+        {
+          "pk": 860468,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 16,
+          "text": "to the one an aroma from death to death, to the other an aroma from life to life. And who is adequate for these things?"
+        },
+        {
+          "pk": 860469,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 2,
+          "verse": 17,
+          "text": "For we are not like many, peddling the word of God, but as from sincerity, but as from God, we speak in Christ in the sight of God."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "pk": 860470,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 1,
+          "text": "Are we beginning to commend ourselves again? Or do we need, as some, letters of commendation to you or from you?"
+        },
+        {
+          "pk": 860471,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 2,
+          "text": "You are our letter, written in our hearts, known and read by all men;"
+        },
+        {
+          "pk": 860472,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 3,
+          "text": "being manifested that you are a letter of Christ, cared for by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."
+        },
+        {
+          "pk": 860473,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 4,
+          "text": "Such confidence we have through Christ toward God."
+        },
+        {
+          "pk": 860474,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 5,
+          "text": "Not that we are adequate in ourselves to consider anything as [coming] from ourselves, but our adequacy is from God,"
+        },
+        {
+          "pk": 860475,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 6,
+          "text": "who also made us adequate [as] servants of a new covenant, not of the letter but of the Spirit; for the letter kills, but the Spirit gives life."
+        },
+        {
+          "pk": 860476,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 7,
+          "text": "But if the ministry of death, in letters engraved on stones, came with glory, so that the sons of Israel could not look intently at the face of Moses because of the glory of his face, fading [as] it was,"
+        },
+        {
+          "pk": 860477,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 8,
+          "text": "how will the ministry of the Spirit fail to be even more with glory?"
+        },
+        {
+          "pk": 860478,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 9,
+          "text": "For if the ministry of condemnation has glory, much more does the ministry of righteousness abound in glory."
+        },
+        {
+          "pk": 860479,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 10,
+          "text": "For indeed what had glory, in this case has no glory because of the glory that surpasses [it]."
+        },
+        {
+          "pk": 860480,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 11,
+          "text": "For if that which fades away [was] with glory, much more that which remains [is] in glory."
+        },
+        {
+          "pk": 860481,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 12,
+          "text": "Therefore having such a hope, we use great boldness in [our] speech,"
+        },
+        {
+          "pk": 860482,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 13,
+          "text": "and [are] not like Moses, [who] used to put a veil over his face so that the sons of Israel would not look intently at the end of what was fading away."
+        },
+        {
+          "pk": 860483,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 14,
+          "text": "But their minds were hardened; for until this very day at the reading of the old covenant the same veil remains unlifted, because it is removed in Christ."
+        },
+        {
+          "pk": 860484,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 15,
+          "text": "But to this day whenever Moses is read, a veil lies over their heart;"
+        },
+        {
+          "pk": 860485,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 16,
+          "text": "but whenever a person turns to the Lord, the veil is taken away."
+        },
+        {
+          "pk": 860486,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 17,
+          "text": "Now the Lord is the Spirit, and where the Spirit of the Lord is, [there] is liberty."
+        },
+        {
+          "pk": 860487,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 3,
+          "verse": 18,
+          "text": "But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "pk": 860488,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 1,
+          "text": "Therefore, since we have this ministry, as we received mercy, we do not lose heart,"
+        },
+        {
+          "pk": 860489,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 2,
+          "text": "but we have renounced the things hidden because of shame, not walking in craftiness or adulterating the word of God, but by the manifestation of truth commending ourselves to every man's conscience in the sight of God."
+        },
+        {
+          "pk": 860490,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 3,
+          "text": "And even if our gospel is veiled, it is veiled to those who are perishing,"
+        },
+        {
+          "pk": 860491,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 4,
+          "text": "in whose case the god of this world has blinded the minds of the unbelieving so that they might not see the light of the gospel of the glory of Christ, who is the image of God."
+        },
+        {
+          "pk": 860492,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 5,
+          "text": "For we do not preach ourselves but Christ Jesus as Lord, and ourselves as your bond-servants for Jesus' sake."
+        },
+        {
+          "pk": 860493,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 6,
+          "text": "For God, who said, 'Light shall shine out of darkness,' is the One who has shone in our hearts to give the Light of the knowledge of the glory of God in the face of Christ."
+        },
+        {
+          "pk": 860494,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 7,
+          "text": "But we have this treasure in earthen vessels, so that the surpassing greatness of the power will be of God and not from ourselves;"
+        },
+        {
+          "pk": 860495,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 8,
+          "text": "[we are] afflicted in every way, but not crushed; perplexed, but not despairing;"
+        },
+        {
+          "pk": 860496,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 9,
+          "text": "persecuted, but not forsaken; struck down, but not destroyed;"
+        },
+        {
+          "pk": 860497,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 10,
+          "text": "always carrying about in the body the dying of Jesus, so that the life of Jesus also may be manifested in our body."
+        },
+        {
+          "pk": 860498,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 11,
+          "text": "For we who live are constantly being delivered over to death for Jesus' sake, so that the life of Jesus also may be manifested in our mortal flesh."
+        },
+        {
+          "pk": 860499,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 12,
+          "text": "So death works in us, but life in you."
+        },
+        {
+          "pk": 860500,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 13,
+          "text": "But having the same spirit of faith, according to what is written, 'I BELIEVED, THEREFORE I SPOKE,' we also believe, therefore we also speak,"
+        },
+        {
+          "pk": 860501,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 14,
+          "text": "knowing that He who raised the Lord Jesus will raise us also with Jesus and will present us with you."
+        },
+        {
+          "pk": 860502,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 15,
+          "text": "For all things [are] for your sakes, so that the grace which is spreading to more and more people may cause the giving of thanks to abound to the glory of God."
+        },
+        {
+          "pk": 860503,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 16,
+          "text": "Therefore we do not lose heart, but though our outer man is decaying, yet our inner man is being renewed day by day."
+        },
+        {
+          "pk": 860504,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 17,
+          "text": "For momentary, light affliction is producing for us an eternal weight of glory far beyond all comparison,"
+        },
+        {
+          "pk": 860505,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 4,
+          "verse": 18,
+          "text": "while we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "pk": 860506,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 1,
+          "text": "For we know that if the earthly tent which is our house is torn down, we have a building from God, a house not made with hands, eternal in the heavens."
+        },
+        {
+          "pk": 860507,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 2,
+          "text": "For indeed in this [house] we groan, longing to be clothed with our dwelling from heaven,"
+        },
+        {
+          "pk": 860508,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 3,
+          "text": "inasmuch as we, having put it on, will not be found naked."
+        },
+        {
+          "pk": 860509,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 4,
+          "text": "For indeed while we are in this tent, we groan, being burdened, because we do not want to be unclothed but to be clothed, so that what is mortal will be swallowed up by life."
+        },
+        {
+          "pk": 860510,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 5,
+          "text": "Now He who prepared us for this very purpose is God, who gave to us the Spirit as a pledge."
+        },
+        {
+          "pk": 860511,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 6,
+          "text": "Therefore, being always of good courage, and knowing that while we are at home in the body we are absent from the Lord--"
+        },
+        {
+          "pk": 860512,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 7,
+          "text": "for we walk by faith, not by sight--"
+        },
+        {
+          "pk": 860513,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 8,
+          "text": "we are of good courage, I say, and prefer rather to be absent from the body and to be at home with the Lord."
+        },
+        {
+          "pk": 860514,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 9,
+          "text": "Therefore we also have as our ambition, whether at home or absent, to be pleasing to Him."
+        },
+        {
+          "pk": 860515,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 10,
+          "text": "For we must all appear before the judgment seat of Christ, so that each one may be recompensed for his deeds in the body, according to what he has done, whether good or bad."
+        },
+        {
+          "pk": 860516,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 11,
+          "text": "Therefore, knowing the fear of the Lord, we persuade men, but we are made manifest to God; and I hope that we are made manifest also in your consciences."
+        },
+        {
+          "pk": 860517,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 12,
+          "text": "We are not again commending ourselves to you but [are] giving you an occasion to be proud of us, so that you will have [an answer] for those who take pride in appearance and not in heart."
+        },
+        {
+          "pk": 860518,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 13,
+          "text": "For if we are beside ourselves, it is for God; if we are of sound mind, it is for you."
+        },
+        {
+          "pk": 860519,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 14,
+          "text": "For the love of Christ controls us, having concluded this, that one died for all, therefore all died;"
+        },
+        {
+          "pk": 860520,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 15,
+          "text": "and He died for all, so that they who live might no longer live for themselves, but for Him who died and rose again on their behalf."
+        },
+        {
+          "pk": 860521,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 16,
+          "text": "Therefore from now on we recognize no one according to the flesh; even though we have known Christ according to the flesh, yet now we know [Him] [in this way] no longer."
+        },
+        {
+          "pk": 860522,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 17,
+          "text": "Therefore if anyone is in Christ, [he is] a new creature; the old things passed away; behold, new things have come."
+        },
+        {
+          "pk": 860523,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 18,
+          "text": "Now all [these] things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,"
+        },
+        {
+          "pk": 860524,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 19,
+          "text": "namely, that God was in Christ reconciling the world to Himself, not counting their trespasses against them, and He has committed to us the word of reconciliation."
+        },
+        {
+          "pk": 860525,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 20,
+          "text": "Therefore, we are ambassadors for Christ, as though God were making an appeal through us; we beg you on behalf of Christ, be reconciled to God."
+        },
+        {
+          "pk": 860526,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 5,
+          "verse": 21,
+          "text": "He made Him who knew no sin [to be] sin on our behalf, so that we might become the righteousness of God in Him."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "pk": 860527,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 1,
+          "text": "And working together [with Him], we also urge you not to receive the grace of God in vain--"
+        },
+        {
+          "pk": 860528,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 2,
+          "text": "for He says, 'AT THE ACCEPTABLE TIME I LISTENED TO YOU, AND ON THE DAY OF SALVATION I HELPED YOU.' Behold, now is 'THE ACCEPTABLE TIME,' behold, now is 'THE DAY OF SALVATION '--"
+        },
+        {
+          "pk": 860529,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 3,
+          "text": "giving no cause for offense in anything, so that the ministry will not be discredited,"
+        },
+        {
+          "pk": 860530,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 4,
+          "text": "but in everything commending ourselves as servants of God, in much endurance, in afflictions, in hardships, in distresses,"
+        },
+        {
+          "pk": 860531,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 5,
+          "text": "in beatings, in imprisonments, in tumults, in labors, in sleeplessness, in hunger,"
+        },
+        {
+          "pk": 860532,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 6,
+          "text": "in purity, in knowledge, in patience, in kindness, in the Holy Spirit, in genuine love,"
+        },
+        {
+          "pk": 860533,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 7,
+          "text": "in the word of truth, in the power of God; by the weapons of righteousness for the right hand and the left,"
+        },
+        {
+          "pk": 860534,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 8,
+          "text": "by glory and dishonor, by evil report and good report; [regarded] as deceivers and yet true;"
+        },
+        {
+          "pk": 860535,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 9,
+          "text": "as unknown yet well-known, as dying yet behold, we live; as punished yet not put to death,"
+        },
+        {
+          "pk": 860536,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 10,
+          "text": "as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing yet possessing all things."
+        },
+        {
+          "pk": 860537,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 11,
+          "text": "Our mouth has spoken freely to you, O Corinthians, our heart is opened wide."
+        },
+        {
+          "pk": 860538,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 12,
+          "text": "You are not restrained by us, but you are restrained in your own affections."
+        },
+        {
+          "pk": 860539,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 13,
+          "text": "Now in a like exchange-- I speak as to children-- open wide [to us] also."
+        },
+        {
+          "pk": 860540,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 14,
+          "text": "Do not be bound together with unbelievers; for what partnership have righteousness and lawlessness, or what fellowship has light with darkness?"
+        },
+        {
+          "pk": 860541,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 15,
+          "text": "Or what harmony has Christ with Belial, or what has a believer in common with an unbeliever?"
+        },
+        {
+          "pk": 860542,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 16,
+          "text": "Or what agreement has the temple of God with idols? For we are the temple of the living God; just as God said, 'I WILL DWELL IN THEM AND WALK AMONG THEM; AND I WILL BE THEIR GOD, AND THEY SHALL BE MY PEOPLE."
+        },
+        {
+          "pk": 860543,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 17,
+          "text": "'Therefore, COME OUT FROM THEIR MIDST AND BE SEPARATE,' says the Lord. 'AND DO NOT TOUCH WHAT IS UNCLEAN; And I will welcome you."
+        },
+        {
+          "pk": 860544,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 6,
+          "verse": 18,
+          "text": "'And I will be a father to you, And you shall be sons and daughters to Me,' Says the Lord Almighty."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "pk": 860545,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 1,
+          "text": "Therefore, having these promises, beloved, let us cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God."
+        },
+        {
+          "pk": 860546,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 2,
+          "text": "Make room for us [in your hearts]; we wronged no one, we corrupted no one, we took advantage of no one."
+        },
+        {
+          "pk": 860547,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 3,
+          "text": "I do not speak to condemn you, for I have said before that you are in our hearts to die together and to live together."
+        },
+        {
+          "pk": 860548,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 4,
+          "text": "Great is my confidence in you; great is my boasting on your behalf. I am filled with comfort; I am overflowing with joy in all our affliction."
+        },
+        {
+          "pk": 860549,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 5,
+          "text": "For even when we came into Macedonia our flesh had no rest, but we were afflicted on every side: conflicts without, fears within."
+        },
+        {
+          "pk": 860550,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 6,
+          "text": "But God, who comforts the depressed, comforted us by the coming of Titus;"
+        },
+        {
+          "pk": 860551,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 7,
+          "text": "and not only by his coming, but also by the comfort with which he was comforted in you, as he reported to us your longing, your mourning, your zeal for me; so that I rejoiced even more."
+        },
+        {
+          "pk": 860552,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 8,
+          "text": "For though I caused you sorrow by my letter, I do not regret it; though I did regret it-- [for] I see that that letter caused you sorrow, though only for a while--"
+        },
+        {
+          "pk": 860553,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 9,
+          "text": "I now rejoice, not that you were made sorrowful, but that you were made sorrowful to [the point of] repentance; for you were made sorrowful according to [the will of] God, so that you might not suffer loss in anything through us."
+        },
+        {
+          "pk": 860554,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 10,
+          "text": "For the sorrow that is according to [the will] [of] God produces a repentance without regret, [leading] to salvation, but the sorrow of the world produces death."
+        },
+        {
+          "pk": 860555,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 11,
+          "text": "For behold what earnestness this very thing, this godly sorrow, has produced in you: what vindication of yourselves, what indignation, what fear, what longing, what zeal, what avenging of wrong! In everything you demonstrated yourselves to be innocent in the matter."
+        },
+        {
+          "pk": 860556,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 12,
+          "text": "So although I wrote to you, [it was] not for the sake of the offender nor for the sake of the one offended, but that your earnestness on our behalf might be made known to you in the sight of God."
+        },
+        {
+          "pk": 860557,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 13,
+          "text": "For this reason we have been comforted. And besides our comfort, we rejoiced even much more for the joy of Titus, because his spirit has been refreshed by you all."
+        },
+        {
+          "pk": 860558,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 14,
+          "text": "For if in anything I have boasted to him about you, I was not put to shame; but as we spoke all things to you in truth, so also our boasting before Titus proved to be [the] truth."
+        },
+        {
+          "pk": 860559,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 15,
+          "text": "His affection abounds all the more toward you, as he remembers the obedience of you all, how you received him with fear and trembling."
+        },
+        {
+          "pk": 860560,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 7,
+          "verse": 16,
+          "text": "I rejoice that in everything I have confidence in you."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "pk": 860561,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 1,
+          "text": "Now, brethren, we [wish to] make known to you the grace of God which has been given in the churches of Macedonia,"
+        },
+        {
+          "pk": 860562,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 2,
+          "text": "that in a great ordeal of affliction their abundance of joy and their deep poverty overflowed in the wealth of their liberality."
+        },
+        {
+          "pk": 860563,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 3,
+          "text": "For I testify that according to their ability, and beyond their ability, [they gave] of their own accord,"
+        },
+        {
+          "pk": 860564,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 4,
+          "text": "begging us with much urging for the favor of participation in the support of the saints,"
+        },
+        {
+          "pk": 860565,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 5,
+          "text": "and [this], not as we had expected, but they first gave themselves to the Lord and to us by the will of God."
+        },
+        {
+          "pk": 860566,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 6,
+          "text": "So we urged Titus that as he had previously made a beginning, so he would also complete in you this gracious work as well."
+        },
+        {
+          "pk": 860567,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 7,
+          "text": "But just as you abound in everything, in faith and utterance and knowledge and in all earnestness and in the love we inspired in you, [see] that you abound in this gracious work also."
+        },
+        {
+          "pk": 860568,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 8,
+          "text": "I am not speaking [this] as a command, but as proving through the earnestness of others the sincerity of your love also."
+        },
+        {
+          "pk": 860569,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 9,
+          "text": "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich."
+        },
+        {
+          "pk": 860570,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 10,
+          "text": "I give [my] opinion in this matter, for this is to your advantage, who were the first to begin a year ago not only to do [this], but also to desire [to do it]."
+        },
+        {
+          "pk": 860571,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 11,
+          "text": "But now finish doing it also, so that just as [there was] the readiness to desire it, so [there] [may be] also the completion of it by your ability."
+        },
+        {
+          "pk": 860572,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 12,
+          "text": "For if the readiness is present, it is acceptable according to what [a person] has, not according to what he does not have."
+        },
+        {
+          "pk": 860573,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 13,
+          "text": "For [this] is not for the ease of others [and] for your affliction, but by way of equality--"
+        },
+        {
+          "pk": 860574,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 14,
+          "text": "at this present time your abundance [being a] [supply] for their need, so that their abundance also may become [a supply] for your need, that there may be equality;"
+        },
+        {
+          "pk": 860575,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 15,
+          "text": "as it is written, 'HE WHO [gathered] MUCH DID NOT HAVE TOO MUCH, AND HE WHO [gathered] LITTLE HAD NO LACK.'"
+        },
+        {
+          "pk": 860576,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 16,
+          "text": "But thanks be to God who puts the same earnestness on your behalf in the heart of Titus."
+        },
+        {
+          "pk": 860577,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 17,
+          "text": "For he not only accepted our appeal, but being himself very earnest, he has gone to you of his own accord."
+        },
+        {
+          "pk": 860578,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 18,
+          "text": "We have sent along with him the brother whose fame in [the things of] the gospel [has spread] through all the churches;"
+        },
+        {
+          "pk": 860579,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 19,
+          "text": "and not only [this], but he has also been appointed by the churches to travel with us in this gracious work, which is being administered by us for the glory of the Lord Himself, and [to show] our readiness,"
+        },
+        {
+          "pk": 860580,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 20,
+          "text": "taking precaution so that no one will discredit us in our administration of this generous gift;"
+        },
+        {
+          "pk": 860581,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 21,
+          "text": "for we have regard for what is honorable, not only in the sight of the Lord, but also in the sight of men."
+        },
+        {
+          "pk": 860582,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 22,
+          "text": "We have sent with them our brother, whom we have often tested and found diligent in many things, but now even more diligent because of [his] great confidence in you."
+        },
+        {
+          "pk": 860583,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 23,
+          "text": "As for Titus, [he is] my partner and fellow worker among you; as for our brethren, [they are] messengers of the churches, a glory to Christ."
+        },
+        {
+          "pk": 860584,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 8,
+          "verse": 24,
+          "text": "Therefore openly before the churches, show them the proof of your love and of our reason for boasting about you."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "pk": 860585,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 1,
+          "text": "For it is superfluous for me to write to you about this ministry to the saints;"
+        },
+        {
+          "pk": 860586,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 2,
+          "text": "for I know your readiness, of which I boast about you to the Macedonians, [namely], that Achaia has been prepared since last year, and your zeal has stirred up most of them."
+        },
+        {
+          "pk": 860587,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 3,
+          "text": "But I have sent the brethren, in order that our boasting about you may not be made empty in this case, so that, as I was saying, you may be prepared;"
+        },
+        {
+          "pk": 860588,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 4,
+          "text": "otherwise if any Macedonians come with me and find you unprepared, we-- not to speak of you-- will be put to shame by this confidence."
+        },
+        {
+          "pk": 860589,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 5,
+          "text": "So I thought it necessary to urge the brethren that they would go on ahead to you and arrange beforehand your previously promised bountiful gift, so that the same would be ready as a bountiful gift and not affected by covetousness."
+        },
+        {
+          "pk": 860590,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 6,
+          "text": "Now this [I say], he who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully."
+        },
+        {
+          "pk": 860591,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 7,
+          "text": "Each one [must do] just as he has purposed in his heart, not grudgingly or under compulsion, for God loves a cheerful giver."
+        },
+        {
+          "pk": 860592,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 8,
+          "text": "And God is able to make all grace abound to you, so that always having all sufficiency in everything, you may have an abundance for every good deed;"
+        },
+        {
+          "pk": 860593,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 9,
+          "text": "as it is written, 'HE SCATTERED ABROAD, HE GAVE TO THE POOR, HIS RIGHTEOUSNESS ENDURES FOREVER.'"
+        },
+        {
+          "pk": 860594,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 10,
+          "text": "Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness;"
+        },
+        {
+          "pk": 860595,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 11,
+          "text": "you will be enriched in everything for all liberality, which through us is producing thanksgiving to God."
+        },
+        {
+          "pk": 860596,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 12,
+          "text": "For the ministry of this service is not only fully supplying the needs of the saints, but is also overflowing through many thanksgivings to God."
+        },
+        {
+          "pk": 860597,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 13,
+          "text": "Because of the proof given by this ministry, they will glorify God for [your] obedience to your confession of the gospel of Christ and for the liberality of your contribution to them and to all,"
+        },
+        {
+          "pk": 860598,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 14,
+          "text": "while they also, by prayer on your behalf, yearn for you because of the surpassing grace of God in you."
+        },
+        {
+          "pk": 860599,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 9,
+          "verse": 15,
+          "text": "Thanks be to God for His indescribable gift!"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "pk": 860600,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 1,
+          "text": "Now I, Paul, myself urge you by the meekness and gentleness of Christ-- I who am meek when face to face with you, but bold toward you when absent!"
+        },
+        {
+          "pk": 860601,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 2,
+          "text": "I ask that when I am present I [need] not be bold with the confidence with which I propose to be courageous against some, who regard us as if we walked according to the flesh."
+        },
+        {
+          "pk": 860602,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 3,
+          "text": "For though we walk in the flesh, we do not war according to the flesh,"
+        },
+        {
+          "pk": 860603,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 4,
+          "text": "for the weapons of our warfare are not of the flesh, but divinely powerful for the destruction of fortresses."
+        },
+        {
+          "pk": 860604,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 5,
+          "text": "[We are] destroying speculations and every lofty thing raised up against the knowledge of God, and [we are] taking every thought captive to the obedience of Christ,"
+        },
+        {
+          "pk": 860605,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 6,
+          "text": "and we are ready to punish all disobedience, whenever your obedience is complete."
+        },
+        {
+          "pk": 860606,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 7,
+          "text": "You are looking at things as they are outwardly. If anyone is confident in himself that he is Christ's, let him consider this again within himself, that just as he is Christ's, so also are we."
+        },
+        {
+          "pk": 860607,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 8,
+          "text": "For even if I boast somewhat further about our authority, which the Lord gave for building you up and not for destroying you, I will not be put to shame,"
+        },
+        {
+          "pk": 860608,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 9,
+          "text": "for I do not wish to seem as if I would terrify you by my letters."
+        },
+        {
+          "pk": 860609,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 10,
+          "text": "For they say, 'His letters are weighty and strong, but his personal presence is unimpressive and his speech contemptible.'"
+        },
+        {
+          "pk": 860610,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 11,
+          "text": "Let such a person consider this, that what we are in word by letters when absent, such persons [we are] also in deed when present."
+        },
+        {
+          "pk": 860611,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 12,
+          "text": "For we are not bold to class or compare ourselves with some of those who commend themselves; but when they measure themselves by themselves and compare themselves with themselves, they are without understanding."
+        },
+        {
+          "pk": 860612,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 13,
+          "text": "But we will not boast beyond [our] measure, but within the measure of the sphere which God apportioned to us as a measure, to reach even as far as you."
+        },
+        {
+          "pk": 860613,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 14,
+          "text": "For we are not overextending ourselves, as if we did not reach to you, for we were the first to come even as far as you in the gospel of Christ;"
+        },
+        {
+          "pk": 860614,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 15,
+          "text": "not boasting beyond [our] measure, [that] [is], in other men's labors, but with the hope that as your faith grows, we will be, within our sphere, enlarged even more by you,"
+        },
+        {
+          "pk": 860615,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 16,
+          "text": "so as to preach the gospel even to the regions beyond you, [and] not to boast in what has been accomplished in the sphere of another."
+        },
+        {
+          "pk": 860616,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 17,
+          "text": "But HE WHO BOASTS IS TO BOAST IN THE LORD."
+        },
+        {
+          "pk": 860617,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 10,
+          "verse": 18,
+          "text": "For it is not he who commends himself that is approved, but he whom the Lord commends."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "pk": 860618,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 1,
+          "text": "I wish that you would bear with me in a little foolishness; but indeed you are bearing with me."
+        },
+        {
+          "pk": 860619,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 2,
+          "text": "For I am jealous for you with a godly jealousy; for I betrothed you to one husband, so that to Christ I might present you [as] a pure virgin."
+        },
+        {
+          "pk": 860620,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 3,
+          "text": "But I am afraid that, as the serpent deceived Eve by his craftiness, your minds will be led astray from the simplicity and purity [of devotion] to Christ."
+        },
+        {
+          "pk": 860621,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 4,
+          "text": "For if one comes and preaches another Jesus whom we have not preached, or you receive a different spirit which you have not received, or a different gospel which you have not accepted, you bear [this] beautifully."
+        },
+        {
+          "pk": 860622,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 5,
+          "text": "For I consider myself not in the least inferior to the most eminent apostles."
+        },
+        {
+          "pk": 860623,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 6,
+          "text": "But even if I am unskilled in speech, yet I am not [so] in knowledge; in fact, in every way we have made [this] evident to you in all things."
+        },
+        {
+          "pk": 860624,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 7,
+          "text": "Or did I commit a sin in humbling myself so that you might be exalted, because I preached the gospel of God to you without charge?"
+        },
+        {
+          "pk": 860625,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 8,
+          "text": "I robbed other churches by taking wages [from] [them] to serve you;"
+        },
+        {
+          "pk": 860626,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 9,
+          "text": "and when I was present with you and was in need, I was not a burden to anyone; for when the brethren came from Macedonia they fully supplied my need, and in everything I kept myself from being a burden to you, and will continue to do so."
+        },
+        {
+          "pk": 860627,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 10,
+          "text": "As the truth of Christ is in me, this boasting of mine will not be stopped in the regions of Achaia."
+        },
+        {
+          "pk": 860628,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 11,
+          "text": "Why? Because I do not love you? God knows [I do]!"
+        },
+        {
+          "pk": 860629,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 12,
+          "text": "But what I am doing I will continue to do, so that I may cut off opportunity from those who desire an opportunity to be regarded just as we are in the matter about which they are boasting."
+        },
+        {
+          "pk": 860630,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 13,
+          "text": "For such men are false apostles, deceitful workers, disguising themselves as apostles of Christ."
+        },
+        {
+          "pk": 860631,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 14,
+          "text": "No wonder, for even Satan disguises himself as an angel of light."
+        },
+        {
+          "pk": 860632,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 15,
+          "text": "Therefore it is not surprising if his servants also disguise themselves as servants of righteousness, whose end will be according to their deeds."
+        },
+        {
+          "pk": 860633,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 16,
+          "text": "Again I say, let no one think me foolish; but if [you do], receive me even as foolish, so that I also may boast a little."
+        },
+        {
+          "pk": 860634,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 17,
+          "text": "What I am saying, I am not saying as the Lord would, but as in foolishness, in this confidence of boasting."
+        },
+        {
+          "pk": 860635,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 18,
+          "text": "Since many boast according to the flesh, I will boast also."
+        },
+        {
+          "pk": 860636,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 19,
+          "text": "For you, being [so] wise, tolerate the foolish gladly."
+        },
+        {
+          "pk": 860637,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 20,
+          "text": "For you tolerate it if anyone enslaves you, anyone devours you, anyone takes advantage of you, anyone exalts himself, anyone hits you in the face."
+        },
+        {
+          "pk": 860638,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 21,
+          "text": "To [my] shame I [must] say that we have been weak [by comparison]. But in whatever respect anyone [else] is bold-- I speak in foolishness-- I am just as bold myself."
+        },
+        {
+          "pk": 860639,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 22,
+          "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I."
+        },
+        {
+          "pk": 860640,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 23,
+          "text": "Are they servants of Christ?-- I speak as if insane-- I more so; in far more labors, in far more imprisonments, beaten times without number, often in danger of death."
+        },
+        {
+          "pk": 860641,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 24,
+          "text": "Five times I received from the Jews thirty-nine [lashes]."
+        },
+        {
+          "pk": 860642,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 25,
+          "text": "Three times I was beaten with rods, once I was stoned, three times I was shipwrecked, a night and a day I have spent in the deep."
+        },
+        {
+          "pk": 860643,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 26,
+          "text": "[I have been] on frequent journeys, in dangers from rivers, dangers from robbers, dangers from [my] countrymen, dangers from the Gentiles, dangers in the city, dangers in the wilderness, dangers on the sea, dangers among false brethren;"
+        },
+        {
+          "pk": 860644,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 27,
+          "text": "[I have been] in labor and hardship, through many sleepless nights, in hunger and thirst, often without food, in cold and exposure."
+        },
+        {
+          "pk": 860645,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 28,
+          "text": "Apart from [such] external things, there is the daily pressure on me [of] concern for all the churches."
+        },
+        {
+          "pk": 860646,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 29,
+          "text": "Who is weak without my being weak? Who is led into sin without my intense concern?"
+        },
+        {
+          "pk": 860647,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 30,
+          "text": "If I have to boast, I will boast of what pertains to my weakness."
+        },
+        {
+          "pk": 860648,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 31,
+          "text": "The God and Father of the Lord Jesus, He who is blessed forever, knows that I am not lying."
+        },
+        {
+          "pk": 860649,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 32,
+          "text": "In Damascus the ethnarch under Aretas the king was guarding the city of the Damascenes in order to seize me,"
+        },
+        {
+          "pk": 860650,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 11,
+          "verse": 33,
+          "text": "and I was let down in a basket through a window in the wall, and [so] escaped his hands."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "pk": 860651,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 1,
+          "text": "Boasting is necessary, though it is not profitable; but I will go on to visions and revelations of the Lord."
+        },
+        {
+          "pk": 860652,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 2,
+          "text": "I know a man in Christ who fourteen years ago-- whether in the body I do not know, or out of the body I do not know, God knows-- such a man was caught up to the third heaven."
+        },
+        {
+          "pk": 860653,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 3,
+          "text": "And I know how such a man-- whether in the body or apart from the body I do not know, God knows--"
+        },
+        {
+          "pk": 860654,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 4,
+          "text": "was caught up into Paradise and heard inexpressible words, which a man is not permitted to speak."
+        },
+        {
+          "pk": 860655,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 5,
+          "text": "On behalf of such a man I will boast; but on my own behalf I will not boast, except in regard to [my] weaknesses."
+        },
+        {
+          "pk": 860656,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 6,
+          "text": "For if I do wish to boast I will not be foolish, for I will be speaking the truth; but I refrain [from] [this], so that no one will credit me with more than he sees [in] me or hears from me."
+        },
+        {
+          "pk": 860657,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 7,
+          "text": "Because of the surpassing greatness of the revelations, for this reason, to keep me from exalting myself, there was given me a thorn in the flesh, a messenger of Satan to torment me-- to keep me from exalting myself!"
+        },
+        {
+          "pk": 860658,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 8,
+          "text": "Concerning this I implored the Lord three times that it might leave me."
+        },
+        {
+          "pk": 860659,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 9,
+          "text": "And He has said to me, 'My grace is sufficient for you, for power is perfected in weakness.' Most gladly, therefore, I will rather boast about my weaknesses, so that the power of Christ may dwell in me."
+        },
+        {
+          "pk": 860660,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 10,
+          "text": "Therefore I am well content with weaknesses, with insults, with distresses, with persecutions, with difficulties, for Christ's sake; for when I am weak, then I am strong."
+        },
+        {
+          "pk": 860661,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 11,
+          "text": "I have become foolish; you yourselves compelled me. Actually I should have been commended by you, for in no respect was I inferior to the most eminent apostles, even though I am a nobody."
+        },
+        {
+          "pk": 860662,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 12,
+          "text": "The signs of a true apostle were performed among you with all perseverance, by signs and wonders and miracles."
+        },
+        {
+          "pk": 860663,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 13,
+          "text": "For in what respect were you treated as inferior to the rest of the churches, except that I myself did not become a burden to you? Forgive me this wrong!"
+        },
+        {
+          "pk": 860664,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 14,
+          "text": "Here for this third time I am ready to come to you, and I will not be a burden to you; for I do not seek what is yours, but you; for children are not responsible to save up for [their] parents, but parents for [their] children."
+        },
+        {
+          "pk": 860665,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 15,
+          "text": "I will most gladly spend and be expended for your souls. If I love you more, am I to be loved less?"
+        },
+        {
+          "pk": 860666,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 16,
+          "text": "But be that as it may, I did not burden you myself; nevertheless, crafty fellow that I am, I took you in by deceit."
+        },
+        {
+          "pk": 860667,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 17,
+          "text": "[Certainly] I have not taken advantage of you through any of those whom I have sent to you, have I?"
+        },
+        {
+          "pk": 860668,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 18,
+          "text": "I urged Titus [to go], and I sent the brother with him. Titus did not take any advantage of you, did he? Did we not conduct ourselves in the same spirit [and walk] in the same steps?"
+        },
+        {
+          "pk": 860669,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 19,
+          "text": "All this time you have been thinking that we are defending ourselves to you. [Actually], it is in the sight of God that we have been speaking in Christ; and all for your upbuilding, beloved."
+        },
+        {
+          "pk": 860670,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 20,
+          "text": "For I am afraid that perhaps when I come I may find you to be not what I wish and may be found by you to be not what you wish; that perhaps [there will be] strife, jealousy, angry tempers, disputes, slanders, gossip, arrogance, disturbances;"
+        },
+        {
+          "pk": 860671,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 12,
+          "verse": 21,
+          "text": "I am afraid that when I come again my God may humiliate me before you, and I may mourn over many of those who have sinned in the past and not repented of the impurity, immorality and sensuality which they have practiced."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "pk": 860672,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 1,
+          "text": "This is the third time I am coming to you. EVERY FACT IS TO BE CONFIRMED BY THE TESTIMONY OF TWO OR THREE WITNESSES."
+        },
+        {
+          "pk": 860673,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 2,
+          "text": "I have previously said when present the second time, and though now absent I say in advance to those who have sinned in the past and to all the rest [as well], that if I come again I will not spare [anyone],"
+        },
+        {
+          "pk": 860674,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 3,
+          "text": "since you are seeking for proof of the Christ who speaks in me, and who is not weak toward you, but mighty in you."
+        },
+        {
+          "pk": 860675,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 4,
+          "text": "For indeed He was crucified because of weakness, yet He lives because of the power of God. For we also are weak in Him, yet we will live with Him because of the power of God [directed] toward you."
+        },
+        {
+          "pk": 860676,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 5,
+          "text": "Test yourselves [to see] if you are in the faith; examine yourselves! Or do you not recognize this about yourselves, that Jesus Christ is in you-- unless indeed you fail the test?"
+        },
+        {
+          "pk": 860677,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 6,
+          "text": "But I trust that you will realize that we ourselves do not fail the test."
+        },
+        {
+          "pk": 860678,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 7,
+          "text": "Now we pray to God that you do no wrong; not that we ourselves may appear approved, but that you may do what is right, even though we may appear unapproved."
+        },
+        {
+          "pk": 860679,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 8,
+          "text": "For we can do nothing against the truth, but [only] for the truth."
+        },
+        {
+          "pk": 860680,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 9,
+          "text": "For we rejoice when we ourselves are weak but you are strong; this we also pray for, that you be made complete."
+        },
+        {
+          "pk": 860681,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 10,
+          "text": "For this reason I am writing these things while absent, so that when present I [need] not use severity, in accordance with the authority which the Lord gave me for building up and not for tearing down."
+        },
+        {
+          "pk": 860682,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 11,
+          "text": "Finally, brethren, rejoice, be made complete, be comforted, be like-minded, live in peace; and the God of love and peace will be with you."
+        },
+        {
+          "pk": 860683,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 12,
+          "text": "Greet one another with a holy kiss."
+        },
+        {
+          "pk": 860684,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 13,
+          "text": "All the saints greet you."
+        },
+        {
+          "pk": 860685,
+          "translation": "NASB",
+          "book": 47,
+          "chapter": 13,
+          "verse": 14,
+          "text": "The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all."
+        }
+      ]
+    }
+  ]
+};

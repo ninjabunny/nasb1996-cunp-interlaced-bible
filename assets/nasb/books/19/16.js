@@ -1,0 +1,91 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/19/16"] = [
+  {
+    "pk": 845721,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 1,
+    "text": "A Mikhtam of David. Preserve me, O God, for I take refuge in You."
+  },
+  {
+    "pk": 845722,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 2,
+    "text": "I said to the LORD, 'You are my Lord; I have no good besides You.'"
+  },
+  {
+    "pk": 845723,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 3,
+    "text": "As for the saints who are in the earth, They are the majestic ones in whom is all my delight."
+  },
+  {
+    "pk": 845724,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 4,
+    "text": "The sorrows of those who have bartered for another [god] will be multiplied; I shall not pour out their drink offerings of blood, Nor will I take their names upon my lips."
+  },
+  {
+    "pk": 845725,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 5,
+    "text": "The LORD is the portion of my inheritance and my cup; You support my lot."
+  },
+  {
+    "pk": 845726,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 6,
+    "text": "The lines have fallen to me in pleasant places; Indeed, my heritage is beautiful to me."
+  },
+  {
+    "pk": 845727,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 7,
+    "text": "I will bless the LORD who has counseled me; Indeed, my mind instructs me in the night."
+  },
+  {
+    "pk": 845728,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 8,
+    "text": "I have set the LORD continually before me; Because He is at my right hand, I will not be shaken."
+  },
+  {
+    "pk": 845729,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 9,
+    "text": "Therefore my heart is glad and my glory rejoices; My flesh also will dwell securely."
+  },
+  {
+    "pk": 845730,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 10,
+    "text": "For You will not abandon my soul to Sheol; Nor will You allow Your Holy One to undergo decay."
+  },
+  {
+    "pk": 845731,
+    "translation": "NASB",
+    "book": 19,
+    "chapter": 16,
+    "verse": 11,
+    "text": "You will make known to me the path of life; In Your presence is fullness of joy; In Your right hand there are pleasures forever."
+  }
+];

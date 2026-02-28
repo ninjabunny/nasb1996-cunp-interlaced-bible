@@ -1,0 +1,195 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/46/16"] = [
+  {
+    "pk": 860405,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 1,
+    "text": "Now concerning the collection for the saints, as I directed the churches of Galatia, so do you also."
+  },
+  {
+    "pk": 860406,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 2,
+    "text": "On the first day of every week each one of you is to put aside and save, as he may prosper, so that no collections be made when I come."
+  },
+  {
+    "pk": 860407,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 3,
+    "text": "When I arrive, whomever you may approve, I will send them with letters to carry your gift to Jerusalem;"
+  },
+  {
+    "pk": 860408,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 4,
+    "text": "and if it is fitting for me to go also, they will go with me."
+  },
+  {
+    "pk": 860409,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 5,
+    "text": "But I will come to you after I go through Macedonia, for I am going through Macedonia;"
+  },
+  {
+    "pk": 860410,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 6,
+    "text": "and perhaps I will stay with you, or even spend the winter, so that you may send me on my way wherever I may go."
+  },
+  {
+    "pk": 860411,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 7,
+    "text": "For I do not wish to see you now [just] in passing; for I hope to remain with you for some time, if the Lord permits."
+  },
+  {
+    "pk": 860412,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 8,
+    "text": "But I will remain in Ephesus until Pentecost;"
+  },
+  {
+    "pk": 860413,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 9,
+    "text": "for a wide door for effective [service] has opened to me, and there are many adversaries."
+  },
+  {
+    "pk": 860414,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 10,
+    "text": "Now if Timothy comes, see that he is with you without cause to be afraid, for he is doing the Lord's work, as I also am."
+  },
+  {
+    "pk": 860415,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 11,
+    "text": "So let no one despise him. But send him on his way in peace, so that he may come to me; for I expect him with the brethren."
+  },
+  {
+    "pk": 860416,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 12,
+    "text": "But concerning Apollos our brother, I encouraged him greatly to come to you with the brethren; and it was not at all [his] desire to come now, but he will come when he has opportunity."
+  },
+  {
+    "pk": 860417,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 13,
+    "text": "Be on the alert, stand firm in the faith, act like men, be strong."
+  },
+  {
+    "pk": 860418,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 14,
+    "text": "Let all that you do be done in love."
+  },
+  {
+    "pk": 860419,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 15,
+    "text": "Now I urge you, brethren (you know the household of Stephanas, that they were the first fruits of Achaia, and that they have devoted themselves for ministry to the saints),"
+  },
+  {
+    "pk": 860420,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 16,
+    "text": "that you also be in subjection to such men and to everyone who helps in the work and labors."
+  },
+  {
+    "pk": 860421,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 17,
+    "text": "I rejoice over the coming of Stephanas and Fortunatus and Achaicus, because they have supplied what was lacking on your part."
+  },
+  {
+    "pk": 860422,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 18,
+    "text": "For they have refreshed my spirit and yours. Therefore acknowledge such men."
+  },
+  {
+    "pk": 860423,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 19,
+    "text": "The churches of Asia greet you. Aquila and Prisca greet you heartily in the Lord, with the church that is in their house."
+  },
+  {
+    "pk": 860424,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 20,
+    "text": "All the brethren greet you. Greet one another with a holy kiss."
+  },
+  {
+    "pk": 860425,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 21,
+    "text": "The greeting is in my own hand-- Paul."
+  },
+  {
+    "pk": 860426,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 22,
+    "text": "If anyone does not love the Lord, he is to be accursed. Maranatha."
+  },
+  {
+    "pk": 860427,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 23,
+    "text": "The grace of the Lord Jesus be with you."
+  },
+  {
+    "pk": 860428,
+    "translation": "NASB",
+    "book": 46,
+    "chapter": 16,
+    "verse": 24,
+    "text": "My love be with you all in Christ Jesus. Amen."
+  }
+];

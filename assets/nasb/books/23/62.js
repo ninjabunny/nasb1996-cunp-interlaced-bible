@@ -1,0 +1,99 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/23/62"] = [
+  {
+    "pk": 850483,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 1,
+    "text": "For Zion's sake I will not keep silent, And for Jerusalem's sake I will not keep quiet, Until her righteousness goes forth like brightness, And her salvation like a torch that is burning."
+  },
+  {
+    "pk": 850484,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 2,
+    "text": "The nations will see your righteousness, And all kings your glory; And you will be called by a new name Which the mouth of the LORD will designate."
+  },
+  {
+    "pk": 850485,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 3,
+    "text": "You will also be a crown of beauty in the hand of the LORD, And a royal diadem in the hand of your God."
+  },
+  {
+    "pk": 850486,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 4,
+    "text": "It will no longer be said to you, 'Forsaken,' Nor to your land will it any longer be said, 'Desolate'; But you will be called, 'My delight is in her,' And your land, 'Married'; For the LORD delights in you, And [to Him] your land will be married."
+  },
+  {
+    "pk": 850487,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 5,
+    "text": "For [as] a young man marries a virgin, [So] your sons will marry you; And [as] the bridegroom rejoices over the bride, [So] your God will rejoice over you."
+  },
+  {
+    "pk": 850488,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 6,
+    "text": "On your walls, O Jerusalem, I have appointed watchmen; All day and all night they will never keep silent. You who remind the LORD, take no rest for yourselves;"
+  },
+  {
+    "pk": 850489,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 7,
+    "text": "And give Him no rest until He establishes And makes Jerusalem a praise in the earth."
+  },
+  {
+    "pk": 850490,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 8,
+    "text": "The LORD has sworn by His right hand and by His strong arm, 'I will never again give your grain [as] food for your enemies; Nor will foreigners drink your new wine for which you have labored.'"
+  },
+  {
+    "pk": 850491,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 9,
+    "text": "But those who garner it will eat it and praise the LORD; And those who gather it will drink it in the courts of My sanctuary."
+  },
+  {
+    "pk": 850492,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 10,
+    "text": "Go through, go through the gates, Clear the way for the people; Build up, build up the highway, Remove the stones, lift up a standard over the peoples."
+  },
+  {
+    "pk": 850493,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 11,
+    "text": "Behold, the LORD has proclaimed to the end of the earth, Say to the daughter of Zion, 'Lo, your salvation comes; Behold His reward is with Him, and His recompense before Him.'"
+  },
+  {
+    "pk": 850494,
+    "translation": "NASB",
+    "book": 23,
+    "chapter": 62,
+    "verse": 12,
+    "text": "And they will call them, 'The holy people, The redeemed of the LORD'; And you will be called, 'Sought out, a city not forsaken.'"
+  }
+];

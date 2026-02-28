@@ -1,0 +1,70 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["cunp/books/19/129"] = [
+  {
+    "pk": 3499512,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 1,
+    "text": "〔上行之詩。〕<br/><e>以色列</e>當說：從我幼年以來，敵人屢次苦害我，<br/>",
+    "comment": "參看 <a href='/CUNP/26/23/3'>結 23:3</a> 她們在<u>埃及</u>行邪淫，在幼年時行邪淫。她們在那裏作處女的時候，有人擁抱她們的懷，撫摸她們的乳。<p><a href='/CUNP/28/2/15'>何 2:15</a> 她從那裏出來，我必賜她葡萄園，又賜她<u>亞割谷</u>作為指望的門。她必在那裏應聲<small>〔或作「歌唱」〕</small>，與幼年的日子一樣，與從<u>埃及</u>地上來的時候相同。<p><a href='/CUNP/28/11/1'>11:1</a> <u>以色列</u>年幼的時候，我愛他，就從<u>埃及</u>召出我的兒子來。<br><a href='/CUNP/19/124/1'>詩 124:1</a> 〔大衛上行之詩。〕<u>以色列</u>人要說：若不是耶和華幫助我們，"
+  },
+  {
+    "pk": 3499513,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 2,
+    "text": "從我幼年以來，敵人屢次苦害我，卻沒有勝了我。<br/>"
+  },
+  {
+    "pk": 3499514,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 3,
+    "text": "<i>如同</i>扶犂的在我背上扶犂而耕，耕的犂溝甚長。<br/>"
+  },
+  {
+    "pk": 3499515,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 4,
+    "text": "耶和華是公義的；他砍斷了惡人的繩索。<br/>"
+  },
+  {
+    "pk": 3499516,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 5,
+    "text": "願恨惡<e>錫安</e>的都蒙羞退後！<br/>"
+  },
+  {
+    "pk": 3499517,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 6,
+    "text": "願他們像房頂上的草，未長成而枯乾，<br/>",
+    "comment": "<a href='/CUNP/19/37/2'>詩 37:2</a> 因為他們如草快被割下，又如青菜快要枯乾。"
+  },
+  {
+    "pk": 3499518,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 7,
+    "text": "收割的不夠一把，捆禾的也不滿懷。<br/>"
+  },
+  {
+    "pk": 3499519,
+    "translation": "CUNP",
+    "book": 19,
+    "chapter": 129,
+    "verse": 8,
+    "text": "過路的也不說：願耶和華所賜的福歸與你們！我們奉耶和華的名給你們祝福！",
+    "comment": "<a href='/CUNP/8/2/4'>得 2:4</a> <u>波阿斯</u>正從<u>伯利恆</u>來，對收割的人說：「願耶和華與你們同在！」他們回答說：「願耶和華賜福與你！」<p><a href='/CUNP/19/118/26'>詩 118:26</a> 奉耶和華名來的是應當稱頌的！我們從耶和華的殿中為你們祝福！"
+  }
+];

@@ -1,0 +1,147 @@
+window.__BIBLE_APP_ASSETS = window.__BIBLE_APP_ASSETS || Object.create(null);
+window.__BIBLE_APP_ASSETS["nasb/books/36/01"] = [
+  {
+    "pk": 854416,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 1,
+    "text": "The word of the LORD which came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah:"
+  },
+  {
+    "pk": 854417,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 2,
+    "text": "'I will completely remove all [things] From the face of the earth,' declares the LORD."
+  },
+  {
+    "pk": 854418,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 3,
+    "text": "'I will remove man and beast; I will remove the birds of the sky And the fish of the sea, And the ruins along with the wicked; And I will cut off man from the face of the earth,' declares the LORD."
+  },
+  {
+    "pk": 854419,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 4,
+    "text": "'So I will stretch out My hand against Judah And against all the inhabitants of Jerusalem. And I will cut off the remnant of Baal from this place, [And] the names of the idolatrous priests along with the priests."
+  },
+  {
+    "pk": 854420,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 5,
+    "text": "'And those who bow down on the housetops to the host of heaven, And those who bow down [and] swear to the LORD and [yet] swear by Milcom,"
+  },
+  {
+    "pk": 854421,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 6,
+    "text": "And those who have turned back from following the LORD, And those who have not sought the LORD or inquired of Him.'"
+  },
+  {
+    "pk": 854422,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 7,
+    "text": "Be silent before the Lord GOD! For the day of the LORD is near, For the LORD has prepared a sacrifice, He has consecrated His guests."
+  },
+  {
+    "pk": 854423,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 8,
+    "text": "'Then it will come about on the day of the LORD'S sacrifice That I will punish the princes, the king's sons And all who clothe themselves with foreign garments."
+  },
+  {
+    "pk": 854424,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 9,
+    "text": "'And I will punish on that day all who leap on the [temple] threshold, Who fill the house of their lord with violence and deceit."
+  },
+  {
+    "pk": 854425,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 10,
+    "text": "'On that day,' declares the LORD, 'There will be the sound of a cry from the Fish Gate, A wail from the Second Quarter, And a loud crash from the hills."
+  },
+  {
+    "pk": 854426,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 11,
+    "text": "'Wail, O inhabitants of the Mortar, For all the people of Canaan will be silenced; All who weigh out silver will be cut off."
+  },
+  {
+    "pk": 854427,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 12,
+    "text": "'It will come about at that time That I will search Jerusalem with lamps, And I will punish the men Who are stagnant in spirit, Who say in their hearts, 'The LORD will not do good or evil!'"
+  },
+  {
+    "pk": 854428,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 13,
+    "text": "'Moreover, their wealth will become plunder And their houses desolate; Yes, they will build houses but not inhabit [them], And plant vineyards but not drink their wine.'"
+  },
+  {
+    "pk": 854429,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 14,
+    "text": "Near is the great day of the LORD, Near and coming very quickly; Listen, the day of the LORD! In it the warrior cries out bitterly."
+  },
+  {
+    "pk": 854430,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 15,
+    "text": "A day of wrath is that day, A day of trouble and distress, A day of destruction and desolation, A day of darkness and gloom, A day of clouds and thick darkness,"
+  },
+  {
+    "pk": 854431,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 16,
+    "text": "A day of trumpet and battle cry Against the fortified cities And the high corner towers."
+  },
+  {
+    "pk": 854432,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 17,
+    "text": "I will bring distress on men So that they will walk like the blind, Because they have sinned against the LORD; And their blood will be poured out like dust And their flesh like dung."
+  },
+  {
+    "pk": 854433,
+    "translation": "NASB",
+    "book": 36,
+    "chapter": 1,
+    "verse": 18,
+    "text": "Neither their silver nor their gold Will be able to deliver them On the day of the LORD'S wrath; And all the earth will be devoured In the fire of His jealousy, For He will make a complete end, Indeed a terrifying one, Of all the inhabitants of the earth."
+  }
+];
