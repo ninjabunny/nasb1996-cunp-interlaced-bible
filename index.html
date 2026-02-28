@@ -6,15 +6,16 @@
   <title>Interlaced Bible App</title>
   <style>
     :root {
-      --bg: #f7f4ec;
-      --panel: #fffdfa;
-      --text: #1a1916;
-      --muted: #6e6658;
-      --line: #ddd2be;
-      --accent: #8b5e34;
-      --accent-2: #2d6670;
+      --bg: #eaf5ff;
+      --panel: #f8fcff;
+      --text: #102133;
+      --muted: #4a647a;
+      --line: #c6dff3;
+      --accent: #1b5fa8;
+      --accent-2: #0c8aa8;
       --error: #8d1d1d;
       --ok: #1f6a2f;
+      --verse-font-size: 0.97rem;
     }
 
     * {
@@ -26,8 +27,8 @@
       font-family: "Avenir Next", "PingFang TC", "Noto Sans CJK TC", "Segoe UI", sans-serif;
       color: var(--text);
       background:
-        radial-gradient(1200px 800px at 95% -10%, #efe1c9 0%, transparent 60%),
-        radial-gradient(900px 600px at -5% 5%, #f0eddc 0%, transparent 50%),
+        radial-gradient(1200px 800px at 95% -10%, #cde7ff 0%, transparent 60%),
+        radial-gradient(900px 600px at -5% 5%, #dff1ff 0%, transparent 50%),
         var(--bg);
       min-height: 100vh;
     }
@@ -57,13 +58,13 @@
 
     .controls {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr auto auto;
       gap: 10px;
       padding: 12px;
       border: 1px solid var(--line);
       border-radius: 14px;
       background: var(--panel);
-      box-shadow: 0 8px 30px rgba(30, 26, 20, 0.06);
+      box-shadow: 0 8px 30px rgba(14, 58, 105, 0.08);
       position: sticky;
       top: 0;
       z-index: 5;
@@ -81,31 +82,55 @@
       color: var(--text);
     }
 
-    .status {
-      margin-top: 10px;
-      min-height: 24px;
-      padding: 7px 10px;
-      border-left: 3px solid var(--line);
-      color: var(--muted);
-      background: rgba(255, 255, 255, 0.65);
-      border-radius: 6px;
+    .chapter-controls {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .chapter-picker {
+      min-width: 150px;
+    }
+
+    .font-controls {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      justify-content: flex-end;
+    }
+
+    .font-btn {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      color: var(--text);
+      padding: 8px 10px;
       font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      min-width: 44px;
     }
 
-    .status.ok {
-      border-left-color: var(--ok);
-      color: #194f25;
+    .chapter-btn {
+      min-width: 40px;
+      padding: 8px 8px;
+      font-size: 1rem;
+      line-height: 1;
     }
 
-    .status.error {
-      border-left-color: var(--error);
-      color: var(--error);
+    .font-btn:hover {
+      border-color: var(--accent);
+    }
+
+    .font-btn:disabled {
+      opacity: 0.45;
+      cursor: default;
     }
 
     .chapter-title {
       margin: 16px 0 8px;
       font-size: 1.05rem;
-      color: #473522;
+      color: #164b82;
       font-weight: 700;
     }
 
@@ -121,7 +146,7 @@
       display: grid;
       grid-template-columns: 58px 1fr;
       gap: 0;
-      border-top: 1px solid #ebe2d2;
+      border-top: 1px solid #d8e8f7;
     }
 
     .verse-row:first-child {
@@ -132,9 +157,9 @@
       padding: 10px 8px;
       text-align: center;
       font-size: 0.85rem;
-      color: #5e5546;
-      border-right: 1px solid #ebe2d2;
-      background: linear-gradient(180deg, #f9f2e7 0%, #f7efe1 100%);
+      color: #35536f;
+      border-right: 1px solid #d8e8f7;
+      background: linear-gradient(180deg, #edf7ff 0%, #e2f1ff 100%);
       font-variant-numeric: tabular-nums;
       font-weight: 700;
     }
@@ -162,23 +187,31 @@
 
     .verse-text {
       line-height: 1.5;
-      font-size: 0.97rem;
+      font-size: var(--verse-font-size);
       word-break: break-word;
     }
 
     .verse-text .entity {
-      color: #7b3f00;
+      color: #1b5fa8;
       font-weight: 700;
     }
 
     .missing {
-      color: #8b7d67;
+      color: #5e7991;
       font-style: italic;
     }
 
     @media (max-width: 760px) {
       .controls {
         grid-template-columns: 1fr;
+      }
+
+      .chapter-controls {
+        justify-content: flex-start;
+      }
+
+      .font-controls {
+        justify-content: flex-start;
       }
 
       .verse-row {
@@ -195,17 +228,20 @@
   <main class="app">
     <header class="header">
       <h1 class="title">Interlaced Bible</h1>
-      <p class="subtitle">NASB 1995 + CUNP (book/chapter view, lazy-loaded from assets)</p>
     </header>
 
     <section class="controls" aria-label="Controls">
       <select id="bookSelect" disabled aria-label="Book"></select>
-      <select id="chapterSelect" disabled aria-label="Chapter"></select>
+      <div class="chapter-controls" aria-label="Chapter navigation controls">
+        <button id="chapterPrev" class="font-btn chapter-btn" type="button" aria-label="Previous chapter">&larr;</button>
+        <select id="chapterSelect" class="chapter-picker" disabled aria-label="Chapter"></select>
+        <button id="chapterNext" class="font-btn chapter-btn" type="button" aria-label="Next chapter">&rarr;</button>
+      </div>
+      <div class="font-controls" aria-label="Font size controls">
+        <button id="fontDown" class="font-btn" type="button" aria-label="Decrease font size">A-</button>
+        <button id="fontUp" class="font-btn" type="button" aria-label="Increase font size">A+</button>
+      </div>
     </section>
-
-    <div id="status" class="status" role="status">
-      Loading Bible indexes from <code>assets/</code>...
-    </div>
 
     <h2 id="chapterTitle" class="chapter-title"></h2>
     <section id="verses" class="verses" aria-live="polite"></section>
@@ -288,24 +324,99 @@
         cunpIndex: null,
         loadedScriptKeys: new Set()
       };
+      const FONT_STORAGE_KEY = 'interlaced_font_size_rem';
+      const LOCATION_STORAGE_KEY = 'interlaced_reading_location';
+      const FONT_MIN = 0.85;
+      const FONT_STEP = 0.05;
+      const FONT_DEFAULT = 0.97;
 
       const bookSelect = document.getElementById('bookSelect');
       const chapterSelect = document.getElementById('chapterSelect');
-      const statusEl = document.getElementById('status');
+      const chapterPrevBtn = document.getElementById('chapterPrev');
+      const chapterNextBtn = document.getElementById('chapterNext');
+      const fontDownBtn = document.getElementById('fontDown');
+      const fontUpBtn = document.getElementById('fontUp');
       const chapterTitleEl = document.getElementById('chapterTitle');
       const versesEl = document.getElementById('verses');
+
+      function clampFontSize(value) {
+        return Math.max(FONT_MIN, value);
+      }
+
+      function applyFontSize(size) {
+        const clamped = clampFontSize(size);
+        document.documentElement.style.setProperty('--verse-font-size', `${clamped.toFixed(2)}rem`);
+        try {
+          localStorage.setItem(FONT_STORAGE_KEY, String(clamped));
+        } catch {
+          // ignore storage failures
+        }
+      }
+
+      function loadInitialFontSize() {
+        let size = FONT_DEFAULT;
+        try {
+          const raw = localStorage.getItem(FONT_STORAGE_KEY);
+          const parsed = raw === null ? NaN : Number.parseFloat(raw);
+          if (Number.isFinite(parsed)) {
+            size = parsed;
+          }
+        } catch {
+          // ignore storage failures
+        }
+        applyFontSize(size);
+      }
+
+      function adjustFontSize(delta) {
+        const current = Number.parseFloat(
+          getComputedStyle(document.documentElement).getPropertyValue('--verse-font-size')
+        );
+        const fallback = Number.isFinite(current) ? current : FONT_DEFAULT;
+        applyFontSize(fallback + delta);
+      }
+
+      function saveReadingLocation() {
+        if (!bookSelect.value || !chapterSelect.value) {
+          return;
+        }
+        try {
+          localStorage.setItem(
+            LOCATION_STORAGE_KEY,
+            JSON.stringify({
+              bookId: String(bookSelect.value),
+              chapterId: String(chapterSelect.value)
+            })
+          );
+        } catch {
+          // ignore storage failures
+        }
+      }
+
+      function loadSavedReadingLocation() {
+        try {
+          const raw = localStorage.getItem(LOCATION_STORAGE_KEY);
+          if (!raw) {
+            return null;
+          }
+          const parsed = JSON.parse(raw);
+          if (!parsed || typeof parsed !== 'object') {
+            return null;
+          }
+          if (!parsed.bookId || !parsed.chapterId) {
+            return null;
+          }
+          return {
+            bookId: String(parsed.bookId),
+            chapterId: String(parsed.chapterId)
+          };
+        } catch {
+          return null;
+        }
+      }
 
       function clearVerses() {
         versesEl.innerHTML = '';
         chapterTitleEl.textContent = '';
-      }
-
-      function renderStatus(message, kind) {
-        statusEl.textContent = message;
-        statusEl.classList.remove('ok', 'error');
-        if (kind === 'ok' || kind === 'error') {
-          statusEl.classList.add(kind);
-        }
       }
 
       async function readJsonWithFetch(url) {
@@ -432,6 +543,30 @@
         bookSelect.disabled = false;
       }
 
+      function restoreReadingLocation() {
+        const saved = loadSavedReadingLocation();
+        if (!saved || !state.nasbIndex || !Array.isArray(state.nasbIndex.books)) {
+          return false;
+        }
+
+        const savedBook = state.nasbIndex.books.find((book) => String(book.bookId) === saved.bookId);
+        if (!savedBook) {
+          return false;
+        }
+
+        bookSelect.value = saved.bookId;
+        populateChapterSelect(bookSelect.value);
+
+        const savedChapter = savedBook.chapters.find((chapter) => String(chapter.chapterId) === saved.chapterId);
+        if (!savedChapter) {
+          return false;
+        }
+
+        chapterSelect.value = saved.chapterId;
+        updateChapterNavButtons();
+        return true;
+      }
+
       function getBookEntry(indexData, bookId) {
         return indexData.books.find((book) => book.bookId === bookId) || null;
       }
@@ -441,6 +576,8 @@
         chapterSelect.innerHTML = '';
         if (!nasbBook) {
           chapterSelect.disabled = true;
+          chapterPrevBtn.disabled = true;
+          chapterNextBtn.disabled = true;
           return;
         }
 
@@ -452,6 +589,94 @@
         }
 
         chapterSelect.disabled = false;
+        updateChapterNavButtons();
+      }
+
+      function getCurrentBookPosition() {
+        if (!state.nasbIndex || !Array.isArray(state.nasbIndex.books)) {
+          return -1;
+        }
+        return state.nasbIndex.books.findIndex((book) => String(book.bookId) === String(bookSelect.value));
+      }
+
+      function getCurrentChapterPosition(bookEntry) {
+        if (!bookEntry || !Array.isArray(bookEntry.chapters)) {
+          return -1;
+        }
+        return bookEntry.chapters.findIndex((chapter) => String(chapter.chapterId) === String(chapterSelect.value));
+      }
+
+      function updateChapterNavButtons() {
+        const bookPos = getCurrentBookPosition();
+        if (bookPos < 0) {
+          chapterPrevBtn.disabled = true;
+          chapterNextBtn.disabled = true;
+          return;
+        }
+
+        const bookEntry = state.nasbIndex.books[bookPos];
+        const chapterPos = getCurrentChapterPosition(bookEntry);
+        if (chapterPos < 0) {
+          chapterPrevBtn.disabled = true;
+          chapterNextBtn.disabled = true;
+          return;
+        }
+
+        const hasPrevChapter = chapterPos > 0 || bookPos > 0;
+        const hasNextChapter =
+          chapterPos < bookEntry.chapters.length - 1 || bookPos < state.nasbIndex.books.length - 1;
+
+        chapterPrevBtn.disabled = !hasPrevChapter;
+        chapterNextBtn.disabled = !hasNextChapter;
+      }
+
+      async function navigateChapter(direction) {
+        if (!state.nasbIndex || !state.nasbIndex.books.length) {
+          return;
+        }
+
+        const bookPos = getCurrentBookPosition();
+        if (bookPos < 0) {
+          return;
+        }
+
+        const currentBook = state.nasbIndex.books[bookPos];
+        const chapterPos = getCurrentChapterPosition(currentBook);
+        if (chapterPos < 0) {
+          return;
+        }
+
+        let nextBookPos = bookPos;
+        let nextChapterPos = chapterPos + direction;
+
+        if (nextChapterPos < 0) {
+          if (bookPos === 0) {
+            return;
+          }
+          nextBookPos = bookPos - 1;
+          nextChapterPos = state.nasbIndex.books[nextBookPos].chapters.length - 1;
+        } else if (nextChapterPos >= currentBook.chapters.length) {
+          if (bookPos >= state.nasbIndex.books.length - 1) {
+            return;
+          }
+          nextBookPos = bookPos + 1;
+          nextChapterPos = 0;
+        }
+
+        const nextBook = state.nasbIndex.books[nextBookPos];
+        const nextChapter = nextBook.chapters[nextChapterPos];
+        if (!nextBook || !nextChapter) {
+          return;
+        }
+
+        if (String(bookSelect.value) !== String(nextBook.bookId)) {
+          bookSelect.value = String(nextBook.bookId);
+          populateChapterSelect(bookSelect.value);
+        }
+
+        chapterSelect.value = String(nextChapter.chapterId);
+        updateChapterNavButtons();
+        await renderCurrentChapter();
       }
 
       async function loadChapterVerses(translation, bookId, chapterId) {
@@ -522,10 +747,6 @@
         const wrapper = document.createElement('div');
         wrapper.className = 'translation';
 
-        const tag = document.createElement('div');
-        tag.className = `tag ${tagClass}`;
-        tag.textContent = tagText;
-
         const body = document.createElement('div');
         body.className = 'verse-text';
         if (value === null || value === '') {
@@ -535,7 +756,6 @@
           body.innerHTML = renderVerseTextHtml(value);
         }
 
-        wrapper.appendChild(tag);
         wrapper.appendChild(body);
         return wrapper;
       }
@@ -605,7 +825,6 @@
         const bookNumber = nasbBook ? nasbBook.book : Number.parseInt(bookId, 10);
 
         chapterTitleEl.textContent = `${getBookLabel(bookNumber)} - Chapter ${chapterNumber}`;
-        renderStatus('Loading chapter...', null);
 
         const [nasbVerses, cunpVerses] = await Promise.all([
           loadChapterVerses('nasb', bookId, chapterId),
@@ -614,11 +833,7 @@
 
         const rows = buildInterlacedRows(nasbVerses, cunpVerses);
         renderRows(rows);
-
-        const nasbCount = nasbVerses.length;
-        const cunpCount = cunpVerses.length;
-        const mismatch = nasbCount === cunpCount ? '' : ` (mismatch: NASB ${nasbCount}, CUNP ${cunpCount})`;
-        renderStatus(`Loaded ${getBookLabel(bookNumber)} Chapter ${chapterNumber}.${mismatch}`, 'ok');
+        saveReadingLocation();
       }
 
       async function loadIndices() {
@@ -645,25 +860,44 @@
       });
 
       chapterSelect.addEventListener('change', async () => {
+        updateChapterNavButtons();
         await renderCurrentChapter();
       });
 
+      chapterPrevBtn.addEventListener('click', async () => {
+        await navigateChapter(-1);
+      });
+
+      chapterNextBtn.addEventListener('click', async () => {
+        await navigateChapter(1);
+      });
+
+      fontDownBtn.addEventListener('click', () => {
+        adjustFontSize(-FONT_STEP);
+      });
+
+      fontUpBtn.addEventListener('click', () => {
+        adjustFontSize(FONT_STEP);
+      });
+
       clearVerses();
+      loadInitialFontSize();
 
       (async function init() {
         try {
           state.assetBasePath = await detectAssetBasePath();
           await loadIndices();
           populateBookSelect();
-          populateChapterSelect(bookSelect.value);
+          if (!restoreReadingLocation()) {
+            populateChapterSelect(bookSelect.value);
+          }
           await renderCurrentChapter();
         } catch (error) {
-          renderStatus(
-            `${error.message || 'Failed to load assets.'} Keep index.html beside assets/. If opened via file:// and blocked, launch Chrome with --allow-file-access-from-files.`,
-            'error'
-          );
+          console.error(error);
           bookSelect.disabled = true;
           chapterSelect.disabled = true;
+          chapterPrevBtn.disabled = true;
+          chapterNextBtn.disabled = true;
         }
       })();
     })();
