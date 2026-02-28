@@ -48,6 +48,7 @@
       font-size: clamp(1.4rem, 2.6vw, 2rem);
       line-height: 1.2;
       letter-spacing: 0.02em;
+      cursor: pointer;
     }
 
     .subtitle {
@@ -201,6 +202,34 @@
       font-style: italic;
     }
 
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      background: rgba(10, 28, 46, 0.38);
+      z-index: 20;
+      padding: 16px;
+    }
+
+    .modal-backdrop.open {
+      display: flex;
+    }
+
+    .modal {
+      width: min(460px, 100%);
+      background: #f8fcff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 22px 18px;
+      box-shadow: 0 14px 40px rgba(10, 40, 80, 0.22);
+      text-align: center;
+      color: var(--text);
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
     @media (max-width: 760px) {
       .controls {
         grid-template-columns: 1fr;
@@ -227,7 +256,7 @@
 <body>
   <main class="app">
     <header class="header">
-      <h1 class="title">Interlaced Bible</h1>
+      <h1 id="appTitle" class="title">Interlaced NASB+CUNP Bible</h1>
     </header>
 
     <section class="controls" aria-label="Controls">
@@ -246,6 +275,12 @@
     <h2 id="chapterTitle" class="chapter-title"></h2>
     <section id="verses" class="verses" aria-live="polite"></section>
   </main>
+
+  <div id="titleModalBackdrop" class="modal-backdrop" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-label="Dedication">
+      for my loving wife ❤️ Acts 17:11 
+    </div>
+  </div>
 
   <script>
     (function () {
@@ -332,12 +367,24 @@
 
       const bookSelect = document.getElementById('bookSelect');
       const chapterSelect = document.getElementById('chapterSelect');
+      const appTitleEl = document.getElementById('appTitle');
+      const titleModalBackdropEl = document.getElementById('titleModalBackdrop');
       const chapterPrevBtn = document.getElementById('chapterPrev');
       const chapterNextBtn = document.getElementById('chapterNext');
       const fontDownBtn = document.getElementById('fontDown');
       const fontUpBtn = document.getElementById('fontUp');
       const chapterTitleEl = document.getElementById('chapterTitle');
       const versesEl = document.getElementById('verses');
+
+      function openTitleModal() {
+        titleModalBackdropEl.classList.add('open');
+        titleModalBackdropEl.setAttribute('aria-hidden', 'false');
+      }
+
+      function closeTitleModal() {
+        titleModalBackdropEl.classList.remove('open');
+        titleModalBackdropEl.setAttribute('aria-hidden', 'true');
+      }
 
       function clampFontSize(value) {
         return Math.max(FONT_MIN, value);
@@ -679,6 +726,43 @@
         await renderCurrentChapter();
       }
 
+      async function jumpToBookChapter(bookNumber, chapterNumber) {
+        if (!state.nasbIndex || !Array.isArray(state.nasbIndex.books)) {
+          return;
+        }
+
+        const targetBook = state.nasbIndex.books.find((book) => Number(book.book) === Number(bookNumber));
+        if (!targetBook) {
+          return;
+        }
+
+        bookSelect.value = String(targetBook.bookId);
+        populateChapterSelect(bookSelect.value);
+
+        const targetChapter = targetBook.chapters.find((chapter) => Number(chapter.chapter) === Number(chapterNumber));
+        if (!targetChapter) {
+          return;
+        }
+
+        chapterSelect.value = String(targetChapter.chapterId);
+        updateChapterNavButtons();
+        await renderCurrentChapter();
+      }
+
+      function scrollToVerse(verseNumber) {
+        const verseRow = versesEl.querySelector(`.verse-row[data-verse-number="${verseNumber}"]`);
+        if (!verseRow) {
+          return;
+        }
+        verseRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+
+      function wait(ms) {
+        return new Promise((resolve) => {
+          setTimeout(resolve, ms);
+        });
+      }
+
       async function loadChapterVerses(translation, bookId, chapterId) {
         const indexData = translation === 'nasb' ? state.nasbIndex : state.cunpIndex;
         const book = getBookEntry(indexData, bookId);
@@ -789,6 +873,7 @@
         for (const row of rows) {
           const verseRow = document.createElement('article');
           verseRow.className = 'verse-row';
+          verseRow.dataset.verseNumber = String(row.verseNumber);
 
           const verseNo = document.createElement('div');
           verseNo.className = 'verse-no';
@@ -878,6 +963,27 @@
 
       fontUpBtn.addEventListener('click', () => {
         adjustFontSize(FONT_STEP);
+      });
+
+      appTitleEl.addEventListener('click', () => {
+        (async function () {
+          await jumpToBookChapter(44, 17);
+          scrollToVerse(11);
+          await wait(450);
+          openTitleModal();
+        })();
+      });
+
+      titleModalBackdropEl.addEventListener('click', (event) => {
+        if (event.target === titleModalBackdropEl) {
+          closeTitleModal();
+        }
+      });
+
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && titleModalBackdropEl.classList.contains('open')) {
+          closeTitleModal();
+        }
       });
 
       clearVerses();
