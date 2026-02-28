@@ -189,12 +189,27 @@
       font-weight: 700;
     }
 
+    .chapter-block-title {
+      margin: 0;
+      padding: 10px 12px;
+      border-top: 1px solid var(--row-line);
+      border-bottom: 1px solid var(--row-line);
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: var(--chapter-title-color);
+      background: color-mix(in srgb, var(--panel) 90%, var(--bg) 10%);
+    }
+
     .verses {
       margin-top: 8px;
       border: 1px solid var(--line);
       border-radius: 14px;
       overflow: hidden;
       background: var(--panel);
+    }
+
+    #scrollSentinel {
+      height: 1px;
     }
 
     .verse-row {
@@ -353,6 +368,7 @@
 
     <h2 id="chapterTitle" class="chapter-title"></h2>
     <section id="verses" class="verses" aria-live="polite"></section>
+    <div id="scrollSentinel" aria-hidden="true"></div>
   </main>
 
   <div id="titleModalBackdrop" class="modal-backdrop" aria-hidden="true">
@@ -439,8 +455,9 @@
         nasbIndex: null,
         cunpIndex: null,
         loadedScriptKeys: new Set(),
-        currentBookNumber: null,
-        currentChapterNumber: null
+        activeSessionId: 0,
+        lastLoadedChapterRef: null,
+        isLoadingMore: false
       };
       const FONT_STORAGE_KEY = 'interlaced_font_size_rem';
       const LOCATION_STORAGE_KEY = 'interlaced_reading_location';
@@ -460,8 +477,10 @@
       const themeToggleBtn = document.getElementById('themeToggle');
       const chapterTitleEl = document.getElementById('chapterTitle');
       const versesEl = document.getElementById('verses');
+      const scrollSentinelEl = document.getElementById('scrollSentinel');
       const copyToastEl = document.getElementById('copyToast');
       let copyToastTimer = null;
+      let infiniteObserver = null;
 
       function openTitleModal() {
         titleModalBackdropEl.classList.add('open');
@@ -595,6 +614,10 @@
       }
 
       function clearVerses() {
+        if (infiniteObserver) {
+          infiniteObserver.disconnect();
+          infiniteObserver = null;
+        }
         versesEl.innerHTML = '';
         chapterTitleEl.textContent = '';
       }
@@ -977,8 +1000,8 @@
         return wrapper;
       }
 
-      function formatVerseForCopy(row) {
-        const reference = `${getBookLabel(state.currentBookNumber)} ${state.currentChapterNumber}:${row.verseNumber}`;
+      function formatVerseForCopy(row, bookNumber, chapterNumber) {
+        const reference = `${getBookLabel(bookNumber)} ${chapterNumber}:${row.verseNumber}`;
         const nasbLine = `NASB: ${row.nasbText === null || row.nasbText === '' ? '(missing)' : row.nasbText}`;
         const cunpLine = `CUNP: ${row.cunpText === null || row.cunpText === '' ? '(missing)' : row.cunpText}`;
         return `${reference}\n${nasbLine}\n${cunpLine}`;
@@ -1021,15 +1044,67 @@
         }, 900);
       }
 
-      async function handleCopyVerse(row) {
-        const ok = await copyText(formatVerseForCopy(row));
+      async function handleCopyVerse(row, bookNumber, chapterNumber) {
+        const ok = await copyText(formatVerseForCopy(row, bookNumber, chapterNumber));
         if (ok) {
           showCopyToast();
         }
       }
 
-      function renderRows(rows) {
-        versesEl.innerHTML = '';
+      function getChapterMeta(bookId, chapterId) {
+        const bookEntry = getBookEntry(state.nasbIndex, bookId);
+        if (!bookEntry) {
+          return null;
+        }
+        const chapterEntry = bookEntry.chapters.find((entry) => String(entry.chapterId) === String(chapterId));
+        if (!chapterEntry) {
+          return null;
+        }
+        return {
+          bookId: String(bookEntry.bookId),
+          chapterId: String(chapterEntry.chapterId),
+          bookNumber: Number(bookEntry.book),
+          chapterNumber: Number(chapterEntry.chapter)
+        };
+      }
+
+      function getNextChapterRef(bookId, chapterId) {
+        const books = state.nasbIndex && Array.isArray(state.nasbIndex.books) ? state.nasbIndex.books : [];
+        if (!books.length) {
+          return null;
+        }
+        const bookPos = books.findIndex((book) => String(book.bookId) === String(bookId));
+        if (bookPos < 0) {
+          return null;
+        }
+        const chapters = books[bookPos].chapters || [];
+        const chapterPos = chapters.findIndex((chapter) => String(chapter.chapterId) === String(chapterId));
+        if (chapterPos < 0) {
+          return null;
+        }
+
+        if (chapterPos < chapters.length - 1) {
+          return {
+            bookId: String(books[bookPos].bookId),
+            chapterId: String(chapters[chapterPos + 1].chapterId)
+          };
+        }
+
+        if (bookPos < books.length - 1) {
+          return {
+            bookId: String(books[bookPos + 1].bookId),
+            chapterId: String(books[bookPos + 1].chapters[0].chapterId)
+          };
+        }
+
+        return null;
+      }
+
+      function appendChapterSection(rows, meta) {
+        const sectionTitle = document.createElement('h3');
+        sectionTitle.className = 'chapter-block-title';
+        sectionTitle.textContent = `${getBookLabel(meta.bookNumber)} - Chapter ${meta.chapterNumber}`;
+        versesEl.appendChild(sectionTitle);
 
         if (!rows.length) {
           const empty = document.createElement('div');
@@ -1053,13 +1128,12 @@
         }
 
         const fragment = document.createDocumentFragment();
-
         for (const row of rows) {
           const verseRow = document.createElement('article');
           verseRow.className = 'verse-row';
           verseRow.dataset.verseNumber = String(row.verseNumber);
           verseRow.addEventListener('click', async () => {
-            await handleCopyVerse(row);
+            await handleCopyVerse(row, meta.bookNumber, meta.chapterNumber);
           });
 
           const verseNo = document.createElement('div');
@@ -1075,8 +1149,71 @@
           verseRow.appendChild(content);
           fragment.appendChild(verseRow);
         }
-
         versesEl.appendChild(fragment);
+      }
+
+      async function appendChapterByRef(chapterRef, sessionId) {
+        if (sessionId !== state.activeSessionId) {
+          return false;
+        }
+        const meta = getChapterMeta(chapterRef.bookId, chapterRef.chapterId);
+        if (!meta) {
+          return false;
+        }
+
+        const [nasbVerses, cunpVerses] = await Promise.all([
+          loadChapterVerses('nasb', meta.bookId, meta.chapterId),
+          loadChapterVerses('cunp', meta.bookId, meta.chapterId)
+        ]);
+        if (sessionId !== state.activeSessionId) {
+          return false;
+        }
+
+        const rows = buildInterlacedRows(nasbVerses, cunpVerses);
+        appendChapterSection(rows, meta);
+        state.lastLoadedChapterRef = { bookId: meta.bookId, chapterId: meta.chapterId };
+        return true;
+      }
+
+      async function maybeLoadNextChapter(sessionId) {
+        if (state.isLoadingMore || sessionId !== state.activeSessionId || !state.lastLoadedChapterRef) {
+          return;
+        }
+        const nextRef = getNextChapterRef(state.lastLoadedChapterRef.bookId, state.lastLoadedChapterRef.chapterId);
+        if (!nextRef) {
+          return;
+        }
+        state.isLoadingMore = true;
+        try {
+          await appendChapterByRef(nextRef, sessionId);
+        } finally {
+          state.isLoadingMore = false;
+        }
+      }
+
+      function resetInfiniteObserver() {
+        if (infiniteObserver) {
+          infiniteObserver.disconnect();
+          infiniteObserver = null;
+        }
+      }
+
+      function setupInfiniteObserver(sessionId) {
+        resetInfiniteObserver();
+        if (!('IntersectionObserver' in window)) {
+          return;
+        }
+        infiniteObserver = new IntersectionObserver(
+          async (entries) => {
+            const visible = entries.some((entry) => entry.isIntersecting);
+            if (!visible) {
+              return;
+            }
+            await maybeLoadNextChapter(sessionId);
+          },
+          { root: null, rootMargin: '700px 0px', threshold: 0 }
+        );
+        infiniteObserver.observe(scrollSentinelEl);
       }
 
       async function renderCurrentChapter() {
@@ -1086,27 +1223,26 @@
 
         const bookId = bookSelect.value;
         const chapterId = chapterSelect.value;
-
         if (!bookId || !chapterId) {
           clearVerses();
           return;
         }
 
-        const nasbBook = getBookEntry(state.nasbIndex, bookId);
-        const chapterNumber = Number.parseInt(chapterId, 10);
-        const bookNumber = nasbBook ? nasbBook.book : Number.parseInt(bookId, 10);
-        state.currentBookNumber = bookNumber;
-        state.currentChapterNumber = chapterNumber;
+        const initialMeta = getChapterMeta(bookId, chapterId);
+        if (!initialMeta) {
+          clearVerses();
+          return;
+        }
 
-        chapterTitleEl.textContent = `${getBookLabel(bookNumber)} - Chapter ${chapterNumber}`;
+        const sessionId = state.activeSessionId + 1;
+        state.activeSessionId = sessionId;
+        state.lastLoadedChapterRef = null;
+        state.isLoadingMore = false;
+        versesEl.innerHTML = '';
+        chapterTitleEl.textContent = `${getBookLabel(initialMeta.bookNumber)} - Chapter ${initialMeta.chapterNumber}`;
 
-        const [nasbVerses, cunpVerses] = await Promise.all([
-          loadChapterVerses('nasb', bookId, chapterId),
-          loadChapterVerses('cunp', bookId, chapterId)
-        ]);
-
-        const rows = buildInterlacedRows(nasbVerses, cunpVerses);
-        renderRows(rows);
+        await appendChapterByRef({ bookId: initialMeta.bookId, chapterId: initialMeta.chapterId }, sessionId);
+        setupInfiniteObserver(sessionId);
         saveReadingLocation();
       }
 
