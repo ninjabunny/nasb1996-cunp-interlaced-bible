@@ -182,13 +182,6 @@
       cursor: default;
     }
 
-    .chapter-title {
-      margin: 16px 0 8px;
-      font-size: 1.05rem;
-      color: var(--chapter-title-color);
-      font-weight: 700;
-    }
-
     .chapter-block-title {
       margin: 0;
       padding: 10px 12px;
@@ -333,7 +326,7 @@
       }
 
       .font-controls {
-        justify-content: flex-start;
+        display: none;
       }
 
       .verse-row {
@@ -366,7 +359,6 @@
       </div>
     </section>
 
-    <h2 id="chapterTitle" class="chapter-title"></h2>
     <section id="verses" class="verses" aria-live="polite"></section>
     <div id="scrollSentinel" aria-hidden="true"></div>
   </main>
@@ -475,7 +467,6 @@
       const fontDownBtn = document.getElementById('fontDown');
       const fontUpBtn = document.getElementById('fontUp');
       const themeToggleBtn = document.getElementById('themeToggle');
-      const chapterTitleEl = document.getElementById('chapterTitle');
       const versesEl = document.getElementById('verses');
       const scrollSentinelEl = document.getElementById('scrollSentinel');
       const copyToastEl = document.getElementById('copyToast');
@@ -619,7 +610,6 @@
           infiniteObserver = null;
         }
         versesEl.innerHTML = '';
-        chapterTitleEl.textContent = '';
       }
 
       async function readJsonWithFetch(url) {
@@ -1239,7 +1229,6 @@
         state.lastLoadedChapterRef = null;
         state.isLoadingMore = false;
         versesEl.innerHTML = '';
-        chapterTitleEl.textContent = `${getBookLabel(initialMeta.bookNumber)} - Chapter ${initialMeta.chapterNumber}`;
 
         await appendChapterByRef({ bookId: initialMeta.bookId, chapterId: initialMeta.chapterId }, sessionId);
         setupInfiniteObserver(sessionId);
