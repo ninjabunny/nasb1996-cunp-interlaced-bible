@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#eaf5ff">
+  <meta id="themeColorMeta" name="theme-color" content="#eaf5ff">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Interlaced Bible">
@@ -86,6 +86,10 @@
 
     * {
       box-sizing: border-box;
+    }
+
+    html {
+      background: var(--bg);
     }
 
     body {
@@ -614,6 +618,7 @@
       const fontDownBtn = document.getElementById('fontDown');
       const fontUpBtn = document.getElementById('fontUp');
       const themeToggleBtn = document.getElementById('themeToggle');
+      const themeColorMetaEl = document.getElementById('themeColorMeta');
       const versesEl = document.getElementById('verses');
       const scrollSentinelEl = document.getElementById('scrollSentinel');
       const copyToastEl = document.getElementById('copyToast');
@@ -663,10 +668,18 @@
         }
       }
 
+      function updateThemeMetaColor(theme) {
+        if (!themeColorMetaEl) {
+          return;
+        }
+        themeColorMetaEl.setAttribute('content', theme === 'dark' ? '#0c1724' : '#eaf5ff');
+      }
+
       function applyTheme(theme) {
         const resolvedTheme = theme === 'dark' ? 'dark' : 'light';
         document.documentElement.setAttribute('data-theme', resolvedTheme);
         updateThemeToggleLabel(resolvedTheme);
+        updateThemeMetaColor(resolvedTheme);
       }
 
       function loadInitialTheme() {
