@@ -329,6 +329,11 @@
         display: none;
       }
 
+      body.mobile-at-top .font-controls {
+        display: flex;
+        justify-content: flex-start;
+      }
+
       .verse-row {
         grid-template-columns: 46px 1fr;
       }
@@ -472,6 +477,7 @@
       const copyToastEl = document.getElementById('copyToast');
       let copyToastTimer = null;
       let infiniteObserver = null;
+      const mobileMediaQuery = window.matchMedia('(max-width: 760px)');
 
       function openTitleModal() {
         titleModalBackdropEl.classList.add('open');
@@ -527,6 +533,14 @@
         } catch {
           // ignore storage failures
         }
+      }
+
+      function updateMobileTopControlsVisibility() {
+        if (!mobileMediaQuery.matches) {
+          document.body.classList.remove('mobile-at-top');
+          return;
+        }
+        document.body.classList.toggle('mobile-at-top', window.scrollY <= 12);
       }
 
       function clampFontSize(value) {
@@ -1304,9 +1318,18 @@
         }
       });
 
+      window.addEventListener('scroll', updateMobileTopControlsVisibility, { passive: true });
+      window.addEventListener('resize', updateMobileTopControlsVisibility);
+      if (typeof mobileMediaQuery.addEventListener === 'function') {
+        mobileMediaQuery.addEventListener('change', updateMobileTopControlsVisibility);
+      } else if (typeof mobileMediaQuery.addListener === 'function') {
+        mobileMediaQuery.addListener(updateMobileTopControlsVisibility);
+      }
+
       clearVerses();
       loadInitialTheme();
       loadInitialFontSize();
+      updateMobileTopControlsVisibility();
 
       (async function init() {
         try {
