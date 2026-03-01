@@ -1,4 +1,4 @@
-const VERSION = "v1";
+const VERSION = "v2";
 const STATIC_CACHE = `interlaced-static-${VERSION}`;
 const RUNTIME_CACHE = `interlaced-runtime-${VERSION}`;
 const PRECACHE_URLS = [
