@@ -1090,6 +1090,7 @@
         chapterSelect.value = String(nextChapter.chapterId);
         updateChapterNavButtons();
         await renderCurrentChapter();
+        window.scrollTo({ top: 0, behavior: 'auto' });
       }
 
       async function jumpToBookChapter(bookNumber, chapterNumber) {
