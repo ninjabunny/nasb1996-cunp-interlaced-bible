@@ -475,8 +475,21 @@
         <button id="chapterNext" class="font-btn chapter-btn" type="button" aria-label="Next chapter">&rarr;</button>
       </div>
       <div class="font-controls" aria-label="Font size controls">
-        <button id="fontDown" class="font-btn" type="button" aria-label="Decrease font size">A-</button>
-        <button id="fontUp" class="font-btn" type="button" aria-label="Increase font size">A+</button>
+        <button id="fontDown" class="font-btn" type="button" aria-label="Decrease font size" title="Decrease font size">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+            <circle cx="10.5" cy="10.5" r="6" fill="none" stroke="currentColor" stroke-width="1.8"></circle>
+            <line x1="14.8" y1="14.8" x2="20" y2="20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></line>
+            <line x1="8" y1="10.5" x2="13" y2="10.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></line>
+          </svg>
+        </button>
+        <button id="fontUp" class="font-btn" type="button" aria-label="Increase font size" title="Increase font size">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+            <circle cx="10.5" cy="10.5" r="6" fill="none" stroke="currentColor" stroke-width="1.8"></circle>
+            <line x1="14.8" y1="14.8" x2="20" y2="20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></line>
+            <line x1="8" y1="10.5" x2="13" y2="10.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></line>
+            <line x1="10.5" y1="8" x2="10.5" y2="13" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></line>
+          </svg>
+        </button>
         <button id="themeToggle" class="font-btn" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">&#127769;</button>
       </div>
     </section>
