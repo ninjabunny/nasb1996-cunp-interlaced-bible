@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta id="themeColorMeta" name="theme-color" content="#eaf5ff">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -89,6 +89,7 @@
     }
 
     html {
+      min-height: 100%;
       background: var(--bg);
     }
 
@@ -101,6 +102,8 @@
         radial-gradient(900px 600px at -5% 5%, var(--bg-glow-2) 0%, transparent 50%),
         var(--bg);
       min-height: 100vh;
+      min-height: 100dvh;
+      padding-bottom: env(safe-area-inset-bottom);
       transition: background var(--dur-fast) var(--ease-standard), color var(--dur-fast) var(--ease-standard);
     }
 
