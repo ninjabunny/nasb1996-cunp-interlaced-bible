@@ -49,6 +49,11 @@
       --error: #8d1d1d;
       --ok: #1f6a2f;
       --verse-font-size: 0.97rem;
+      --dur-fast: 180ms;
+      --dur-enter: 220ms;
+      --dur-slow: 260ms;
+      --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+      --ease-emphasized: cubic-bezier(0.2, 0.8, 0.2, 1);
     }
 
     [data-theme="dark"] {
@@ -85,6 +90,7 @@
         radial-gradient(900px 600px at -5% 5%, var(--bg-glow-2) 0%, transparent 50%),
         var(--bg);
       min-height: 100vh;
+      transition: background var(--dur-fast) var(--ease-standard), color var(--dur-fast) var(--ease-standard);
     }
 
     .app {
@@ -124,6 +130,11 @@
       top: 0;
       z-index: 5;
       backdrop-filter: blur(4px);
+      transition: box-shadow var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard);
+    }
+
+    .controls.scrolled {
+      box-shadow: 0 12px 34px rgba(14, 58, 105, 0.16);
     }
 
     select {
@@ -164,6 +175,7 @@
       font-weight: 700;
       cursor: pointer;
       min-width: 44px;
+      transition: transform var(--dur-fast) var(--ease-emphasized), border-color var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard), color var(--dur-fast) var(--ease-standard);
     }
 
     .chapter-btn {
@@ -175,6 +187,10 @@
 
     .font-btn:hover {
       border-color: var(--accent);
+    }
+
+    .font-btn:active {
+      transform: scale(0.97);
     }
 
     .font-btn:disabled {
@@ -191,6 +207,11 @@
       font-weight: 700;
       color: var(--chapter-title-color);
       background: color-mix(in srgb, var(--panel) 90%, var(--bg) 10%);
+      transition: color var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard);
+    }
+
+    .chapter-block .chapter-block-title + .verse-row {
+      border-top: none;
     }
 
     .verses {
@@ -199,6 +220,7 @@
       border-radius: 14px;
       overflow: hidden;
       background: var(--panel);
+      transition: background var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard);
     }
 
     #scrollSentinel {
@@ -211,6 +233,7 @@
       gap: 0;
       border-top: 1px solid var(--row-line);
       cursor: pointer;
+      transition: border-color var(--dur-fast) var(--ease-standard), box-shadow var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard);
     }
 
     .verse-row:first-child {
@@ -232,6 +255,65 @@
       padding: 10px 12px;
       display: grid;
       gap: 8px;
+    }
+
+    .chapter-block.motion-enter .verse-row,
+    .chapter-block.motion-enter .chapter-block-title {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+
+    .chapter-block.motion-enter-active .verse-row,
+    .chapter-block.motion-enter-active .chapter-block-title {
+      opacity: 1;
+      transform: translateY(0);
+      transition:
+        opacity var(--dur-enter) var(--ease-standard),
+        transform var(--dur-enter) var(--ease-standard);
+    }
+
+    .verse-row.verse-pulse {
+      box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 11%, transparent);
+      animation: versePulse var(--dur-fast) var(--ease-emphasized);
+    }
+
+    @keyframes versePulse {
+      0% { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 0%, transparent); }
+      50% { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 14%, transparent); }
+      100% { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 0%, transparent); }
+    }
+
+    .chapter-loading-indicator {
+      position: relative;
+      overflow: hidden;
+      padding: 10px 12px;
+      border-top: 1px solid var(--row-line);
+      color: var(--muted);
+      font-size: 0.82rem;
+      background: color-mix(in srgb, var(--panel) 92%, var(--bg) 8%);
+    }
+
+    .chapter-loading-indicator::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      transform: translateX(-100%);
+      background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 20%, transparent), transparent);
+      animation: loadingSweep 1200ms linear infinite;
+    }
+
+    .chapter-loading-indicator.error {
+      cursor: pointer;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    .chapter-loading-indicator.error::after {
+      display: none;
+    }
+
+    @keyframes loadingSweep {
+      to { transform: translateX(100%); }
     }
 
     .translation {
@@ -268,16 +350,28 @@
     .modal-backdrop {
       position: fixed;
       inset: 0;
-      display: none;
+      display: flex;
       align-items: center;
       justify-content: center;
       background: var(--modal-overlay);
       z-index: 20;
       padding: 16px;
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      transition: opacity var(--dur-fast) var(--ease-standard);
     }
 
     .modal-backdrop.open {
-      display: flex;
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
+    }
+
+    .modal-backdrop.closing {
+      opacity: 0;
+      visibility: visible;
+      pointer-events: none;
     }
 
     .modal {
@@ -291,6 +385,14 @@
       color: var(--text);
       font-size: 1.05rem;
       font-weight: 600;
+      opacity: 0;
+      transform: scale(0.96);
+      transition: opacity var(--dur-fast) var(--ease-standard), transform var(--dur-fast) var(--ease-emphasized), background var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard), color var(--dur-fast) var(--ease-standard);
+    }
+
+    .modal-backdrop.open .modal {
+      opacity: 1;
+      transform: scale(1);
     }
 
     .toast {
@@ -307,7 +409,7 @@
       font-weight: 700;
       opacity: 0;
       pointer-events: none;
-      transition: opacity 160ms ease, transform 160ms ease;
+      transition: opacity var(--dur-fast) var(--ease-standard), transform var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard), color var(--dur-fast) var(--ease-standard);
       z-index: 30;
     }
 
@@ -340,6 +442,21 @@
 
       .verse-content {
         padding: 10px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 1ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 1ms !important;
+        scroll-behavior: auto !important;
+      }
+
+      .chapter-block.motion-enter .verse-row,
+      .chapter-block.motion-enter .chapter-block-title {
+        opacity: 1;
+        transform: none;
       }
     }
   </style>
@@ -462,7 +579,12 @@
       const FONT_MIN = 0.85;
       const FONT_STEP = 0.05;
       const FONT_DEFAULT = 0.97;
+      const VERSE_STAGGER_MS = 14;
+      const VERSE_STAGGER_CAP_MS = 140;
+      const PULSE_MS = 300;
+      const MODAL_CLOSE_MS = 180;
 
+      const controlsEl = document.querySelector('.controls');
       const bookSelect = document.getElementById('bookSelect');
       const chapterSelect = document.getElementById('chapterSelect');
       const appTitleEl = document.getElementById('appTitle');
@@ -478,15 +600,31 @@
       let copyToastTimer = null;
       let infiniteObserver = null;
       const mobileMediaQuery = window.matchMedia('(max-width: 760px)');
+      const reducedMotionQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+      let modalCloseTimer = null;
+      let chapterSyncFramePending = false;
 
       function openTitleModal() {
+        if (modalCloseTimer !== null) {
+          clearTimeout(modalCloseTimer);
+          modalCloseTimer = null;
+        }
+        titleModalBackdropEl.classList.remove('closing');
         titleModalBackdropEl.classList.add('open');
         titleModalBackdropEl.setAttribute('aria-hidden', 'false');
       }
 
       function closeTitleModal() {
+        if (!titleModalBackdropEl.classList.contains('open')) {
+          return;
+        }
         titleModalBackdropEl.classList.remove('open');
-        titleModalBackdropEl.setAttribute('aria-hidden', 'true');
+        titleModalBackdropEl.classList.add('closing');
+        modalCloseTimer = setTimeout(() => {
+          titleModalBackdropEl.classList.remove('closing');
+          titleModalBackdropEl.setAttribute('aria-hidden', 'true');
+          modalCloseTimer = null;
+        }, MODAL_CLOSE_MS);
       }
 
       function getSystemTheme() {
@@ -536,11 +674,59 @@
       }
 
       function updateMobileTopControlsVisibility() {
+        controlsEl.classList.toggle('scrolled', window.scrollY > 12);
         if (!mobileMediaQuery.matches) {
           document.body.classList.remove('mobile-at-top');
           return;
         }
         document.body.classList.toggle('mobile-at-top', window.scrollY <= 12);
+      }
+
+      function syncSelectorsToChapterRef(bookId, chapterId) {
+        if (!bookId || !chapterId || !state.nasbIndex) {
+          return;
+        }
+        const currentBookId = String(bookSelect.value || '');
+        const currentChapterId = String(chapterSelect.value || '');
+        if (currentBookId === String(bookId) && currentChapterId === String(chapterId)) {
+          return;
+        }
+
+        if (currentBookId !== String(bookId)) {
+          bookSelect.value = String(bookId);
+          populateChapterSelect(bookSelect.value);
+        }
+        chapterSelect.value = String(chapterId);
+        updateChapterNavButtons();
+        saveReadingLocation();
+      }
+
+      function syncCurrentChapterFromViewport() {
+        const chapterBlocks = versesEl.querySelectorAll('.chapter-block[data-book-id][data-chapter-id]');
+        if (!chapterBlocks.length) {
+          return;
+        }
+        const pivot = window.innerHeight * 0.35;
+        let activeBlock = chapterBlocks[0];
+        for (const block of chapterBlocks) {
+          if (block.getBoundingClientRect().top <= pivot) {
+            activeBlock = block;
+            continue;
+          }
+          break;
+        }
+        syncSelectorsToChapterRef(activeBlock.dataset.bookId, activeBlock.dataset.chapterId);
+      }
+
+      function scheduleViewportChapterSync() {
+        if (chapterSyncFramePending) {
+          return;
+        }
+        chapterSyncFramePending = true;
+        requestAnimationFrame(() => {
+          chapterSyncFramePending = false;
+          syncCurrentChapterFromViewport();
+        });
       }
 
       function clampFontSize(value) {
@@ -1052,7 +1238,24 @@
         const ok = await copyText(formatVerseForCopy(row, bookNumber, chapterNumber));
         if (ok) {
           showCopyToast();
+          if (navigator.vibrate) {
+            try {
+              navigator.vibrate(8);
+            } catch {
+              // ignore vibration failures
+            }
+          }
         }
+        return ok;
+      }
+
+      function pulseVerseRow(verseRowEl) {
+        verseRowEl.classList.remove('verse-pulse');
+        void verseRowEl.offsetWidth;
+        verseRowEl.classList.add('verse-pulse');
+        setTimeout(() => {
+          verseRowEl.classList.remove('verse-pulse');
+        }, PULSE_MS);
       }
 
       function getChapterMeta(bookId, chapterId) {
@@ -1105,10 +1308,15 @@
       }
 
       function appendChapterSection(rows, meta) {
+        const chapterBlock = document.createElement('section');
+        chapterBlock.className = 'chapter-block motion-enter';
+        chapterBlock.dataset.bookId = meta.bookId;
+        chapterBlock.dataset.chapterId = meta.chapterId;
+
         const sectionTitle = document.createElement('h3');
         sectionTitle.className = 'chapter-block-title';
         sectionTitle.textContent = `${getBookLabel(meta.bookNumber)} - Chapter ${meta.chapterNumber}`;
-        versesEl.appendChild(sectionTitle);
+        chapterBlock.appendChild(sectionTitle);
 
         if (!rows.length) {
           const empty = document.createElement('div');
@@ -1127,18 +1335,32 @@
 
           empty.appendChild(no);
           empty.appendChild(content);
-          versesEl.appendChild(empty);
-          return;
+          chapterBlock.appendChild(empty);
+          versesEl.appendChild(chapterBlock);
+          if (!reducedMotionQuery.matches) {
+            requestAnimationFrame(() => {
+              chapterBlock.classList.add('motion-enter-active');
+            });
+          } else {
+            chapterBlock.classList.add('motion-enter-active');
+          }
+          return chapterBlock;
         }
 
         const fragment = document.createDocumentFragment();
-        for (const row of rows) {
+        rows.forEach((row, index) => {
           const verseRow = document.createElement('article');
           verseRow.className = 'verse-row';
           verseRow.dataset.verseNumber = String(row.verseNumber);
           verseRow.addEventListener('click', async () => {
-            await handleCopyVerse(row, meta.bookNumber, meta.chapterNumber);
+            const copied = await handleCopyVerse(row, meta.bookNumber, meta.chapterNumber);
+            if (copied) {
+              pulseVerseRow(verseRow);
+            }
           });
+          if (!reducedMotionQuery.matches) {
+            verseRow.style.transitionDelay = `${Math.min(index * VERSE_STAGGER_MS, VERSE_STAGGER_CAP_MS)}ms`;
+          }
 
           const verseNo = document.createElement('div');
           verseNo.className = 'verse-no';
@@ -1152,8 +1374,48 @@
           verseRow.appendChild(verseNo);
           verseRow.appendChild(content);
           fragment.appendChild(verseRow);
+        });
+        chapterBlock.appendChild(fragment);
+        versesEl.appendChild(chapterBlock);
+        if (!reducedMotionQuery.matches) {
+          requestAnimationFrame(() => {
+            chapterBlock.classList.add('motion-enter-active');
+          });
+        } else {
+          chapterBlock.classList.add('motion-enter-active');
         }
-        versesEl.appendChild(fragment);
+        return chapterBlock;
+      }
+
+      function removeLoadingIndicator() {
+        const indicator = versesEl.querySelector('.chapter-loading-indicator');
+        if (indicator) {
+          indicator.remove();
+        }
+      }
+
+      function showLoadingIndicator() {
+        removeLoadingIndicator();
+        const indicator = document.createElement('div');
+        indicator.className = 'chapter-loading-indicator';
+        indicator.textContent = 'Loading next chapter...';
+        versesEl.appendChild(indicator);
+        return indicator;
+      }
+
+      function showLoadingError(sessionId) {
+        removeLoadingIndicator();
+        const indicator = document.createElement('div');
+        indicator.className = 'chapter-loading-indicator error';
+        indicator.textContent = 'Could not load next chapter. Tap to retry.';
+        indicator.addEventListener('click', async () => {
+          if (sessionId !== state.activeSessionId) {
+            return;
+          }
+          indicator.remove();
+          await maybeLoadNextChapter(sessionId);
+        });
+        versesEl.appendChild(indicator);
       }
 
       async function appendChapterByRef(chapterRef, sessionId) {
@@ -1185,11 +1447,22 @@
         }
         const nextRef = getNextChapterRef(state.lastLoadedChapterRef.bookId, state.lastLoadedChapterRef.chapterId);
         if (!nextRef) {
+          removeLoadingIndicator();
           return;
         }
         state.isLoadingMore = true;
+        showLoadingIndicator();
         try {
-          await appendChapterByRef(nextRef, sessionId);
+          const ok = await appendChapterByRef(nextRef, sessionId);
+          if (ok) {
+            removeLoadingIndicator();
+          } else if (sessionId === state.activeSessionId) {
+            showLoadingError(sessionId);
+          }
+        } catch {
+          if (sessionId === state.activeSessionId) {
+            showLoadingError(sessionId);
+          }
         } finally {
           state.isLoadingMore = false;
         }
@@ -1243,9 +1516,11 @@
         state.lastLoadedChapterRef = null;
         state.isLoadingMore = false;
         versesEl.innerHTML = '';
+        removeLoadingIndicator();
 
         await appendChapterByRef({ bookId: initialMeta.bookId, chapterId: initialMeta.chapterId }, sessionId);
         setupInfiniteObserver(sessionId);
+        syncSelectorsToChapterRef(initialMeta.bookId, initialMeta.chapterId);
         saveReadingLocation();
       }
 
@@ -1318,8 +1593,14 @@
         }
       });
 
-      window.addEventListener('scroll', updateMobileTopControlsVisibility, { passive: true });
-      window.addEventListener('resize', updateMobileTopControlsVisibility);
+      window.addEventListener('scroll', () => {
+        updateMobileTopControlsVisibility();
+        scheduleViewportChapterSync();
+      }, { passive: true });
+      window.addEventListener('resize', () => {
+        updateMobileTopControlsVisibility();
+        scheduleViewportChapterSync();
+      });
       if (typeof mobileMediaQuery.addEventListener === 'function') {
         mobileMediaQuery.addEventListener('change', updateMobileTopControlsVisibility);
       } else if (typeof mobileMediaQuery.addListener === 'function') {
@@ -1330,6 +1611,7 @@
       loadInitialTheme();
       loadInitialFontSize();
       updateMobileTopControlsVisibility();
+      scheduleViewportChapterSync();
 
       (async function init() {
         try {
