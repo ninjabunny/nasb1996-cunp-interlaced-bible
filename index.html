@@ -50,6 +50,11 @@
       --verse-no-color: #35536f;
       --verse-no-bg-top: #edf7ff;
       --verse-no-bg-bottom: #e2f1ff;
+      --bookmark-line: #58b9c9;
+      --bookmark-bg-top: #eefcfd;
+      --bookmark-bg-bottom: #e2f8fb;
+      --bookmark-no-bg-top: #daf5f8;
+      --bookmark-no-bg-bottom: #cdeff4;
       --entity-color: #1b5fa8;
       --missing-color: #5e7991;
       --modal-overlay: rgba(10, 28, 46, 0.38);
@@ -79,6 +84,11 @@
       --verse-no-color: #bad5f1;
       --verse-no-bg-top: #173049;
       --verse-no-bg-bottom: #12283d;
+      --bookmark-line: #4bb5c8;
+      --bookmark-bg-top: #122d3b;
+      --bookmark-bg-bottom: #102735;
+      --bookmark-no-bg-top: #184150;
+      --bookmark-no-bg-bottom: #133746;
       --entity-color: #8ec4ff;
       --missing-color: #8ea7c1;
       --modal-overlay: rgba(3, 10, 18, 0.65);
@@ -254,6 +264,19 @@
       border-top: none;
     }
 
+    .verse-row.bookmarked {
+      box-shadow: inset 4px 0 0 var(--bookmark-line);
+    }
+
+    .verse-row.bookmarked .verse-no {
+      background: linear-gradient(180deg, var(--bookmark-no-bg-top) 0%, var(--bookmark-no-bg-bottom) 100%);
+      color: color-mix(in srgb, var(--accent-2) 70%, var(--verse-no-color));
+    }
+
+    .verse-row.bookmarked .verse-content {
+      background: linear-gradient(180deg, var(--bookmark-bg-top) 0%, var(--bookmark-bg-bottom) 100%);
+    }
+
     .verse-no {
       padding: 10px 8px;
       text-align: center;
@@ -284,17 +307,6 @@
       transition:
         opacity var(--dur-enter) var(--ease-standard),
         transform var(--dur-enter) var(--ease-standard);
-    }
-
-    .verse-row.verse-pulse {
-      box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 11%, transparent);
-      animation: versePulse var(--dur-fast) var(--ease-emphasized);
-    }
-
-    @keyframes versePulse {
-      0% { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 0%, transparent); }
-      50% { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 14%, transparent); }
-      100% { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--accent) 0%, transparent); }
     }
 
     .chapter-loading-indicator {
@@ -409,29 +421,6 @@
       transform: scale(1);
     }
 
-    .toast {
-      position: fixed;
-      left: 50%;
-      bottom: 20px;
-      transform: translateX(-50%) translateY(8px);
-      background: var(--surface-solid);
-      color: var(--text);
-      border: 1px solid var(--line);
-      border-radius: 10px;
-      padding: 8px 12px;
-      font-size: 0.85rem;
-      font-weight: 700;
-      opacity: 0;
-      pointer-events: none;
-      transition: opacity var(--dur-fast) var(--ease-standard), transform var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard), color var(--dur-fast) var(--ease-standard);
-      z-index: 30;
-    }
-
-    .toast.show {
-      opacity: 1;
-      transform: translateX(-50%) translateY(0);
-    }
-
     @media (max-width: 760px) {
       .controls {
         grid-template-columns: 1fr;
@@ -518,8 +507,6 @@
     </div>
   </div>
 
-  <div id="copyToast" class="toast" role="status" aria-live="polite">Copied 📋</div>
-
   <script>
     (function () {
       const BOOKS = [
@@ -596,19 +583,20 @@
         nasbIndex: null,
         cunpIndex: null,
         loadedScriptKeys: new Set(),
+        bookmarkedVerseKeys: new Set(),
         activeSessionId: 0,
         lastLoadedChapterRef: null,
         isLoadingMore: false
       };
       const FONT_STORAGE_KEY = 'interlaced_font_size_rem';
       const LOCATION_STORAGE_KEY = 'interlaced_reading_location';
+      const BOOKMARKS_STORAGE_KEY = 'interlaced_bookmarked_verses';
       const THEME_STORAGE_KEY = 'interlaced_theme';
       const FONT_MIN = 0.85;
       const FONT_STEP = 0.05;
       const FONT_DEFAULT = 0.97;
       const VERSE_STAGGER_MS = 14;
       const VERSE_STAGGER_CAP_MS = 140;
-      const PULSE_MS = 300;
       const MODAL_CLOSE_MS = 180;
 
       const controlsEl = document.querySelector('.controls');
@@ -624,8 +612,6 @@
       const themeColorMetaEl = document.getElementById('themeColorMeta');
       const versesEl = document.getElementById('verses');
       const scrollSentinelEl = document.getElementById('scrollSentinel');
-      const copyToastEl = document.getElementById('copyToast');
-      let copyToastTimer = null;
       let infiniteObserver = null;
       const mobileMediaQuery = window.matchMedia('(max-width: 760px)');
       const reducedMotionQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
@@ -838,6 +824,65 @@
         } catch {
           return null;
         }
+      }
+
+      function buildVerseBookmarkKey(bookId, chapterId, verseNumber) {
+        return `${String(bookId)}:${String(chapterId)}:${String(verseNumber)}`;
+      }
+
+      function loadBookmarkedVerseKeys() {
+        try {
+          const raw = localStorage.getItem(BOOKMARKS_STORAGE_KEY);
+          if (!raw) {
+            return new Set();
+          }
+          const parsed = JSON.parse(raw);
+          if (!Array.isArray(parsed)) {
+            return new Set();
+          }
+          return new Set(parsed.filter((value) => typeof value === 'string' && value.length > 0));
+        } catch {
+          return new Set();
+        }
+      }
+
+      function saveBookmarkedVerseKeys() {
+        try {
+          localStorage.setItem(
+            BOOKMARKS_STORAGE_KEY,
+            JSON.stringify([...state.bookmarkedVerseKeys].sort())
+          );
+        } catch {
+          // ignore storage failures
+        }
+      }
+
+      function isVerseBookmarked(bookId, chapterId, verseNumber) {
+        return state.bookmarkedVerseKeys.has(buildVerseBookmarkKey(bookId, chapterId, verseNumber));
+      }
+
+      function applyVerseBookmarkState(verseRowEl, isBookmarked) {
+        verseRowEl.classList.toggle('bookmarked', isBookmarked);
+        verseRowEl.setAttribute('title', isBookmarked ? 'Remove bookmark' : 'Bookmark verse');
+      }
+
+      function toggleVerseBookmark(verseRowEl, bookId, chapterId, verseNumber) {
+        const selectedText = typeof window.getSelection === 'function'
+          ? String(window.getSelection() || '').trim()
+          : '';
+        if (selectedText) {
+          return;
+        }
+
+        const key = buildVerseBookmarkKey(bookId, chapterId, verseNumber);
+        const nextValue = !state.bookmarkedVerseKeys.has(key);
+        if (nextValue) {
+          state.bookmarkedVerseKeys.add(key);
+        } else {
+          state.bookmarkedVerseKeys.delete(key);
+        }
+        applyVerseBookmarkState(verseRowEl, nextValue);
+        saveBookmarkedVerseKeys();
       }
 
       function clearVerses() {
@@ -1227,74 +1272,6 @@
         return wrapper;
       }
 
-      function formatVerseForCopy(row, bookNumber, chapterNumber) {
-        const reference = `${getBookLabel(bookNumber)} ${chapterNumber}:${row.verseNumber}`;
-        const nasbLine = `NASB: ${row.nasbText === null || row.nasbText === '' ? '(missing)' : row.nasbText}`;
-        const cunpLine = `CUNP: ${row.cunpText === null || row.cunpText === '' ? '(missing)' : row.cunpText}`;
-        return `${reference}\n${nasbLine}\n${cunpLine}`;
-      }
-
-      async function copyText(text) {
-        try {
-          if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
-            await navigator.clipboard.writeText(text);
-            return true;
-          }
-        } catch {
-          // fall back to legacy copy path
-        }
-
-        try {
-          const textarea = document.createElement('textarea');
-          textarea.value = text;
-          textarea.setAttribute('readonly', '');
-          textarea.style.position = 'fixed';
-          textarea.style.left = '-9999px';
-          document.body.appendChild(textarea);
-          textarea.select();
-          const ok = document.execCommand('copy');
-          document.body.removeChild(textarea);
-          return ok;
-        } catch {
-          return false;
-        }
-      }
-
-      function showCopyToast() {
-        if (copyToastTimer !== null) {
-          clearTimeout(copyToastTimer);
-        }
-        copyToastEl.classList.add('show');
-        copyToastTimer = setTimeout(() => {
-          copyToastEl.classList.remove('show');
-          copyToastTimer = null;
-        }, 900);
-      }
-
-      async function handleCopyVerse(row, bookNumber, chapterNumber) {
-        const ok = await copyText(formatVerseForCopy(row, bookNumber, chapterNumber));
-        if (ok) {
-          showCopyToast();
-          if (navigator.vibrate) {
-            try {
-              navigator.vibrate(8);
-            } catch {
-              // ignore vibration failures
-            }
-          }
-        }
-        return ok;
-      }
-
-      function pulseVerseRow(verseRowEl) {
-        verseRowEl.classList.remove('verse-pulse');
-        void verseRowEl.offsetWidth;
-        verseRowEl.classList.add('verse-pulse');
-        setTimeout(() => {
-          verseRowEl.classList.remove('verse-pulse');
-        }, PULSE_MS);
-      }
-
       function getChapterMeta(bookId, chapterId) {
         const bookEntry = getBookEntry(state.nasbIndex, bookId);
         if (!bookEntry) {
@@ -1389,11 +1366,9 @@
           const verseRow = document.createElement('article');
           verseRow.className = 'verse-row';
           verseRow.dataset.verseNumber = String(row.verseNumber);
-          verseRow.addEventListener('click', async () => {
-            const copied = await handleCopyVerse(row, meta.bookNumber, meta.chapterNumber);
-            if (copied) {
-              pulseVerseRow(verseRow);
-            }
+          applyVerseBookmarkState(verseRow, isVerseBookmarked(meta.bookId, meta.chapterId, row.verseNumber));
+          verseRow.addEventListener('click', () => {
+            toggleVerseBookmark(verseRow, meta.bookId, meta.chapterId, row.verseNumber);
           });
           if (!reducedMotionQuery.matches) {
             verseRow.style.transitionDelay = `${Math.min(index * VERSE_STAGGER_MS, VERSE_STAGGER_CAP_MS)}ms`;
@@ -1405,8 +1380,8 @@
 
           const content = document.createElement('div');
           content.className = 'verse-content';
-          content.appendChild(createTranslationBlock('nasb', 'NASB', row.nasbText));
           content.appendChild(createTranslationBlock('cunp', 'CUNP', row.cunpText));
+          content.appendChild(createTranslationBlock('nasb', 'NASB', row.nasbText));
 
           verseRow.appendChild(verseNo);
           verseRow.appendChild(content);
@@ -1645,6 +1620,7 @@
       }
 
       clearVerses();
+      state.bookmarkedVerseKeys = loadBookmarkedVerseKeys();
       loadInitialTheme();
       loadInitialFontSize();
       updateMobileTopControlsVisibility();
