@@ -257,6 +257,8 @@
       gap: 0;
       border-top: 1px solid var(--row-line);
       cursor: pointer;
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
       transition: border-color var(--dur-fast) var(--ease-standard), box-shadow var(--dur-fast) var(--ease-standard), background var(--dur-fast) var(--ease-standard);
     }
 
@@ -863,14 +865,43 @@
 
       function applyVerseBookmarkState(verseRowEl, isBookmarked) {
         verseRowEl.classList.toggle('bookmarked', isBookmarked);
+        verseRowEl.setAttribute('aria-pressed', isBookmarked ? 'true' : 'false');
         verseRowEl.setAttribute('title', isBookmarked ? 'Remove bookmark' : 'Bookmark verse');
       }
 
+      function hasActiveTextSelectionWithin(containerEl) {
+        if (typeof window.getSelection !== 'function') {
+          return false;
+        }
+        const selection = window.getSelection();
+        if (!selection || selection.rangeCount === 0 || selection.isCollapsed) {
+          return false;
+        }
+
+        const selectedText = String(selection).trim();
+        if (!selectedText) {
+          return false;
+        }
+        if (!(containerEl instanceof Element)) {
+          return true;
+        }
+
+        for (let index = 0; index < selection.rangeCount; index += 1) {
+          const range = selection.getRangeAt(index);
+          const containers = [range.commonAncestorContainer, range.startContainer, range.endContainer];
+          for (const container of containers) {
+            const element = container.nodeType === Node.ELEMENT_NODE ? container : container.parentElement;
+            if (element && containerEl.contains(element)) {
+              return true;
+            }
+          }
+        }
+
+        return false;
+      }
+
       function toggleVerseBookmark(verseRowEl, bookId, chapterId, verseNumber) {
-        const selectedText = typeof window.getSelection === 'function'
-          ? String(window.getSelection() || '').trim()
-          : '';
-        if (selectedText) {
+        if (hasActiveTextSelectionWithin(verseRowEl)) {
           return;
         }
 
@@ -1366,8 +1397,17 @@
           const verseRow = document.createElement('article');
           verseRow.className = 'verse-row';
           verseRow.dataset.verseNumber = String(row.verseNumber);
+          verseRow.tabIndex = 0;
+          verseRow.setAttribute('role', 'button');
           applyVerseBookmarkState(verseRow, isVerseBookmarked(meta.bookId, meta.chapterId, row.verseNumber));
           verseRow.addEventListener('click', () => {
+            toggleVerseBookmark(verseRow, meta.bookId, meta.chapterId, row.verseNumber);
+          });
+          verseRow.addEventListener('keydown', (event) => {
+            if (event.key !== 'Enter' && event.key !== ' ') {
+              return;
+            }
+            event.preventDefault();
             toggleVerseBookmark(verseRow, meta.bookId, meta.chapterId, row.verseNumber);
           });
           if (!reducedMotionQuery.matches) {
