@@ -267,16 +267,17 @@
     }
 
     .verse-row.bookmarked {
+      background: linear-gradient(180deg, var(--bookmark-bg-top) 0%, var(--bookmark-bg-bottom) 100%);
       box-shadow: inset 4px 0 0 var(--bookmark-line);
     }
 
     .verse-row.bookmarked .verse-no {
-      background: linear-gradient(180deg, var(--bookmark-no-bg-top) 0%, var(--bookmark-no-bg-bottom) 100%);
       color: color-mix(in srgb, var(--accent-2) 70%, var(--verse-no-color));
     }
 
+    .verse-row.bookmarked .verse-no,
     .verse-row.bookmarked .verse-content {
-      background: linear-gradient(180deg, var(--bookmark-bg-top) 0%, var(--bookmark-bg-bottom) 100%);
+      background: transparent;
     }
 
     .verse-no {
