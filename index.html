@@ -586,7 +586,7 @@
         nasbIndex: null,
         cunpIndex: null,
         loadedScriptKeys: new Set(),
-        bookmarkedVerseKeys: new Set(),
+        bookmarkedVerseKey: null,
         activeSessionId: 0,
         lastLoadedChapterRef: null,
         isLoadingMore: false
@@ -833,41 +833,71 @@
         return `${String(bookId)}:${String(chapterId)}:${String(verseNumber)}`;
       }
 
-      function loadBookmarkedVerseKeys() {
+      function parseVerseBookmarkKey(key) {
+        if (typeof key !== 'string' || key.length === 0) {
+          return null;
+        }
+        const parts = key.split(':');
+        if (parts.length !== 3) {
+          return null;
+        }
+        const [bookId, chapterId, versePart] = parts;
+        const verseNumber = Number.parseInt(versePart, 10);
+        if (!bookId || !chapterId || !Number.isInteger(verseNumber) || verseNumber < 1) {
+          return null;
+        }
+        return { bookId, chapterId, verseNumber };
+      }
+
+      function loadBookmarkedVerseKey() {
         try {
           const raw = localStorage.getItem(BOOKMARKS_STORAGE_KEY);
           if (!raw) {
-            return new Set();
+            return null;
           }
           const parsed = JSON.parse(raw);
-          if (!Array.isArray(parsed)) {
-            return new Set();
+          if (typeof parsed === 'string') {
+            return parseVerseBookmarkKey(parsed) ? parsed : null;
           }
-          return new Set(parsed.filter((value) => typeof value === 'string' && value.length > 0));
+          if (!Array.isArray(parsed)) {
+            return null;
+          }
+          const firstValidKey = parsed.find((value) => parseVerseBookmarkKey(value));
+          return typeof firstValidKey === 'string' ? firstValidKey : null;
         } catch {
-          return new Set();
+          return null;
         }
       }
 
-      function saveBookmarkedVerseKeys() {
+      function saveBookmarkedVerseKey() {
         try {
-          localStorage.setItem(
-            BOOKMARKS_STORAGE_KEY,
-            JSON.stringify([...state.bookmarkedVerseKeys].sort())
-          );
+          if (!state.bookmarkedVerseKey) {
+            localStorage.removeItem(BOOKMARKS_STORAGE_KEY);
+            return;
+          }
+          localStorage.setItem(BOOKMARKS_STORAGE_KEY, JSON.stringify(state.bookmarkedVerseKey));
         } catch {
           // ignore storage failures
         }
       }
 
       function isVerseBookmarked(bookId, chapterId, verseNumber) {
-        return state.bookmarkedVerseKeys.has(buildVerseBookmarkKey(bookId, chapterId, verseNumber));
+        return state.bookmarkedVerseKey === buildVerseBookmarkKey(bookId, chapterId, verseNumber);
       }
 
       function applyVerseBookmarkState(verseRowEl, isBookmarked) {
         verseRowEl.classList.toggle('bookmarked', isBookmarked);
         verseRowEl.setAttribute('aria-pressed', isBookmarked ? 'true' : 'false');
         verseRowEl.setAttribute('title', isBookmarked ? 'Remove bookmark' : 'Bookmark verse');
+      }
+
+      function clearRenderedBookmarkHighlights(exceptVerseRowEl = null) {
+        versesEl.querySelectorAll('.verse-row.bookmarked').forEach((verseRowEl) => {
+          if (verseRowEl === exceptVerseRowEl) {
+            return;
+          }
+          applyVerseBookmarkState(verseRowEl, false);
+        });
       }
 
       function hasActiveTextSelectionWithin(containerEl) {
@@ -907,14 +937,15 @@
         }
 
         const key = buildVerseBookmarkKey(bookId, chapterId, verseNumber);
-        const nextValue = !state.bookmarkedVerseKeys.has(key);
+        const nextValue = state.bookmarkedVerseKey !== key;
+        clearRenderedBookmarkHighlights(nextValue ? verseRowEl : null);
         if (nextValue) {
-          state.bookmarkedVerseKeys.add(key);
+          state.bookmarkedVerseKey = key;
         } else {
-          state.bookmarkedVerseKeys.delete(key);
+          state.bookmarkedVerseKey = null;
         }
         applyVerseBookmarkState(verseRowEl, nextValue);
-        saveBookmarkedVerseKeys();
+        saveBookmarkedVerseKey();
       }
 
       function clearVerses() {
@@ -1073,6 +1104,45 @@
         return true;
       }
 
+      function getBookmarkedVerseRef() {
+        const saved = parseVerseBookmarkKey(state.bookmarkedVerseKey);
+        if (!saved || !state.nasbIndex || !Array.isArray(state.nasbIndex.books)) {
+          return null;
+        }
+
+        const savedBook = state.nasbIndex.books.find((book) => String(book.bookId) === saved.bookId);
+        if (!savedBook) {
+          return null;
+        }
+
+        const savedChapter = savedBook.chapters.find((chapter) => String(chapter.chapterId) === saved.chapterId);
+        if (!savedChapter) {
+          return null;
+        }
+
+        return {
+          bookId: String(savedBook.bookId),
+          chapterId: String(savedChapter.chapterId),
+          verseNumber: saved.verseNumber
+        };
+      }
+
+      function restoreInitialLocation() {
+        const bookmarked = getBookmarkedVerseRef();
+        if (bookmarked) {
+          bookSelect.value = bookmarked.bookId;
+          populateChapterSelect(bookSelect.value);
+          chapterSelect.value = bookmarked.chapterId;
+          updateChapterNavButtons();
+          return bookmarked;
+        }
+
+        if (!restoreReadingLocation()) {
+          populateChapterSelect(bookSelect.value);
+        }
+        return null;
+      }
+
       function getBookEntry(indexData, bookId) {
         return indexData.books.find((book) => book.bookId === bookId) || null;
       }
@@ -1209,17 +1279,56 @@
         await renderCurrentChapter();
       }
 
-      function scrollToVerse(verseNumber) {
-        const verseRow = versesEl.querySelector(`.verse-row[data-verse-number="${verseNumber}"]`);
+      function findVerseRow(bookId, chapterId, verseNumber) {
+        if (bookId && chapterId) {
+          const chapterBlock = versesEl.querySelector(
+            `.chapter-block[data-book-id="${String(bookId)}"][data-chapter-id="${String(chapterId)}"]`
+          );
+          if (!chapterBlock) {
+            return null;
+          }
+          return chapterBlock.querySelector(`.verse-row[data-verse-number="${String(verseNumber)}"]`);
+        }
+        return versesEl.querySelector(`.verse-row[data-verse-number="${String(verseNumber)}"]`);
+      }
+
+      function scrollVerseRowIntoView(verseRow, options = {}) {
         if (!verseRow) {
           return;
         }
-        verseRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        const { behavior = 'smooth', align = 'center' } = options;
+        if (align === 'top') {
+          const topOffset = controlsEl.getBoundingClientRect().height + 8;
+          const targetTop = Math.max(0, window.scrollY + verseRow.getBoundingClientRect().top - topOffset);
+          window.scrollTo({ top: targetTop, behavior });
+          return;
+        }
+        verseRow.scrollIntoView({ behavior, block: 'center' });
+      }
+
+      function scrollToVerse(verseNumber, options) {
+        scrollVerseRowIntoView(findVerseRow(null, null, verseNumber), options);
+      }
+
+      function scrollToBookmarkedVerse(bookmarkRef, options) {
+        if (!bookmarkRef) {
+          return;
+        }
+        scrollVerseRowIntoView(
+          findVerseRow(bookmarkRef.bookId, bookmarkRef.chapterId, bookmarkRef.verseNumber),
+          options
+        );
       }
 
       function wait(ms) {
         return new Promise((resolve) => {
           setTimeout(resolve, ms);
+        });
+      }
+
+      function waitForNextFrame() {
+        return new Promise((resolve) => {
+          requestAnimationFrame(() => resolve());
         });
       }
 
@@ -1661,7 +1770,8 @@
       }
 
       clearVerses();
-      state.bookmarkedVerseKeys = loadBookmarkedVerseKeys();
+      state.bookmarkedVerseKey = loadBookmarkedVerseKey();
+      saveBookmarkedVerseKey();
       loadInitialTheme();
       loadInitialFontSize();
       updateMobileTopControlsVisibility();
@@ -1672,10 +1782,12 @@
           state.assetBasePath = await detectAssetBasePath();
           await loadIndices();
           populateBookSelect();
-          if (!restoreReadingLocation()) {
-            populateChapterSelect(bookSelect.value);
-          }
+          const bookmarkedRef = restoreInitialLocation();
           await renderCurrentChapter();
+          if (bookmarkedRef) {
+            await waitForNextFrame();
+            scrollToBookmarkedVerse(bookmarkedRef, { behavior: 'auto', align: 'top' });
+          }
         } catch (error) {
           console.error(error);
           bookSelect.disabled = true;
