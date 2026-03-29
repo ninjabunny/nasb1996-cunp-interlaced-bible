@@ -180,6 +180,12 @@
 
     .chapter-picker {
       min-width: 150px;
+      flex: 1 1 150px;
+    }
+
+    .verse-picker {
+      min-width: 118px;
+      flex: 1 1 118px;
     }
 
     .font-controls {
@@ -431,6 +437,7 @@
 
       .chapter-controls {
         justify-content: flex-start;
+        flex-wrap: wrap;
       }
 
       .font-controls {
@@ -448,6 +455,11 @@
 
       .verse-content {
         padding: 10px;
+      }
+
+      .chapter-picker,
+      .verse-picker {
+        min-width: 0;
       }
     }
 
@@ -479,6 +491,7 @@
         <button id="chapterPrev" class="font-btn chapter-btn" type="button" aria-label="Previous chapter">&larr;</button>
         <select id="chapterSelect" class="chapter-picker" disabled aria-label="Chapter"></select>
         <button id="chapterNext" class="font-btn chapter-btn" type="button" aria-label="Next chapter">&rarr;</button>
+        <select id="verseSelect" class="verse-picker" disabled aria-label="Verse"></select>
       </div>
       <div class="font-controls" aria-label="Font size controls">
         <button id="fontDown" class="font-btn" type="button" aria-label="Decrease font size" title="Decrease font size">
@@ -605,6 +618,7 @@
       const controlsEl = document.querySelector('.controls');
       const bookSelect = document.getElementById('bookSelect');
       const chapterSelect = document.getElementById('chapterSelect');
+      const verseSelect = document.getElementById('verseSelect');
       const appTitleEl = document.getElementById('appTitle');
       const titleModalBackdropEl = document.getElementById('titleModalBackdrop');
       const chapterPrevBtn = document.getElementById('chapterPrev');
@@ -726,12 +740,40 @@
         saveReadingLocation();
       }
 
-      function syncCurrentChapterFromViewport() {
+      function resetVerseSelect() {
+        verseSelect.innerHTML = '';
+        const option = document.createElement('option');
+        option.value = '';
+        option.textContent = 'Verse';
+        verseSelect.appendChild(option);
+        verseSelect.value = '';
+        verseSelect.disabled = true;
+        delete verseSelect.dataset.bookId;
+        delete verseSelect.dataset.chapterId;
+      }
+
+      function getVerseRowsForChapterBlock(chapterBlock) {
+        if (!chapterBlock) {
+          return [];
+        }
+        return [...chapterBlock.querySelectorAll('.verse-row[data-verse-number]')];
+      }
+
+      function getChapterBlock(bookId, chapterId) {
+        if (!bookId || !chapterId) {
+          return null;
+        }
+        return versesEl.querySelector(
+          `.chapter-block[data-book-id="${String(bookId)}"][data-chapter-id="${String(chapterId)}"]`
+        );
+      }
+
+      function getActiveChapterBlock(pivot = window.innerHeight * 0.35) {
         const chapterBlocks = versesEl.querySelectorAll('.chapter-block[data-book-id][data-chapter-id]');
         if (!chapterBlocks.length) {
-          return;
+          return null;
         }
-        const pivot = window.innerHeight * 0.35;
+
         let activeBlock = chapterBlocks[0];
         for (const block of chapterBlocks) {
           if (block.getBoundingClientRect().top <= pivot) {
@@ -740,7 +782,80 @@
           }
           break;
         }
+        return activeBlock;
+      }
+
+      function getActiveVerseNumberForChapterBlock(chapterBlock) {
+        const verseRows = getVerseRowsForChapterBlock(chapterBlock);
+        if (!verseRows.length) {
+          return null;
+        }
+
+        const pivot = controlsEl.getBoundingClientRect().height + 16;
+        let activeVerseRow = verseRows[0];
+        for (const verseRow of verseRows) {
+          if (verseRow.getBoundingClientRect().top <= pivot) {
+            activeVerseRow = verseRow;
+            continue;
+          }
+          break;
+        }
+
+        const verseNumber = Number.parseInt(activeVerseRow.dataset.verseNumber || '', 10);
+        return Number.isInteger(verseNumber) ? verseNumber : null;
+      }
+
+      function syncVerseSelectToChapterBlock(chapterBlock, preferredVerseNumber = null) {
+        const bookId = chapterBlock && chapterBlock.dataset.bookId;
+        const chapterId = chapterBlock && chapterBlock.dataset.chapterId;
+        const verseRows = getVerseRowsForChapterBlock(chapterBlock);
+        if (!bookId || !chapterId || !verseRows.length) {
+          resetVerseSelect();
+          return;
+        }
+
+        const verseNumbers = verseRows
+          .map((verseRow) => Number.parseInt(verseRow.dataset.verseNumber || '', 10))
+          .filter((verseNumber) => Number.isInteger(verseNumber));
+
+        if (!verseNumbers.length) {
+          resetVerseSelect();
+          return;
+        }
+
+        const currentBookId = verseSelect.dataset.bookId || '';
+        const currentChapterId = verseSelect.dataset.chapterId || '';
+        const needsRebuild = currentBookId !== String(bookId) || currentChapterId !== String(chapterId);
+
+        if (needsRebuild) {
+          verseSelect.innerHTML = '';
+          verseNumbers.forEach((verseNumber) => {
+            const option = document.createElement('option');
+            option.value = String(verseNumber);
+            option.textContent = `Verse ${verseNumber}`;
+            verseSelect.appendChild(option);
+          });
+          verseSelect.dataset.bookId = String(bookId);
+          verseSelect.dataset.chapterId = String(chapterId);
+        }
+
+        const selectedVerseNumber = verseNumbers.includes(Number(preferredVerseNumber))
+          ? Number(preferredVerseNumber)
+          : verseNumbers[0];
+        verseSelect.value = String(selectedVerseNumber);
+        verseSelect.disabled = false;
+      }
+
+      function syncCurrentChapterFromViewport() {
+        const chapterPivot = window.innerHeight * 0.35;
+        const activeBlock = getActiveChapterBlock(chapterPivot);
+        if (!activeBlock) {
+          resetVerseSelect();
+          return;
+        }
+
         syncSelectorsToChapterRef(activeBlock.dataset.bookId, activeBlock.dataset.chapterId);
+        syncVerseSelectToChapterBlock(activeBlock, getActiveVerseNumberForChapterBlock(activeBlock));
       }
 
       function scheduleViewportChapterSync() {
@@ -954,6 +1069,7 @@
           infiniteObserver = null;
         }
         versesEl.innerHTML = '';
+        resetVerseSelect();
       }
 
       async function readJsonWithFetch(url) {
@@ -1152,6 +1268,7 @@
         chapterSelect.innerHTML = '';
         if (!nasbBook) {
           chapterSelect.disabled = true;
+          resetVerseSelect();
           chapterPrevBtn.disabled = true;
           chapterNextBtn.disabled = true;
           return;
@@ -1281,9 +1398,7 @@
 
       function findVerseRow(bookId, chapterId, verseNumber) {
         if (bookId && chapterId) {
-          const chapterBlock = versesEl.querySelector(
-            `.chapter-block[data-book-id="${String(bookId)}"][data-chapter-id="${String(chapterId)}"]`
-          );
+          const chapterBlock = getChapterBlock(bookId, chapterId);
           if (!chapterBlock) {
             return null;
           }
@@ -1306,8 +1421,8 @@
         verseRow.scrollIntoView({ behavior, block: 'center' });
       }
 
-      function scrollToVerse(verseNumber, options) {
-        scrollVerseRowIntoView(findVerseRow(null, null, verseNumber), options);
+      function scrollToVerse(verseNumber, options, bookId = null, chapterId = null) {
+        scrollVerseRowIntoView(findVerseRow(bookId, chapterId, verseNumber), options);
       }
 
       function scrollToBookmarkedVerse(bookmarkRef, options) {
@@ -1678,11 +1793,17 @@
         state.lastLoadedChapterRef = null;
         state.isLoadingMore = false;
         versesEl.innerHTML = '';
+        resetVerseSelect();
         removeLoadingIndicator();
 
         await appendChapterByRef({ bookId: initialMeta.bookId, chapterId: initialMeta.chapterId }, sessionId);
         setupInfiniteObserver(sessionId);
         syncSelectorsToChapterRef(initialMeta.bookId, initialMeta.chapterId);
+        const initialChapterBlock = getChapterBlock(initialMeta.bookId, initialMeta.chapterId);
+        syncVerseSelectToChapterBlock(
+          initialChapterBlock,
+          getActiveVerseNumberForChapterBlock(initialChapterBlock)
+        );
         saveReadingLocation();
       }
 
@@ -1712,6 +1833,14 @@
       chapterSelect.addEventListener('change', async () => {
         updateChapterNavButtons();
         await renderCurrentChapter();
+      });
+
+      verseSelect.addEventListener('change', () => {
+        const verseNumber = Number.parseInt(verseSelect.value || '', 10);
+        if (!Number.isInteger(verseNumber)) {
+          return;
+        }
+        scrollToVerse(verseNumber, { behavior: 'smooth', align: 'top' }, bookSelect.value, chapterSelect.value);
       });
 
       chapterPrevBtn.addEventListener('click', async () => {
@@ -1787,6 +1916,7 @@
           if (bookmarkedRef) {
             await waitForNextFrame();
             scrollToBookmarkedVerse(bookmarkedRef, { behavior: 'auto', align: 'top' });
+            scheduleViewportChapterSync();
           }
         } catch (error) {
           console.error(error);
